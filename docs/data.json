@@ -1,1 +1,724 @@
-{"equity_history": [], "decisions": [], "trades": [], "runs": []}
+{
+ "equity_history": [
+  {
+   "t": "2026-11-24T15:43:56Z",
+   "v": 99751.8
+  }
+ ],
+ "decisions": [
+  {
+   "t": "2026-11-24T14:01:11Z",
+   "news_id": 129576900,
+   "headline": "Ping An Participates in China's First AI Industry Insurance Consortium",
+   "url": "https://www.chinadailyasia.com/article/643192",
+   "source": "fiscal.ai",
+   "symbols": [
+    "601318"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:16Z",
+   "news_id": 129576901,
+   "headline": "Regulatory Disclosure: Dealings in easyJet plc Securities by Citigroup Global Markets Limited",
+   "url": "https://www.investegate.co.uk/announcement/rns/easyjet--ezj/form-8-5-ept-ri-/9891102",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EZJ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:18Z",
+   "news_id": 129576902,
+   "headline": "HKEX Partners with Hongkong Land and Gammon Construction for Community Sustainability Initiative",
+   "url": "https://www.dubaiprnetwork.com/2/17796/hongkong-land-hkex-and-gammon-turn-10-tonnes-of-construction",
+   "source": "fiscal.ai",
+   "symbols": [
+    "388"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:21Z",
+   "news_id": 129576903,
+   "headline": "Agricultural Bank of China Shares Reach Year-to-Date High",
+   "url": "https://www.moomoo.com/news/post/1005602175/agricultural-bank-of-china-hits-another-yearly-high-its-p",
+   "source": "fiscal.ai",
+   "symbols": [
+    "601288"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:24Z",
+   "news_id": 129576904,
+   "headline": "JPMorgan Chase & Co. Increases Stake in Intertek Group plc",
+   "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/holding-s-in-company/9891107",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ITRK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:24Z",
+   "news_id": 129576905,
+   "headline": "Siemens Healthineers Receives FDA Authorization for Atellica IM NfL Assay",
+   "url": "https://easternherald.com/press-release/fda-grants-first-marketing-authorization-for-neurofilament-light-chain-blood-test-to-siemens-healthineers-for-use-in-multiple-sclerosis/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SIE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:31Z",
+   "news_id": 129576906,
+   "headline": "B&M European Value Retail plc Announces Q3 FY27 Trading Statement Release Date",
+   "url": "https://www.investegate.co.uk/announcement/rns/b-m-european-value-retail-s-a-di---bme/release-date-of-q3-fy27-trading-statement/9891428",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BME"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:32Z",
+   "news_id": 129576907,
+   "headline": "Alibaba Cloud Opens Third Data Centre in Johor, Malaysia",
+   "url": "https://datacentremagazine.com/news/how-alibaba-cloud-is-expanding-malaysias-ai-infrastructure",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BABA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:33Z",
+   "news_id": 129576908,
+   "headline": "Accenture Named Founding Partner for Fortune Brainstorm AI 2026",
+   "url": "https://www.morningstar.com/news/pr-newswire/20261124ny05190/fortune-announces-speakers-and-partners-for-brainstorm-ai-2026-in-san-francisco-dec-7-and-8",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ACN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:34Z",
+   "news_id": 129576909,
+   "headline": "Nyxoah Initiates Enforcement of Unified Patent Court Decision Against Inspire Medical Systems",
+   "url": "https://www.globenewswire.com/news-release/2026/11/23/3408876/0/en/nyxoah-initiates-enforcement-of-unified-patent-court-decision-against-inspire-medical-systems.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "INSP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:38Z",
+   "news_id": 129576910,
+   "headline": "Endeavour Mining plc Announces Share Buyback Transactions",
+   "url": "https://www.investegate.co.uk/announcement/gnw/endeavour-mining--edv/transaction-in-own-shares/9889841",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EDV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:38Z",
+   "news_id": 129576911,
+   "headline": "Hon Hai Precision Industry (Foxconn) Shares Close Limit Up Amid Taiwan Market Rally",
+   "url": "https://world.storm.mg/articles/1184651",
+   "source": "fiscal.ai",
+   "symbols": [
+    "2317"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:39Z",
+   "news_id": 129576912,
+   "headline": "ISS and Glass Lewis Recommend Personalis Shareholders Vote in Favor of Tempus AI Transaction",
+   "url": "https://www.moomoo.com/ja/options/TEM261127P81000-US/news",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PSNL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:40Z",
+   "news_id": 129576913,
+   "headline": "BP Announces Results of Cash Tender Offers for USD Notes",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409168/0/en/bp-p-l-c-announces-results-of-cash-tender-offers-for-usd-notes.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:41Z",
+   "news_id": 129576914,
+   "headline": "LiquidPower Specialty Products Inc. and Subsea7 Acquire Full Ownership of Safe Marine Transfer, LLC",
+   "url": "https://www.businesswire.com/newsroom/industry/energy/oil-gas",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SUBC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:42Z",
+   "news_id": 129576915,
+   "headline": "Zenas BioPharma Announces Management Presentations at Upcoming Investor Conferences",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409101/0/en/zenas-biopharma-to-present-at-upcoming-healthcare-investor-conferences.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ZBIO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:42Z",
+   "news_id": 129576916,
+   "headline": "HSBC Holdings plc Reports Change in Voting Rights in Informa PLC",
+   "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/holding-s-in-company/9891120",
+   "source": "fiscal.ai",
+   "symbols": [
+    "INF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:43Z",
+   "news_id": 129576917,
+   "headline": "Newmark Arranges $305 Million Construction Loan for 101 Franklin Development",
+   "url": "https://www.prnewswire.com/news-releases/newmark-arranges-305-million-construction-loan-for-luxury-condominium-development-at-101-franklin-in-tribeca-302948665.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NMRK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:46Z",
+   "news_id": 129576918,
+   "headline": "Xiaomi Executes Share Repurchase Program",
+   "url": "https://www.moomoo.com/news/post/1005607789/on-november-24-xiaomi-group-w-01810-repurchased-1-888",
+   "source": "fiscal.ai",
+   "symbols": [
+    "1810"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:46Z",
+   "news_id": 129576919,
+   "headline": "Xiaomi Reports Third-Quarter 2026 Financial Results",
+   "url": "https://www.morningstar.com/news/dow-jones/202611242462/xiaomis-profit-continues-to-fall-amid-weaker-revenue-across-businesses-update",
+   "source": "fiscal.ai",
+   "symbols": [
+    "1810"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:46Z",
+   "news_id": 129576920,
+   "headline": "Replimune to Present at the Piper Sandler 38th Annual Healthcare Conference",
+   "url": "https://www.morningstar.com/news/globe-newswire/9883967/replimune-to-present-at-the-piper-sandler-38th-annual-healthcare-conference",
+   "source": "fiscal.ai",
+   "symbols": [
+    "REPL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:47Z",
+   "news_id": 129576921,
+   "headline": "Permian Basin Royalty Trust Unitholders Approve Combination Agreement",
+   "url": "https://www.prnewswire.com/news-releases/permian-basin-royalty-trust-announces-results-of-special-meeting-called-by-softvest-302948651.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PBT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:48Z",
+   "news_id": 129576922,
+   "headline": "BYD Launches Third-Generation Tang Electric SUV",
+   "url": "https://www.moomoo.com/hans/news/post/1005629437/byd-launches-third-gen-tang-electric-suv-starting-at-28000",
+   "source": "fiscal.ai",
+   "symbols": [
+    "002594"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:49Z",
+   "news_id": 129576923,
+   "headline": "Minister Joly Meets with Canadian Telecommunications CEOs",
+   "url": "https://www.newswire.ca/news-releases/statement-from-minister-joly-on-her-meeting-with-telecommunications-ceos-800508679.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CCA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:49Z",
+   "news_id": 129577434,
+   "headline": "LondonMetric Property Plc Reports Financial Results",
+   "url": "https://www.finanznachrichten.de/nachrichten-medien/seeking-alpha.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LMP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:49Z",
+   "news_id": 129577435,
+   "headline": "Kingfisher Reports Q3 Results and Upgrades Full-Year Profit Guidance",
+   "url": "https://westernmorning.news/2026/11/24/bq-owner-kingfisher-hikes-earnings-outlook-again/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KGF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:50Z",
+   "news_id": 129576924,
+   "headline": "NEXT plc Reports Cyber Incident at Third-Party Supplier",
+   "url": "https://cybermagazine.com/news/next-data-breach-shows-why-supplier-security-matters",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NXT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:52Z",
+   "news_id": 129576925,
+   "headline": "Innoviva to Participate in the Piper Sandler 38th Annual Healthcare Conference",
+   "url": "https://www.businesswire.com/newsroom/industry/health/biotechnology",
+   "source": "fiscal.ai",
+   "symbols": [
+    "INVA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:52Z",
+   "news_id": 129576926,
+   "headline": "Bonaccord Capital Partners, a Strategy of Ridgepost Capital, Invests in Banner Ridge Partners",
+   "url": "https://www.prnewswire.com/news-releases/banner-ridge-partners-announces-strategic-growth-investment-from-bisonti-partners-and-bonaccord-capital-partners-302947321.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RPC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:52Z",
+   "news_id": 129576927,
+   "headline": "Harmony Biosciences to Present New EPX-100 Data at 2026 American Epilepsy Society Annual Meeting",
+   "url": "https://www.morningstar.com/news/globe-newswire/9883675/harmony-biosciences-to-present-new-18-month-open-label-extension-data-from-the-epx-100-phase-3-dravet-syndrome-trial-at-the-2026-american-epilepsy-society-annual-meeting",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HRMY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:55Z",
+   "news_id": 129576928,
+   "headline": "UroGen Pharma to Present at the Piper Sandler 38th Annual Healthcare Conference",
+   "url": "https://www.morningstar.com/news/globe-newswire/9882619/urogen-pharma-to-present-at-the-piper-sandler-38th-annual-healthcare-conference",
+   "source": "fiscal.ai",
+   "symbols": [
+    "URGN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:55Z",
+   "news_id": 129577442,
+   "headline": "Pursuit Attractions and Hospitality, Inc. to Acquire Sky Adventures",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/pursuit-to-acquire-costa-rica-attraction-operator-sky-adventures-1036795475",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PRSU"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:57Z",
+   "news_id": 129576929,
+   "headline": "Rapport Therapeutics to Present New Clinical Data at 2026 AES Annual Meeting",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409113/0/en/rapport-to-present-new-long-term-open-label-safety-data-in-focal-onset-seizures-and-analyses-of-seizure-severity-and-burden-at-the-2026-aes-annual-meeting.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RAPP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:57Z",
+   "news_id": 129577444,
+   "headline": "Holcim Completes Tender Offer for Cementos Pacasmayo Shares",
+   "url": "https://www.finanzen.at/nachrichten/aktien/holcim-completes-tender-offer-for-cementos-pacasmayo-shares-1036793844",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CPAC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:58Z",
+   "news_id": 129576930,
+   "headline": "Spotify Reports Service Recovery Following User Outage",
+   "url": "https://www.marketscreener.com/news/spotify-reports-service-recovery-after-user-outage-reports-exceed-14-000-ce7851dbd880f720",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SPOT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:58Z",
+   "news_id": 129576931,
+   "headline": "The Empire State Building Observation Deck Announces 2026 Holiday Celebrations",
+   "url": "https://www.businesswire.com/newsroom/industry/construction-property/reit",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ESRT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:59Z",
+   "news_id": 129577447,
+   "headline": "Compass Group Canada Partners with Amp Health for Workplace Safety Pilot",
+   "url": "https://www.einpresswire.com/article/957769876/amp-health-awarded-national-safety-council-msd-solutions-pilot-grant-for-compass-group-canada-partnership",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CPG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:01:59Z",
+   "news_id": 129577448,
+   "headline": "Bernstein Raises Price Target for National Grid plc",
+   "url": "https://www.marketscreener.com/news/bernstein-lifts-national-grid-plc-pt-keeps-outperform-rating-ce7851dbdb8af025",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NGG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:00Z",
+   "news_id": 129577449,
+   "headline": "TD Cowen Initiates Coverage on Agility Robotics With Buy Rating",
+   "url": "https://www.marketscreener.com/news/td-cowen-initiates-coverage-on-agility-robotics-with-buy-rating-15-price-target-ce7851dbd88ffe24",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AGLT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:02Z",
+   "news_id": 129577450,
+   "headline": "Amphastar Pharmaceuticals to Present at the Piper Sandler 38th Annual Healthcare Conference",
+   "url": "https://www.prnewswire.com/news-releases/amphastar-pharmaceuticals-to-present-at-the-piper-sandler-38th-annual-healthcare-conference-302948870.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AMPH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:03Z",
+   "news_id": 129577451,
+   "headline": "IDT Corporation to Report First Quarter Fiscal 2027 Results",
+   "url": "https://www.morningstar.com/news/globe-newswire/9884025/idt-corporation-to-report-first-quarter-fiscal-2027-results",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IDT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:03Z",
+   "news_id": 129577452,
+   "headline": "Kingspan Identified as a Key Player in Global Facade Systems Market Report",
+   "url": "https://www.prnewswire.com/news-releases/facade-systems-market-worth-147-30-billion-by-2031---exclusive-report-by-marketsandmarkets-302949169.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KRX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:04Z",
+   "news_id": 129577453,
+   "headline": "Opendoor Technologies Inc. Independent Director Purchases Shares",
+   "url": "https://www.moomoo.com/hans/news/post/1005628092/dana-hamilton-bought-245-more-shares-in-opendoor-technologies",
+   "source": "fiscal.ai",
+   "symbols": [
+    "OPEN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:05Z",
+   "news_id": 129577454,
+   "headline": "Robert W. Baird Analyst Adjusts AEVEX Corp. Price Target",
+   "url": "https://www.moomoo.com/ja/news/post/1005501957/baird-maintains-aevex-corp-avexus-with-buy-rating-cuts-target",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AVEX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:08Z",
+   "news_id": 129577455,
+   "headline": "Standard Chartered (Singapore) Files for $500 Million Covered Bond Listing",
+   "url": "https://www.moomoo.com/stock/02888-HK?chain_id=Name1K9-3FXPhg.1lgarhg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2F01299-HK%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STAN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:10Z",
+   "news_id": 129577456,
+   "headline": "Capital City Bank Named One of American Banker's 'Best Banks to Work For'",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409122/9284/en/capital-city-bank-named-among-best-banks-to-work-for-by-american-banker-for-14-consecutive-years.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CCBG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:10Z",
+   "news_id": 129577457,
+   "headline": "BNP Paribas Adjusts Price Target on Coherent Corp.",
+   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-coherent-price-target-to-300-from-420-ce7851dbdb88ff27",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BNP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:10Z",
+   "news_id": 129577458,
+   "headline": "BNP Paribas Adjusts Price Target on Western Digital",
+   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-price-target-on-western-digital-to-475-from-700-ce7851dbdb8df022",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BNP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:12Z",
+   "news_id": 129577459,
+   "headline": "Driven Brands Receives Nasdaq Notice Regarding Delayed Form 10-Q Filing",
+   "url": "https://www.businesswire.com/newsroom/industry/automotive",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DRVN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:12Z",
+   "news_id": 129577460,
+   "headline": "agilon health to Participate in 9th Annual Evercore Healthcare Conference",
+   "url": "https://ayondo.com/en/bwr/US00857U2069/agilon-health/agilon-health-to-participate-in-upcoming-conference-20261123649529r1",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AGL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:13Z",
+   "news_id": 129577461,
+   "headline": "Universal Corporation Appoints John Ament as President of Universal Ingredients",
+   "url": "https://ayondo.com/en/bwr/US9134561094/universal/universal-corporation-appoints-john-ament-as-president-of-universal-ingredients-20261123606380r1",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UVV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:13Z",
+   "news_id": 129577462,
+   "headline": "Hiscox Releases Survey on AI Adoption and Risks in German Service Sector",
+   "url": "https://www.finanzen.at/nachrichten/aktien/ots-hiscox-deutsche-dienstleistungsunternehmen-investieren-massiv-in-ki--1036795089",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HSX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:14Z",
+   "news_id": 129577463,
+   "headline": "Sienna Senior Living Announces Offering of $250 Million of Series G Senior Unsecured Debentures",
+   "url": "https://www.globenewswire.com/news-release/2026/11/23/3408964/0/en/sienna-announces-offering-of-250-million-of-4-414-series-g-senior-unsecured-debentures.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SIA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:14Z",
+   "news_id": 129577464,
+   "headline": "United Utilities Water Finance PLC Securities Admitted to Official List",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70212203-financial-conduct-authority-notice-of-admission-to-the-official-list-015.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UU."
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:15Z",
+   "news_id": 129577465,
+   "headline": "i-80 Gold Corp. Commences Production Mining at Archimedes Underground Project",
+   "url": "https://www.prnewswire.com/news-releases/i-80-gold-announces-the-start-of-production-mining-at-archimedes-underground-302948727.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IAU"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:18Z",
+   "news_id": 129577466,
+   "headline": "CEO Paul Robert Lichty Purchases Forge Nano Shares",
+   "url": "https://www.quantisnow.com/company/NANO",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NANO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:18Z",
+   "news_id": 129577467,
+   "headline": "Cricut, Inc. Files Form 144 for Insider Transaction",
+   "url": "https://www.streetinsider.com/SEC+Filings?before_id=27388732",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CRCT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:18Z",
+   "news_id": 129577468,
+   "headline": "Evolv Technologies Announces Multi-Year Partnership Renewal with Hollywood Park",
+   "url": "https://www.businesswire.com/newsroom/industry/technology",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EVLV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:18Z",
+   "news_id": 129577469,
+   "headline": "UBS AG Increases Disclosed Stake in SEGRO to 5.18%",
+   "url": "https://www.investegate.co.uk/announcement/rns/segro--sgro/holding-s-in-company/9891114",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T14:02:18Z",
+   "news_id": 129577470,
+   "headline": "UBS Faces Endeavor Push for Valuation Documents in $13 Billion Buyout Dispute",
+   "url": "https://www.marketscreener.com/news/ubs-faces-endeavor-push-for-valuation-documents-in-13-billion-buyout-dispute-ce7851dbdb8bf222",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBS"
+   ],
+   "signals": []
+  }
+ ],
+ "trades": [
+  {
+   "t": "2026-11-24T15:43:56Z",
+   "symbol": "GOOGL",
+   "side": "close",
+   "reason": "Stop loss (-15.1%)",
+   "notional": 0.0,
+   "news_id": null,
+   "crypto": false,
+   "status": "simulada (DRY_RUN)"
+  }
+ ],
+ "runs": [
+  {
+   "t": "2026-11-24T15:43:56Z",
+   "news": 60,
+   "signals": 0,
+   "orders": 1,
+   "errors": []
+  }
+ ],
+ "starting_equity": 99751.8,
+ "updated_at": "2026-11-24T15:43:56Z",
+ "market_open": true,
+ "dry_run": true,
+ "model": "groq · openai/gpt-oss-120b",
+ "rules": {
+  "min_confidence": 0.75,
+  "position_pct": 0.05,
+  "max_positions": 10,
+  "stop_loss_pct": 0.05,
+  "take_profit_pct": 0.1,
+  "max_hold_days": 5.0
+ },
+ "account": {
+  "equity": 99751.8,
+  "cash": 98363.85,
+  "last_equity": 99774.35,
+  "buying_power": 397341.66
+ },
+ "pending": 0,
+ "positions": [
+  {
+   "symbol": "GOOGL",
+   "crypto": false,
+   "qty": 5.0,
+   "avg_entry_price": 327.228,
+   "current_price": 277.59,
+   "market_value": 1387.95,
+   "unrealized_pl": -248.19,
+   "unrealized_plpc": -0.15169,
+   "opened_at": null
+  }
+ ]
+}
