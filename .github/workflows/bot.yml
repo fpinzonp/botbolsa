@@ -5,7 +5,7 @@ on:
     - cron: "*/15 * * * *"   # cada 15 min (GitHub puede retrasarlo unos minutos)
   workflow_dispatch:          # botón "Run workflow" para correrlo a mano
   push:                       # al subir cambios de código solo se corren las pruebas
-    paths: ["bot/**", "tests/**", "requirements.txt"]
+    paths: ["bot/**", "tests/**", "requirements.txt", ".github/workflows/**"]
 
 permissions:
   contents: write             # para guardar data/ y docs/data.json en el repo
