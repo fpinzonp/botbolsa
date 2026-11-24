@@ -11,6 +11,10 @@
   {
    "t": "2026-11-24T15:48:18Z",
    "v": 99752.28
+  },
+  {
+   "t": "2026-11-24T16:04:36Z",
+   "v": 99750.71
   }
  ],
  "decisions": [
@@ -1131,6 +1135,365 @@
     "ERAS"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-24T16:02:40Z",
+   "news_id": 129686117,
+   "headline": "UBS Adjusts ServiceNow Price Target to $100",
+   "url": "https://www.marketscreener.com/news/ubs-adjusts-servicenow-price-target-to-100-from-140-maintains-neutral-rating-ce7851dbda89f320",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NOW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:02:39Z",
+   "news_id": 129686116,
+   "headline": "Morgan Stanley Saudi Arabia Receives Approval for Market-Making Activities",
+   "url": "https://www.marketscreener.com/news/morgan-stanley-saudi-arabia-gets-bourse-nod-for-market-making-activities-on-12-listed-companies-ce7851dbda88f522",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:02:36Z",
+   "news_id": 129686115,
+   "headline": "Freeport-McMoRan's Indonesian Joint Venture Closes $750 Million Senior Notes Offering",
+   "url": "https://www.marketscreener.com/news/freeport-mcmoran-s-indonesian-jv-closes-750-million-senior-notes-offering-ce7851dbdb80f223",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FCX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:02:22Z",
+   "news_id": 129686114,
+   "headline": "T-Mobile Announces Early Black Friday Deals and '12 Days of Magenta' Promotion",
+   "url": "https://www.businesswire.com/newsroom",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TMUS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:02:08Z",
+   "news_id": 129686112,
+   "headline": "Hewlett Packard Enterprise Reports Record Quarterly Revenue and Increases Share Repurchase Authorization",
+   "url": "https://www.morningstar.com/news/marketwatch/2026112428/hpe-just-posted-its-strongest-growth-ever-but-its-stock-is-sinking",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HPE"
+   ],
+   "signals": [
+    {
+     "symbol": "HPE",
+     "action": "buy",
+     "confidence": 0.75,
+     "impact": "medium",
+     "rationale": "Reportes de ingresos récord y aumento de autorización de recompra de acciones son catalizadores positivos que pueden impulsar el precio en corto plazo.",
+     "outcome": "Compra $4,988 · enviada"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-24T16:02:08Z",
+   "news_id": 129686111,
+   "headline": "Barclays Adjusts Hewlett Packard Enterprise Price Target",
+   "url": "https://www.marketscreener.com/news/barclays-adjusts-hewlett-packard-enterprise-price-target-to-51-from-77-ce7851dbda89f222",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HPE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:02:01Z",
+   "news_id": 129686110,
+   "headline": "ZoomInfo Launches Integration with monday.com Customer Management Platform",
+   "url": "https://www.moomoo.com/stock/MNDY-US?chain_id=Name1K9-3FXPhg.1lfv3c0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A39%2C%22f%22%3A%22www.moomoo.com%2Fus%2Fhans%2Flearn%2Fdetail-how-to-invest-in-gold-117511-241079018%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MNDY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:58Z",
+   "news_id": 129685136,
+   "headline": "Elbit Systems Subsidiary Awarded Contract for German Navy F-128 Frigates",
+   "url": "https://www.finanzen.at/nachrichten/aktien/elbit-systems-wins-5-year-contract-to-supply-naval-ew-suites-for-german-navys-f-128-frigates-1036795347",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ESLT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:57Z",
+   "news_id": 129685135,
+   "headline": "Alphabet's Google to Acquire London Office Building",
+   "url": "https://www.marketscreener.com/news/alphabet-s-google-to-buy-office-building-in-london-s-king-s-cross-ce7851dbdb80f720",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GOOG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:57Z",
+   "news_id": 129685134,
+   "headline": "ExxonMobil Guyana Oil Output Expected to Exceed 1 Million Barrels Per Day",
+   "url": "https://www.marketscreener.com/news/exxon-mobil-s-guyana-oil-output-to-surpass-1-million-barrels-per-day-in-coming-weeks-ce7851dbda8bf52d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "XOM"
+   ],
+   "signals": [
+    {
+     "symbol": "XOM",
+     "action": "buy",
+     "confidence": 0.7,
+     "impact": "medium",
+     "rationale": "La expectativa de superar 1 MMbpd en Guyana indica un flujo de caja adicional y puede generar un impulso alcista inmediato.",
+     "outcome": "Ignorada: confianza 70% < 75%"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-24T16:01:57Z",
+   "news_id": 129685133,
+   "headline": "Google Cloud Partners with Waystar for Healthcare AI",
+   "url": "https://www.moomoo.com/stock/GOOGL-US?chain_id=Name1K9-3FXPhg.1lgb630&global_content=%7B%22promote_id%22%3A%22%22%2C%22sub_promote_id%22%3A64%2C%22subpromote_id%22%3A%22%22%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2F%E6%88%91%E5%8F%AA%E6%83%B3%E8%B5%9A%E5%A4%9A%E7%82%B9%E9%92%B1-104971617%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GOOG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:53Z",
+   "news_id": 129685132,
+   "headline": "Scotiabank Announces Plans to Open Branch in Madrid, Spain",
+   "url": "https://www.newswire.ca/news-releases/scotiabank-announces-plans-to-open-branch-in-madrid-spain-835252831.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BNS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:52Z",
+   "news_id": 129685131,
+   "headline": "Cheniere Energy Named Platinum Sponsor for 26th World LNG Summit & Awards",
+   "url": "https://www.einpresswire.com/article/958718904/global-lng-leaders-to-convene-in-istanbul-to-advance-industry-resilience-investment-and-growth",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LNG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:52Z",
+   "news_id": 129685130,
+   "headline": "Oracle Commodity Holding Restores Royalty on Pulacayo-Paca Silver Project",
+   "url": "https://www.newsfilecorp.com/release/325532/Oracle-Commodity-Holding-Revives-2-Royalty-on-PulacayoPaca-Silver-Mining-Project",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ORCL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:51Z",
+   "news_id": 129685128,
+   "headline": "General Motors Formally Opposes Proposed Union Pacific-Norfolk Southern Merger",
+   "url": "https://www.prnewswire.com/news-releases/americas-biggest-manufacturers-farmers-railroads-and-labor-unions-unite-against-up-ns-merger-302948767.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:51Z",
+   "news_id": 129685127,
+   "headline": "Grainger Marks 20th Anniversary of KeepStock Inventory Management Solutions",
+   "url": "https://www.prnewswire.com/news-releases/grainger-recognizes-20-years-of-inventory-management-innovation-with-keepstock-302948607.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GWW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:47Z",
+   "news_id": 129685126,
+   "headline": "Societe Generale Expands CDS Clearing Offering with ICE Clear Credit",
+   "url": "https://investingnews.com/societe-generale-americas-expands-cds-clearing-with-ice-clear-credit-to-include-single-name-cds/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ICE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:44Z",
+   "news_id": 129685125,
+   "headline": "ION to Air Exclusive Coverage of Elevance Health Women's Fort Myers Tip-Off",
+   "url": "https://www.quantisnow.com/insight/ion-to-air-exclusive-coverage-of-elevance-health-womens-fort-6805324",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ELV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:42Z",
+   "news_id": 129685124,
+   "headline": "Wix.com Ltd. to Participate in Fireside Chat at Nasdaq London Investor Conference",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409333/0/en/wix-to-participate-in-fireside-chat-at-nasdaq-london-investor-conference.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WIX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:41Z",
+   "news_id": 129685123,
+   "headline": "PNC Financial Services Announces Chief Economist Transition",
+   "url": "https://www.prnewswire.com/news-releases/pnc-names-brian-leblanc-chief-economist-302949446.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PNC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:41Z",
+   "news_id": 129685122,
+   "headline": "U.S. Bancorp Updates Date and Time of Fourth-Quarter Earnings Conference Call",
+   "url": "https://www.businesswire.com/newsroom/subject/earnings",
+   "source": "fiscal.ai",
+   "symbols": [
+    "USB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:40Z",
+   "news_id": 129685121,
+   "headline": "Cisco Announces Participation in December 2026 Financial Community Events",
+   "url": "https://www.prnewswire.com/news-releases/cisco-to-participate-in-december-events-with-the-financial-community-302948699.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CSCO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:40Z",
+   "news_id": 129685120,
+   "headline": "Cisco Schedules 2026 Annual Meeting of Stockholders",
+   "url": "https://www.prnewswire.com/news-releases/cisco-to-host-2026-virtual-annual-meeting-of-stockholders-302948698.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CSCO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:37Z",
+   "news_id": 129685119,
+   "headline": "Nova Registry and Linkme Announce Strategic Partnership with Cloudflare Registrar",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409400/0/en/nova-registry-and-linkme-give-every-linkme-user-a-free-link-domain.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NET"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:36Z",
+   "news_id": 129685118,
+   "headline": "Uber Expands Platform to Include Train Ticket Sales in France",
+   "url": "https://eturbonews.com/uber-train-tickets-france-omio/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBER"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:35Z",
+   "news_id": 129685117,
+   "headline": "OpenClips.AI Integrates Playable Ad Generation for AppLovin",
+   "url": "https://www.newswire.ca/news-releases/openclips-is-the-first-ai-platform-to-actually-turn-a-product-link-into-production-ready-ads-821863370.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "APP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:33Z",
+   "news_id": 129685116,
+   "headline": "RBC Foundation and Habitat for Humanity Canada Expand Critical Repairs Program",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409224/0/en/habitat-for-humanity-canada-and-rbc-foundation-join-forces-to-expand-successful-critical-repairs-program.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:32Z",
+   "news_id": 129685115,
+   "headline": "Robinhood Launches Cboe KPI Binary Options for Earnings Trading",
+   "url": "https://www.prnewswire.com/news-releases/cboe-launches-kpi-binary-options-a-new-way-to-trade-the-numbers-behind-earnings-302949514.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HOOD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:24Z",
+   "news_id": 129685114,
+   "headline": "Moody's Expands Data Integration with Snowflake Marketplace",
+   "url": "https://investingnews.com/moody-s-embeds-connected-intelligence-in-the-platforms-where-customers-build-with-ai/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SNOW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:22Z",
+   "news_id": 129685113,
+   "headline": "Microsoft Secures 51MW Geothermal Energy Contract in New Zealand",
+   "url": "https://dealroom.co/news/175297-big-tech-has-now-contracted-more-next-gen-geothermal-than-utilities-even/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MSFT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T16:01:22Z",
+   "news_id": 129685112,
+   "headline": "Emerson COO to Present at 2026 UBS Global Industrials & Transportation Conference",
+   "url": "https://www.prnewswire.com/news-releases/emerson-to-present-at-the-2026-ubs-global-industrials--transportation-conference-302948530.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EMR"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -1153,6 +1516,16 @@
    "news_id": 129602382,
    "crypto": false,
    "status": "simulada (DRY_RUN)"
+  },
+  {
+   "t": "2026-11-24T16:04:36Z",
+   "symbol": "HPE",
+   "side": "buy",
+   "reason": "Noticia positiva",
+   "notional": 4987.54,
+   "news_id": 129686112,
+   "crypto": false,
+   "status": "enviada"
   }
  ],
  "runs": [
@@ -1179,12 +1552,21 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-24T16:04:36Z",
+   "fetched": 33,
+   "news": 31,
+   "signals": 2,
+   "orders": 1,
+   "errors": [],
+   "tokens": 3605
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-24T15:48:18Z",
+ "updated_at": "2026-11-24T16:04:36Z",
  "market_open": true,
- "dry_run": true,
+ "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
  "rules": {
   "min_confidence": 0.75,
@@ -1195,10 +1577,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99752.28,
+  "equity": 99750.71,
   "cash": 98363.85,
   "last_equity": 99774.35,
-  "buying_power": 397342.99
+  "buying_power": 392351.08
  },
  "pending": 0,
  "positions": [
@@ -1207,10 +1589,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 277.685,
-   "market_value": 1388.425,
-   "unrealized_pl": -247.715,
-   "unrealized_plpc": -0.1514,
+   "current_price": 277.3727,
+   "market_value": 1386.8635,
+   "unrealized_pl": -249.2765,
+   "unrealized_plpc": -0.15236,
    "opened_at": null
   }
  ]
