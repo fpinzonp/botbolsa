@@ -1,0 +1,71 @@
+name: Trading bot
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # cada 15 min (GitHub puede retrasarlo unos minutos)
+  workflow_dispatch:          # botón "Run workflow" para correrlo a mano
+  push:                       # al subir cambios de código solo se corren las pruebas
+    paths: ["bot/**", "tests/**", "requirements.txt"]
+
+permissions:
+  contents: write             # para guardar data/ y docs/data.json en el repo
+
+concurrency:
+  group: trading-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    if: github.event_name != 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Ejecutar bot
+        run: python -m bot.main
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Opcionales: se configuran en Settings > Secrets and variables > Actions > Variables
+          ANALYZER: ${{ vars.ANALYZER }}
+          MODEL: ${{ vars.MODEL }}
+          MIN_CONFIDENCE: ${{ vars.MIN_CONFIDENCE }}
+          POSITION_PCT: ${{ vars.POSITION_PCT }}
+          MAX_POSITIONS: ${{ vars.MAX_POSITIONS }}
+          STOP_LOSS_PCT: ${{ vars.STOP_LOSS_PCT }}
+          TAKE_PROFIT_PCT: ${{ vars.TAKE_PROFIT_PCT }}
+          MAX_HOLD_DAYS: ${{ vars.MAX_HOLD_DAYS }}
+          TRADE_STOCKS: ${{ vars.TRADE_STOCKS }}
+          TRADE_CRYPTO: ${{ vars.TRADE_CRYPTO }}
+          DRY_RUN: ${{ vars.DRY_RUN }}
+
+      - name: Guardar estado y datos del dashboard
+        run: |
+          git config user.name "trading-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data docs/data.json
+          if ! git diff --cached --quiet; then
+            git commit -m "bot: ejecución $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase
+            git push
+          fi
+
+  tests:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt pytest && pytest -q

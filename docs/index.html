@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>BotBolsa</title>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f6f5f2; --surface: #fcfcfb; --border: #e4e2dc;
+  --text: #0b0b0b; --text-2: #52514e; --muted: #8a8984;
+  --series: #2a78d6; --series-fill: rgba(42,120,214,.10); --ref: #b9b7b0;
+  --good: #0a7d32; --bad: #c62f2f; --accent-bg: #eef4fc;
+  --radius: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #121211; --surface: #1a1a19; --border: #2e2d2b;
+    --text: #f0efec; --text-2: #c3c2b7; --muted: #8b8a83;
+    --series: #3987e5; --series-fill: rgba(57,135,229,.16); --ref: #55544f;
+    --good: #3fbf6a; --bad: #ef6b6b; --accent-bg: #1c2633;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #121211; --surface: #1a1a19; --border: #2e2d2b;
+  --text: #f0efec; --text-2: #c3c2b7; --muted: #8b8a83;
+  --series: #3987e5; --series-fill: rgba(57,135,229,.16); --ref: #55544f;
+  --good: #3fbf6a; --bad: #ef6b6b; --accent-bg: #1c2633;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 14px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+.wrap { max-width: 1120px; margin: 0 auto; padding: 24px 16px 48px; }
+header { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 16px; margin-bottom: 20px; }
+h1 { font-size: 20px; margin: 0; letter-spacing: -.01em; }
+h2 { font-size: 15px; margin: 0 0 12px; }
+.meta { color: var(--text-2); font-size: 13px; display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: center; }
+.pill { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: 12px; border: 1px solid var(--border); color: var(--text-2); }
+.pill.warn { background: var(--accent-bg); color: var(--text); }
+.card { min-width: 0; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px; }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin-bottom: 16px; }
+.kpi .label { color: var(--text-2); font-size: 12px; }
+.kpi .value { font-size: 24px; font-weight: 600; letter-spacing: -.02em; margin-top: 2px; font-variant-numeric: tabular-nums; }
+.kpi .sub { font-size: 12px; margin-top: 2px; color: var(--text-2); font-variant-numeric: tabular-nums; }
+.up { color: var(--good); } .down { color: var(--bad); }
+.section { margin-bottom: 16px; }
+.row { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 12px; }
+.row h2 { margin: 0; }
+.seg { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.seg button { border: 0; background: transparent; color: var(--text-2); padding: 5px 11px; font: inherit; font-size: 12px; cursor: pointer; min-height: 30px; }
+.seg button + button { border-left: 1px solid var(--border); }
+.seg button[aria-pressed="true"] { background: var(--accent-bg); color: var(--text); font-weight: 600; }
+.seg button:focus-visible, a:focus-visible { outline: 2px solid var(--series); outline-offset: 2px; }
+.chart { position: relative; }
+.chart svg { display: block; width: 100%; height: 260px; }
+.chart .tip { position: absolute; pointer-events: none; background: var(--surface); border: 1px solid var(--border);
+  border-radius: 8px; padding: 6px 9px; font-size: 12px; box-shadow: 0 2px 8px rgba(0,0,0,.08); white-space: nowrap; }
+.chart .tip b { font-variant-numeric: tabular-nums; }
+.axis text { fill: var(--muted); font-size: 11px; }
+.grid line { stroke: var(--border); }
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+th { color: var(--text-2); font-weight: 500; font-size: 12px; }
+td.num, th.num { text-align: right; }
+tr:last-child td { border-bottom: 0; }
+.tag { font-size: 11px; color: var(--text-2); border: 1px solid var(--border); border-radius: 4px; padding: 0 5px; margin-left: 6px; }
+.empty { color: var(--text-2); padding: 18px 4px; text-align: center; }
+.news { display: grid; gap: 10px; }
+.item { border: 1px solid var(--border); border-radius: 8px; padding: 10px 12px; }
+.item .top { display: flex; justify-content: space-between; gap: 12px; color: var(--muted); font-size: 12px; }
+.item a { color: var(--text); text-decoration: none; font-weight: 500; }
+.item a:hover { text-decoration: underline; }
+.sig { margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--border); font-size: 13px; }
+.sig .head { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; }
+.sig .why { color: var(--text-2); margin-top: 3px; }
+.act { font-weight: 600; }
+.bar { display: inline-block; width: 60px; height: 6px; border-radius: 3px; background: var(--border); vertical-align: middle; overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--series); border-radius: 3px; }
+.outcome { font-size: 12px; color: var(--text-2); }
+.outcome.done { color: var(--text); font-weight: 500; }
+.two { display: grid; grid-template-columns: 1fr; gap: 16px; }
+@media (min-width: 900px) { .two { grid-template-columns: 3fr 2fr; } }
+.rules { color: var(--text-2); font-size: 12px; margin-top: 24px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>BotBolsa <span class="pill">Paper trading</span></h1>
+    <div class="meta" id="meta">Cargando…</div>
+  </header>
+
+  <div class="kpis" id="kpis"></div>
+
+  <div class="card section">
+    <div class="row">
+      <h2>Valor del portafolio</h2>
+      <div class="seg" id="range" role="group" aria-label="Rango de tiempo">
+        <button data-r="1">1D</button><button data-r="7">1S</button><button data-r="30">1M</button><button data-r="0" aria-pressed="true">Todo</button>
+      </div>
+    </div>
+    <div class="chart" id="chart"></div>
+  </div>
+
+  <div class="card section">
+    <div class="row">
+      <h2>Posiciones abiertas</h2>
+      <div class="seg" id="pfilter" role="group" aria-label="Tipo de activo">
+        <button data-f="all" aria-pressed="true">Todas</button><button data-f="stock">Acciones</button><button data-f="crypto">Cripto</button>
+      </div>
+    </div>
+    <div class="table-wrap" id="positions"></div>
+  </div>
+
+  <div class="two">
+    <div class="card">
+      <div class="row">
+        <h2>Noticias analizadas</h2>
+        <div class="seg" id="nfilter" role="group" aria-label="Filtro de noticias">
+          <button data-f="signals" aria-pressed="true">Con señal</button><button data-f="all">Todas</button>
+        </div>
+      </div>
+      <div class="news" id="news"></div>
+    </div>
+    <div class="card">
+      <h2>Operaciones</h2>
+      <div class="table-wrap" id="trades"></div>
+    </div>
+  </div>
+
+  <p class="rules" id="rules"></p>
+</div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const usd = (v, d = 2) => (v < 0 ? "-$" : "$") + Math.abs(v).toLocaleString("en-US", { minimumFractionDigits: d, maximumFractionDigits: d });
+const pct = (v) => (v > 0 ? "+" : "") + (v * 100).toFixed(2) + "%";
+const cls = (v) => (v > 0 ? "up" : v < 0 ? "down" : "");
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const when = (t) => t ? new Date(t).toLocaleString("es-CO", { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit" }) : "";
+const ago = (t) => {
+  const m = Math.round((Date.now() - new Date(t)) / 60000);
+  return m < 60 ? `hace ${m} min` : m < 1440 ? `hace ${Math.round(m / 60)} h` : `hace ${Math.round(m / 1440)} d`;
+};
+
+let DATA, range = 0, pfilter = "all", nfilter = "signals";
+
+function segment(id, attr, onPick) {
+  $(id).addEventListener("click", (e) => {
+    const b = e.target.closest("button"); if (!b) return;
+    $(id).querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", x === b));
+    onPick(b.dataset[attr]);
+  });
+}
+segment("range", "r", (v) => { range = +v; drawChart(); });
+segment("pfilter", "f", (v) => { pfilter = v; drawPositions(); });
+segment("nfilter", "f", (v) => { nfilter = v; drawNews(); });
+
+function drawMeta() {
+  const d = DATA;
+  const stale = Date.now() - new Date(d.updated_at) > 45 * 60000;
+  const last = d.runs?.at(-1);
+  $("meta").innerHTML = [
+    `Actualizado ${ago(d.updated_at)}${stale ? ' <span class="pill warn">⚠ sin ejecuciones recientes</span>' : ""}`,
+    `Mercado EE.UU. ${d.market_open ? "abierto" : "cerrado"}`,
+    d.dry_run ? '<span class="pill warn">DRY_RUN: no envía órdenes</span>' : "",
+    last?.errors?.length ? `<span class="pill warn" title="${esc(last.errors.join("\n"))}">⚠ ${last.errors.length} error(es) en la última ejecución</span>` : "",
+    `Modelo ${esc(d.model)}`,
+  ].filter(Boolean).join("<span aria-hidden='true'>·</span>");
+}
+
+function drawKpis() {
+  const a = DATA.account, start = DATA.starting_equity || a.equity;
+  const total = a.equity - start, day = a.equity - a.last_equity;
+  const pos = DATA.positions || [];
+  const inStock = pos.filter((p) => !p.crypto).reduce((s, p) => s + p.market_value, 0);
+  const inCrypto = pos.filter((p) => p.crypto).reduce((s, p) => s + p.market_value, 0);
+  const tiles = [
+    ["Valor del portafolio", usd(a.equity), `<span class="${cls(day)}">${usd(day)} (${pct(a.last_equity ? day / a.last_equity : 0)})</span> hoy`],
+    ["Ganancia total", `<span class="${cls(total)}">${usd(total)}</span>`, `${pct(start ? total / start : 0)} desde ${usd(start, 0)}`],
+    ["Efectivo", usd(a.cash), `${pct(a.equity ? a.cash / a.equity : 0).replace("+", "")} del portafolio`],
+    ["Posiciones", pos.length, `Acciones ${usd(inStock, 0)} · Cripto ${usd(inCrypto, 0)}${DATA.pending ? ` · ${DATA.pending} en cola` : ""}`],
+  ];
+  $("kpis").innerHTML = tiles.map(([l, v, s]) =>
+    `<div class="card kpi"><div class="label">${l}</div><div class="value">${v}</div><div class="sub">${s}</div></div>`).join("");
+}
+
+function drawChart() {
+  const el = $("chart");
+  let pts = (DATA.equity_history || []).map((p) => ({ t: new Date(p.t), v: p.v }));
+  if (range) { const from = Date.now() - range * 86400000; pts = pts.filter((p) => p.t >= from); }
+  if (pts.length < 2) { el.innerHTML = '<div class="empty">Aún no hay suficientes datos. La gráfica aparece después de dos ejecuciones.</div>'; return; }
+
+  const W = el.clientWidth || 800, H = 260, m = { t: 12, r: 12, b: 24, l: 64 };
+  const start = DATA.starting_equity;
+  const vs = pts.map((p) => p.v).concat(start ? [start] : []);
+  let lo = Math.min(...vs), hi = Math.max(...vs); const pad = (hi - lo) * 0.1 || hi * 0.01; lo -= pad; hi += pad;
+  const t0 = +pts[0].t, t1 = +pts.at(-1).t;
+  const x = (t) => m.l + ((+t - t0) / (t1 - t0 || 1)) * (W - m.l - m.r);
+  const y = (v) => m.t + (1 - (v - lo) / (hi - lo)) * (H - m.t - m.b);
+
+  const ticks = Array.from({ length: 4 }, (_, i) => lo + ((hi - lo) * i) / 3);
+  const xt = Array.from({ length: 4 }, (_, i) => new Date(t0 + ((t1 - t0) * i) / 3));
+  const fmtX = (d) => (t1 - t0 < 2 * 86400000) ? d.toLocaleTimeString("es-CO", { hour: "2-digit", minute: "2-digit" }) : d.toLocaleDateString("es-CO", { day: "2-digit", month: "short" });
+  const line = pts.map((p, i) => `${i ? "L" : "M"}${x(p.t).toFixed(1)},${y(p.v).toFixed(1)}`).join("");
+  const area = `${line}L${x(t1)},${H - m.b}L${x(t0)},${H - m.b}Z`;
+
+  el.innerHTML = `
+    <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Valor del portafolio en el tiempo">
+      <g class="grid">${ticks.map((v) => `<line x1="${m.l}" x2="${W - m.r}" y1="${y(v)}" y2="${y(v)}"/>`).join("")}</g>
+      <g class="axis">${ticks.map((v) => `<text x="${m.l - 8}" y="${y(v) + 4}" text-anchor="end">${usd(v, 0)}</text>`).join("")}
+        ${xt.map((d, i) => `<text x="${x(d)}" y="${H - 6}" text-anchor="${i === 0 ? "start" : i === 3 ? "end" : "middle"}">${fmtX(d)}</text>`).join("")}</g>
+      ${start && start > lo && start < hi ? `<line x1="${m.l}" x2="${W - m.r}" y1="${y(start)}" y2="${y(start)}" stroke="var(--ref)" stroke-dasharray="4 4"/>
+        <text x="${W - m.r}" y="${y(start) - 5}" text-anchor="end" fill="var(--muted)" font-size="11">Inicial</text>` : ""}
+      <path d="${area}" fill="var(--series-fill)"/>
+      <path d="${line}" fill="none" stroke="var(--series)" stroke-width="2" stroke-linejoin="round"/>
+      <g id="hover" visibility="hidden">
+        <line id="hx" y1="${m.t}" y2="${H - m.b}" stroke="var(--muted)" stroke-width="1"/>
+        <circle id="hc" r="4.5" fill="var(--series)" stroke="var(--surface)" stroke-width="2"/>
+      </g>
+      <rect x="${m.l}" y="0" width="${W - m.l - m.r}" height="${H}" fill="transparent" id="hit"/>
+    </svg><div class="tip" hidden id="tip"></div>`;
+
+  const hit = $("hit"), tip = $("tip"), hover = $("hover");
+  const move = (e) => {
+    const r = el.querySelector("svg").getBoundingClientRect();
+    const px = ((e.clientX - r.left) / r.width) * W;
+    const t = t0 + ((px - m.l) / (W - m.l - m.r)) * (t1 - t0);
+    let p = pts[0]; for (const q of pts) if (Math.abs(q.t - t) < Math.abs(p.t - t)) p = q;
+    $("hx").setAttribute("x1", x(p.t)); $("hx").setAttribute("x2", x(p.t));
+    $("hc").setAttribute("cx", x(p.t)); $("hc").setAttribute("cy", y(p.v));
+    hover.setAttribute("visibility", "visible");
+    const diff = start ? p.v - start : 0;
+    tip.innerHTML = `${when(p.t)}<br><b>${usd(p.v)}</b> <span class="${cls(diff)}">${pct(start ? diff / start : 0)}</span>`;
+    tip.hidden = false;
+    const sx = (x(p.t) / W) * r.width;
+    tip.style.left = Math.min(Math.max(sx - tip.offsetWidth / 2, 0), r.width - tip.offsetWidth) + "px";
+    tip.style.top = Math.max((y(p.v) / H) * r.height - tip.offsetHeight - 12, 0) + "px";
+  };
+  hit.addEventListener("pointermove", move);
+  hit.addEventListener("pointerleave", () => { hover.setAttribute("visibility", "hidden"); tip.hidden = true; });
+}
+
+function drawPositions() {
+  let pos = DATA.positions || [];
+  if (pfilter !== "all") pos = pos.filter((p) => p.crypto === (pfilter === "crypto"));
+  if (!pos.length) { $("positions").innerHTML = `<div class="empty">No hay posiciones abiertas${pfilter === "all" ? "" : " de este tipo"}. El bot compra cuando una noticia supera ${(DATA.rules?.min_confidence * 100 || 75).toFixed(0)}% de confianza.</div>`; return; }
+  pos = [...pos].sort((a, b) => b.market_value - a.market_value);
+  $("positions").innerHTML = `<table><thead><tr><th>Símbolo</th><th class="num">Valor</th><th class="num">Ganancia</th><th class="num">Precio entrada</th><th class="num">Precio actual</th><th>Abierta</th></tr></thead><tbody>
+    ${pos.map((p) => `<tr><td><b>${esc(p.symbol)}</b><span class="tag">${p.crypto ? "Cripto" : "Acción"}</span></td>
+      <td class="num">${usd(p.market_value)}</td>
+      <td class="num ${cls(p.unrealized_pl)}">${usd(p.unrealized_pl)} (${pct(p.unrealized_plpc)})</td>
+      <td class="num">${usd(p.avg_entry_price)}</td><td class="num">${usd(p.current_price)}</td>
+      <td>${p.opened_at ? ago(p.opened_at) : "—"}</td></tr>`).join("")}</tbody></table>`;
+}
+
+function drawNews() {
+  let items = [...(DATA.decisions || [])].reverse();
+  if (nfilter === "signals") items = items.filter((d) => d.signals.length);
+  items = items.slice(0, 60);
+  if (!items.length) {
+    $("news").innerHTML = `<div class="empty">${nfilter === "signals" ? "Ninguna noticia ha generado señales todavía. Es normal: la mayoría de las noticias son ruido." : "Aún no se han analizado noticias."}</div>`;
+    return;
+  }
+  const actLabel = { buy: "Comprar", sell: "Vender" };
+  $("news").innerHTML = items.map((d) => `
+    <div class="item">
+      <div class="top"><span>${esc(d.source)} · ${esc((d.symbols || []).slice(0, 6).join(", "))}</span><span>${when(d.t)}</span></div>
+      ${d.url ? `<a href="${esc(d.url)}" target="_blank" rel="noopener">${esc(d.headline)}</a>` : `<span>${esc(d.headline)}</span>`}
+      ${d.signals.map((s) => `
+        <div class="sig">
+          <div class="head">
+            <span class="act ${s.action === "buy" ? "up" : "down"}">${actLabel[s.action]} ${esc(s.symbol)}</span>
+            <span title="Confianza"><span class="bar"><i style="width:${(s.confidence * 100).toFixed(0)}%"></i></span> ${(s.confidence * 100).toFixed(0)}%</span>
+            <span class="tag">impacto ${esc(s.impact === "high" ? "alto" : s.impact === "medium" ? "medio" : "bajo")}</span>
+            <span class="outcome ${/^(Compra|Venta)/.test(s.outcome) ? "done" : ""}">→ ${esc(s.outcome)}</span>
+          </div>
+          <div class="why">${esc(s.rationale)}</div>
+        </div>`).join("")}
+    </div>`).join("");
+}
+
+function drawTrades() {
+  const tr = [...(DATA.trades || [])].reverse().slice(0, 50);
+  if (!tr.length) { $("trades").innerHTML = '<div class="empty">Todavía no hay operaciones.</div>'; return; }
+  $("trades").innerHTML = `<table><thead><tr><th>Fecha</th><th>Operación</th><th class="num">Monto</th><th>Motivo</th></tr></thead><tbody>
+    ${tr.map((t) => `<tr title="${esc(t.status)}"><td>${when(t.t)}</td>
+      <td><span class="act ${t.side === "buy" ? "up" : "down"}">${t.side === "buy" ? "Compra" : "Venta"}</span> ${esc(t.symbol)}${t.status.startsWith("error") ? ' <span class="tag">error</span>' : ""}</td>
+      <td class="num">${t.notional ? usd(t.notional, 0) : "Todo"}</td><td>${esc(t.reason)}</td></tr>`).join("")}</tbody></table>`;
+}
+
+function drawRules() {
+  const r = DATA.rules; if (!r) return;
+  $("rules").textContent = `Reglas: compra si la confianza es de al menos ${(r.min_confidence * 100).toFixed(0)}% · ${(r.position_pct * 100).toFixed(0)}% del portafolio por operación · máximo ${r.max_positions} posiciones · stop loss -${(r.stop_loss_pct * 100).toFixed(0)}% · toma de ganancia +${(r.take_profit_pct * 100).toFixed(0)}% · cierre después de ${r.max_hold_days} días.`;
+}
+
+async function load() {
+  try {
+    const res = await fetch("data.json?_=" + Date.now(), { cache: "no-store" });
+    if (!res.ok) throw new Error(res.status);
+    DATA = await res.json();
+  } catch (e) {
+    $("meta").textContent = "No se pudo cargar data.json. Revisa que el bot haya corrido al menos una vez.";
+    return;
+  }
+  if (!DATA.account) { $("meta").textContent = "El bot aún no ha corrido. Ejecuta el workflow desde la pestaña Actions de GitHub."; return; }
+  drawMeta(); drawKpis(); drawChart(); drawPositions(); drawNews(); drawTrades(); drawRules();
+}
+load();
+setInterval(load, 5 * 60000);
+let rz; addEventListener("resize", () => { clearTimeout(rz); rz = setTimeout(() => DATA?.account && drawChart(), 150); });
+</script>
+</body>
+</html>
