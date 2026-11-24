@@ -79,6 +79,10 @@
   {
    "t": "2026-11-24T23:28:46Z",
    "v": 99659.93
+  },
+  {
+   "t": "2026-11-24T23:43:49Z",
+   "v": 99642.76
   }
  ],
  "decisions": [
@@ -3292,6 +3296,26 @@
     "M"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-24T23:31:41Z",
+   "news_id": 130232225,
+   "headline": "Sinda Ltd. Authorizes Up to $50 Million Share Repurchase Program",
+   "url": "https://elite.finviz.com/news/426906/sinda-ltd-authorizes-up-to-50-million-share-repurchase-program",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SIND"
+   ],
+   "signals": [
+    {
+     "symbol": "SIND",
+     "action": "buy",
+     "confidence": 0.7,
+     "impact": "low",
+     "rationale": "La autorización de un programa de recompra de acciones de $50 millones indica confianza de la compañía y suele generar presión alcista, aunque el tamaño es modesto y el impacto esperado es limitado.",
+     "outcome": "Ignorada: confianza 70% < 75%"
+    }
+   ]
   }
  ],
  "trades": [
@@ -3503,10 +3527,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-24T23:43:49Z",
+   "fetched": 1,
+   "news": 1,
+   "signals": 1,
+   "orders": 0,
+   "errors": [],
+   "tokens": 751
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-24T23:28:46Z",
+ "updated_at": "2026-11-24T23:43:49Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -3519,10 +3552,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99659.93,
+  "equity": 99642.76,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 391099.38
+  "buying_power": 391051.3
  },
  "pending": 1,
  "positions": [
@@ -3531,10 +3564,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 280.0028,
-   "market_value": 1400.014,
-   "unrealized_pl": -236.126,
-   "unrealized_plpc": -0.14432,
+   "current_price": 279.7,
+   "market_value": 1398.5,
+   "unrealized_pl": -237.64,
+   "unrealized_plpc": -0.14524,
    "opened_at": null
   },
   {
@@ -3542,10 +3575,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 40.0183,
-   "market_value": 4883.593633,
-   "unrealized_pl": -103.936367,
-   "unrealized_plpc": -0.02084,
+   "current_price": 39.89,
+   "market_value": 4867.93667,
+   "unrealized_pl": -119.59333,
+   "unrealized_plpc": -0.02398,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
