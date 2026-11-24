@@ -20,9 +20,10 @@ MAX_DECISIONS = 300
 MAX_TRADES = 500
 MAX_RUNS = 200
 MAX_EQUITY_POINTS = 4000
-MAX_NEWS_PER_RUN = 60
-MAX_SYMBOLS_PER_NEWS = 3   # más símbolos suele ser un resumen de mercado: ruido que gasta tokens
-STALE_HOURS = 6            # noticias más viejas ya no se analizan (p. ej. tras un límite diario)
+MAX_FETCH_PER_RUN = 500   # el feed trae miles de noticias por hora, casi todas de otros mercados
+MAX_ANALYZE_PER_RUN = 40  # para no agotar el cupo diario gratis de Groq
+MAX_SYMBOLS_PER_NEWS = 3  # más símbolos suele ser un resumen de mercado: ruido que gasta tokens
+STALE_HOURS = 6           # noticias más viejas ya no se analizan (p. ej. tras un límite diario)
 
 
 def load_json(path: Path, default: dict) -> dict:
@@ -52,7 +53,8 @@ def run() -> None:
     positions = alpaca.positions()
     market_open = bool(alpaca.clock().get("is_open"))
     held = {norm(p["symbol"]) for p in positions}
-    run_log = {"t": iso(now), "news": 0, "signals": 0, "orders": 0, "errors": []}
+    manual = frozenset(held - set(state["opened_at"]))  # posiciones que no abrió el bot
+    run_log = {"t": iso(now), "fetched": 0, "news": 0, "signals": 0, "orders": 0, "errors": []}
     trades: list[dict] = []
 
     def can_trade(is_crypto: bool) -> bool:
@@ -88,25 +90,29 @@ def run() -> None:
             execute(order)
             closing.add(order.symbol)
 
-    # 2) Noticias nuevas desde la última ejecución.
-    cursor = state["news_cursor"] or iso(now - timedelta(hours=2))
+    # 2) Noticias nuevas desde la última ejecución (de la más nueva a la más vieja).
+    cursor = state["news_cursor"] or iso(now - timedelta(hours=1))
     seen = set(state["seen_ids"])
-    fresh = [n for n in alpaca.news(cursor, MAX_NEWS_PER_RUN) if n["id"] not in seen]
+    fresh = [n for n in alpaca.news(cursor, MAX_FETCH_PER_RUN) if n["id"] not in seen]
+    # Filtro sin costo antes del LLM: noticias recientes sobre 1-3 símbolos que Alpaca opera.
     stale_limit = now - timedelta(hours=STALE_HOURS)
-    news, skipped = [], []
+    news = []
     for n in fresh:
         symbols = n.get("symbols") or []
-        if 0 < len(symbols) <= MAX_SYMBOLS_PER_NEWS and datetime.fromisoformat(n["created_at"]) >= stale_limit:
-            news.append(n)
-        else:
-            skipped.append(n)
+        tradable = [norm(s) for s in symbols if alpaca.tradable_asset(s)]
+        if tradable and len(symbols) <= MAX_SYMBOLS_PER_NEWS \
+                and datetime.fromisoformat(n["created_at"]) >= stale_limit:
+            news.append({**n, "symbols": tradable})
+    news = news[:MAX_ANALYZE_PER_RUN]
+    run_log["fetched"] = len(fresh)
 
     # Se analiza por lotes; si un lote falla (p. ej. límite de Groq), el resto queda para después.
     signals: list[analyzer.Signal] = []
     analyzed: list[dict] = []
     for batch in analyzer.chunks(news):
         try:
-            signals += analyzer.analyze(cfg.analyzer, cfg.model, cfg.analyzer_key, batch, sorted(held))
+            signals += analyzer.analyze(cfg.analyzer, cfg.model, cfg.analyzer_key, batch,
+                                        sorted(held - manual))
         except analyzer.AnalyzerError as e:
             run_log["errors"].append(str(e))
             break
@@ -131,7 +137,7 @@ def run() -> None:
 
     cash = float(account.get("non_marginable_buying_power") or account.get("cash") or 0)
     orders, outcomes = strategy.signal_orders(
-        actionable, held, closing, float(account["equity"]), cash, cfg)
+        actionable, held, closing, float(account["equity"]), cash, cfg, manual)
     assets = {s["symbol"]: s["asset"] for s in actionable}
     for order in orders:
         status = execute(order, assets.get(order.symbol))
@@ -160,14 +166,16 @@ def run() -> None:
             "signals": by_news.get(n["id"], []),
         })
 
-    # El cursor avanza hasta la noticia más vieja que quedó sin analizar (o hasta el final).
-    done = analyzed + skipped
-    left = [n for n in news if n not in analyzed]
-    if left:
-        state["news_cursor"] = min(n["created_at"] for n in left)
+    # El cursor avanza hasta la noticia más vieja que quedó sin analizar por un error del
+    # proveedor (para reintentarla), o hasta la más nueva si no hubo errores.
+    analyzed_ids = {n["id"] for n in analyzed}
+    left_ids = {n["id"] for n in news} - analyzed_ids
+    if left_ids:
+        state["news_cursor"] = min(n["created_at"] for n in news if n["id"] in left_ids)
     elif fresh:
         state["news_cursor"] = max(n["created_at"] for n in fresh)
-    state["seen_ids"] = (state["seen_ids"] + [n["id"] for n in done])[-MAX_SEEN_IDS:]
+    done = [n["id"] for n in fresh if n["id"] not in left_ids]
+    state["seen_ids"] = (state["seen_ids"] + done)[-MAX_SEEN_IDS:]
 
     # 3) Datos para el dashboard.
     account = alpaca.account()

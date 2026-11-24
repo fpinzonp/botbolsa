@@ -13,7 +13,7 @@ class Alpaca:
     def __init__(self, key: str, secret: str):
         self.http = requests.Session()
         self.http.headers.update({"APCA-API-KEY-ID": key, "APCA-API-SECRET-KEY": secret})
-        self._crypto: dict[str, dict] | None = None
+        self._assets: dict[str, dict] | None = None
 
     def _req(self, method: str, url: str, **kwargs):
         resp = self.http.request(method, url, timeout=30, **kwargs)
@@ -31,28 +31,17 @@ class Alpaca:
         return self._req("GET", f"{PAPER_BASE_URL}/v2/clock")
 
     # --- Activos ----------------------------------------------------------
-    def crypto_assets(self) -> dict[str, dict]:
-        if self._crypto is None:
-            assets = self._req("GET", f"{PAPER_BASE_URL}/v2/assets",
-                               params={"status": "active", "asset_class": "crypto"})
-            self._crypto = {norm(a["symbol"]): a for a in assets if a.get("tradable")}
-        return self._crypto
-
     def tradable_asset(self, symbol: str) -> dict | None:
         """Devuelve el activo si se puede operar con montos fraccionados, o None."""
-        sym = norm(symbol)
-        crypto = self.crypto_assets()
-        if sym in crypto:
-            return crypto[sym]
-        try:
-            asset = self._req("GET", f"{PAPER_BASE_URL}/v2/assets/{sym}")
-        except requests.HTTPError as e:
-            if e.response is not None and e.response.status_code == 404:
-                return None
-            raise
-        if asset.get("tradable") and asset.get("fractionable") and asset.get("class") == "us_equity":
-            return asset
-        return None
+        if self._assets is None:
+            self._assets = {}
+            for cls in ("us_equity", "crypto"):
+                assets = self._req("GET", f"{PAPER_BASE_URL}/v2/assets",
+                                   params={"status": "active", "asset_class": cls})
+                for a in assets:
+                    if a.get("tradable") and (cls == "crypto" or a.get("fractionable")):
+                        self._assets[norm(a["symbol"])] = a
+        return self._assets.get(norm(symbol))
 
     # --- Órdenes ----------------------------------------------------------
     def buy_notional(self, asset: dict, notional: float) -> dict:
@@ -69,10 +58,14 @@ class Alpaca:
         return self._req("DELETE", f"{PAPER_BASE_URL}/v2/positions/{norm(symbol)}")
 
     # --- Noticias ---------------------------------------------------------
-    def news(self, start_iso: str, max_items: int = 100) -> list[dict]:
-        """Noticias (acciones y cripto) publicadas desde start_iso, de la más vieja a la más nueva."""
+    def news(self, start_iso: str, max_items: int) -> list[dict]:
+        """Noticias publicadas desde start_iso, de la más nueva a la más vieja.
+
+        El feed trae miles de noticias por hora; si hay más de max_items se pierden las
+        más viejas, que de todos modos ya no sirven para operar.
+        """
         items: list[dict] = []
-        params = {"start": start_iso, "limit": 50, "sort": "asc", "include_content": "false"}
+        params = {"start": start_iso, "limit": 50, "sort": "desc", "include_content": "false"}
         while len(items) < max_items:
             page = self._req("GET", f"{DATA_BASE_URL}/v1beta1/news", params=params)
             items.extend(page.get("news", []))

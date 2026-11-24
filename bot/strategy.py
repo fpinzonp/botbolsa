@@ -18,17 +18,22 @@ class Order:
 
 def exit_orders(positions: list[dict], opened_at: dict[str, str], now: datetime,
                 cfg: Settings) -> list[Order]:
-    """Stop loss, take profit y tiempo máximo de permanencia."""
+    """Stop loss, take profit y tiempo máximo de permanencia.
+
+    Solo para posiciones que abrió el bot (opened_at); las manuales no se tocan.
+    """
     orders = []
     for p in positions:
         sym = norm(p["symbol"])
+        if sym not in opened_at:
+            continue
         plpc = float(p.get("unrealized_plpc") or 0)
         crypto = p.get("asset_class") == "crypto"
         if plpc <= -cfg.stop_loss_pct:
             orders.append(Order("close", sym, f"Stop loss ({plpc:+.1%})", is_crypto=crypto))
         elif plpc >= cfg.take_profit_pct:
             orders.append(Order("close", sym, f"Toma de ganancia ({plpc:+.1%})", is_crypto=crypto))
-        elif sym in opened_at:
+        else:
             days = (now - datetime.fromisoformat(opened_at[sym])).total_seconds() / 86400
             if days >= cfg.max_hold_days:
                 orders.append(Order("close", sym, f"Tiempo máximo ({days:.1f} días, {plpc:+.1%})",
@@ -48,11 +53,14 @@ def reject_reason(s: dict, cfg: Settings) -> str | None:
 
 
 def signal_orders(signals: list[dict], held: set[str], closing: set[str], equity: float,
-                  cash: float, cfg: Settings) -> tuple[list[Order], dict[tuple[int, str], str]]:
+                  cash: float, cfg: Settings,
+                  manual: frozenset[str] = frozenset()) -> tuple[list[Order], dict[tuple[int, str], str]]:
     """Convierte señales en órdenes. Devuelve también el resultado de cada señal para el registro.
 
     signals: dicts con news_id, symbol, action, confidence, impact y la clave extra
     "asset" (activo operable de Alpaca o None).
+    held: todos los símbolos con posición; manual: los que no abrió el bot (no se venden
+    ni se compran, para no mezclar con posiciones del usuario).
     """
     outcomes: dict[tuple[int, str], str] = {}
     best: dict[str, dict] = {}
@@ -70,12 +78,14 @@ def signal_orders(signals: list[dict], held: set[str], closing: set[str], equity
                 best[s["symbol"]] = s
 
     orders: list[Order] = []
-    open_slots = cfg.max_positions - len(held - closing)
+    open_slots = cfg.max_positions - len(held - manual - closing)
     for sym, s in sorted(best.items(), key=lambda kv: -kv[1]["confidence"]):
         key = (s["news_id"], sym)
         crypto = s["asset"].get("class") == "crypto"
         if sym in conflicted:
             outcomes[key] = "Ignorada: señales contradictorias"
+        elif sym in manual:
+            outcomes[key] = "Sin acción: posición manual"
         elif s["action"] == "sell":
             if sym in held and sym not in closing:
                 orders.append(Order("close", sym, "Noticia negativa", news_id=s["news_id"], is_crypto=crypto))

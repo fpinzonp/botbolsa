@@ -250,7 +250,7 @@ function drawPositions() {
   if (!pos.length) { $("positions").innerHTML = `<div class="empty">No hay posiciones abiertas${pfilter === "all" ? "" : " de este tipo"}. El bot compra cuando una noticia supera ${(DATA.rules?.min_confidence * 100 || 75).toFixed(0)}% de confianza.</div>`; return; }
   pos = [...pos].sort((a, b) => b.market_value - a.market_value);
   $("positions").innerHTML = `<table><thead><tr><th>Símbolo</th><th class="num">Valor</th><th class="num">Ganancia</th><th class="num">Precio entrada</th><th class="num">Precio actual</th><th>Abierta</th></tr></thead><tbody>
-    ${pos.map((p) => `<tr><td><b>${esc(p.symbol)}</b><span class="tag">${p.crypto ? "Cripto" : "Acción"}</span></td>
+    ${pos.map((p) => `<tr><td><b>${esc(p.symbol)}</b><span class="tag">${p.crypto ? "Cripto" : "Acción"}</span>${p.opened_at ? "" : '<span class="tag" title="Abierta por ti; el bot no la toca">Manual</span>'}</td>
       <td class="num">${usd(p.market_value)}</td>
       <td class="num ${cls(p.unrealized_pl)}">${usd(p.unrealized_pl)} (${pct(p.unrealized_plpc)})</td>
       <td class="num">${usd(p.avg_entry_price)}</td><td class="num">${usd(p.current_price)}</td>

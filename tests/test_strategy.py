@@ -25,8 +25,10 @@ def test_exits_stop_loss_take_profit_and_age():
         {"symbol": "BTCUSD", "unrealized_plpc": "0.12", "asset_class": "crypto"},
         {"symbol": "MSFT", "unrealized_plpc": "0.01", "asset_class": "us_equity"},
         {"symbol": "NVDA", "unrealized_plpc": "0.01", "asset_class": "us_equity"},
+        {"symbol": "GOOGL", "unrealized_plpc": "-0.15", "asset_class": "us_equity"},  # manual
     ]
-    opened = {"MSFT": (NOW - timedelta(days=6)).isoformat(), "NVDA": NOW.isoformat()}
+    opened = {"AAPL": NOW.isoformat(), "BTCUSD": NOW.isoformat(),
+              "MSFT": (NOW - timedelta(days=6)).isoformat(), "NVDA": NOW.isoformat()}
     orders = strategy.exit_orders(positions, opened, NOW, CFG)
     assert [(o.symbol, o.reason.split(" (")[0]) for o in orders] == [
         ("AAPL", "Stop loss"), ("BTCUSD", "Toma de ganancia"), ("MSFT", "Tiempo máximo")]
@@ -56,6 +58,14 @@ def test_sell_only_closes_existing_and_conflicts_skip():
     assert [(o.kind, o.symbol) for o in orders] == [("close", "AAPL")]
     assert outcomes[(2, "MSFT")] == "Sin acción: no hay posición abierta"
     assert "contradictorias" in outcomes[(3, "NVDA")] or "contradictorias" in outcomes[(4, "NVDA")]
+
+
+def test_manual_positions_are_never_traded():
+    for action in ("sell", "buy"):
+        orders, outcomes = strategy.signal_orders([sig("GOOGL", action=action)], {"GOOGL"}, set(),
+                                                  100_000, 100_000, CFG, frozenset({"GOOGL"}))
+        assert orders == []
+        assert outcomes[(1, "GOOGL")] == "Sin acción: posición manual"
 
 
 def test_max_positions_and_cash_limit():
