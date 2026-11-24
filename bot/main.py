@@ -119,6 +119,7 @@ def run() -> None:
         analyzed += batch
     run_log["news"] = len(analyzed)
     run_log["signals"] = len(signals)
+    run_log["tokens"] = analyzer.usage["tokens"]
 
     enriched = [{**s.model_dump(), "asset": alpaca.tradable_asset(s.symbol), "t": iso(now)}
                 for s in signals]

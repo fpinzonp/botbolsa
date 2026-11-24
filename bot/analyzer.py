@@ -12,6 +12,9 @@ from pydantic import BaseModel, ValidationError
 
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
+# Tokens consumidos en esta ejecución (para vigilar el cupo diario del plan gratis).
+usage = {"tokens": 0}
+
 SYSTEM_PROMPT = """\
 Eres un analista financiero cuantitativo y conservador. Recibes noticias recientes \
 (acciones de EE.UU. y criptomonedas) y decides si alguna justifica operar a corto plazo \
@@ -135,7 +138,9 @@ def _groq(api_key: str, model: str, user: str) -> Analysis:
             continue
         if resp.status_code != 200:
             raise AnalyzerError(f"Groq {resp.status_code}: {resp.text[:200]}")
-        content = resp.json()["choices"][0]["message"].get("content") or ""
+        data = resp.json()
+        usage["tokens"] += (data.get("usage") or {}).get("total_tokens", 0)
+        content = data["choices"][0]["message"].get("content") or ""
         try:
             return Analysis.model_validate_json(content)
         except ValidationError as e:
@@ -154,6 +159,7 @@ def _claude(model: str, user: str) -> Analysis:
         )
     except anthropic.APIError as e:
         raise AnalyzerError(f"Claude: {e}") from e
+    usage["tokens"] += response.usage.input_tokens + response.usage.output_tokens
     if response.stop_reason == "refusal" or response.parsed_output is None:
         print(f"Claude no devolvió un análisis (stop_reason={response.stop_reason})")
         return Analysis(signals=[])
