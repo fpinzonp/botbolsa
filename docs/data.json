@@ -47,6 +47,10 @@
   {
    "t": "2026-11-24T21:28:48Z",
    "v": 99697.42
+  },
+  {
+   "t": "2026-11-24T21:43:47Z",
+   "v": 99638.79
   }
  ],
  "decisions": [
@@ -2087,6 +2091,237 @@
     "MC"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-24T21:32:20Z",
+   "news_id": 130069585,
+   "headline": "Motorola Solutions Introduces 'AI Nutrition Labels' for Security Products",
+   "url": "https://www.newswiretoday.com/news/187296/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MSI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:32:15Z",
+   "news_id": 130069584,
+   "headline": "Analysts Initiate Coverage on Anthropic Following IPO",
+   "url": "https://www.marketscreener.com/news/anthropic-seen-well-positioned-to-capture-enterprise-ai-spending-oppenheimer-says-ce7851dbda8ef12c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ANT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:32:15Z",
+   "news_id": 130069583,
+   "headline": "Anthropic Shares Trade Below IPO Price",
+   "url": "https://www.barchart.com/press-releases/8988178/anthropic-stock-breaks-below-83-offering-price-despite-bullish-analyst-calls",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ANT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:55Z",
+   "news_id": 130068295,
+   "headline": "General Motors Ventures Leads Series B Financing for Peak Energy",
+   "url": "https://dealroom.co/news/175370-peak-energy-adds-25m-debt-to-series-b-reaching-157m-for-sodium-ion-push/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:53Z",
+   "news_id": 130068294,
+   "headline": "Georgia Ports Authority Endorses Union Pacific-Norfolk Southern Merger",
+   "url": "https://www.businesswire.com/newsroom/industry/transport/rail",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NSC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:51Z",
+   "news_id": 130068292,
+   "headline": "Dell Technologies Reports Record Quarterly Revenue and Raises Full-Year Outlook",
+   "url": "https://www.morningstar.com/news/marketwatch/2026112499/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DELL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:49Z",
+   "news_id": 130068291,
+   "headline": "PT Freeport Indonesia Announces Redemption of 2027 Senior Notes",
+   "url": "https://www.barchart.com/press-releases/8986695/pt-freeport-indonesia-announces-redemption-of-4-763-senior-notes-due-2027",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FCX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:48Z",
+   "news_id": 130068290,
+   "headline": "Coign Capital Advisors LLC Acquires Shares of Vertex Pharmaceuticals Incorporated",
+   "url": "https://insurancenewsnet.com/oarticle/vertex-pharmaceuticals-incorporated-vrtx-shares-newly-bought-by-coign-capital-advisors-llc",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VRTX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:47Z",
+   "news_id": 130068289,
+   "headline": "Qualcomm Highlights Long-Term Commitment to Innovation and Ecosystem Development",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70216276-qualcomm-our-nation-s-blueprint-why-america-has-always-bet-on-its-inventors-200.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "QCOM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:40Z",
+   "news_id": 130068288,
+   "headline": "Nasdaq Announces Mid-Month Open Short Interest Positions for November 2026",
+   "url": "https://www.morningstar.com/news/globe-newswire/9884580/nasdaq-announces-mid-month-open-short-interest-positions-in-nasdaq-stocks-as-of-settlement-date-november-13-2026",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NDAQ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:39Z",
+   "news_id": 130068287,
+   "headline": "Comcast Launches Five-Year Price Guarantee for Xfinity Internet Customers",
+   "url": "https://www.compareinternet.com/blog/biggest-internet-changes-of-2026/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CMCSA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:39Z",
+   "news_id": 130068286,
+   "headline": "Travelers Institute Releases Survey Findings on Distracted Driving Habits",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409747/0/en/the-distractions-putting-drivers-at-risk-this-holiday-season.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TRV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:32Z",
+   "news_id": 130068285,
+   "headline": "Oppenheimer and Fubon Adjust Price Targets for Marvell Technology",
+   "url": "https://br.advfn.com/bolsa-de-valores/nasdaq/MRVL/share-news/99775138/susquehanna-corta-alvo-da-marvell-para-us-225-antes-de-balanco-decisivo-em-deze",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MRVL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:31Z",
+   "news_id": 130068284,
+   "headline": "Air Products to Participate in Goldman Sachs Industrials and Materials Conference",
+   "url": "https://investingnews.com/air-products-to-speak-at-goldman-sachs-industrials-and-materials-conference-on-december-2/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "APD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:31Z",
+   "news_id": 130068283,
+   "headline": "CIBC Lowers Price Target on Bank of Montreal",
+   "url": "https://www.moomoo.com/hant/news/post/1005624321/cibc-lowers-price-target-on-six-canadian-banks",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BMO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:30Z",
+   "news_id": 130068282,
+   "headline": "Walmart Launches 'Muse' AI Shopping Assistant",
+   "url": "https://www.pymnts.com/news/retail/2026/walmart-turns-to-metas-muse-to-power-black-friday/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WMT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:28Z",
+   "news_id": 130068281,
+   "headline": "Southern Company EPS Outlook Raised Amid Strong Corporate Demand",
+   "url": "https://www.barchart.com/story/news/8990063/investors-buy-unusually-large-leap-options-in-southeastern-utility-southern-company",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:28Z",
+   "news_id": 130068280,
+   "headline": "German Voice Actors Initiate Legal Action Against Netflix Over AI Training Clauses",
+   "url": "https://ultimosegundo.ig.com.br/agencias/dw/2026-11-24/dubladores-alemaes-se-revoltam-contra-netflix-por-uso-de-ia.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NFLX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:26Z",
+   "news_id": 130068279,
+   "headline": "State Attorneys General Object to Character.AI Asset Sale to Disney",
+   "url": "https://world.einnews.com/pr_news/958749911/attorney-general-tong-challenges-plan-to-auction-off-character-ai-users-private-chats-including-kids-data-to-the-highest-bidder",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DIS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:25Z",
+   "news_id": 130068278,
+   "headline": "Evercore Adjusts Alphabet Price Target",
+   "url": "https://www.futunn.com/en/stock/GOOGL-US",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GOOG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T21:31:21Z",
+   "news_id": 130068277,
+   "headline": "Eli Lilly Canada Sponsors Survey on Type 2 Diabetes Awareness",
+   "url": "https://www.newswire.ca/news-releases/early-action-after-a-type-2-diabetes-diagnosis-could-shape-health-for-decades-but-new-survey-reveals-weight-management-isn-t-always-part-of-the-plan-866989716.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LLY"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -2226,10 +2461,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-24T21:43:47Z",
+   "fetched": 22,
+   "news": 21,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 2091
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-24T21:28:48Z",
+ "updated_at": "2026-11-24T21:43:47Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -2242,10 +2486,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99697.42,
+  "equity": 99638.79,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 391204.35
+  "buying_power": 391040.19
  },
  "pending": 0,
  "positions": [
@@ -2254,10 +2498,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 279.41,
-   "market_value": 1397.05,
-   "unrealized_pl": -239.09,
-   "unrealized_plpc": -0.14613,
+   "current_price": 279.15,
+   "market_value": 1395.75,
+   "unrealized_pl": -240.39,
+   "unrealized_plpc": -0.14693,
    "opened_at": null
   },
   {
@@ -2265,10 +2509,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 40.3498,
-   "market_value": 4924.047908,
-   "unrealized_pl": -63.482092,
-   "unrealized_plpc": -0.01273,
+   "current_price": 39.88,
+   "market_value": 4866.71633,
+   "unrealized_pl": -120.81367,
+   "unrealized_plpc": -0.02422,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
