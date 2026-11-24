@@ -31,6 +31,10 @@
   {
    "t": "2026-11-24T20:28:45Z",
    "v": 99590.21
+  },
+  {
+   "t": "2026-11-24T20:43:44Z",
+   "v": 99578.87
   }
  ],
  "decisions": [
@@ -2005,6 +2009,28 @@
     "ANT"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-24T20:31:52Z",
+   "news_id": 129992428,
+   "headline": "UBS Adjusts Price Target on Globant SA to $47 From $43",
+   "url": "https://www.marketscreener.com/news/ubs-adjusts-price-target-on-globant-sa-to-47-from-43-maintains-neutral-rating-ce7851dbda89f227",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GLOB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T20:31:33Z",
+   "news_id": 129992426,
+   "headline": "Braskem Reaches Agreement in Principle on Debt Restructuring Plan",
+   "url": "https://www.prnewswire.com/news-releases/steering-committee-of-ad-hoc-group-of-braskem-creditors-reaches-agreement-in-principle-with-braskem-and-its-main-shareholders-302949787.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BAK"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -2108,10 +2134,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-24T20:43:44Z",
+   "fetched": 3,
+   "news": 2,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 700
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-24T20:28:45Z",
+ "updated_at": "2026-11-24T20:43:44Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -2124,10 +2159,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99590.21,
+  "equity": 99578.87,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 390904.17
+  "buying_power": 390872.43
  },
  "pending": 0,
  "positions": [
@@ -2136,10 +2171,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 277.245,
-   "market_value": 1386.225,
-   "unrealized_pl": -249.915,
-   "unrealized_plpc": -0.15275,
+   "current_price": 277.638,
+   "market_value": 1388.19,
+   "unrealized_pl": -247.95,
+   "unrealized_plpc": -0.15155,
    "opened_at": null
   },
   {
@@ -2147,10 +2182,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 39.56,
-   "market_value": 4827.665447,
-   "unrealized_pl": -159.864553,
-   "unrealized_plpc": -0.03205,
+   "current_price": 39.451,
+   "market_value": 4814.363739,
+   "unrealized_pl": -173.166261,
+   "unrealized_plpc": -0.03472,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
