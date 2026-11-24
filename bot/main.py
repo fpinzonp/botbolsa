@@ -181,8 +181,11 @@ def run() -> None:
     # 3) Datos para el dashboard.
     account = alpaca.account()
     positions = alpaca.positions()
-    for sym in list(state["opened_at"]):
-        if sym not in {norm(p["symbol"]) for p in positions}:
+    # Olvida posiciones que ya no existen, salvo las compradas en esta ejecución: la orden
+    # de mercado puede tardar unos segundos en ejecutarse y aún no aparecer como posición.
+    current = {norm(p["symbol"]) for p in positions}
+    for sym, opened in list(state["opened_at"].items()):
+        if sym not in current and opened != iso(now):
             state["opened_at"].pop(sym)
     equity = float(account["equity"])
     dash.setdefault("starting_equity", equity)
