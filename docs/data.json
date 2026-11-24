@@ -55,6 +55,10 @@
   {
    "t": "2026-11-24T21:58:48Z",
    "v": 99641.21
+  },
+  {
+   "t": "2026-11-24T22:13:47Z",
+   "v": 99658.89
   }
  ],
  "decisions": [
@@ -2326,6 +2330,50 @@
     "LLY"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-24T22:01:29Z",
+   "news_id": 130107000,
+   "headline": "NatWest Group Declares Half-Yearly Dividends on Cumulative Preference Shares",
+   "url": "https://www.investegate.co.uk/announcement/rns/natwest-group--nwg/dividend-declaration/9891901",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NWG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T22:01:28Z",
+   "news_id": 130106999,
+   "headline": "General Manager of CCEP Iberian Business Unit Executes Share Sale",
+   "url": "https://www.investegate.co.uk/announcement/rns/coca-cola-europacific-partners-di---ccep/director-pdmr-shareholding/9891911",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CCEP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T22:01:21Z",
+   "news_id": 130106997,
+   "headline": "Rio Tinto Commits C$10 Million to Canadian Food Security Initiative",
+   "url": "https://investingnews.com/rio-tinto-to-commit-c-10m-over-five-years-to-food-security-in-canada/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RIO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T22:01:17Z",
+   "news_id": 130106996,
+   "headline": "Lloyds Banking Group plc - Holding(s) in Company",
+   "url": "https://www.finanznachrichten.de/nachrichten-branche/finanzdienstleistungen.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LYG"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -2483,10 +2531,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-24T22:13:47Z",
+   "fetched": 8,
+   "news": 4,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 833
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-24T21:58:48Z",
+ "updated_at": "2026-11-24T22:13:47Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -2499,10 +2556,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99641.21,
+  "equity": 99658.89,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 391046.96
+  "buying_power": 391096.48
  },
  "pending": 0,
  "positions": [
@@ -2511,10 +2568,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 279.39,
-   "market_value": 1396.95,
-   "unrealized_pl": -239.19,
-   "unrealized_plpc": -0.14619,
+   "current_price": 279.51,
+   "market_value": 1397.55,
+   "unrealized_pl": -238.59,
+   "unrealized_plpc": -0.14582,
    "opened_at": null
   },
   {
@@ -2522,10 +2579,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 39.89,
-   "market_value": 4867.93667,
-   "unrealized_pl": -119.59333,
-   "unrealized_plpc": -0.02398,
+   "current_price": 40.03,
+   "market_value": 4885.021431,
+   "unrealized_pl": -102.508569,
+   "unrealized_plpc": -0.02055,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
