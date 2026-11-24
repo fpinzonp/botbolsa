@@ -71,6 +71,10 @@
   {
    "t": "2026-11-24T22:58:44Z",
    "v": 99683.75
+  },
+  {
+   "t": "2026-11-24T23:13:47Z",
+   "v": 99679.87
   }
  ],
  "decisions": [
@@ -2844,6 +2848,446 @@
     "BXBL"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-24T23:03:58Z",
+   "news_id": 130190784,
+   "headline": "TD Cowen Adjusts GitLab Price Target",
+   "url": "https://www.moomoo.com/options/GTLB261127P49500-US?chain_id=Name1K9-3FXPhg.1lg1no0&global_content=%7B%22promote_id%22%3A%2213764%22,%22sub_promote_id%22%3A%2280%22,%22f%22%3A%22www.moomoo.com%2Fus%2Fhans%2Flearn%2Fdetail-what-are-cash-equivalents-116936-231107084%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GTLB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:03:49Z",
+   "news_id": 130190783,
+   "headline": "Yum! Brands Insider Executes Share Sale",
+   "url": "https://ch.marketscreener.com/boerse-nachrichten/yum-brands-insider-verkaufte-aktien-im-wert-von-2-730-709-usd-laut-aktueller-sec-meldung-ce7851dbdd8ff220",
+   "source": "fiscal.ai",
+   "symbols": [
+    "YUM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:03:32Z",
+   "news_id": 130190782,
+   "headline": "National Bank Maintains Outperform Rating on BRP Inc.",
+   "url": "https://www.moomoo.com/hans/news/post/1005636217",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DOO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:51Z",
+   "news_id": 130189304,
+   "headline": "Tyler Technologies Insider Sells Shares Worth $8.27 Million",
+   "url": "https://www.marketscreener.com/news/tyler-technologies-insider-sold-shares-worth-8-270-300-according-to-a-recent-sec-filing-ce7851dbdd81f023",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TYL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:43Z",
+   "news_id": 130189303,
+   "headline": "Molina Healthcare Announces Fourth Quarter and Year-End 2026 Earnings Release and Conference Call Dates",
+   "url": "https://www.streetinsider.com/Press+Releases?before_id=27395553",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MOH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:38Z",
+   "news_id": 130189302,
+   "headline": "Lindblad Expeditions Holdings Director Sells Shares",
+   "url": "https://www.moomoo.com/stock/LIND-US?chain_id=Name1K9-3FXPhg.1l8hpk0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2FIE-US%2Fforecast%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LIND"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:36Z",
+   "news_id": 130189301,
+   "headline": "Evercore Maintains Buy Rating on NetApp, Lowers Price Target to $250",
+   "url": "https://www.moomoo.com/stock/NTAP-US?chain_id=Name1K9-3FXPhg.1l07fo0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2FLUCY-US%2Ffinancials-key-indicators%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NTAP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:34Z",
+   "news_id": 130189300,
+   "headline": "Power Integrations Reports Inducement Grants",
+   "url": "https://www.streetinsider.com/Press+Releases?before_id=27382693",
+   "source": "fiscal.ai",
+   "symbols": [
+    "POWI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:25Z",
+   "news_id": 130189299,
+   "headline": "Analysts Assess Impact of 'Grand Theft Auto VI' Launch on Roblox Engagement",
+   "url": "https://www.moomoo.com/stock/RBLX-US?chain_id=Name1K9-3FXPhg.1lgb9jg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FRBLX-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RBLX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:23Z",
+   "news_id": 130189298,
+   "headline": "Tradeweb to Present at the Goldman Sachs 2026 U.S. Financial Services Conference",
+   "url": "https://www.streetinsider.com/Press+Releases?before_id=27392296",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:21Z",
+   "news_id": 130189297,
+   "headline": "VA SkyWire Expands MDU Footprint Using Calix SmartMDU",
+   "url": "https://www.barchart.com/press-releases/8991625/va-skywire-increases-roi-40-across-their-mdu-business-with-calix-smartmdu-as-they-expand-into-new-markets",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CALX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:20Z",
+   "news_id": 130189296,
+   "headline": "Elastic Launches ES QL Data Federation Feature in Technical Preview",
+   "url": "https://www.moomoo.com/stock/ESTC-US?chain_id=Name1K9-3FXPhg.1lgbgkg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FBEKE-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ESTC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:18Z",
+   "news_id": 130189295,
+   "headline": "Zebra Technologies Refinances and Expands Credit Facility to $3.50 Billion",
+   "url": "https://www.marketscreener.com/news/zebra-technologies-refinances-expands-credit-facility-to-3-50-billion-ce7851dbdc89f023",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ZBRA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:12Z",
+   "news_id": 130189294,
+   "headline": "Quebecor and TELUS Hold Initial Talks Regarding Potential Partnership",
+   "url": "https://www.moomoo.com/stock/T-CA?chain_id=Name1K9-3FXPhg.1lgakgg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FBMO-CA%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "T"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:11Z",
+   "news_id": 130189293,
+   "headline": "AeroVironment, Inc. to Announce Second Quarter of Fiscal Year 2027 Earnings and Host Conference Call",
+   "url": "https://www.businesswire.com/newsroom/subject/earnings",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AVAV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:09Z",
+   "news_id": 130189292,
+   "headline": "NOVAGOLD Exercises Prepayment Option and Completes Full Repayment of Barrick Promissory Note",
+   "url": "https://www.morningstar.com/news/globe-newswire/9884551/novagold-exercises-prepayment-option-and-completes-full-repayment-of-barrick-promissory-note",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:08Z",
+   "news_id": 130189291,
+   "headline": "Tenet Healthcare Announces Partial Revocation of Cease Trade Order and Proposed Financing",
+   "url": "https://www.streetinsider.com/Press+Releases?before_id=26558685",
+   "source": "fiscal.ai",
+   "symbols": [
+    "THC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:08Z",
+   "news_id": 130189290,
+   "headline": "Arcus Biosciences Announces New Employment Inducement Grants",
+   "url": "https://www.businesswire.com/newsroom/industry/health/oncology",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RCUS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:08Z",
+   "news_id": 130189289,
+   "headline": "Credit Acceptance Announces Completion of $800.0 Million Asset-Backed Financing",
+   "url": "https://www.morningstar.com/news/globe-newswire/9884570/credit-acceptance-announces-completion-of-8000-million-asset-backed-financing",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CACC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:07Z",
+   "news_id": 130189288,
+   "headline": "Ambarella Reports Third Quarter Fiscal 2027 Financial Results",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409869/23306/en/ambarella-inc-announces-third-quarter-fiscal-year-2027-financial-results.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AMBA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:07Z",
+   "news_id": 130189287,
+   "headline": "Qualys Insider Executes Stock Sale",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/insider-von-qualys-verkaufte-aktien-im-wert-von-250-000-usd-wie-aus-einer-aktuellen-sec-meldung-her-ce7851dbdc8cff22",
+   "source": "fiscal.ai",
+   "symbols": [
+    "QLYS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:07Z",
+   "news_id": 130189286,
+   "headline": "Ambarella and Liquid AI Partner to Advance Device-Native Agentic AI",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409866/23306/en/ambarella-and-liquid-ai-partner-to-accelerate-device-native-agentic-ai-for-physical-ai-applications.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AMBA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:06Z",
+   "news_id": 130189285,
+   "headline": "Roth Capital Partners Maintains Buy Rating on nLIGHT",
+   "url": "https://www.cantechletter.com/2026/11/nlight-stock-is-a-buy-this-analyst-says/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LASR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:06Z",
+   "news_id": 130189284,
+   "headline": "Ashland Inc. Announces Global Price Increases for Intermediates and Solvents",
+   "url": "https://www.morningstar.com/news/globe-newswire/9884498/ashland-increases-prices-for-its-14-butanediol-intermediates-and-solvents-product-range-globally",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ASH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:05Z",
+   "news_id": 130189283,
+   "headline": "Peloton Executives to Speak at JOURNEY Leadership Summit",
+   "url": "https://theclipout.com/journey-leadership-summit-peloton-speakers/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PTON"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:05Z",
+   "news_id": 130189282,
+   "headline": "Travere Therapeutics to Participate at Upcoming Investor Conferences",
+   "url": "https://www.businesswire.com/newsroom/industry/health/pharmaceutical",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TVTX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:05Z",
+   "news_id": 130189281,
+   "headline": "DoubleVerify Holdings, Inc. to be Replaced in S&P SmallCap 600",
+   "url": "https://www.prnewswire.com/news-releases/business-technology-latest-news/computer-electronics-list/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:04Z",
+   "news_id": 130189280,
+   "headline": "Centuri Holdings Set to Join S&P SmallCap 600",
+   "url": "https://www.prnewswire.com/news-releases/centuri-holdings-set-to-join-sp-smallcap-600-302949933.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CTRI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:04Z",
+   "news_id": 130189279,
+   "headline": "Obi Launches ChatGPT Plugin Integrating Lyft for Rideshare Comparison and Booking",
+   "url": "https://www.einpresswire.com/article/958731982/obi-launches-chatgpt-plugin-to-compare-rideshare-taxi-and-public-transit-options",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LYFT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:04Z",
+   "news_id": 130189278,
+   "headline": "Cytokinetics to Participate in December Investor Conferences",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409856/35409/en/cytokinetics-to-participate-in-december-investor-conferences.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CYTK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:03Z",
+   "news_id": 130189277,
+   "headline": "nCino Announces Participation in Upcoming Investor Conferences",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409883/0/en/ncino-to-participate-in-upcoming-investor-events.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NCNO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:03Z",
+   "news_id": 130189276,
+   "headline": "Asana Announces Upcoming Investor Conference Presentations",
+   "url": "https://www.barchart.com/press-releases/8983644/asana-to-present-at-upcoming-investor-events",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ASAN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:03Z",
+   "news_id": 130189275,
+   "headline": "SmartStop Self Storage Acquires New Las Vegas Facility",
+   "url": "https://www.businesswire.com/newsroom/subject/merger-acquisition",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SMA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:03Z",
+   "news_id": 130189274,
+   "headline": "Five Below's Growth Becoming Less Reliant on Viral Products, UBS Says",
+   "url": "https://www.marketscreener.com/news/five-below-s-growth-becoming-less-reliant-on-viral-products-ubs-says-ce7851dbdd8ff523",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FIVE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:02Z",
+   "news_id": 130189272,
+   "headline": "Dana Incorporated to Participate in UBS Global Industrials and Transportation Conference",
+   "url": "https://www.prnewswire.com/news-releases/dana-incorporated-to-participate-in-ubs-global-industrials-and-transportation-conference-302949812.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DAN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:02Z",
+   "news_id": 130189271,
+   "headline": "Stifel Maintains Buy Rating and Raises Price Target for Glaukos Corporation",
+   "url": "https://www.moomoo.com/index/.RUT-US/news?chain_id=Name1K9-3FXPhg.1lg70g0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FDIV-CA%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GKOS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:02Z",
+   "news_id": 130189270,
+   "headline": "Xencor to Participate at Upcoming Investor Conferences",
+   "url": "https://www.businesswire.com/newsroom/industry/health/biotechnology",
+   "source": "fiscal.ai",
+   "symbols": [
+    "XNCR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:01Z",
+   "news_id": 130189269,
+   "headline": "Bank of Hawaii Participates in Financing for Leiwili Kapolei Development",
+   "url": "https://www.newswire.com/news/the-michaels-organization-iken-kea-development-poised-to-break-ground-22897540",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BOH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:02:00Z",
+   "news_id": 130189268,
+   "headline": "Cushman & Wakefield to Represent Landlord for Industrial Facility in Bethlehem, Pennsylvania",
+   "url": "https://www.prnewswire.com/news-releases/brennan-investment-groups-opportunity-fund-acquires-100-790-square-foot-industrial-facility-in-bethlehem-pennsylvania-302949122.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CWK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T23:01:57Z",
+   "news_id": 130187827,
+   "headline": "NBC Documentary Celebrates 100 Years of Macy's Thanksgiving Day Parade",
+   "url": "https://www.morningstar.com/news/accesswire/1256468msn/voice-actor-brigid-reale-narrates-nbc-documentary-celebrating-100-years-of-macys-thanksgiving-day-parade",
+   "source": "fiscal.ai",
+   "symbols": [
+    "M"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -3037,10 +3481,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-24T23:13:47Z",
+   "fetched": 87,
+   "news": 40,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 4079
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-24T22:58:44Z",
+ "updated_at": "2026-11-24T23:13:47Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -3053,10 +3506,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99683.75,
+  "equity": 99679.87,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 391166.08
+  "buying_power": 391155.21
  },
  "pending": 1,
  "positions": [
@@ -3065,10 +3518,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 279.9,
-   "market_value": 1399.5,
-   "unrealized_pl": -236.64,
-   "unrealized_plpc": -0.14463,
+   "current_price": 279.8,
+   "market_value": 1399.0,
+   "unrealized_pl": -237.14,
+   "unrealized_plpc": -0.14494,
    "opened_at": null
   },
   {
@@ -3076,10 +3529,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 40.2177,
-   "market_value": 4907.927215,
-   "unrealized_pl": -79.602785,
-   "unrealized_plpc": -0.01596,
+   "current_price": 40.19,
+   "market_value": 4904.546873,
+   "unrealized_pl": -82.983127,
+   "unrealized_plpc": -0.01664,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
