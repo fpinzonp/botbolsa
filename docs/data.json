@@ -23,6 +23,10 @@
   {
    "t": "2026-11-24T19:55:27Z",
    "v": 99627.15
+  },
+  {
+   "t": "2026-11-24T20:13:45Z",
+   "v": 99613.81
   }
  ],
  "decisions": [
@@ -1942,6 +1946,61 @@
     "AAL"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-24T20:01:56Z",
+   "news_id": 129954714,
+   "headline": "Visa, Mastercard Seen Gaining From Expansion of Tokenized Payments, UBS Says",
+   "url": "https://www.marketscreener.com/news/visa-mastercard-seen-gaining-from-expansion-of-tokenized-payments-ubs-says-ce7851dbdd8af62c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T20:01:49Z",
+   "news_id": 129954713,
+   "headline": "Jefferies Adjusts Royal Bank of Canada Price Target",
+   "url": "https://www.moomoo.com/news/post/1005635140/royal-bank-of-canada-price-target-cut-to-c-269",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T20:01:48Z",
+   "news_id": 129954712,
+   "headline": "Comstock Unveils Luminary Ballroom at JW Marriott Reston Station",
+   "url": "https://www.businesswire.com/newsroom/industry/construction-property/reit",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T20:01:36Z",
+   "news_id": 129954711,
+   "headline": "McDonald's Joins Regen Compact to Support Regenerative Agriculture",
+   "url": "https://supplychaindigital.com/news/nestle-mcdonalds-pledge-for-resilient-food-supply-chains",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MCD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-24T20:01:28Z",
+   "news_id": 129954710,
+   "headline": "GraniteShares Launches Options Trading for Anthropic-Linked ETFs",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409656/0/en/options-are-now-available-on-graniteshares-long-and-short-anthropic-etfs.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ANT"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -2027,10 +2086,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 4106
+  },
+  {
+   "t": "2026-11-24T20:13:45Z",
+   "fetched": 7,
+   "news": 5,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 888
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-24T19:55:27Z",
+ "updated_at": "2026-11-24T20:13:45Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -2043,10 +2111,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99627.15,
+  "equity": 99613.81,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 391007.59
+  "buying_power": 390970.26
  },
  "pending": 0,
  "positions": [
@@ -2055,10 +2123,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 277.31,
-   "market_value": 1386.55,
-   "unrealized_pl": -249.59,
-   "unrealized_plpc": -0.15255,
+   "current_price": 277.45,
+   "market_value": 1387.25,
+   "unrealized_pl": -248.89,
+   "unrealized_plpc": -0.15212,
    "opened_at": null
   },
   {
@@ -2066,10 +2134,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 39.86,
-   "market_value": 4864.27565,
-   "unrealized_pl": -123.25435,
-   "unrealized_plpc": -0.02471,
+   "current_price": 39.745,
+   "market_value": 4850.241738,
+   "unrealized_pl": -137.288262,
+   "unrealized_plpc": -0.02753,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
