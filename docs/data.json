@@ -87,6 +87,10 @@
   {
    "t": "2026-11-24T23:58:55Z",
    "v": 99651.9
+  },
+  {
+   "t": "2026-11-25T00:07:16Z",
+   "v": 99643.83
   }
  ],
  "decisions": [
@@ -3320,6 +3324,114 @@
      "outcome": "Ignorada: confianza 70% < 75%"
     }
    ]
+  },
+  {
+   "t": "2026-11-25T00:02:06Z",
+   "news_id": 130276673,
+   "headline": "Analyst Price Target Adjustments for Royal Bank of Canada",
+   "url": "https://www.moomoo.com/stock/RY-CA?chain_id=Name1K9-3FXPhg.1kqk680&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A64,%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Fvancan-2025-74783215%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T00:01:59Z",
+   "news_id": 130276672,
+   "headline": "Starbucks to Participate in the 2026 Morgan Stanley Global Consumer & Retail Conference",
+   "url": "https://www.streetinsider.com/Press+Releases?before_id=27395553",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SBUX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T00:01:56Z",
+   "news_id": 130276663,
+   "headline": "RBC Capital and Seaport Initiate Coverage of Tesla",
+   "url": "https://www.moomoo.com/stock/TSLA-US?chain_id=Name1K9-3FXPhg.1lgbumg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FSNOW-US%2Fcommunity%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TSLA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T00:01:55Z",
+   "news_id": 130276662,
+   "headline": "Boeing Awarded $2.82 Billion Air Force Contract Modification",
+   "url": "https://www.morningstar.com/news/dow-jones/202611248918/boeing-gets-282-billion-added-to-air-force-contract",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BA"
+   ],
+   "signals": [
+    {
+     "symbol": "BA",
+     "action": "buy",
+     "confidence": 0.92,
+     "impact": "high",
+     "rationale": "Boeing recibió una modificación de contrato de $2.82 bn del Air Force, un catalizador significativo que probablemente impulse el precio de la acción en el corto plazo.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-25T00:01:52Z",
+   "news_id": 130276661,
+   "headline": "Marriott Bonvoy Recognized in 2027 BrandSpark Most Trusted® Awards",
+   "url": "https://www.newswire.ca/news-releases/canada-s-most-trusted-brands-revealed-canadian-shoppers-name-their-most-trusted-brands-in-324-categories-in-the-2027-edition-of-the-brandspark-most-trusted-r-awards-892499923.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T00:01:46Z",
+   "news_id": 130276660,
+   "headline": "Class Action Lawsuit Filed Against Uber Regarding October 2026 Data Breach",
+   "url": "https://www.classaction.org/news/data-breach-lawsuit-alleges-uber-fireworks-failed-to-protect-sensitive-driver-info",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBER"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T00:01:35Z",
+   "news_id": 130276658,
+   "headline": "Micron Discloses Increased Executive Security Expenses",
+   "url": "https://www.morningstar.com/news/marketwatch/20261124417/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2000-new-filing-shows",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MU"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T00:01:27Z",
+   "news_id": 130276657,
+   "headline": "BlackRock Canada Announces November 2026 Cash Distributions for iShares Premium Money Market ETF",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409940/0/en/blackrock-canada-announces-final-november-cash-distributions-for-the-ishares-premium-money-market-etf.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BLK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T00:01:22Z",
+   "news_id": 130276656,
+   "headline": "Juries Award Millions in Separate Johnson & Johnson Talc-Related Mesothelioma Lawsuits",
+   "url": "https://www.asbestos.com/news/2026/11/24/juries-award-millions-in-separate-jj-mesothelioma-talc-cases/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JNJ"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -3549,10 +3661,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T00:07:16Z",
+   "fetched": 10,
+   "news": 9,
+   "signals": 1,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1319
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-24T23:58:55Z",
+ "updated_at": "2026-11-25T00:07:16Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -3565,22 +3686,22 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99651.9,
+  "equity": 99643.83,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 391076.9
+  "buying_power": 391054.3
  },
- "pending": 1,
+ "pending": 2,
  "positions": [
   {
    "symbol": "GOOGL",
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 279.41,
-   "market_value": 1397.05,
-   "unrealized_pl": -239.09,
-   "unrealized_plpc": -0.14613,
+   "current_price": 279.67,
+   "market_value": 1398.35,
+   "unrealized_pl": -237.79,
+   "unrealized_plpc": -0.14534,
    "opened_at": null
   },
   {
@@ -3588,10 +3709,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 39.9768,
-   "market_value": 4878.529222,
-   "unrealized_pl": -109.000778,
-   "unrealized_plpc": -0.02185,
+   "current_price": 39.9,
+   "market_value": 4869.15701,
+   "unrealized_pl": -118.37299,
+   "unrealized_plpc": -0.02373,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
