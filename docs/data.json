@@ -399,6 +399,10 @@
   {
    "t": "2026-11-25T19:07:18Z",
    "v": 99563.76
+  },
+  {
+   "t": "2026-11-25T19:22:24Z",
+   "v": 99563.25
   }
  ],
  "decisions": [
@@ -4722,10 +4726,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 4076
+  },
+  {
+   "t": "2026-11-25T19:22:24Z",
+   "fetched": 0,
+   "news": 0,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 0
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T19:07:18Z",
+ "updated_at": "2026-11-25T19:22:24Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4738,10 +4751,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99563.76,
+  "equity": 99563.25,
   "cash": 84553.25,
   "last_equity": 99676.10687299244,
-  "buying_power": 380242.43
+  "buying_power": 380241.0
  },
  "pending": 0,
  "positions": [
@@ -4750,10 +4763,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.46,
-   "market_value": 4927.919769,
-   "unrealized_pl": -43.630231,
-   "unrealized_plpc": -0.00878,
+   "current_price": 21.48,
+   "market_value": 4932.512425,
+   "unrealized_pl": -39.037575,
+   "unrealized_plpc": -0.00785,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4761,10 +4774,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 165.705,
-   "market_value": 5125.75095,
-   "unrealized_pl": 154.20095,
-   "unrealized_plpc": 0.03102,
+   "current_price": 165.54,
+   "market_value": 5120.647007,
+   "unrealized_pl": 149.097007,
+   "unrealized_plpc": 0.02999,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
