@@ -335,6 +335,10 @@
   {
    "t": "2026-11-25T14:37:19Z",
    "v": 99429.02
+  },
+  {
+   "t": "2026-11-25T14:52:23Z",
+   "v": 98884.06
   }
  ],
  "decisions": [
@@ -3774,6 +3778,26 @@
    "news_id": 130310685,
    "crypto": false,
    "status": "enviada"
+  },
+  {
+   "t": "2026-11-25T14:52:23Z",
+   "symbol": "HPE",
+   "side": "close",
+   "reason": "Stop loss (-5.5%)",
+   "notional": 0.0,
+   "news_id": null,
+   "crypto": false,
+   "status": "enviada"
+  },
+  {
+   "t": "2026-11-25T14:52:23Z",
+   "symbol": "SINT",
+   "side": "close",
+   "reason": "Stop loss (-5.8%)",
+   "notional": 0.0,
+   "news_id": null,
+   "crypto": false,
+   "status": "enviada"
   }
  ],
  "runs": [
@@ -4529,10 +4553,19 @@
    "orders": 6,
    "errors": [],
    "tokens": 4097
+  },
+  {
+   "t": "2026-11-25T14:52:23Z",
+   "fetched": 0,
+   "news": 0,
+   "signals": 0,
+   "orders": 2,
+   "errors": [],
+   "tokens": 0
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T14:37:19Z",
+ "updated_at": "2026-11-25T14:52:23Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4545,34 +4578,78 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99429.02,
-  "cash": 93376.31,
+  "equity": 98884.06,
+  "cash": 69833.61,
   "last_equity": 99676.10687299244,
-  "buying_power": 350680.35
+  "buying_power": 347567.41
  },
  "pending": 0,
  "positions": [
   {
-   "symbol": "GOOGL",
+   "symbol": "AAT",
    "crypto": false,
-   "qty": 5.0,
-   "avg_entry_price": 327.228,
-   "current_price": 263.07,
-   "market_value": 1315.35,
-   "unrealized_pl": -320.79,
-   "unrealized_plpc": -0.19607,
-   "opened_at": null
+   "qty": 229.632794457,
+   "avg_entry_price": 21.65,
+   "current_price": 21.415,
+   "market_value": 4917.586293,
+   "unrealized_pl": -53.963707,
+   "unrealized_plpc": -0.01085,
+   "opened_at": "2026-11-25T14:37:19Z"
+  },
+  {
+   "symbol": "ARQQ",
+   "crypto": false,
+   "qty": 525.533826638,
+   "avg_entry_price": 9.46,
+   "current_price": 9.1645,
+   "market_value": 4816.254754,
+   "unrealized_pl": -155.295246,
+   "unrealized_plpc": -0.03124,
+   "opened_at": "2026-11-25T14:37:19Z"
+  },
+  {
+   "symbol": "BA",
+   "crypto": false,
+   "qty": 30.932989049,
+   "avg_entry_price": 160.72,
+   "current_price": 160.28,
+   "market_value": 4957.939485,
+   "unrealized_pl": -13.610515,
+   "unrealized_plpc": -0.00274,
+   "opened_at": "2026-11-25T14:37:19Z"
   },
   {
    "symbol": "HPE",
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 38.82,
-   "market_value": 4737.360279,
-   "unrealized_pl": -250.169721,
-   "unrealized_plpc": -0.05016,
-   "opened_at": "2026-11-24T16:04:36Z"
+   "current_price": 38.64,
+   "market_value": 4715.394157,
+   "unrealized_pl": -272.135843,
+   "unrealized_plpc": -0.05456,
+   "opened_at": null
+  },
+  {
+   "symbol": "MG",
+   "crypto": false,
+   "qty": 245.14546351,
+   "avg_entry_price": 20.28,
+   "current_price": 20.24,
+   "market_value": 4961.744181,
+   "unrealized_pl": -9.805819,
+   "unrealized_plpc": -0.00197,
+   "opened_at": "2026-11-25T14:37:19Z"
+  },
+  {
+   "symbol": "SINT",
+   "crypto": false,
+   "qty": 4142.95,
+   "avg_entry_price": 1.2,
+   "current_price": 1.13,
+   "market_value": 4681.5335,
+   "unrealized_pl": -290.0065,
+   "unrealized_plpc": -0.05833,
+   "opened_at": null
   }
  ]
 }
