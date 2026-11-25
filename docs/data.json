@@ -371,159 +371,13 @@
   {
    "t": "2026-11-25T17:22:19Z",
    "v": 99096.52
+  },
+  {
+   "t": "2026-11-25T17:37:12Z",
+   "v": 99131.92
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T08:02:55Z",
-   "news_id": 130310686,
-   "headline": "Halper Sadeh LLC Investigates Alta Equipment Group Inc. Merger",
-   "url": "https://natlawreview.com/press-releases/altg-stock-alert-halper-sadeh-llc-investigating-whether-alta-equipment-group",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AAT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:02:55Z",
-   "news_id": 130310685,
-   "headline": "Alta Equipment Group Announces Definitive Agreement to Acquire Jackson Group Peterbilt",
-   "url": "https://www.globenewswire.com/news-release/2026/11/23/3408900/0/en/alta-equipment-group-agrees-to-acquire-jackson-group-peterbilt-in-proposed-transformative-deal.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AAT"
-   ],
-   "signals": [
-    {
-     "symbol": "AAT",
-     "action": "buy",
-     "confidence": 0.78,
-     "impact": "medium",
-     "rationale": "Acuerdo definitivo para adquirir Jackson Group por ~399 M$, un catalizador de crecimiento y sinergías que suele impulsar el precio.",
-     "outcome": "En cola: mercado cerrado"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-25T08:02:52Z",
-   "news_id": 130310680,
-   "headline": "Miraculum S.A. Reports Insider Share Purchase by Management Board Member",
-   "url": "https://pap-mediaroom.pl/biznes-i-finanse/miraculum-sa-262026-informacja-o-transakcjach-na-akcjach-spolki",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MIR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:02:41Z",
-   "news_id": 130310671,
-   "headline": "Moberg Pharma Chairman Lars Johansson Increases Shareholding",
-   "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fuppgifter-stegra-behover-minst-2-miljarder-dollar-i-ytterligare-finansiering-2026-11-24",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MOB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:02:15Z",
-   "news_id": 130310646,
-   "headline": "SinterCast Announces Proposed Strategic Investment and Partnership with Daimler Truck AG",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70214651-sintercast-ab-sintercast-to-expect-strategic-investment-by-daimler-truck-399.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SINT"
-   ],
-   "signals": [
-    {
-     "symbol": "SINT",
-     "action": "buy",
-     "confidence": 0.81,
-     "impact": "medium",
-     "rationale": "Inversión estratégica minoritaria de Daimler Truck y acuerdo comercial, señal de validación del negocio y potencial impulso de la acción.",
-     "outcome": "En cola: mercado cerrado"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-25T08:02:15Z",
-   "news_id": 130310645,
-   "headline": "Western Bulk Establishes Wind Desk in Singapore",
-   "url": "https://live.euronext.com/en/markets/oslo/equities/company-news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WEST"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:02:11Z",
-   "news_id": 130310636,
-   "headline": "ABG Sundal Collier Upgrades Boliden to Buy",
-   "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fuppgifter-stegra-behover-minst-2-miljarder-dollar-i-ytterligare-finansiering-2026-11-24",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ABG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:02:08Z",
-   "news_id": 130310628,
-   "headline": "Jacktel AS Releases Q3 2026 Financial Report",
-   "url": "https://live.euronext.com/en/markets/oslo/equities/company-news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JACK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:02:07Z",
-   "news_id": 130310627,
-   "headline": "CI Games Announces Updated Release Window for Lords of the Fallen II",
-   "url": "https://pap-mediaroom.pl/biznes-i-finanse/ci-games-se-392026-aktualizacja-harmonogramu-prac-nad-gra-lords-fallen-ii",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CIG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:02:05Z",
-   "news_id": 130310623,
-   "headline": "Icop Secures New Contracts Following Trevi Finanziaria Industriale Competition",
-   "url": "https://www.milanofinanza.it/news/icop-archivia-trevi-e-riparte-con-due-commesse-da-74-5-milioni-il-titolo-vola-del-9-8-in-borsa-202611241128439579",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TFIN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:02:04Z",
-   "news_id": 130310622,
-   "headline": "Pharming Temporarily Pauses RUCONEST® Manufacturing Following Media Fill Failure",
-   "url": "https://www.morningstar.com/news/globe-newswire/1001315357/pharming-temporarily-pauses-ruconest-manufacturing-and-notifies-fda-of-likely-supply-interruption",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PHAR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:01:54Z",
-   "news_id": 130310459,
-   "headline": "Alantra Contributes to AssoNEXT Annual Research on Italian SMEs",
-   "url": "https://www.milanofinanza.it/newsmarketdriver/market-driver-pmi-quotate-ricavi-a-57-6-mld-oltre-105mila-occupati-assonext-202611241500021723",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ALNT"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T08:01:54Z",
    "news_id": 130310457,
@@ -3700,6 +3554,138 @@
     "BN"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T17:32:32Z",
+   "news_id": 130690950,
+   "headline": "Barclays Issues Sell Rating on Dr. Martens plc",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/dr-martens-plc-barclays-gibt-eine-verkaufsbewertung-ab-ce7851d8db81fe27",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DOCS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:32:32Z",
+   "news_id": 130690949,
+   "headline": "Dr. Martens Announces Collaboration with Slipknot",
+   "url": "https://www.milanofinanza.it/fashion/da-rick-owens-a-chopova-lowena-e-slipknot-dr-martens-riscrive-l-anfibio-202611251144125237",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DOCS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:31:52Z",
+   "news_id": 130689700,
+   "headline": "YouGov Conducts 'Megapoll' for Victorian State Election",
+   "url": "https://afndaily.com/victorian-labor-polls-at-20-in-yougov-survey-ahead-of-state-election-its-lowest-primary-vote-since-1902/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "YOU"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:31:52Z",
+   "news_id": 130689699,
+   "headline": "YouGov Poll Examines Consumer Sentiment Amid Stock Market Volatility",
+   "url": "https://www.morningstar.com/news/marketwatch/20261125135/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers",
+   "source": "fiscal.ai",
+   "symbols": [
+    "YOU"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:31:52Z",
+   "news_id": 130689698,
+   "headline": "YouGov Survey Reveals Public Misconceptions About Aging and Memory Loss",
+   "url": "https://www.prnewswire.com/news-releases/three-in-four-americans-say-some-memory-loss-is-a-typical-part-of-aging-302949533.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "YOU"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:31:49Z",
+   "news_id": 130689695,
+   "headline": "Clarivate Announces Development Partners for IPOne AI Platform",
+   "url": "https://www.prnewswire.com/news-releases/clarivate-develops-ipone-in-collaboration-with-leading-global-organizations-302949777.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CLVT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:31:47Z",
+   "news_id": 130689694,
+   "headline": "Pets at Home Group Plc Reports Financial Results for H1 2026",
+   "url": "https://www.investegate.co.uk/announcement/rns/pets-at-home-group--pets/pets-at-home-group-plc-fy27-interim-results/9892177",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PETS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:31:46Z",
+   "news_id": 130689692,
+   "headline": "Alvotech Announces Participation in December Investor Conferences",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410125/0/en/alvotech-to-present-at-upcoming-investor-conferences-in-december.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ALVO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:31:45Z",
+   "news_id": 130689689,
+   "headline": "Netcall plc Announces Issue of Contingent Consideration Shares",
+   "url": "https://www.investegate.co.uk/announcement/rns/netcall--net/issue-of-consideration-shares-total-voting-rights/9892196",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NET"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:31:41Z",
+   "news_id": 130689685,
+   "headline": "Henry Boot PLC Issues Trading Update and Profit Warning",
+   "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/trading-statement/9892152",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BOOT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:31:37Z",
+   "news_id": 130689679,
+   "headline": "Borr Drilling Limited - Notification of PDMR Transaction",
+   "url": "https://live.euronext.com/fr/markets/oslo/equities/company-news",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BORR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:31:36Z",
+   "news_id": 130689678,
+   "headline": "Deutsche Bank Research maintains 'Hold' rating on Diageo",
+   "url": "https://www.finanznachrichten.de/nachrichten-aktien/diageo-plc.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DEO"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4648,10 +4634,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T17:37:12Z",
+   "fetched": 32,
+   "news": 12,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1486
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T17:22:19Z",
+ "updated_at": "2026-11-25T17:37:12Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4664,10 +4659,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99096.52,
+  "equity": 99131.92,
   "cash": 78940.55,
   "last_equity": 99676.10687299244,
-  "buying_power": 372198.92
+  "buying_power": 372298.03
  },
  "pending": 0,
  "positions": [
@@ -4676,10 +4671,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.42,
-   "market_value": 4918.734457,
-   "unrealized_pl": -52.815543,
-   "unrealized_plpc": -0.01062,
+   "current_price": 21.43,
+   "market_value": 4921.030785,
+   "unrealized_pl": -50.519215,
+   "unrealized_plpc": -0.01016,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4687,10 +4682,10 @@
    "crypto": false,
    "qty": 525.533826638,
    "avg_entry_price": 9.46,
-   "current_price": 9.9114,
-   "market_value": 5208.775969,
-   "unrealized_pl": 237.225969,
-   "unrealized_plpc": 0.04772,
+   "current_price": 9.94,
+   "market_value": 5223.806237,
+   "unrealized_pl": 252.256237,
+   "unrealized_plpc": 0.05074,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4698,10 +4693,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 163.955,
-   "market_value": 5071.61822,
-   "unrealized_pl": 100.06822,
-   "unrealized_plpc": 0.02013,
+   "current_price": 164.46,
+   "market_value": 5087.239379,
+   "unrealized_pl": 115.689379,
+   "unrealized_plpc": 0.02327,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4709,10 +4704,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.22,
-   "market_value": 4956.841272,
-   "unrealized_pl": -14.708728,
-   "unrealized_plpc": -0.00296,
+   "current_price": 20.23,
+   "market_value": 4959.292727,
+   "unrealized_pl": -12.257273,
+   "unrealized_plpc": -0.00247,
    "opened_at": "2026-11-25T14:37:19Z"
   }
  ]
