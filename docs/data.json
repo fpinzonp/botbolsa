@@ -415,6 +415,10 @@
   {
    "t": "2026-11-25T20:07:19Z",
    "v": 99494.14
+  },
+  {
+   "t": "2026-11-25T20:22:19Z",
+   "v": 99491.94
   }
  ],
  "decisions": [
@@ -4774,10 +4778,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 1241
+  },
+  {
+   "t": "2026-11-25T20:22:19Z",
+   "fetched": 0,
+   "news": 0,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 0
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T20:07:19Z",
+ "updated_at": "2026-11-25T20:22:19Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4790,10 +4803,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99494.14,
+  "equity": 99491.94,
   "cash": 84553.25,
   "last_equity": 99676.10687299244,
-  "buying_power": 380047.49
+  "buying_power": 380041.34
  },
  "pending": 0,
  "positions": [
@@ -4802,10 +4815,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.33,
-   "market_value": 4898.067506,
-   "unrealized_pl": -73.482494,
-   "unrealized_plpc": -0.01478,
+   "current_price": 21.315,
+   "market_value": 4894.623014,
+   "unrealized_pl": -76.926986,
+   "unrealized_plpc": -0.01547,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4813,10 +4826,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 164.34,
-   "market_value": 5083.52742,
-   "unrealized_pl": 111.97742,
-   "unrealized_plpc": 0.02252,
+   "current_price": 164.42,
+   "market_value": 5086.002059,
+   "unrealized_pl": 114.452059,
+   "unrealized_plpc": 0.02302,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4824,10 +4837,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.23,
-   "market_value": 4959.292727,
-   "unrealized_pl": -12.257273,
-   "unrealized_plpc": -0.00247,
+   "current_price": 20.225,
+   "market_value": 4958.066999,
+   "unrealized_pl": -13.483001,
+   "unrealized_plpc": -0.00271,
    "opened_at": "2026-11-25T14:37:19Z"
   }
  ]
