@@ -127,6 +127,11 @@ def run() -> None:
     # Las señales de acciones con el mercado cerrado quedan en cola hasta la apertura.
     limit = now - timedelta(hours=cfg.pending_max_hours)
     pending = [p for p in state["pending"] if datetime.fromisoformat(p["t"]) >= limit]
+    # Al abrir el mercado se compara el precio actual con el de la señal: si ya subió más de
+    # MAX_CHASE_PCT, reject_reason la descarta (el movimiento ya ocurrió sin nosotros).
+    if pending and market_open:
+        prices = alpaca.latest_stock_prices([p["symbol"] for p in pending if p.get("ref_price")])
+        pending = [{**p, "price_now": prices.get(p["symbol"])} for p in pending]
     actionable, queued = [], []
     for s in pending + enriched:
         is_crypto = bool(s["asset"]) and s["asset"].get("class") == "crypto"
@@ -134,6 +139,13 @@ def run() -> None:
             actionable.append(s)
         elif not is_crypto and cfg.trade_stocks:
             queued.append(s)
+    # Precio de referencia de las señales que entran a la cola (el de este momento).
+    prices = alpaca.latest_stock_prices([s["symbol"] for s in queued if not s.get("ref_price")])
+    for s in queued:
+        if not s.get("ref_price"):
+            s["ref_price"] = prices.get(s["symbol"])
+            if not s["ref_price"]:
+                run_log["errors"].append(f"Sin precio de referencia para {s['symbol']}")
     state["pending"] = queued
 
     cash = float(account.get("non_marginable_buying_power") or account.get("cash") or 0)
@@ -160,6 +172,12 @@ def run() -> None:
             "impact": s["impact"], "rationale": s["rationale"],
             "outcome": outcomes.get((s["news_id"], s["symbol"]), ""),
         })
+    # Las señales que salieron de la cola actualizan el resultado de su noticia ya publicada.
+    for d in dash["decisions"]:
+        for sig in d["signals"]:
+            key = (d["news_id"], sig["symbol"])
+            if key in outcomes and sig.get("outcome", "").startswith("En cola"):
+                sig["outcome"] = outcomes[key]
     for n in analyzed:
         dash["decisions"].append({
             "t": n.get("created_at"), "news_id": n["id"], "headline": n.get("headline"),

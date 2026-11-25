@@ -74,6 +74,21 @@ class Alpaca:
             time.sleep(poll_s)
         return True
 
+    # --- Precios ----------------------------------------------------------
+    def latest_stock_prices(self, symbols: list[str]) -> dict[str, float]:
+        """Último precio negociado de cada acción (feed IEX, el del plan gratis).
+
+        Si la consulta falla devuelve {}: sin precio no se aplica el filtro de precio.
+        """
+        if not symbols:
+            return {}
+        try:
+            data = self._req("GET", f"{DATA_BASE_URL}/v2/stocks/trades/latest",
+                             params={"symbols": ",".join(sorted(set(symbols))), "feed": "iex"})
+        except requests.RequestException:
+            return {}
+        return {norm(sym): float(t["p"]) for sym, t in (data.get("trades") or {}).items() if t.get("p")}
+
     # --- Noticias ---------------------------------------------------------
     def news(self, start_iso: str, max_items: int) -> list[dict]:
         """Noticias publicadas desde start_iso, de la más nueva a la más vieja.

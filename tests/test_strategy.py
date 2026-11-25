@@ -7,7 +7,7 @@ from bot.config import Settings
 CFG = Settings(
     alpaca_key="k", alpaca_secret="s", analyzer="groq", analyzer_key="g", model="m", min_confidence=0.75, position_pct=0.05,
     max_positions=3, stop_loss_pct=0.05, take_profit_pct=0.10, max_hold_days=5,
-    pending_max_hours=16, trade_stocks=True, trade_crypto=True, dry_run=False,
+    pending_max_hours=16, max_chase_pct=0.03, trade_stocks=True, trade_crypto=True, dry_run=False,
 )
 STOCK = {"symbol": "AAPL", "class": "us_equity"}
 BTC = {"symbol": "BTC/USD", "class": "crypto"}
@@ -66,6 +66,15 @@ def test_manual_positions_are_never_traded():
                                                   100_000, 100_000, CFG, frozenset({"GOOGL"}))
         assert orders == []
         assert outcomes[(1, "GOOGL")] == "Sin acción: posición manual"
+
+
+def test_queued_signal_skipped_if_price_already_rose():
+    up = {**sig("AAPL"), "ref_price": 100.0, "price_now": 104.0}
+    flat = {**sig("MSFT", news_id=2), "ref_price": 100.0, "price_now": 102.0}
+    no_price = {**sig("NVDA", news_id=3), "ref_price": 100.0, "price_now": None}
+    orders, outcomes = strategy.signal_orders([up, flat, no_price], set(), set(), 100_000, 100_000, CFG)
+    assert [o.symbol for o in orders] == ["MSFT", "NVDA"]
+    assert outcomes[(1, "AAPL")].startswith("Ignorada: el precio ya subió 4.0%")
 
 
 def test_max_positions_and_cash_limit():

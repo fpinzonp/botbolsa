@@ -46,6 +46,8 @@ jobs:
           STOP_LOSS_PCT: ${{ vars.STOP_LOSS_PCT }}
           TAKE_PROFIT_PCT: ${{ vars.TAKE_PROFIT_PCT }}
           MAX_HOLD_DAYS: ${{ vars.MAX_HOLD_DAYS }}
+          PENDING_MAX_HOURS: ${{ vars.PENDING_MAX_HOURS }}
+          MAX_CHASE_PCT: ${{ vars.MAX_CHASE_PCT }}
           TRADE_STOCKS: ${{ vars.TRADE_STOCKS }}
           TRADE_CRYPTO: ${{ vars.TRADE_CRYPTO }}
           DRY_RUN: ${{ vars.DRY_RUN }}

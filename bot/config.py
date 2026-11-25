@@ -36,6 +36,7 @@ class Settings:
     take_profit_pct: float     # cierra si la posición gana más de esto
     max_hold_days: float       # cierra posiciones viejas aunque no lleguen a SL/TP
     pending_max_hours: float   # vigencia de señales de acciones con el mercado cerrado
+    max_chase_pct: float       # no compra una señal en cola si el precio ya subió más de esto
     trade_stocks: bool
     trade_crypto: bool
     dry_run: bool              # analiza y registra, pero no envía órdenes
@@ -65,6 +66,7 @@ def load() -> Settings:
         take_profit_pct=_float("TAKE_PROFIT_PCT", 0.10),
         max_hold_days=_float("MAX_HOLD_DAYS", 5),
         pending_max_hours=_float("PENDING_MAX_HOURS", 16),
+        max_chase_pct=_float("MAX_CHASE_PCT", 0.03),
         trade_stocks=_bool("TRADE_STOCKS", True),
         trade_crypto=_bool("TRADE_CRYPTO", True),
         dry_run=_bool("DRY_RUN", False),

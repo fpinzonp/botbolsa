@@ -66,6 +66,8 @@ En **Settings → Secrets and variables → Actions → Variables**:
 | `STOP_LOSS_PCT` | `0.05` | Cierra si la posición pierde un 5 % |
 | `TAKE_PROFIT_PCT` | `0.10` | Cierra si la posición gana un 10 % |
 | `MAX_HOLD_DAYS` | `5` | Cierra posiciones con más días abiertas |
+| `PENDING_MAX_HOURS` | `16` | Horas que una señal de acciones espera en cola con el mercado cerrado (`0` desactiva la cola) |
+| `MAX_CHASE_PCT` | `0.03` | Al abrir el mercado, no compra una señal en cola si el precio ya subió más de esto desde la señal |
 | `TRADE_STOCKS` / `TRADE_CRYPTO` | `true` | Activa o desactiva cada mercado |
 | `DRY_RUN` | `false` | Analiza y registra sin enviar órdenes |
 | `ANALYZER` | `groq` | `claude` para usar la API de Anthropic (de pago; requiere el secret `ANTHROPIC_API_KEY`) |

@@ -49,6 +49,10 @@ def reject_reason(s: dict, cfg: Settings) -> str | None:
         return f"Ignorada: confianza {s['confidence']:.0%} < {cfg.min_confidence:.0%}"
     if s["action"] == "buy" and s["impact"] == "low":
         return "Ignorada: impacto bajo"
+    # Señal que esperó en cola: si el precio ya subió, el movimiento ocurrió sin nosotros.
+    ref, now = s.get("ref_price"), s.get("price_now")
+    if s["action"] == "buy" and ref and now and now / ref - 1 > cfg.max_chase_pct:
+        return f"Ignorada: el precio ya subió {now / ref - 1:.1%} desde la señal (${ref:,.2f} → ${now:,.2f})"
     return None
 
 
