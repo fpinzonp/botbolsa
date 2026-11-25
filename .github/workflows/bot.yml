@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write             # para guardar data/ y docs/data.json en el repo
+  issues: write               # para el aviso de vencimiento del token de cron-job.org
 
 concurrency:
   group: trading-bot
@@ -59,6 +60,24 @@ jobs:
             git pull --rebase
             git push
           fi
+
+      # cron-job.org lanza el bot con un token de GitHub que vence. Una semana antes se abre
+      # un issue (GitHub avisa por correo). Al renovarlo, cambiar la variable TOKEN_REMINDER_DATE.
+      - name: Aviso de vencimiento del token
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REMINDER_DATE: ${{ vars.TOKEN_REMINDER_DATE || '2027-02-15' }}
+        run: |
+          if [ "$(date -u +%F)" \< "$REMINDER_DATE" ]; then exit 0; fi
+          title="Renovar el token de cron-job.org"
+          if [ -n "$(gh issue list --state open --search "$title in:title" --json number --jq '.[].number')" ]; then exit 0; fi
+          gh issue create --title "$title" --body "@fpinzonp el token que usa cron-job.org para lanzar el bot vence pronto (creado el 2026-11-24 con 90 días). Si vence, el bot deja de correr y cron-job.org muestra error 401.
+
+          1. Crea uno nuevo en https://github.com/settings/personal-access-tokens/new (solo el repo botbolsa, permiso Actions: Read and write).
+          2. En cron-job.org reemplaza el header Authorization por: Bearer <token nuevo>.
+          3. En Settings > Secrets and variables > Actions > Variables pon TOKEN_REMINDER_DATE una semana antes del nuevo vencimiento (AAAA-MM-DD).
+          4. Cierra este issue."
 
   tests:
     if: github.event_name == 'push'
