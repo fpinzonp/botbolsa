@@ -427,97 +427,13 @@
   {
    "t": "2026-11-25T20:52:17Z",
    "v": 99502.68
+  },
+  {
+   "t": "2026-11-25T21:07:18Z",
+   "v": 99491.73
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T11:31:39Z",
-   "news_id": 130382031,
-   "headline": "Palantir Technologies Executives Report Insider Stock Sales",
-   "url": "https://www.moomoo.com/hans/news/post/1005737209/palantir-technologies-insider-sold-shares-worth-37180171-according-to-a",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PLTR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:38Z",
-   "news_id": 130382030,
-   "headline": "Citigroup Considers Return to Banking Services in Venezuela",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/citi-reportedly-considers-return-to-venezuela-five-years-after-exit-1036798894",
-   "source": "fiscal.ai",
-   "symbols": [
-    "C"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:37Z",
-   "news_id": 130382029,
-   "headline": "Dimensional Fund Advisors Ltd. Files Form 8.3 Disclosure Regarding Prologis, Inc.",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410040/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PLD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:32Z",
-   "news_id": 130382028,
-   "headline": "CFO Douglas Howell Sells 5,000 Shares of Arthur J. Gallagher & Co.",
-   "url": "https://stocktwits.com/symbol/AJG/news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AJG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:29Z",
-   "news_id": 130382027,
-   "headline": "Blackstone and PIMCO Provide $5 Billion Loan to Waymo",
-   "url": "https://stockanalysis.com/private/waymo/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:27Z",
-   "news_id": 130382026,
-   "headline": "Deere & Company Reports Fourth Quarter and Fiscal Year 2026 Financial Results",
-   "url": "https://www.prnewswire.com/news-releases/deere-reports-net-income-of-1-051-billion-for-fourth-quarter-4-860-billion-for-fiscal-year-302950434.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:23Z",
-   "news_id": 130382025,
-   "headline": "Bank of America Marks 75th Anniversary in Switzerland",
-   "url": "https://newsfilter.io/articles/bank-of-america-marks-75-years-in-switzerland-following-significant-expansion-cd5271a7786f58969a2e856f199edf4c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BAC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:20Z",
-   "news_id": 130382024,
-   "headline": "SanDisk Chief Accounting Officer Discloses Stock Sale in SEC Filing",
-   "url": "https://www.moomoo.com/hans/news/post/1005735923/sandisk-insider-sold-shares-worth-2367206-according-to-a-recent",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SNDK"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T11:31:13Z",
    "news_id": 130382023,
@@ -3729,6 +3645,94 @@
     "PBR.A"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T21:01:51Z",
+   "news_id": 130965033,
+   "headline": "Grupo Financiero Galicia Reports Q3 2026 Earnings Miss",
+   "url": "https://www.finanznachrichten.de/nachrichten-branche/finanzdienstleistungen.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GGAL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T21:01:43Z",
+   "news_id": 130965032,
+   "headline": "Genetic Analysis AS Enters OEM Agreement with Merck",
+   "url": "https://www.finanznachrichten.de/nachrichten-aktien/merck-kgaa.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MRK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T21:01:40Z",
+   "news_id": 130965031,
+   "headline": "Bradesco Principal Announces Black Friday Benefits for Cardholders",
+   "url": "https://www.prnewswire.com/br/comunicados-para-a-imprensa/patio-higienopolis-com-descontos-de-ate-70-durante-a-black-friday-2026-302950636.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BBD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T21:01:40Z",
+   "news_id": 130965030,
+   "headline": "VINCI Concessions Becomes Majority Shareholder of LISEA",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410467/0/en/vinci-increases-its-stake-in-lisea.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T21:01:36Z",
+   "news_id": 130965028,
+   "headline": "Aboitiz Equity Ventures CFO Named ING-Finex CFO of the Year",
+   "url": "https://www.manilatimes.net/2026/11/26/business/corporate-news/aevs-hilado-named-ing-finex-cfo-of-the-year/2478013",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ING"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T21:01:33Z",
+   "news_id": 130965027,
+   "headline": "Chubb Joins Intact as Principal Sponsor of BIBA 2027",
+   "url": "https://www.finanznachrichten.de/nachrichten-aktien/chubb-limited.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T21:01:28Z",
+   "news_id": 130965026,
+   "headline": "Jefferies Adjusts XP Inc. Price Target to $18",
+   "url": "https://www.moomoo.com/ja/news/post/1005765725/jefferies-maintains-xp-inc-xpus-with-buy-rating-cuts-target",
+   "source": "fiscal.ai",
+   "symbols": [
+    "XP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T21:01:24Z",
+   "news_id": 130965024,
+   "headline": "Equinor Revises 2026 Production Guidance Following Operational Challenges",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410453/0/en/equinor-updates-2026-production-guidance-following-temporary-shut-ins.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EQNR"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4813,11 +4817,20 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T21:07:18Z",
+   "fetched": 12,
+   "news": 8,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1183
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T20:52:17Z",
- "market_open": true,
+ "updated_at": "2026-11-25T21:07:18Z",
+ "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
  "rules": {
@@ -4829,10 +4842,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99502.68,
+  "equity": 99491.73,
   "cash": 84553.25,
   "last_equity": 99676.10687299244,
-  "buying_power": 380071.4
+  "buying_power": 380040.75
  },
  "pending": 0,
  "positions": [
@@ -4841,10 +4854,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.27,
-   "market_value": 4884.289538,
-   "unrealized_pl": -87.260462,
-   "unrealized_plpc": -0.01755,
+   "current_price": 21.33,
+   "market_value": 4898.067506,
+   "unrealized_pl": -73.482494,
+   "unrealized_plpc": -0.01478,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4852,10 +4865,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 165.22,
-   "market_value": 5110.748451,
-   "unrealized_pl": 139.198451,
-   "unrealized_plpc": 0.028,
+   "current_price": 164.5,
+   "market_value": 5088.476699,
+   "unrealized_pl": 116.926699,
+   "unrealized_plpc": 0.02352,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4863,10 +4876,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.21,
-   "market_value": 4954.389818,
-   "unrealized_pl": -17.160182,
-   "unrealized_plpc": -0.00345,
+   "current_price": 20.2,
+   "market_value": 4951.938363,
+   "unrealized_pl": -19.611637,
+   "unrealized_plpc": -0.00394,
    "opened_at": "2026-11-25T14:37:19Z"
   }
  ]
