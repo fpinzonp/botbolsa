@@ -223,196 +223,13 @@
   {
    "t": "2026-11-25T07:52:15Z",
    "v": 99478.04
+  },
+  {
+   "t": "2026-11-25T08:07:14Z",
+   "v": 99493.36
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-24T14:02:00Z",
-   "news_id": 129577449,
-   "headline": "TD Cowen Initiates Coverage on Agility Robotics With Buy Rating",
-   "url": "https://www.marketscreener.com/news/td-cowen-initiates-coverage-on-agility-robotics-with-buy-rating-15-price-target-ce7851dbd88ffe24",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AGLT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:02Z",
-   "news_id": 129577450,
-   "headline": "Amphastar Pharmaceuticals to Present at the Piper Sandler 38th Annual Healthcare Conference",
-   "url": "https://www.prnewswire.com/news-releases/amphastar-pharmaceuticals-to-present-at-the-piper-sandler-38th-annual-healthcare-conference-302948870.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMPH"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:03Z",
-   "news_id": 129577451,
-   "headline": "IDT Corporation to Report First Quarter Fiscal 2027 Results",
-   "url": "https://www.morningstar.com/news/globe-newswire/9884025/idt-corporation-to-report-first-quarter-fiscal-2027-results",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IDT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:03Z",
-   "news_id": 129577452,
-   "headline": "Kingspan Identified as a Key Player in Global Facade Systems Market Report",
-   "url": "https://www.prnewswire.com/news-releases/facade-systems-market-worth-147-30-billion-by-2031---exclusive-report-by-marketsandmarkets-302949169.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KRX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:04Z",
-   "news_id": 129577453,
-   "headline": "Opendoor Technologies Inc. Independent Director Purchases Shares",
-   "url": "https://www.moomoo.com/hans/news/post/1005628092/dana-hamilton-bought-245-more-shares-in-opendoor-technologies",
-   "source": "fiscal.ai",
-   "symbols": [
-    "OPEN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:05Z",
-   "news_id": 129577454,
-   "headline": "Robert W. Baird Analyst Adjusts AEVEX Corp. Price Target",
-   "url": "https://www.moomoo.com/ja/news/post/1005501957/baird-maintains-aevex-corp-avexus-with-buy-rating-cuts-target",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AVEX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:08Z",
-   "news_id": 129577455,
-   "headline": "Standard Chartered (Singapore) Files for $500 Million Covered Bond Listing",
-   "url": "https://www.moomoo.com/stock/02888-HK?chain_id=Name1K9-3FXPhg.1lgarhg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2F01299-HK%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STAN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:10Z",
-   "news_id": 129577456,
-   "headline": "Capital City Bank Named One of American Banker's 'Best Banks to Work For'",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409122/9284/en/capital-city-bank-named-among-best-banks-to-work-for-by-american-banker-for-14-consecutive-years.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CCBG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:10Z",
-   "news_id": 129577457,
-   "headline": "BNP Paribas Adjusts Price Target on Coherent Corp.",
-   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-coherent-price-target-to-300-from-420-ce7851dbdb88ff27",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BNP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:10Z",
-   "news_id": 129577458,
-   "headline": "BNP Paribas Adjusts Price Target on Western Digital",
-   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-price-target-on-western-digital-to-475-from-700-ce7851dbdb8df022",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BNP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:12Z",
-   "news_id": 129577459,
-   "headline": "Driven Brands Receives Nasdaq Notice Regarding Delayed Form 10-Q Filing",
-   "url": "https://www.businesswire.com/newsroom/industry/automotive",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DRVN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:12Z",
-   "news_id": 129577460,
-   "headline": "agilon health to Participate in 9th Annual Evercore Healthcare Conference",
-   "url": "https://ayondo.com/en/bwr/US00857U2069/agilon-health/agilon-health-to-participate-in-upcoming-conference-20261123649529r1",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AGL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:13Z",
-   "news_id": 129577461,
-   "headline": "Universal Corporation Appoints John Ament as President of Universal Ingredients",
-   "url": "https://ayondo.com/en/bwr/US9134561094/universal/universal-corporation-appoints-john-ament-as-president-of-universal-ingredients-20261123606380r1",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UVV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:13Z",
-   "news_id": 129577462,
-   "headline": "Hiscox Releases Survey on AI Adoption and Risks in German Service Sector",
-   "url": "https://www.finanzen.at/nachrichten/aktien/ots-hiscox-deutsche-dienstleistungsunternehmen-investieren-massiv-in-ki--1036795089",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HSX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:14Z",
-   "news_id": 129577463,
-   "headline": "Sienna Senior Living Announces Offering of $250 Million of Series G Senior Unsecured Debentures",
-   "url": "https://www.globenewswire.com/news-release/2026/11/23/3408964/0/en/sienna-announces-offering-of-250-million-of-4-414-series-g-senior-unsecured-debentures.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SIA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:14Z",
-   "news_id": 129577464,
-   "headline": "United Utilities Water Finance PLC Securities Admitted to Official List",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70212203-financial-conduct-authority-notice-of-admission-to-the-official-list-015.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UU."
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:15Z",
-   "news_id": 129577465,
-   "headline": "i-80 Gold Corp. Commences Production Mining at Archimedes Underground Project",
-   "url": "https://www.prnewswire.com/news-releases/i-80-gold-announces-the-start-of-production-mining-at-archimedes-underground-302948727.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IAU"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-24T14:02:18Z",
    "news_id": 129577466,
@@ -3597,6 +3414,211 @@
     "BOIL"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T08:03:08Z",
+   "news_id": 130310927,
+   "headline": "Instant Group AG Releases Analysis on Capital Market Access via Alternative Structures",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-boersenmantel-spac-und-reverse-transaktionen-mindestens-jedes-zehnte-unternehmen-gelangt-auf-diesem-weg-an-die-boerse-1036791156",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CCB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:02:55Z",
+   "news_id": 130310686,
+   "headline": "Halper Sadeh LLC Investigates Alta Equipment Group Inc. Merger",
+   "url": "https://natlawreview.com/press-releases/altg-stock-alert-halper-sadeh-llc-investigating-whether-alta-equipment-group",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AAT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:02:55Z",
+   "news_id": 130310685,
+   "headline": "Alta Equipment Group Announces Definitive Agreement to Acquire Jackson Group Peterbilt",
+   "url": "https://www.globenewswire.com/news-release/2026/11/23/3408900/0/en/alta-equipment-group-agrees-to-acquire-jackson-group-peterbilt-in-proposed-transformative-deal.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AAT"
+   ],
+   "signals": [
+    {
+     "symbol": "AAT",
+     "action": "buy",
+     "confidence": 0.78,
+     "impact": "medium",
+     "rationale": "Acuerdo definitivo para adquirir Jackson Group por ~399 M$, un catalizador de crecimiento y sinergías que suele impulsar el precio.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-25T08:02:52Z",
+   "news_id": 130310680,
+   "headline": "Miraculum S.A. Reports Insider Share Purchase by Management Board Member",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/miraculum-sa-262026-informacja-o-transakcjach-na-akcjach-spolki",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MIR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:02:41Z",
+   "news_id": 130310671,
+   "headline": "Moberg Pharma Chairman Lars Johansson Increases Shareholding",
+   "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fuppgifter-stegra-behover-minst-2-miljarder-dollar-i-ytterligare-finansiering-2026-11-24",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MOB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:02:15Z",
+   "news_id": 130310646,
+   "headline": "SinterCast Announces Proposed Strategic Investment and Partnership with Daimler Truck AG",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70214651-sintercast-ab-sintercast-to-expect-strategic-investment-by-daimler-truck-399.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SINT"
+   ],
+   "signals": [
+    {
+     "symbol": "SINT",
+     "action": "buy",
+     "confidence": 0.81,
+     "impact": "medium",
+     "rationale": "Inversión estratégica minoritaria de Daimler Truck y acuerdo comercial, señal de validación del negocio y potencial impulso de la acción.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-25T08:02:15Z",
+   "news_id": 130310645,
+   "headline": "Western Bulk Establishes Wind Desk in Singapore",
+   "url": "https://live.euronext.com/en/markets/oslo/equities/company-news",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WEST"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:02:11Z",
+   "news_id": 130310636,
+   "headline": "ABG Sundal Collier Upgrades Boliden to Buy",
+   "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fuppgifter-stegra-behover-minst-2-miljarder-dollar-i-ytterligare-finansiering-2026-11-24",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ABG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:02:08Z",
+   "news_id": 130310628,
+   "headline": "Jacktel AS Releases Q3 2026 Financial Report",
+   "url": "https://live.euronext.com/en/markets/oslo/equities/company-news",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JACK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:02:07Z",
+   "news_id": 130310627,
+   "headline": "CI Games Announces Updated Release Window for Lords of the Fallen II",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/ci-games-se-392026-aktualizacja-harmonogramu-prac-nad-gra-lords-fallen-ii",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CIG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:02:05Z",
+   "news_id": 130310623,
+   "headline": "Icop Secures New Contracts Following Trevi Finanziaria Industriale Competition",
+   "url": "https://www.milanofinanza.it/news/icop-archivia-trevi-e-riparte-con-due-commesse-da-74-5-milioni-il-titolo-vola-del-9-8-in-borsa-202611241128439579",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TFIN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:02:04Z",
+   "news_id": 130310622,
+   "headline": "Pharming Temporarily Pauses RUCONEST® Manufacturing Following Media Fill Failure",
+   "url": "https://www.morningstar.com/news/globe-newswire/1001315357/pharming-temporarily-pauses-ruconest-manufacturing-and-notifies-fda-of-likely-supply-interruption",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PHAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:01:54Z",
+   "news_id": 130310459,
+   "headline": "Alantra Contributes to AssoNEXT Annual Research on Italian SMEs",
+   "url": "https://www.milanofinanza.it/newsmarketdriver/market-driver-pmi-quotate-ricavi-a-57-6-mld-oltre-105mila-occupati-assonext-202611241500021723",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ALNT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:01:54Z",
+   "news_id": 130310457,
+   "headline": "Alantra Analysis on Spanish Banking Tax Extension",
+   "url": "https://www.euro2day.gr/amp/news/world/article/2381611/ispania-parateinetai-eos-to-2027-o-ektaktos-foros.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ALNT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:01:54Z",
+   "news_id": 130310456,
+   "headline": "JPMorgan Downgrades Stabilus SE to Neutral",
+   "url": "https://www.finanzen.ch/analyse/stabilus-se-neutral-1123107",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:01:51Z",
+   "news_id": 130310452,
+   "headline": "Barco Announces 'ANYTHING BUT GHOSTS' to be Released in Premium HDR by Barco",
+   "url": "https://www.sknr.net/2026/11/24/141596/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T08:01:48Z",
+   "news_id": 130310449,
+   "headline": "Pomerantz LLP Investigates Securities Claims Against NovoCure Limited",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409740/1087/en/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-novocure-limited-nvcr.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NVCR"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4132,10 +4154,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T08:07:14Z",
+   "fetched": 145,
+   "news": 17,
+   "signals": 2,
+   "orders": 0,
+   "errors": [],
+   "tokens": 2168
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T07:52:15Z",
+ "updated_at": "2026-11-25T08:07:14Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4148,22 +4179,22 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99478.04,
+  "equity": 99493.36,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 390590.09
+  "buying_power": 390633.0
  },
- "pending": 2,
+ "pending": 4,
  "positions": [
   {
    "symbol": "GOOGL",
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 273.36,
-   "market_value": 1366.8,
-   "unrealized_pl": -269.34,
-   "unrealized_plpc": -0.16462,
+   "current_price": 273.74,
+   "market_value": 1368.7,
+   "unrealized_pl": -267.44,
+   "unrealized_plpc": -0.16346,
    "opened_at": null
   },
   {
@@ -4171,10 +4202,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 38.8,
-   "market_value": 4734.919599,
-   "unrealized_pl": -252.610401,
-   "unrealized_plpc": -0.05065,
+   "current_price": 38.91,
+   "market_value": 4748.34334,
+   "unrealized_pl": -239.18666,
+   "unrealized_plpc": -0.04796,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
