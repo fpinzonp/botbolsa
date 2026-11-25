@@ -139,218 +139,13 @@
   {
    "t": "2026-11-25T02:52:15Z",
    "v": 99586.04
+  },
+  {
+   "t": "2026-11-25T03:05:26Z",
+   "v": 99534.53
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-24T14:01:42Z",
-   "news_id": 129576916,
-   "headline": "HSBC Holdings plc Reports Change in Voting Rights in Informa PLC",
-   "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/holding-s-in-company/9891120",
-   "source": "fiscal.ai",
-   "symbols": [
-    "INF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:43Z",
-   "news_id": 129576917,
-   "headline": "Newmark Arranges $305 Million Construction Loan for 101 Franklin Development",
-   "url": "https://www.prnewswire.com/news-releases/newmark-arranges-305-million-construction-loan-for-luxury-condominium-development-at-101-franklin-in-tribeca-302948665.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NMRK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:46Z",
-   "news_id": 129576918,
-   "headline": "Xiaomi Executes Share Repurchase Program",
-   "url": "https://www.moomoo.com/news/post/1005607789/on-november-24-xiaomi-group-w-01810-repurchased-1-888",
-   "source": "fiscal.ai",
-   "symbols": [
-    "1810"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:46Z",
-   "news_id": 129576919,
-   "headline": "Xiaomi Reports Third-Quarter 2026 Financial Results",
-   "url": "https://www.morningstar.com/news/dow-jones/202611242462/xiaomis-profit-continues-to-fall-amid-weaker-revenue-across-businesses-update",
-   "source": "fiscal.ai",
-   "symbols": [
-    "1810"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:46Z",
-   "news_id": 129576920,
-   "headline": "Replimune to Present at the Piper Sandler 38th Annual Healthcare Conference",
-   "url": "https://www.morningstar.com/news/globe-newswire/9883967/replimune-to-present-at-the-piper-sandler-38th-annual-healthcare-conference",
-   "source": "fiscal.ai",
-   "symbols": [
-    "REPL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:47Z",
-   "news_id": 129576921,
-   "headline": "Permian Basin Royalty Trust Unitholders Approve Combination Agreement",
-   "url": "https://www.prnewswire.com/news-releases/permian-basin-royalty-trust-announces-results-of-special-meeting-called-by-softvest-302948651.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PBT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:48Z",
-   "news_id": 129576922,
-   "headline": "BYD Launches Third-Generation Tang Electric SUV",
-   "url": "https://www.moomoo.com/hans/news/post/1005629437/byd-launches-third-gen-tang-electric-suv-starting-at-28000",
-   "source": "fiscal.ai",
-   "symbols": [
-    "002594"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:49Z",
-   "news_id": 129576923,
-   "headline": "Minister Joly Meets with Canadian Telecommunications CEOs",
-   "url": "https://www.newswire.ca/news-releases/statement-from-minister-joly-on-her-meeting-with-telecommunications-ceos-800508679.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CCA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:49Z",
-   "news_id": 129577434,
-   "headline": "LondonMetric Property Plc Reports Financial Results",
-   "url": "https://www.finanznachrichten.de/nachrichten-medien/seeking-alpha.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LMP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:49Z",
-   "news_id": 129577435,
-   "headline": "Kingfisher Reports Q3 Results and Upgrades Full-Year Profit Guidance",
-   "url": "https://westernmorning.news/2026/11/24/bq-owner-kingfisher-hikes-earnings-outlook-again/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KGF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:50Z",
-   "news_id": 129576924,
-   "headline": "NEXT plc Reports Cyber Incident at Third-Party Supplier",
-   "url": "https://cybermagazine.com/news/next-data-breach-shows-why-supplier-security-matters",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NXT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:52Z",
-   "news_id": 129576925,
-   "headline": "Innoviva to Participate in the Piper Sandler 38th Annual Healthcare Conference",
-   "url": "https://www.businesswire.com/newsroom/industry/health/biotechnology",
-   "source": "fiscal.ai",
-   "symbols": [
-    "INVA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:52Z",
-   "news_id": 129576926,
-   "headline": "Bonaccord Capital Partners, a Strategy of Ridgepost Capital, Invests in Banner Ridge Partners",
-   "url": "https://www.prnewswire.com/news-releases/banner-ridge-partners-announces-strategic-growth-investment-from-bisonti-partners-and-bonaccord-capital-partners-302947321.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RPC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:52Z",
-   "news_id": 129576927,
-   "headline": "Harmony Biosciences to Present New EPX-100 Data at 2026 American Epilepsy Society Annual Meeting",
-   "url": "https://www.morningstar.com/news/globe-newswire/9883675/harmony-biosciences-to-present-new-18-month-open-label-extension-data-from-the-epx-100-phase-3-dravet-syndrome-trial-at-the-2026-american-epilepsy-society-annual-meeting",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HRMY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:55Z",
-   "news_id": 129576928,
-   "headline": "UroGen Pharma to Present at the Piper Sandler 38th Annual Healthcare Conference",
-   "url": "https://www.morningstar.com/news/globe-newswire/9882619/urogen-pharma-to-present-at-the-piper-sandler-38th-annual-healthcare-conference",
-   "source": "fiscal.ai",
-   "symbols": [
-    "URGN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:55Z",
-   "news_id": 129577442,
-   "headline": "Pursuit Attractions and Hospitality, Inc. to Acquire Sky Adventures",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/pursuit-to-acquire-costa-rica-attraction-operator-sky-adventures-1036795475",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PRSU"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:57Z",
-   "news_id": 129576929,
-   "headline": "Rapport Therapeutics to Present New Clinical Data at 2026 AES Annual Meeting",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409113/0/en/rapport-to-present-new-long-term-open-label-safety-data-in-focal-onset-seizures-and-analyses-of-seizure-severity-and-burden-at-the-2026-aes-annual-meeting.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RAPP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:57Z",
-   "news_id": 129577444,
-   "headline": "Holcim Completes Tender Offer for Cementos Pacasmayo Shares",
-   "url": "https://www.finanzen.at/nachrichten/aktien/holcim-completes-tender-offer-for-cementos-pacasmayo-shares-1036793844",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CPAC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:58Z",
-   "news_id": 129576930,
-   "headline": "Spotify Reports Service Recovery Following User Outage",
-   "url": "https://www.marketscreener.com/news/spotify-reports-service-recovery-after-user-outage-reports-exceed-14-000-ce7851dbd880f720",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SPOT"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-24T14:01:58Z",
    "news_id": 129576931,
@@ -3513,6 +3308,215 @@
     "AAPG"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T03:02:12Z",
+   "news_id": 130284537,
+   "headline": "BTIG Reiterates Buy Rating on AppLovin",
+   "url": "https://www.moomoo.com/stock/APP-US?chain_id=Name1K9-3FXPhg.1lgc270&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FCRL-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "APP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:02:00Z",
+   "news_id": 130284536,
+   "headline": "Dowty to Open £19 Million Innovation Centre Backed by GE Aerospace",
+   "url": "https://avi-go.com/news/articles/b5319a5970aa13c3035710aa90f5a967",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:58Z",
+   "news_id": 130284457,
+   "headline": "BofA Securities Upgrades Cadence Design Systems to Neutral",
+   "url": "https://www.moomoo.com/stock/OBMT-US",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CDNS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:58Z",
+   "news_id": 130284456,
+   "headline": "Cadence CEO Anirudh Devgan to Present at UBS Global Technology and AI Conference",
+   "url": "https://www.streetinsider.com/Press+Releases?before_id=27396022",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CDNS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:56Z",
+   "news_id": 130284455,
+   "headline": "Citi Maintains Buy Rating and $115 Price Target for Amphenol",
+   "url": "https://www.moomoo.com/stock/APH-US?chain_id=Name1K9-3FXPhg.1lgbk50&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FFFIV-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "APH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:51Z",
+   "news_id": 130284454,
+   "headline": "Intuit CFO Sandeep Aujla to Present at the UBS Global Technology and AI Conference",
+   "url": "https://www.barchart.com/press-releases/8992043/intuit-cfo-sandeep-aujla-to-present-at-the-ubs-global-technology-and-ai-conference",
+   "source": "fiscal.ai",
+   "symbols": [
+    "INTU"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:51Z",
+   "news_id": 130284453,
+   "headline": "Citi Maintains Buy Rating and $200 Price Target for Corning",
+   "url": "https://www.moomoo.com/news/post/1005616702/citi-maintains-corning-glwus-with-buy-rating-maintains-target-price",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GLW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:49Z",
+   "news_id": 130284452,
+   "headline": "PNC to Participate in Upcoming Economic and Tax Planning Webinar",
+   "url": "https://www.prnewswire.com/news-releases/whitley-penn-offers-complimentary-year-end-tax-planning-resources-via-virtual-event-302948860.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PNC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:44Z",
+   "news_id": 130284451,
+   "headline": "Leadership Change at Marathon Petroleum's Savage Branch Wildlife Reserve",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70219742-marathon-petroleum-our-people-refinery-s-wildlife-reserve-inspires-employee-volunteer-to-carry-on-decades-long-legacy-200.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MPC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:44Z",
+   "news_id": 130284450,
+   "headline": "FedEx Operations Impacted by US Aviation Suspension",
+   "url": "https://www.negociosmagazine.com/podrian-las-caidas-de-sistemas-informaticos-ser-ataques-contra-estados-unidos/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FDX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:40Z",
+   "news_id": 130284449,
+   "headline": "Cloudflare Director Carl Ledbetter Sells Shares",
+   "url": "https://www.moomoo.com/news/post/1005663936/cloudflare-insider-sold-shares-worth-1436087-according-to-a-recent",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NET"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:38Z",
+   "news_id": 130284448,
+   "headline": "S&P Dow Jones Indices Announces Index Changes for S&P SmallCap 600",
+   "url": "https://www.prnewswire.com/news-releases/centuri-holdings-set-to-join-sp-smallcap-600-302949933.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SPGI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:38Z",
+   "news_id": 130284447,
+   "headline": "Datadog Director Alexis Le-Quoc Sells 44,400 Shares of Common Stock",
+   "url": "https://www.moomoo.com/ja/news/post/1005666586/datadog-ddogus-officer-sells-us-7-49-million-in-common",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DDOG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:38Z",
+   "news_id": 130284446,
+   "headline": "FIBRA Prologis Recasts Credit Facility, Doubling Capacity to $1 Billion",
+   "url": "https://newsfilter.io/articles/fibra-prologis-recasts-credit-facility-doubling-capacity-to-1-billion-and-0c54d4722bbc5f28b00e2afc05f6cb54",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PLD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:34Z",
+   "news_id": 130284445,
+   "headline": "New York State Common Retirement Fund Weighs $4 Billion CFO Involving Blackstone Funds",
+   "url": "https://www.zerohedge.com/markets/pension-goes-full-cdo-new-yorks-giant-reitrement-fund-bundles-blue-owl-blackstone-fund",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:27Z",
+   "news_id": 130284444,
+   "headline": "ICE Chair and CEO Jeffrey Sprecher to Present at Goldman Sachs Financial Services Conference",
+   "url": "https://investingnews.com/intercontinental-exchange-chair-ceo-jeffrey-c-sprecher-to-present-at-the-goldman-sachs-financial-services-conference-on-december-8/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ICE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:26Z",
+   "news_id": 130284443,
+   "headline": "Apollo Reported to be in Talks Regarding Financing for Potential Global Payments Acquisition",
+   "url": "https://www.pymnts.com/news/acquiring/2026/blackstone-warburg-pincus-and-apollo-weigh-backing-50-billion-global-payments-acquisition/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "APO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:21Z",
+   "news_id": 130284442,
+   "headline": "iwoca Launches Business Credit Card in Partnership with Visa and Enfuce",
+   "url": "https://newsfilter.io/articles/iwoca-and-visa-launch-credit-card-to-widen-sme-funding-choice-1e102139b16f5b9c972166fc3d7c6ba1",
+   "source": "fiscal.ai",
+   "symbols": [
+    "V"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T03:01:17Z",
+   "news_id": 130284441,
+   "headline": "Meta Releases 2026 Sustainability Report",
+   "url": "https://sustainabilitymag.com/news/inside-metas-commitment-to-sustainable-data-centres",
+   "source": "fiscal.ai",
+   "symbols": [
+    "META"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -3859,10 +3863,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T03:05:26Z",
+   "fetched": 20,
+   "news": 19,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1975
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T02:52:15Z",
+ "updated_at": "2026-11-25T03:05:26Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -3875,10 +3888,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99586.04,
+  "equity": 99534.53,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 390892.51
+  "buying_power": 390748.27
  },
  "pending": 2,
  "positions": [
@@ -3887,10 +3900,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 276.9,
-   "market_value": 1384.5,
-   "unrealized_pl": -251.64,
-   "unrealized_plpc": -0.1538,
+   "current_price": 276.36,
+   "market_value": 1381.8,
+   "unrealized_pl": -254.34,
+   "unrealized_plpc": -0.15545,
    "opened_at": null
   },
   {
@@ -3898,10 +3911,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 39.54,
-   "market_value": 4825.224766,
-   "unrealized_pl": -162.305234,
-   "unrealized_plpc": -0.03254,
+   "current_price": 39.14,
+   "market_value": 4776.411162,
+   "unrealized_pl": -211.118838,
+   "unrealized_plpc": -0.04233,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
