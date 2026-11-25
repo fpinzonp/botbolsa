@@ -255,64 +255,13 @@
   {
    "t": "2026-11-25T09:52:18Z",
    "v": 99389.17
+  },
+  {
+   "t": "2026-11-25T10:07:13Z",
+   "v": 99393.51
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-24T14:33:55Z",
-   "news_id": 129602398,
-   "headline": "Mizuho Securities Initiates Coverage on AeroVironment",
-   "url": "https://www.marketscreener.com/news/mizuho-securities-initiates-coverage-on-aerovironment-with-outperform-rating-180-pt-ce7851dbd88eff22",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AVAV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:33:53Z",
-   "news_id": 129602397,
-   "headline": "Morgan Stanley Adjusts Semtech Price Target to $157",
-   "url": "https://www.marketscreener.com/news/morgan-stanley-adjusts-semtech-price-target-to-157-from-176-maintains-equal-weight-rating-ce7851dbdb88fe2d",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SMTC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:33:52Z",
-   "news_id": 129602396,
-   "headline": "Deutsche Bank Adjusts Price Target on Cabot Corporation",
-   "url": "https://www.marketscreener.com/news/deutsche-bank-cuts-price-target-on-cabot-to-76-from-90-keeps-hold-rating-ce7851dbd88df125",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CBT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:33:52Z",
-   "news_id": 129602395,
-   "headline": "Dyne Therapeutics to Participate in Piper Sandler 38th Annual Healthcare Conference",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409147/0/en/dyne-therapeutics-to-participate-in-upcoming-investor-conference.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DYN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:33:48Z",
-   "news_id": 129602394,
-   "headline": "Xenon Pharmaceuticals to Present New Azetukalner Data at AES 2026",
-   "url": "https://www.morningstar.com/news/globe-newswire/9883659/xenon-to-present-new-azetukalner-data-in-focal-seizures-at-aes-2026",
-   "source": "fiscal.ai",
-   "symbols": [
-    "XENE"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-24T14:33:47Z",
    "news_id": 129602393,
@@ -3656,6 +3605,61 @@
     "HSBC"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T10:02:32Z",
+   "news_id": 130348218,
+   "headline": "Samsung Electronics and SK Hynix Reportedly Considering YMTC's Xtacking Technology for 3D NAND",
+   "url": "https://www.marketscreener.com/news/samsung-electronics-sk-hynix-eyeing-ymtc-xtacking-tech-for-3d-nand-ce7851dbd181fe2d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SKHY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T10:01:42Z",
+   "news_id": 130347842,
+   "headline": "Li Auto Inc. Announces Unaudited Third Quarter 2026 Financial Results",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410023/0/en/li-auto-inc-announces-unaudited-third-quarter-2026-financial-results.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T10:01:36Z",
+   "news_id": 130347841,
+   "headline": "Joybuy Launches Christmas Campaign and New Shopping Features",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70223263-it-s-a-you-kind-of-christmas-joybuy-introduces-gift-boxing-shareable-wishlists-and-festive-surprises-with-delivery-right-up-to-christmas-eve-008.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T10:01:29Z",
+   "news_id": 130347839,
+   "headline": "Sony Network Communications Europe and Nimway Launch SENVY AI Multi-Sensor",
+   "url": "https://www.moomoo.com/hans/news/post/1005734859/sony-s-nimway-launches-senvy-the-first-wireless-battery-powered",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SONY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T10:01:22Z",
+   "news_id": 130347838,
+   "headline": "NIO Hosts 2026 Innovation Technology Day, Outlines AI-Native Strategy and Energy Growth Targets",
+   "url": "https://www.moomoo.com/ja/news/post/1005732178",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NIO"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4263,10 +4267,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T10:07:13Z",
+   "fetched": 9,
+   "news": 5,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 947
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T09:52:18Z",
+ "updated_at": "2026-11-25T10:07:13Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4279,10 +4292,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99389.17,
+  "equity": 99393.51,
   "cash": 93376.31,
   "last_equity": 99676.10687299244,
-  "buying_power": 390341.25
+  "buying_power": 390353.4
  },
  "pending": 5,
  "positions": [
@@ -4291,10 +4304,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 270.64,
-   "market_value": 1353.2,
-   "unrealized_pl": -282.94,
-   "unrealized_plpc": -0.17293,
+   "current_price": 271.1,
+   "market_value": 1355.5,
+   "unrealized_pl": -280.64,
+   "unrealized_plpc": -0.17153,
    "opened_at": null
   },
   {
@@ -4302,10 +4315,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 38.1833,
-   "market_value": 4659.661225,
-   "unrealized_pl": -327.868775,
-   "unrealized_plpc": -0.06574,
+   "current_price": 38.2,
+   "market_value": 4661.699193,
+   "unrealized_pl": -325.830807,
+   "unrealized_plpc": -0.06533,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
