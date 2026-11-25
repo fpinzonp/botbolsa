@@ -411,119 +411,13 @@
   {
    "t": "2026-11-25T19:52:22Z",
    "v": 99521.69
+  },
+  {
+   "t": "2026-11-25T20:07:19Z",
+   "v": 99494.14
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T11:32:04Z",
-   "news_id": 130382458,
-   "headline": "BNP Paribas Adjusts Price Target on PepsiCo to $160 From $157",
-   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-price-target-on-pepsico-to-160-from-157-ce7851dbd08af523",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PEP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:57Z",
-   "news_id": 130382045,
-   "headline": "BNP Paribas Adjusts Price Target on Coca-Cola to $107 From $102",
-   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-price-target-on-coca-cola-to-107-from-102-ce7851dbd08af521",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:57Z",
-   "news_id": 130382044,
-   "headline": "BNP Paribas Adjusts Price Target on Procter & Gamble",
-   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-price-target-on-procter-gamble-to-197-from-189-ce7851dbd08df727",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:57Z",
-   "news_id": 130382043,
-   "headline": "Malaysia Aviation Group Orders 10 Boeing 787 Dreamliners",
-   "url": "https://www.prnewswire.com/news-releases/financial-services-latest-news/contracts-list/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:57Z",
-   "news_id": 130382042,
-   "headline": "Philippines Expresses Intent to Acquire Six Boeing CH-47 Chinook Helicopters",
-   "url": "https://www.pna.gov.ph/article/ph-eyes-6-chinook-heavy-lift-helicopters-from-us-2-b-fmf",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:56Z",
-   "news_id": 130382041,
-   "headline": "BNY and Ant International Announce Strategic Collaboration on Global Payments and Treasury Solutions",
-   "url": "https://natlawreview.com/press-releases/ant-international-and-bny-sign-mou-explore-next-generation-treasury-247-fx",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BNY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:54Z",
-   "news_id": 130382040,
-   "headline": "TE Connectivity Leaders Share 2027 Manufacturing Predictions",
-   "url": "https://manufacturingdigital.com/top10/top-10-manufacturing-predictions-for-2027",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TEL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:54Z",
-   "news_id": 130382039,
-   "headline": "Moody's Maintains Stable Outlook for EU and UK Credit Ratings",
-   "url": "https://www.milanofinanza.it/newsmarketdriver/market-driver-moody-s-vede-outlook-stabile-per-rating-ue-e-gb-202611251148029172",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MCO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:53Z",
-   "news_id": 130382038,
-   "headline": "Colgate-Palmolive Launches \"Miracle Repair+ Anti-Aging Oral Care\" Collection with Watsons",
-   "url": "https://www.prnewswire.com/apac/news-releases/colgate-and-watsons-announce-a-major-partnership-to-launch-the-first-dentist-co-developed-miracle-repair-anti-aging-oral-care-collection-302950284.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:51Z",
-   "news_id": 130382037,
-   "headline": "RBC Releases Fall 2026 Financial Flexibility Poll Results",
-   "url": "https://www.newswire.ca/news-releases/is-fomu-keeping-canadians-from-investing-their-cash-rbc-poll-finds-fear-of-messing-up-is-bigger-than-fear-of-missing-out-846892969.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RY"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T11:31:48Z",
    "news_id": 130382036,
@@ -3713,6 +3607,116 @@
     "APLD"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T20:02:11Z",
+   "news_id": 130885043,
+   "headline": "Morgan Stanley Adjusts Best Buy Price Target",
+   "url": "https://www.marketscreener.com/news/morgan-stanley-adjusts-best-buy-price-target-to-100-from-90-ce7851d8d98ef52c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:02:11Z",
+   "news_id": 130885042,
+   "headline": "Morgan Stanley Adjusts Dell Technologies Price Target",
+   "url": "https://www.marketscreener.com/news/morgan-stanley-adjusts-dell-technologies-price-target-to-408-from-403-ce7851d8d98ff224",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:02:06Z",
+   "news_id": 130885041,
+   "headline": "Analysts Adjust Price Targets for Western Digital Corporation",
+   "url": "https://www.moomoo.com/stock/WDC-US?chain_id=Name1K9-3FXPhg.1lge8h0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FWDC-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WDC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:02:03Z",
+   "news_id": 130885040,
+   "headline": "Chinese Investor Signs Hotel Management Deals with Marriott International",
+   "url": "https://www.uzdaily.uz/en/hotelpro-hub-central-asia-2026-concludes-in-tashkent/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:02:00Z",
+   "news_id": 130885039,
+   "headline": "CIBC Analyst Adjusts Bank of Montreal Price Target",
+   "url": "https://www.moomoo.com/stock/BMO-CA?chain_id=Name1K9-3FXPhg.1l5lgg0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A64%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2F152543617%2Fpost%2Fall%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BMO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:01:56Z",
+   "news_id": 130883690,
+   "headline": "J.B. Hunt Files Opposition to Proposed Union Pacific-Norfolk Southern Merger",
+   "url": "https://www.trains.com/pro/freight/intermodal/intermodal-giant-j-b-hunt-asks-regulators-to-deny-up-ns-merger/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UNP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:01:55Z",
+   "news_id": 130883689,
+   "headline": "Kehewin Cree Nation Opposes Pathways CO2 Project",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410540/0/en/kehewin-cree-nation-opposes-pathways-project-human-safety-cannot-be-an-afterthought.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "COP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:01:55Z",
+   "news_id": 130883688,
+   "headline": "Supreme Court of British Columbia Rules in Class Action Regarding Supplement Labeling",
+   "url": "https://www.newswire.ca/news-releases/in-canada-wide-class-action-b-c-supreme-court-rules-popular-canadian-glucosamine-sulfate-labelled-products-do-not-contain-glucosamine-sulfate-889683505.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "COST"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:01:53Z",
+   "news_id": 130883687,
+   "headline": "Shell Announces Share Buyback Transactions",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410033/0/en/transaction-in-own-shares.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SHEL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:01:49Z",
+   "news_id": 130883686,
+   "headline": "BlackRock, Inc. Discloses Change in Voting Rights in SAP SE",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-sap-se-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036800180",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BLK"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4761,10 +4765,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T20:07:19Z",
+   "fetched": 10,
+   "news": 10,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1241
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T19:52:22Z",
+ "updated_at": "2026-11-25T20:07:19Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4777,10 +4790,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99521.69,
+  "equity": 99494.14,
   "cash": 84553.25,
   "last_equity": 99676.10687299244,
-  "buying_power": 380124.64
+  "buying_power": 380047.49
  },
  "pending": 0,
  "positions": [
@@ -4789,10 +4802,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.395,
-   "market_value": 4912.993637,
-   "unrealized_pl": -58.556363,
-   "unrealized_plpc": -0.01178,
+   "current_price": 21.33,
+   "market_value": 4898.067506,
+   "unrealized_pl": -73.482494,
+   "unrealized_plpc": -0.01478,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4800,10 +4813,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 164.8275,
-   "market_value": 5098.607252,
-   "unrealized_pl": 127.057252,
-   "unrealized_plpc": 0.02556,
+   "current_price": 164.34,
+   "market_value": 5083.52742,
+   "unrealized_pl": 111.97742,
+   "unrealized_plpc": 0.02252,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4811,10 +4824,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.22,
-   "market_value": 4956.841272,
-   "unrealized_pl": -14.708728,
-   "unrealized_plpc": -0.00296,
+   "current_price": 20.23,
+   "market_value": 4959.292727,
+   "unrealized_pl": -12.257273,
+   "unrealized_plpc": -0.00247,
    "opened_at": "2026-11-25T14:37:19Z"
   }
  ]
