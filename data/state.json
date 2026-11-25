@@ -1,22 +1,6 @@
 {
- "news_cursor": "2026-11-25T21:02:18Z",
+ "news_cursor": "2026-11-25T21:33:06Z",
  "seen_ids": [
-  129578144,
-  129578143,
-  129578142,
-  129578141,
-  129578140,
-  129578139,
-  129578138,
-  129578137,
-  129578136,
-  129578135,
-  129578134,
-  129578133,
-  129578132,
-  129578131,
-  129578130,
-  129578129,
   129578128,
   129578127,
   129578126,
@@ -2000,12 +1984,61 @@
   130965027,
   130965026,
   130965025,
-  130965024
+  130965024,
+  131007529,
+  131007528,
+  131007527,
+  131007526,
+  131007525,
+  131007524,
+  131007523,
+  131006143,
+  131006142,
+  131006141,
+  131006140,
+  131006139,
+  131006138,
+  131006137,
+  131006136,
+  131006135
  ],
  "opened_at": {
   "BA": "2026-11-25T14:37:19Z",
   "MG": "2026-11-25T14:37:19Z",
   "AAT": "2026-11-25T14:37:19Z"
  },
- "pending": []
+ "pending": [
+  {
+   "news_id": 131007525,
+   "symbol": "SPGI",
+   "action": "sell",
+   "confidence": 0.78,
+   "impact": "medium",
+   "rationale": "S&P Global Ratings coloca a NVIDIA en CreditWatch negativo, lo que indica riesgos de gobernanza y podría presionar a los índices que incluyen a SPGI.",
+   "asset": {
+    "id": "10f7d07f-0811-42bf-a780-b4d4cb53eb91",
+    "class": "us_equity",
+    "exchange": "NYSE",
+    "symbol": "SPGI",
+    "name": "S&P Global Inc.",
+    "status": "active",
+    "tradable": true,
+    "marginable": true,
+    "maintenance_margin_requirement": 30,
+    "margin_requirement_long": "30",
+    "margin_requirement_short": "30",
+    "shortable": true,
+    "easy_to_borrow": true,
+    "borrow_status": "easy_to_borrow",
+    "fractionable": true,
+    "attributes": [
+     "fractional_eh_enabled",
+     "has_options",
+     "overnight_tradable"
+    ]
+   },
+   "t": "2026-11-25T21:37:17Z",
+   "ref_price": 460.84
+  }
+ ]
 }
