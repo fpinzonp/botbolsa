@@ -1,4 +1,6 @@
 """Cliente mínimo de la API REST de Alpaca (paper trading + noticias)."""
+import time
+
 import requests
 
 from .config import DATA_BASE_URL, PAPER_BASE_URL
@@ -56,6 +58,21 @@ class Alpaca:
 
     def close_position(self, symbol: str) -> dict:
         return self._req("DELETE", f"{PAPER_BASE_URL}/v2/positions/{norm(symbol)}")
+
+    def open_orders(self) -> list[dict]:
+        return self._req("GET", f"{PAPER_BASE_URL}/v2/orders", params={"status": "open"})
+
+    def wait_for_fills(self, timeout_s: float = 20, poll_s: float = 2) -> bool:
+        """Espera a que no queden órdenes pendientes (las de mercado se llenan en segundos).
+
+        Devuelve False si al vencer el plazo aún hay órdenes abiertas.
+        """
+        deadline = time.monotonic() + timeout_s
+        while self.open_orders():
+            if time.monotonic() >= deadline:
+                return False
+            time.sleep(poll_s)
+        return True
 
     # --- Noticias ---------------------------------------------------------
     def news(self, start_iso: str, max_items: int) -> list[dict]:

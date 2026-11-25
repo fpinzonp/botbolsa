@@ -178,7 +178,10 @@ def run() -> None:
     done = [n["id"] for n in fresh if n["id"] not in left_ids]
     state["seen_ids"] = (state["seen_ids"] + done)[-MAX_SEEN_IDS:]
 
-    # 3) Datos para el dashboard.
+    # 3) Datos para el dashboard. Si se enviaron órdenes, primero se espera a que Alpaca las
+    # ejecute; si no, el dashboard mostraría la cuenta como estaba antes de operar.
+    if any(t["status"] == "enviada" for t in trades) and not alpaca.wait_for_fills():
+        run_log["errors"].append("Órdenes aún pendientes al guardar el dashboard")
     account = alpaca.account()
     positions = alpaca.positions()
     # Olvida posiciones que ya no existen, salvo las compradas en esta ejecución: la orden
