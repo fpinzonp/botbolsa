@@ -447,53 +447,13 @@
   {
    "t": "2026-11-25T22:00:40Z",
    "v": 99505.04
+  },
+  {
+   "t": "2026-11-25T22:07:24Z",
+   "v": 99505.04
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T12:33:11Z",
-   "news_id": 130408696,
-   "headline": "Wipro Enters Partnership with BP to Manage Finance Operations",
-   "url": "https://de.marketscreener.com/boerse-nachrichten/bp-beauftragt-wipro-mit-der-modernisierung-des-finanzbereichs-und-lagert-3-000-beschaeftigte-aus-ce7851d8d98bf12c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WIT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T12:33:09Z",
-   "news_id": 130408695,
-   "headline": "Navan Announces Date for Third Quarter Fiscal 2027 Financial Results",
-   "url": "https://www.businesswire.com/newsroom/subject/earnings",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NAVN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T12:33:02Z",
-   "news_id": 130408694,
-   "headline": "BNP Paribas Adjusts Price Target on Keurig Dr Pepper to $37 From $35",
-   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-price-target-on-keurig-dr-pepper-to-37-from-35-ce7851d8d98bf021",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KDP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T12:32:53Z",
-   "news_id": 130408215,
-   "headline": "BNP Paribas Adjusts Price Target on Constellation Brands",
-   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-price-target-on-constellation-brands-to-109-from-99-ce7851d8d98bfe26",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STZ"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T12:32:51Z",
    "news_id": 130408214,
@@ -3767,6 +3727,50 @@
     "UNH"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T22:01:54Z",
+   "news_id": 131047729,
+   "headline": "Analysts Update Price Targets for National Grid plc",
+   "url": "https://www.moomoo.com/stock/NGG-US?chain_id=Name1K9-3FXPhg.1lge8h0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FNGG-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NGG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T22:01:31Z",
+   "news_id": 131047727,
+   "headline": "Arch MI Secures $202.5 Million of Indemnity Reinsurance through Bellemeade Re Insurance-Linked Note Transaction",
+   "url": "https://natlawreview.com/press-releases/arch-mi-secures-2025-million-indemnity-reinsurance-through-bellemeade-re",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ACGL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T22:01:20Z",
+   "news_id": 131047725,
+   "headline": "HSBC Holdings plc Announces Share Repurchases for Cancellation",
+   "url": "https://www.investegate.co.uk/announcement/rns/hsbc-holdings--hsba/transaction-in-own-shares/9894349",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HSBC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T22:01:20Z",
+   "news_id": 131047724,
+   "headline": "Tusker Releases Research on Salary Sacrifice Car Schemes",
+   "url": "https://businessinthenews.co.uk/2026/11/25/new-research-shows-ev-salary-sacrifice-plays-significant-role-in-employee-attraction-and-retention/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LYG"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4896,10 +4900,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T22:07:24Z",
+   "fetched": 6,
+   "news": 4,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 882
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T22:00:40Z",
+ "updated_at": "2026-11-25T22:07:24Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
