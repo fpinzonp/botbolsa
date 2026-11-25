@@ -207,42 +207,13 @@
   {
    "t": "2026-11-25T06:52:15Z",
    "v": 99552.81
+  },
+  {
+   "t": "2026-11-25T07:07:14Z",
+   "v": 99527.05
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-24T14:01:58Z",
-   "news_id": 129576931,
-   "headline": "The Empire State Building Observation Deck Announces 2026 Holiday Celebrations",
-   "url": "https://www.businesswire.com/newsroom/industry/construction-property/reit",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ESRT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:59Z",
-   "news_id": 129577447,
-   "headline": "Compass Group Canada Partners with Amp Health for Workplace Safety Pilot",
-   "url": "https://www.einpresswire.com/article/957769876/amp-health-awarded-national-safety-council-msd-solutions-pilot-grant-for-compass-group-canada-partnership",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CPG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:59Z",
-   "news_id": 129577448,
-   "headline": "Bernstein Raises Price Target for National Grid plc",
-   "url": "https://www.marketscreener.com/news/bernstein-lifts-national-grid-plc-pt-keeps-outperform-rating-ce7851dbdb8af025",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NGG"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-24T14:02:00Z",
    "news_id": 129577449,
@@ -3581,6 +3552,39 @@
     "META"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T07:02:17Z",
+   "news_id": 130303934,
+   "headline": "Cognyte to Announce Third Quarter FYE27 Financial Results on December 9, 2026",
+   "url": "https://www.streetinsider.com/Business+Wire?before_id=27385205",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CGNT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T07:01:54Z",
+   "news_id": 130303824,
+   "headline": "PolyPid Receives FDA Approval for BACFENSSI",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409851/0/en/polypid-announces-fda-approval-of-bacfenssi-d-plex-to-reduce-the-occurrence-of-surgical-site-infections-in-patients-undergoing-colorectal-surgery.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PYPD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T07:01:37Z",
+   "news_id": 130303810,
+   "headline": "Beyond Oil Launches Frying Management Ecosystem for Professional Kitchens",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409169/0/en/beyond-oil-launches-digital-frying-management-application-and-complementary-product-ecosystem.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BOIL"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4080,10 +4084,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T07:07:14Z",
+   "fetched": 28,
+   "news": 3,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 773
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T06:52:15Z",
+ "updated_at": "2026-11-25T07:07:14Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4096,10 +4109,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99552.81,
+  "equity": 99527.05,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 390799.45
+  "buying_power": 390727.33
  },
  "pending": 2,
  "positions": [
@@ -4108,10 +4121,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 274.89,
-   "market_value": 1374.45,
-   "unrealized_pl": -261.69,
-   "unrealized_plpc": -0.15994,
+   "current_price": 274.62,
+   "market_value": 1373.1,
+   "unrealized_pl": -263.04,
+   "unrealized_plpc": -0.16077,
    "opened_at": null
   },
   {
@@ -4119,10 +4132,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 39.35,
-   "market_value": 4802.038304,
-   "unrealized_pl": -185.491696,
-   "unrealized_plpc": -0.03719,
+   "current_price": 39.15,
+   "market_value": 4777.631502,
+   "unrealized_pl": -209.898498,
+   "unrealized_plpc": -0.04208,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
