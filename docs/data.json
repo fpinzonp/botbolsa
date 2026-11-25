@@ -363,152 +363,13 @@
   {
    "t": "2026-11-25T16:52:25Z",
    "v": 98841.95
+  },
+  {
+   "t": "2026-11-25T17:07:22Z",
+   "v": 99088.86
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T03:01:40Z",
-   "news_id": 130284449,
-   "headline": "Cloudflare Director Carl Ledbetter Sells Shares",
-   "url": "https://www.moomoo.com/news/post/1005663936/cloudflare-insider-sold-shares-worth-1436087-according-to-a-recent",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NET"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T03:01:38Z",
-   "news_id": 130284448,
-   "headline": "S&P Dow Jones Indices Announces Index Changes for S&P SmallCap 600",
-   "url": "https://www.prnewswire.com/news-releases/centuri-holdings-set-to-join-sp-smallcap-600-302949933.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SPGI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T03:01:38Z",
-   "news_id": 130284447,
-   "headline": "Datadog Director Alexis Le-Quoc Sells 44,400 Shares of Common Stock",
-   "url": "https://www.moomoo.com/ja/news/post/1005666586/datadog-ddogus-officer-sells-us-7-49-million-in-common",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DDOG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T03:01:38Z",
-   "news_id": 130284446,
-   "headline": "FIBRA Prologis Recasts Credit Facility, Doubling Capacity to $1 Billion",
-   "url": "https://newsfilter.io/articles/fibra-prologis-recasts-credit-facility-doubling-capacity-to-1-billion-and-0c54d4722bbc5f28b00e2afc05f6cb54",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PLD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T03:01:34Z",
-   "news_id": 130284445,
-   "headline": "New York State Common Retirement Fund Weighs $4 Billion CFO Involving Blackstone Funds",
-   "url": "https://www.zerohedge.com/markets/pension-goes-full-cdo-new-yorks-giant-reitrement-fund-bundles-blue-owl-blackstone-fund",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T03:01:27Z",
-   "news_id": 130284444,
-   "headline": "ICE Chair and CEO Jeffrey Sprecher to Present at Goldman Sachs Financial Services Conference",
-   "url": "https://investingnews.com/intercontinental-exchange-chair-ceo-jeffrey-c-sprecher-to-present-at-the-goldman-sachs-financial-services-conference-on-december-8/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ICE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T03:01:26Z",
-   "news_id": 130284443,
-   "headline": "Apollo Reported to be in Talks Regarding Financing for Potential Global Payments Acquisition",
-   "url": "https://www.pymnts.com/news/acquiring/2026/blackstone-warburg-pincus-and-apollo-weigh-backing-50-billion-global-payments-acquisition/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "APO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T03:01:21Z",
-   "news_id": 130284442,
-   "headline": "iwoca Launches Business Credit Card in Partnership with Visa and Enfuce",
-   "url": "https://newsfilter.io/articles/iwoca-and-visa-launch-credit-card-to-widen-sme-funding-choice-1e102139b16f5b9c972166fc3d7c6ba1",
-   "source": "fiscal.ai",
-   "symbols": [
-    "V"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T03:01:17Z",
-   "news_id": 130284441,
-   "headline": "Meta Releases 2026 Sustainability Report",
-   "url": "https://sustainabilitymag.com/news/inside-metas-commitment-to-sustainable-data-centres",
-   "source": "fiscal.ai",
-   "symbols": [
-    "META"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T07:02:17Z",
-   "news_id": 130303934,
-   "headline": "Cognyte to Announce Third Quarter FYE27 Financial Results on December 9, 2026",
-   "url": "https://www.streetinsider.com/Business+Wire?before_id=27385205",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CGNT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T07:01:54Z",
-   "news_id": 130303824,
-   "headline": "PolyPid Receives FDA Approval for BACFENSSI",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409851/0/en/polypid-announces-fda-approval-of-bacfenssi-d-plex-to-reduce-the-occurrence-of-surgical-site-infections-in-patients-undergoing-colorectal-surgery.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PYPD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T07:01:37Z",
-   "news_id": 130303810,
-   "headline": "Beyond Oil Launches Frying Management Ecosystem for Professional Kitchens",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409169/0/en/beyond-oil-launches-digital-frying-management-application-and-complementary-product-ecosystem.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BOIL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:03:08Z",
-   "news_id": 130310927,
-   "headline": "Instant Group AG Releases Analysis on Capital Market Access via Alternative Structures",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-boersenmantel-spac-und-reverse-transaktionen-mindestens-jedes-zehnte-unternehmen-gelangt-auf-diesem-weg-an-die-boerse-1036791156",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CCB"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T08:02:55Z",
    "news_id": 130310686,
@@ -3692,6 +3553,149 @@
     "CASH"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T17:02:52Z",
+   "news_id": 130654322,
+   "headline": "Stellantis Scales Back French Plant Operations",
+   "url": "https://www.marketscreener.com/news/stellantis-scales-back-french-plant-operations-amid-weak-demand-competition-ce7851dbd089f221",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STLA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:02:52Z",
+   "news_id": 130654321,
+   "headline": "Stellantis Files Lawsuit Against Unifor Over Brampton Plant Access",
+   "url": "https://www.hrreporter.com/news/hr-news/stellantis-lawsuit-against-unifor-puts-site-access-rights-in-court/395196",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STLA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:02:06Z",
+   "news_id": 130654313,
+   "headline": "AlphaValue/Baader Europe Downgrades Heidelberg Materials to Add",
+   "url": "https://www.marketscreener.com/news/alphavalue-baader-europe-downgrades-heidelberg-materials-to-add-ce7851d8d888f324",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HEI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:02:00Z",
+   "news_id": 130653104,
+   "headline": "RBC Capital Markets Downgrades Almirall to Sector Perform",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/almirall-s-a-rbc-capital-markets-senkt-seine-meinung-und-wechselt-zu-neutral-ce7851d8db81f027",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ALM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:01:52Z",
+   "news_id": 130653100,
+   "headline": "Sodexo Announces Preparatory Documents for December 2026 Combined Shareholders Meeting",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410173/0/en/sodexo-december-16-2026-combined-shareholders-meeting-on-conditions-for-obtaining-or-consulting-the-preparatory-documents.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:01:45Z",
+   "news_id": 130653091,
+   "headline": "QIAGEN and BenchSci Partner to Integrate Multi-Omics Evidence into BenchSci EMET",
+   "url": "https://news.europawire.eu/press-releases-tagged-with/qiagen-digital-insights-brings-curated-multi-omics-evidence-into-benchsci-emet/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "QGEN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:01:41Z",
+   "news_id": 130653088,
+   "headline": "US Government Proposes 10% Tariff on Brazilian Aircraft",
+   "url": "https://economia.ig.com.br/2026-11-25/eua-propoem-tarifa-adicional-de-10--sobre-avioes-do-brasil.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EMBJ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:01:40Z",
+   "news_id": 130653087,
+   "headline": "Fraport Greece Reports 2026 Passenger Traffic and 2027 Outlook",
+   "url": "https://www.euro2day.gr/news/enterprises/122/list.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FRA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:01:35Z",
+   "news_id": 130653083,
+   "headline": "STMicroelectronics Expands STripFET F8 Power MOSFET Family",
+   "url": "https://www.einpresswire.com/article/958940806/stmicroelectronics-80v-mosfets-tailor-power-conversion-for-ai-servers-industrial-and-automotive",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:01:34Z",
+   "news_id": 130653080,
+   "headline": "Trigano Reports 2025-2026 Full-Year Results Below Analyst Expectations",
+   "url": "https://www.abcbourse.com/marches/trigano-plonge-apres-avoir-a-manque-le-consensus-en-2025-2026_706671",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TRI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:01:31Z",
+   "news_id": 130653078,
+   "headline": "Klarna Launches One-Time Card in Canada",
+   "url": "https://www.businesswire.com/newsroom/industry/retail",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KLAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:01:26Z",
+   "news_id": 130653074,
+   "headline": "Franz Kainersdorfer Awarded Honorary Senator Title by TU Graz",
+   "url": "https://www.myscience.at/de/news/wire/hochkaraetige_ehrungen_an_der_tu_graz-2026-tugraz",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VOE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T17:01:26Z",
+   "news_id": 130653073,
+   "headline": "Danone Canada Launches New OIKOS Brand Campaign and Visual Identity",
+   "url": "https://www.newswire.ca/news-releases/oikos-r-celebrates-the-rituals-that-nourish-us-881413627.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BN"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4622,10 +4626,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T17:07:22Z",
+   "fetched": 50,
+   "news": 13,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1549
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T16:52:25Z",
+ "updated_at": "2026-11-25T17:07:22Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4638,10 +4651,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 98841.95,
+  "equity": 99088.86,
   "cash": 78940.55,
   "last_equity": 99676.10687299244,
-  "buying_power": 371486.12
+  "buying_power": 372177.46
  },
  "pending": 0,
  "positions": [
@@ -4650,10 +4663,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.305,
-   "market_value": 4892.326686,
-   "unrealized_pl": -79.223314,
-   "unrealized_plpc": -0.01594,
+   "current_price": 21.4,
+   "market_value": 4914.141801,
+   "unrealized_pl": -57.408199,
+   "unrealized_plpc": -0.01155,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4661,10 +4674,10 @@
    "crypto": false,
    "qty": 525.533826638,
    "avg_entry_price": 9.46,
-   "current_price": 9.615,
-   "market_value": 5053.007743,
-   "unrealized_pl": 81.457743,
-   "unrealized_plpc": 0.01638,
+   "current_price": 9.95,
+   "market_value": 5229.061575,
+   "unrealized_pl": 257.511575,
+   "unrealized_plpc": 0.0518,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4672,10 +4685,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 161.575,
-   "market_value": 4997.997706,
-   "unrealized_pl": 26.447706,
-   "unrealized_plpc": 0.00532,
+   "current_price": 163.2,
+   "market_value": 5048.263813,
+   "unrealized_pl": 76.713813,
+   "unrealized_plpc": 0.01543,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4683,10 +4696,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.225,
-   "market_value": 4958.066999,
-   "unrealized_pl": -13.483001,
-   "unrealized_plpc": -0.00271,
+   "current_price": 20.22,
+   "market_value": 4956.841272,
+   "unrealized_pl": -14.708728,
+   "unrealized_plpc": -0.00296,
    "opened_at": "2026-11-25T14:37:19Z"
   }
  ]
