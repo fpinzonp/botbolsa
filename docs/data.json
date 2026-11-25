@@ -383,6 +383,10 @@
   {
    "t": "2026-11-25T18:07:25Z",
    "v": 99280.64
+  },
+  {
+   "t": "2026-11-25T18:22:16Z",
+   "v": 99536.84
   }
  ],
  "decisions": [
@@ -3806,6 +3810,16 @@
    "news_id": null,
    "crypto": false,
    "status": "enviada"
+  },
+  {
+   "t": "2026-11-25T18:22:16Z",
+   "symbol": "ARQQ",
+   "side": "close",
+   "reason": "Toma de ganancia (+13.5%)",
+   "notional": 0.0,
+   "news_id": null,
+   "crypto": false,
+   "status": "enviada"
   }
  ],
  "runs": [
@@ -4669,10 +4683,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 973
+  },
+  {
+   "t": "2026-11-25T18:22:16Z",
+   "fetched": 0,
+   "news": 0,
+   "signals": 0,
+   "orders": 1,
+   "errors": [],
+   "tokens": 0
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T18:07:25Z",
+ "updated_at": "2026-11-25T18:22:16Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4685,10 +4708,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99280.64,
-  "cash": 78940.55,
+  "equity": 99536.84,
+  "cash": 84553.25,
   "last_equity": 99676.10687299244,
-  "buying_power": 372714.46
+  "buying_power": 380167.05
  },
  "pending": 0,
  "positions": [
@@ -4697,21 +4720,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.36,
-   "market_value": 4904.95649,
-   "unrealized_pl": -66.59351,
-   "unrealized_plpc": -0.01339,
-   "opened_at": "2026-11-25T14:37:19Z"
-  },
-  {
-   "symbol": "ARQQ",
-   "crypto": false,
-   "qty": 525.533826638,
-   "avg_entry_price": 9.46,
-   "current_price": 10.24,
-   "market_value": 5381.466385,
-   "unrealized_pl": 409.916385,
-   "unrealized_plpc": 0.08245,
+   "current_price": 21.4,
+   "market_value": 4914.141801,
+   "unrealized_pl": -57.408199,
+   "unrealized_plpc": -0.01155,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4719,10 +4731,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 164.77,
-   "market_value": 5096.828606,
-   "unrealized_pl": 125.278606,
-   "unrealized_plpc": 0.0252,
+   "current_price": 165.28,
+   "market_value": 5112.60443,
+   "unrealized_pl": 141.05443,
+   "unrealized_plpc": 0.02837,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
