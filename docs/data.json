@@ -239,185 +239,13 @@
   {
    "t": "2026-11-25T08:52:14Z",
    "v": 99494.4
+  },
+  {
+   "t": "2026-11-25T09:07:28Z",
+   "v": 99498.13
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-24T14:02:18Z",
-   "news_id": 129577467,
-   "headline": "Cricut, Inc. Files Form 144 for Insider Transaction",
-   "url": "https://www.streetinsider.com/SEC+Filings?before_id=27388732",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CRCT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:18Z",
-   "news_id": 129577468,
-   "headline": "Evolv Technologies Announces Multi-Year Partnership Renewal with Hollywood Park",
-   "url": "https://www.businesswire.com/newsroom/industry/technology",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EVLV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:18Z",
-   "news_id": 129577469,
-   "headline": "UBS AG Increases Disclosed Stake in SEGRO to 5.18%",
-   "url": "https://www.investegate.co.uk/announcement/rns/segro--sgro/holding-s-in-company/9891114",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UBS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:02:18Z",
-   "news_id": 129577470,
-   "headline": "UBS Faces Endeavor Push for Valuation Documents in $13 Billion Buyout Dispute",
-   "url": "https://www.marketscreener.com/news/ubs-faces-endeavor-push-for-valuation-documents-in-13-billion-buyout-dispute-ce7851dbdb8bf222",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UBS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T15:33:08Z",
-   "news_id": 129658567,
-   "headline": "Seaport Global Securities Initiates Coverage on Mobileye Global Inc. with Buy Rating",
-   "url": "https://www.marketscreener.com/news/seaport-initiates-mobileye-global-at-buy-with-9-price-target-ce7851dbd88eff27",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MBLY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T15:32:02Z",
-   "news_id": 129657619,
-   "headline": "Barclays Initiates Coverage of Grupo Aeromexico with Overweight Rating",
-   "url": "https://www.moomoo.com/hans/news/post/1005636217",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AERO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T15:31:42Z",
-   "news_id": 129656668,
-   "headline": "Ituran Reports Record Third Quarter 2026 Financial Results",
-   "url": "https://www.prnewswire.com/news-releases/ituran-presents-third-quarter-2026-results-302949296.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ITRN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T15:31:31Z",
-   "news_id": 129656667,
-   "headline": "Merck Executives to Participate in 9th Annual Evercore Healthcare Conference",
-   "url": "https://www.merck.com/news/merck-to-participate-in-the-9th-annual-evercore-healthcare-conference/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MRK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T15:31:31Z",
-   "news_id": 129656666,
-   "headline": "Cerberus Capital Management to Acquire Airbus U.S. Space Systems Business",
-   "url": "https://www.prnewswire.com/news-releases/cerberus-to-acquire-the-us-space-systems-business-of-airbus-302949473.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AIR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T15:31:29Z",
-   "news_id": 129656665,
-   "headline": "Swiss Parliamentary Committee Backs 90% Capital Requirement for UBS",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/ubs-aktie-schwacher-kommission-bestatigt-bei-lex-ubs-eigenkapital-von-90-prozent-1036795612",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UBS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T15:31:25Z",
-   "news_id": 129656664,
-   "headline": "Spain Extends Windfall Tax on Bank Profits Through 2027",
-   "url": "https://www.euro2day.gr/news/world/article/2381611/ispania-parateinetai-eos-to-2027-o-ektaktos-foros.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SAN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T15:01:23Z",
-   "news_id": 129628553,
-   "headline": "British American Tobacco Director Dealing Notification",
-   "url": "https://www.investegate.co.uk/announcement/rns/british-american-tobacco--bats/director-pdmr-shareholding/9890906",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BTI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T15:01:08Z",
-   "news_id": 129628551,
-   "headline": "Shell plc Announces Transaction in Own Shares",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409065/0/en/transaction-in-own-shares.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SHEL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:35:06Z",
-   "news_id": 129604266,
-   "headline": "JPMorgan Initiates Coverage on Ionic Digital With Neutral Rating",
-   "url": "https://www.marketscreener.com/news/jpmorgan-initiates-coverage-on-ionic-digital-with-neutral-rating-70-price-target-ce7851dbd88fff24",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IOND"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:34:57Z",
-   "news_id": 129603332,
-   "headline": "Ambarella and Sigma Connectivity Announce Strategic Collaboration",
-   "url": "https://www.marketscreener.com/news/ambarella-sigma-connectivity-team-up-on-computer-vision-and-edge-ai-products-ce7851dbdb8cf225",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMBA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:34:36Z",
-   "news_id": 129603331,
-   "headline": "Mizuho Securities Initiates Coverage on Hexcel With Neutral Rating",
-   "url": "https://www.marketscreener.com/news/mizuho-securities-initiates-coverage-on-hexcel-with-neutral-rating-85-price-target-ce7851dbd881f72d",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HXL"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-24T14:34:27Z",
    "news_id": 129603330,
@@ -3631,6 +3459,191 @@
     "EQNR"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T09:04:04Z",
+   "news_id": 130327428,
+   "headline": "Nanoco Group Reports Fiscal Year 2026 Financial Results",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/ergebnis-flash-nano-l-nanoco-group-meldet-umsatz-von-10-4-mio-gbp-im-geschaeftsjahr-2026-ce7851dbde81f125",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NANO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:03:13Z",
+   "news_id": 130327080,
+   "headline": "Xaar Raises £13 Million via Share Placement and Launches Retail Offer",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/xaar-nimmt-ueber-aktienplatzierung-13-mio-gbp-auf-und-startet-kleinanlegerangebot-ce7851dbd18df420",
+   "source": "fiscal.ai",
+   "symbols": [
+    "XAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:02:23Z",
+   "news_id": 130326731,
+   "headline": "NewRiver REIT plc Reports First Half Fiscal Year Revenue",
+   "url": "https://ch.marketscreener.com/boerse-nachrichten/earnings-flash-nrr-l-newriver-reit-plc-meldet-umsatz-von-59-2-mio-gbp-im-ersten-geschaeftshalbjahr-ce7851dbde81f52d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NRR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:02:01Z",
+   "news_id": 130326704,
+   "headline": "Alien Metals Notes Assay Results from Elizabeth Hill Silver Project",
+   "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-24-activeops-alien-metals-coats-east-star-fiinu-kromek-mendell-reveille-richmond-hill-shearwater-e4cefef",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UFO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:56Z",
+   "news_id": 130326381,
+   "headline": "ActiveOps PLC Announces Unaudited Results for the Six Months Ended 30 September 2026",
+   "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-24-activeops-alien-metals-coats-east-star-fiinu-kromek-mendell-reveille-richmond-hill-shearwater-e4cefef",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AOM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:55Z",
+   "news_id": 130326380,
+   "headline": "Audioboom and Wonderloom Media Launch 'Dr. Insanity' Podcast",
+   "url": "https://www.prnewswire.com/news-releases/wonderloom-media-and-audioboom-launch-dr-insanity-podcast-amid-rising-demand-for-true-crime-302948704.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BOOM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:55Z",
+   "news_id": 130326379,
+   "headline": "Trifast plc Announces Director/PDMR Shareholding",
+   "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-pdmr-shareholding/9891409",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TRI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:53Z",
+   "news_id": 130326375,
+   "headline": "Potentially AI PLC Announces Interview with Non-Executive Director Lord Dominic Johnson",
+   "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-25-bradda-head-cake-box-genedrive-quantum-helium-potentially-ai-rentguarantor-sintana-strategic-minerals-sulnox-73222da",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AGI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:51Z",
+   "news_id": 130326374,
+   "headline": "Puma AIM VCT plc Discloses Investment in Chaleit Holdings plc",
+   "url": "https://www.investegate.co.uk/announcement/rns/puma-aim-vct-plc--paim/portfolio-update/9891008",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CHA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:51Z",
+   "news_id": 130326373,
+   "headline": "Emmerson PLC Concludes Bookbuild for £1.6 Million Capital Raise",
+   "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/result-of-placing-and-subscription-/9891902",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EML"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:41Z",
+   "news_id": 130326362,
+   "headline": "Corero Network Security Launches New Cloud DDoS Protection Service",
+   "url": "https://www.prnewswire.co.uk/news-releases/corero-network-security-introduces-a-cloud-ddos-service-extending-fast-automatic-protection-to-global-scale-302949821.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CNS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:41Z",
+   "news_id": 130326361,
+   "headline": "Impax Asset Management Reports Full-Year Financial Results",
+   "url": "https://www.voxmarkets.com/articles/equity-development-impax-am-weak-fy26-but-growth-outlook-looking-far-stronger-9dcf4ae",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IPX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:34Z",
+   "news_id": 130326358,
+   "headline": "Arqit Quantum Announces SEC Discontinuation of Investigation",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409661/0/en/sec-investigation-of-arqit-discontinued-without-enforcement-action.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ARQQ"
+   ],
+   "signals": [
+    {
+     "symbol": "ARQQ",
+     "action": "buy",
+     "confidence": 0.85,
+     "impact": "medium",
+     "rationale": "El cierre de la investigación de la SEC sin acción es un catalizador positivo que elimina incertidumbre regulatoria y podría impulsar el precio a corto plazo.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-25T09:01:30Z",
+   "news_id": 130326356,
+   "headline": "JPMorgan Asset Management Increases Stake in Keystone Law Group PLC",
+   "url": "https://www.investegate.co.uk/announcement/rns/keystone-law-group--keys/holdings-in-company/9891732",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KEYS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:26Z",
+   "news_id": 130326355,
+   "headline": "Essentra plc Announces Share Buyback Transactions",
+   "url": "https://www.investegate.co.uk/announcement/rns/essentra--esnt/transaction-in-own-shares/9891379",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ESNT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:01:25Z",
+   "news_id": 130326354,
+   "headline": "Ecora Royalties PLC to Present at Precious Metals & Critical Minerals Virtual Investor Conference",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409897/0/en/precious-metals-critical-minerals-virtual-investor-conference-agenda-announced-for-december-1-3.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ECOR"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4202,10 +4215,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T09:07:28Z",
+   "fetched": 74,
+   "news": 16,
+   "signals": 1,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1870
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T08:52:14Z",
+ "updated_at": "2026-11-25T09:07:28Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4218,22 +4240,22 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99494.4,
+  "equity": 99498.13,
   "cash": 93376.31,
   "last_equity": 99676.10687299244,
-  "buying_power": 390635.9
+  "buying_power": 390646.34
  },
- "pending": 4,
+ "pending": 5,
  "positions": [
   {
    "symbol": "GOOGL",
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 273.95,
-   "market_value": 1369.75,
-   "unrealized_pl": -266.39,
-   "unrealized_plpc": -0.16282,
+   "current_price": 272.987,
+   "market_value": 1364.935,
+   "unrealized_pl": -271.205,
+   "unrealized_plpc": -0.16576,
    "opened_at": null
   },
   {
@@ -4241,10 +4263,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 38.91,
-   "market_value": 4748.34334,
-   "unrealized_pl": -239.18666,
-   "unrealized_plpc": -0.04796,
+   "current_price": 38.98,
+   "market_value": 4756.885721,
+   "unrealized_pl": -230.644279,
+   "unrealized_plpc": -0.04624,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
