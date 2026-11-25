@@ -263,20 +263,13 @@
   {
    "t": "2026-11-25T10:22:15Z",
    "v": 99388.62
+  },
+  {
+   "t": "2026-11-25T10:37:23Z",
+   "v": 99388.76
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-24T14:33:47Z",
-   "news_id": 129602393,
-   "headline": "Mizuho Securities Initiates Coverage on MDA Space With Outperform Rating",
-   "url": "https://www.marketscreener.com/news/mizuho-securities-initiates-coverage-on-mda-space-with-outperform-rating-ca-63-price-target-ce7851dbdb88f621",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MDA"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-24T14:33:43Z",
    "news_id": 129602392,
@@ -3664,6 +3657,17 @@
     "NIO"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T10:31:17Z",
+   "news_id": 130359095,
+   "headline": "Banco Santander (Brasil) S.A. Acts as Financial Advisor in Transaction Agreement",
+   "url": "https://natlawreview.com/press-releases/valore-metals-announces-definitive-agreement-acquire-bemisa-agua-azul",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BSBR"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4289,10 +4293,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T10:37:23Z",
+   "fetched": 2,
+   "news": 1,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 624
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T10:22:15Z",
+ "updated_at": "2026-11-25T10:37:23Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4305,10 +4318,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99388.62,
+  "equity": 99388.76,
   "cash": 93376.31,
   "last_equity": 99676.10687299244,
-  "buying_power": 390339.7
+  "buying_power": 390340.09
  },
  "pending": 5,
  "positions": [
@@ -4317,10 +4330,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 270.61,
-   "market_value": 1353.05,
-   "unrealized_pl": -283.09,
-   "unrealized_plpc": -0.17302,
+   "current_price": 270.3934,
+   "market_value": 1351.967,
+   "unrealized_pl": -284.173,
+   "unrealized_plpc": -0.17369,
    "opened_at": null
   },
   {
@@ -4328,10 +4341,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 38.18,
-   "market_value": 4659.258512,
-   "unrealized_pl": -328.271488,
-   "unrealized_plpc": -0.06582,
+   "current_price": 38.19,
+   "market_value": 4660.478852,
+   "unrealized_pl": -327.051148,
+   "unrealized_plpc": -0.06557,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
