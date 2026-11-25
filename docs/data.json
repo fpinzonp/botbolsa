@@ -379,75 +379,13 @@
   {
    "t": "2026-11-25T17:52:16Z",
    "v": 99184.92
+  },
+  {
+   "t": "2026-11-25T18:07:25Z",
+   "v": 99280.64
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T08:01:54Z",
-   "news_id": 130310457,
-   "headline": "Alantra Analysis on Spanish Banking Tax Extension",
-   "url": "https://www.euro2day.gr/amp/news/world/article/2381611/ispania-parateinetai-eos-to-2027-o-ektaktos-foros.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ALNT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:01:54Z",
-   "news_id": 130310456,
-   "headline": "JPMorgan Downgrades Stabilus SE to Neutral",
-   "url": "https://www.finanzen.ch/analyse/stabilus-se-neutral-1123107",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:01:51Z",
-   "news_id": 130310452,
-   "headline": "Barco Announces 'ANYTHING BUT GHOSTS' to be Released in Premium HDR by Barco",
-   "url": "https://www.sknr.net/2026/11/24/141596/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BAR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:01:48Z",
-   "news_id": 130310449,
-   "headline": "Pomerantz LLP Investigates Securities Claims Against NovoCure Limited",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409740/1087/en/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-novocure-limited-nvcr.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NVCR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T08:32:27Z",
-   "news_id": 130318372,
-   "headline": "Equinor to Swap Norwegian Continental Shelf Interests with JAPEX",
-   "url": "https://www.marketscreener.com/news/equinor-to-swap-norwegian-shelf-interests-with-japex-ce7851dbd18af325",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EQNR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T09:04:04Z",
-   "news_id": 130327428,
-   "headline": "Nanoco Group Reports Fiscal Year 2026 Financial Results",
-   "url": "https://de.marketscreener.com/boerse-nachrichten/ergebnis-flash-nano-l-nanoco-group-meldet-umsatz-von-10-4-mio-gbp-im-geschaeftsjahr-2026-ce7851dbde81f125",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NANO"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T09:03:13Z",
    "news_id": 130327080,
@@ -3690,6 +3628,72 @@
     "DEO"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T18:02:01Z",
+   "news_id": 130728501,
+   "headline": "Beazley Security Executives Discuss Rising Cyber Threats and AI Risks",
+   "url": "https://www.newsmax.com/finance/streettalk/retail-shopping-cyberattack/2026/11/25/id/1277486/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BEZ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T18:01:49Z",
+   "news_id": 130727238,
+   "headline": "Centrica plc Director/PDMR Share Transaction",
+   "url": "https://www.investegate.co.uk/announcement/rns/centrica--cna/director-pdmr-shareholding/9894176",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CNA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T18:01:35Z",
+   "news_id": 130727237,
+   "headline": "UBS to Present 'LA in MIA' at Art Basel Miami Beach",
+   "url": "https://investingnews.com/ubs-brings-los-angeles-to-art-basel-miami-beach-with-la-in-mia-anchored-by-alex-israel-s-monumental-new-commission-traffic/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T18:01:35Z",
+   "news_id": 130727236,
+   "headline": "Schneider Electric Launches 'Partnerships for Innovation' Initiative",
+   "url": "https://sustainabilitymag.com/news/schneider-electric-reshaping-grids-with-hybrid-systems",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SU"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T18:01:32Z",
+   "news_id": 130727234,
+   "headline": "First Abu Dhabi Bank Publishes Prospectus for $500 Million Tier 2 Capital Securities",
+   "url": "https://www.investegate.co.uk/announcement/rns/first-abu-dhabi-bank-p-j-s-c---13sg/fab-tier-2-usd500million-due-may-2037/9893856",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FAB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T18:01:21Z",
+   "news_id": 130727230,
+   "headline": "Roche Implements AI-Driven Procurement Transformation",
+   "url": "https://procurementmag.com/company-reports/axiom-roche-deloitte-content-before-ai-orchestration",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ROP"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4656,10 +4660,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T18:07:25Z",
+   "fetched": 13,
+   "news": 6,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 973
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T17:52:16Z",
+ "updated_at": "2026-11-25T18:07:25Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4672,10 +4685,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99184.92,
+  "equity": 99280.64,
   "cash": 78940.55,
   "last_equity": 99676.10687299244,
-  "buying_power": 372446.44
+  "buying_power": 372714.46
  },
  "pending": 0,
  "positions": [
@@ -4684,10 +4697,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.37,
-   "market_value": 4907.252818,
-   "unrealized_pl": -64.297182,
-   "unrealized_plpc": -0.01293,
+   "current_price": 21.36,
+   "market_value": 4904.95649,
+   "unrealized_pl": -66.59351,
+   "unrealized_plpc": -0.01339,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4695,10 +4708,10 @@
    "crypto": false,
    "qty": 525.533826638,
    "avg_entry_price": 9.46,
-   "current_price": 10.05,
-   "market_value": 5281.614958,
-   "unrealized_pl": 310.064958,
-   "unrealized_plpc": 0.06237,
+   "current_price": 10.24,
+   "market_value": 5381.466385,
+   "unrealized_pl": 409.916385,
+   "unrealized_plpc": 0.08245,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4706,10 +4719,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 164.75,
-   "market_value": 5096.209946,
-   "unrealized_pl": 124.659946,
-   "unrealized_plpc": 0.02507,
+   "current_price": 164.77,
+   "market_value": 5096.828606,
+   "unrealized_pl": 125.278606,
+   "unrealized_plpc": 0.0252,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4717,10 +4730,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.23,
-   "market_value": 4959.292727,
-   "unrealized_pl": -12.257273,
-   "unrealized_plpc": -0.00247,
+   "current_price": 20.22,
+   "market_value": 4956.841272,
+   "unrealized_pl": -14.708728,
+   "unrealized_plpc": -0.00296,
    "opened_at": "2026-11-25T14:37:19Z"
   }
  ]
