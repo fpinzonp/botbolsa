@@ -347,148 +347,13 @@
   {
    "t": "2026-11-25T15:22:18Z",
    "v": 98699.81
+  },
+  {
+   "t": "2026-11-25T15:37:15Z",
+   "v": 98811.57
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-24T23:01:57Z",
-   "news_id": 130187827,
-   "headline": "NBC Documentary Celebrates 100 Years of Macy's Thanksgiving Day Parade",
-   "url": "https://www.morningstar.com/news/accesswire/1256468msn/voice-actor-brigid-reale-narrates-nbc-documentary-celebrating-100-years-of-macys-thanksgiving-day-parade",
-   "source": "fiscal.ai",
-   "symbols": [
-    "M"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T23:31:41Z",
-   "news_id": 130232225,
-   "headline": "Sinda Ltd. Authorizes Up to $50 Million Share Repurchase Program",
-   "url": "https://elite.finviz.com/news/426906/sinda-ltd-authorizes-up-to-50-million-share-repurchase-program",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SIND"
-   ],
-   "signals": [
-    {
-     "symbol": "SIND",
-     "action": "buy",
-     "confidence": 0.7,
-     "impact": "low",
-     "rationale": "La autorización de un programa de recompra de acciones de $50 millones indica confianza de la compañía y suele generar presión alcista, aunque el tamaño es modesto y el impacto esperado es limitado.",
-     "outcome": "Ignorada: confianza 70% < 75%"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-25T00:02:06Z",
-   "news_id": 130276673,
-   "headline": "Analyst Price Target Adjustments for Royal Bank of Canada",
-   "url": "https://www.moomoo.com/stock/RY-CA?chain_id=Name1K9-3FXPhg.1kqk680&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A64,%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Fvancan-2025-74783215%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T00:01:59Z",
-   "news_id": 130276672,
-   "headline": "Starbucks to Participate in the 2026 Morgan Stanley Global Consumer & Retail Conference",
-   "url": "https://www.streetinsider.com/Press+Releases?before_id=27395553",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SBUX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T00:01:56Z",
-   "news_id": 130276663,
-   "headline": "RBC Capital and Seaport Initiate Coverage of Tesla",
-   "url": "https://www.moomoo.com/stock/TSLA-US?chain_id=Name1K9-3FXPhg.1lgbumg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FSNOW-US%2Fcommunity%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TSLA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T00:01:55Z",
-   "news_id": 130276662,
-   "headline": "Boeing Awarded $2.82 Billion Air Force Contract Modification",
-   "url": "https://www.morningstar.com/news/dow-jones/202611248918/boeing-gets-282-billion-added-to-air-force-contract",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BA"
-   ],
-   "signals": [
-    {
-     "symbol": "BA",
-     "action": "buy",
-     "confidence": 0.92,
-     "impact": "high",
-     "rationale": "Boeing recibió una modificación de contrato de $2.82 bn del Air Force, un catalizador significativo que probablemente impulse el precio de la acción en el corto plazo.",
-     "outcome": "En cola: mercado cerrado"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-25T00:01:52Z",
-   "news_id": 130276661,
-   "headline": "Marriott Bonvoy Recognized in 2027 BrandSpark Most Trusted® Awards",
-   "url": "https://www.newswire.ca/news-releases/canada-s-most-trusted-brands-revealed-canadian-shoppers-name-their-most-trusted-brands-in-324-categories-in-the-2027-edition-of-the-brandspark-most-trusted-r-awards-892499923.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MAR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T00:01:46Z",
-   "news_id": 130276660,
-   "headline": "Class Action Lawsuit Filed Against Uber Regarding October 2026 Data Breach",
-   "url": "https://www.classaction.org/news/data-breach-lawsuit-alleges-uber-fireworks-failed-to-protect-sensitive-driver-info",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UBER"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T00:01:35Z",
-   "news_id": 130276658,
-   "headline": "Micron Discloses Increased Executive Security Expenses",
-   "url": "https://www.morningstar.com/news/marketwatch/20261124417/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2000-new-filing-shows",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MU"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T00:01:27Z",
-   "news_id": 130276657,
-   "headline": "BlackRock Canada Announces November 2026 Cash Distributions for iShares Premium Money Market ETF",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409940/0/en/blackrock-canada-announces-final-november-cash-distributions-for-the-ishares-premium-money-market-etf.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BLK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T00:01:22Z",
-   "news_id": 130276656,
-   "headline": "Juries Award Millions in Separate Johnson & Johnson Talc-Related Mesothelioma Lawsuits",
-   "url": "https://www.asbestos.com/news/2026/11/24/juries-award-millions-in-separate-jj-mesothelioma-talc-cases/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JNJ"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T01:02:17Z",
    "news_id": 130277358,
@@ -3694,6 +3559,127 @@
     "BP"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T15:32:53Z",
+   "news_id": 130552015,
+   "headline": "Deutsche Bank Lowers Price Target on Workday",
+   "url": "https://www.marketscreener.com/news/deutsche-bank-lowers-price-target-on-workday-to-195-from-220-keeps-hold-rating-ce7851d8d98efe24",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T15:32:13Z",
+   "news_id": 130552013,
+   "headline": "Nexxen Expands TV Home Screen Advertising to Southeast Asia via Coolita Partnership",
+   "url": "https://martechseries.com/tv-advertising/nexxen-tv-home-screen-expands-across-southeast-asia-with-coolita/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NEXN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T15:32:13Z",
+   "news_id": 130552012,
+   "headline": "Nexxen International Ltd. Insider Executes Stock Sale",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/insider-von-nexxen-international-verkaufte-laut-aktueller-sec-meldung-aktien-im-wert-von-458-188-usd-ce7851dbdd8eff2d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NEXN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T15:31:59Z",
+   "news_id": 130550906,
+   "headline": "UBS Updates EssilorLuxottica Price Target and Estimates for FY27",
+   "url": "https://www.marketscreener.com/news/ubs-sees-fewer-overhangs-for-essilorluxottica-in-fy27-price-target-estimates-updated-ce7851d8d981f426",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T15:31:56Z",
+   "news_id": 130550904,
+   "headline": "UBS Adjusts Ferrari Price Target to $465 From $450",
+   "url": "https://www.marketscreener.com/news/ubs-adjusts-ferrari-price-target-to-465-from-450-maintains-buy-rating-ce7851d8d88ff025",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RACE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T15:31:45Z",
+   "news_id": 130550902,
+   "headline": "Diana Shipping Inc. Announces Leadership Changes",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410198/10065/en/diana-shipping-inc-announces-key-leadership-appointment-and-organizational-changes-to-support-its-long-term-strategy.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DSX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T15:31:45Z",
+   "news_id": 130550901,
+   "headline": "Diana Shipping Inc. Reports Financial Results for the Third Quarter and Nine Months Ended September 30, 2026",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410182/10065/en/diana-shipping-inc-reports-financial-results-for-the-third-quarter-and-nine-months-ended-september-30-2026-declares-cash-dividend-of-0-05-per-common-share-for-the-third-quarter-202.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DSX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T15:31:40Z",
+   "news_id": 130550899,
+   "headline": "StealthGas Inc. Reports Third Quarter and Nine Months 2026 Financial and Operating Results",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410228/9952/en/stealthgas-inc-reports-third-quarter-and-nine-months-2026-financial-and-operating-results.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GASS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T15:31:34Z",
+   "news_id": 130550896,
+   "headline": "L'Oréal Paris Launches 'Stand Up' Initiative with Ariana Greenblatt",
+   "url": "https://www.morningstar.com/news/pr-newswire/20261125ny06385/loral-paris-and-ariana-greenblatt-spotlight-the-impact-of-street-harassment-during-the-16-days-of-activism-against-gender-based-violence",
+   "source": "fiscal.ai",
+   "symbols": [
+    "OR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T15:31:32Z",
+   "news_id": 130550895,
+   "headline": "German Consortium Including Airbus to Develop 'Satcom BW 4' Military Satellite System",
+   "url": "https://www.milanofinanza.it/news/l-esercito-tedesco-avra-il-suo-starlink-rheinmetall-ohb-e-airbus-vicini-alla-firma-202611251252451129",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AIR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T15:31:30Z",
+   "news_id": 130550893,
+   "headline": "Bulgari to Open New High Jewelry Laboratory in Rome",
+   "url": "https://www.milanofinanza.it/fashion/bulgari-aprira-un-nuovo-laboratorio-di-alta-gioielleria-a-roma-entro-il-2028-202611251311314027",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MC"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4588,10 +4574,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T15:37:15Z",
+   "fetched": 19,
+   "news": 11,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1463
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T15:22:18Z",
+ "updated_at": "2026-11-25T15:37:15Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4604,10 +4599,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 98699.81,
+  "equity": 98811.57,
   "cash": 78940.55,
   "last_equity": 99676.10687299244,
-  "buying_power": 371088.11
+  "buying_power": 371401.05
  },
  "pending": 0,
  "positions": [
@@ -4616,10 +4611,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.32,
-   "market_value": 4895.771178,
-   "unrealized_pl": -75.778822,
-   "unrealized_plpc": -0.01524,
+   "current_price": 21.35,
+   "market_value": 4902.660162,
+   "unrealized_pl": -68.889838,
+   "unrealized_plpc": -0.01386,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4627,10 +4622,10 @@
    "crypto": false,
    "qty": 525.533826638,
    "avg_entry_price": 9.46,
-   "current_price": 9.3314,
-   "market_value": 4903.96635,
-   "unrealized_pl": -67.58365,
-   "unrealized_plpc": -0.01359,
+   "current_price": 9.48,
+   "market_value": 4982.060677,
+   "unrealized_pl": 10.510677,
+   "unrealized_plpc": 0.00211,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4638,10 +4633,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 161.33,
-   "market_value": 4990.419123,
-   "unrealized_pl": 18.869123,
-   "unrealized_plpc": 0.0038,
+   "current_price": 162.275,
+   "market_value": 5019.650798,
+   "unrealized_pl": 48.100798,
+   "unrealized_plpc": 0.00968,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4649,10 +4644,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.27,
-   "market_value": 4969.098545,
-   "unrealized_pl": -2.451455,
-   "unrealized_plpc": -0.00049,
+   "current_price": 20.26,
+   "market_value": 4966.647091,
+   "unrealized_pl": -4.902909,
+   "unrealized_plpc": -0.00099,
    "opened_at": "2026-11-25T14:37:19Z"
   }
  ]
