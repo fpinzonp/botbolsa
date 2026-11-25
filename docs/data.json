@@ -107,185 +107,13 @@
   {
    "t": "2026-11-25T00:52:26Z",
    "v": 99628.27
+  },
+  {
+   "t": "2026-11-25T01:07:28Z",
+   "v": 99654.91
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-24T14:01:11Z",
-   "news_id": 129576900,
-   "headline": "Ping An Participates in China's First AI Industry Insurance Consortium",
-   "url": "https://www.chinadailyasia.com/article/643192",
-   "source": "fiscal.ai",
-   "symbols": [
-    "601318"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:16Z",
-   "news_id": 129576901,
-   "headline": "Regulatory Disclosure: Dealings in easyJet plc Securities by Citigroup Global Markets Limited",
-   "url": "https://www.investegate.co.uk/announcement/rns/easyjet--ezj/form-8-5-ept-ri-/9891102",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EZJ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:18Z",
-   "news_id": 129576902,
-   "headline": "HKEX Partners with Hongkong Land and Gammon Construction for Community Sustainability Initiative",
-   "url": "https://www.dubaiprnetwork.com/2/17796/hongkong-land-hkex-and-gammon-turn-10-tonnes-of-construction",
-   "source": "fiscal.ai",
-   "symbols": [
-    "388"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:21Z",
-   "news_id": 129576903,
-   "headline": "Agricultural Bank of China Shares Reach Year-to-Date High",
-   "url": "https://www.moomoo.com/news/post/1005602175/agricultural-bank-of-china-hits-another-yearly-high-its-p",
-   "source": "fiscal.ai",
-   "symbols": [
-    "601288"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:24Z",
-   "news_id": 129576904,
-   "headline": "JPMorgan Chase & Co. Increases Stake in Intertek Group plc",
-   "url": "https://www.investegate.co.uk/announcement/rns/intertek-group--itrk/holding-s-in-company/9891107",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ITRK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:24Z",
-   "news_id": 129576905,
-   "headline": "Siemens Healthineers Receives FDA Authorization for Atellica IM NfL Assay",
-   "url": "https://easternherald.com/press-release/fda-grants-first-marketing-authorization-for-neurofilament-light-chain-blood-test-to-siemens-healthineers-for-use-in-multiple-sclerosis/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SIE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:31Z",
-   "news_id": 129576906,
-   "headline": "B&M European Value Retail plc Announces Q3 FY27 Trading Statement Release Date",
-   "url": "https://www.investegate.co.uk/announcement/rns/b-m-european-value-retail-s-a-di---bme/release-date-of-q3-fy27-trading-statement/9891428",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BME"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:32Z",
-   "news_id": 129576907,
-   "headline": "Alibaba Cloud Opens Third Data Centre in Johor, Malaysia",
-   "url": "https://datacentremagazine.com/news/how-alibaba-cloud-is-expanding-malaysias-ai-infrastructure",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BABA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:33Z",
-   "news_id": 129576908,
-   "headline": "Accenture Named Founding Partner for Fortune Brainstorm AI 2026",
-   "url": "https://www.morningstar.com/news/pr-newswire/20261124ny05190/fortune-announces-speakers-and-partners-for-brainstorm-ai-2026-in-san-francisco-dec-7-and-8",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ACN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:34Z",
-   "news_id": 129576909,
-   "headline": "Nyxoah Initiates Enforcement of Unified Patent Court Decision Against Inspire Medical Systems",
-   "url": "https://www.globenewswire.com/news-release/2026/11/23/3408876/0/en/nyxoah-initiates-enforcement-of-unified-patent-court-decision-against-inspire-medical-systems.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "INSP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:38Z",
-   "news_id": 129576910,
-   "headline": "Endeavour Mining plc Announces Share Buyback Transactions",
-   "url": "https://www.investegate.co.uk/announcement/gnw/endeavour-mining--edv/transaction-in-own-shares/9889841",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EDV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:38Z",
-   "news_id": 129576911,
-   "headline": "Hon Hai Precision Industry (Foxconn) Shares Close Limit Up Amid Taiwan Market Rally",
-   "url": "https://world.storm.mg/articles/1184651",
-   "source": "fiscal.ai",
-   "symbols": [
-    "2317"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:39Z",
-   "news_id": 129576912,
-   "headline": "ISS and Glass Lewis Recommend Personalis Shareholders Vote in Favor of Tempus AI Transaction",
-   "url": "https://www.moomoo.com/ja/options/TEM261127P81000-US/news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PSNL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:40Z",
-   "news_id": 129576913,
-   "headline": "BP Announces Results of Cash Tender Offers for USD Notes",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409168/0/en/bp-p-l-c-announces-results-of-cash-tender-offers-for-usd-notes.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:41Z",
-   "news_id": 129576914,
-   "headline": "LiquidPower Specialty Products Inc. and Subsea7 Acquire Full Ownership of Safe Marine Transfer, LLC",
-   "url": "https://www.businesswire.com/newsroom/industry/energy/oil-gas",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SUBC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:01:42Z",
-   "news_id": 129576915,
-   "headline": "Zenas BioPharma Announces Management Presentations at Upcoming Investor Conferences",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409101/0/en/zenas-biopharma-to-present-at-upcoming-healthcare-investor-conferences.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ZBIO"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-24T14:01:42Z",
    "news_id": 129576916,
@@ -3448,6 +3276,215 @@
     "JNJ"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T01:02:17Z",
+   "news_id": 130277358,
+   "headline": "FingerMotion Subsidiary Extends Exclusivity Period with Cascadia Power",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409396/0/en/fingermotion-extends-exclusivity-and-advances-definitive-negotiations-for-initial-colocation-tranche-at-brooks-campus-1.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FNGR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:02:17Z",
+   "news_id": 130277357,
+   "headline": "FingerMotion, Inc. Announces Corporate Name Change to BlueFlare, Inc. and Nasdaq Ticker Symbol Change to “BFLR”",
+   "url": "https://www.globenewswire.com/news-release/2026/11/23/3408911/0/en/fingermotion-inc-announces-corporate-name-change-to-blueflare-inc-and-nasdaq-ticker-symbol-change-to-bflr.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FNGR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:02:01Z",
+   "news_id": 130277350,
+   "headline": "Baozun Inc. Reports Third Quarter 2026 Financial Results",
+   "url": "https://www.prnewswire.com/news-releases/baozun-announces-third-quarter-2026-unaudited-financial-results-302949231.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BZUN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:59Z",
+   "news_id": 130277300,
+   "headline": "Noah Holdings Hosts 19th Global Black Diamond Summit in Singapore",
+   "url": "https://www.prnewswire.com/news-releases/noah-opens-19th-global-black-diamond-summit-to-explore-new-approaches-to-wealth-security-in-the-ai-era-302949431.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NOAH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:59Z",
+   "news_id": 130277299,
+   "headline": "Noah Holdings Limited Announces Unaudited Financial Results for the Third Quarter of 2026",
+   "url": "https://www.prnewswire.com/news-releases/noah-holdings-limited-announces-unaudited-financial-results-for-the-third-quarter-of-2026-302949558.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NOAH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:56Z",
+   "news_id": 130277297,
+   "headline": "Zhihu Inc. Reports Unaudited Third Quarter 2026 Financial Results",
+   "url": "https://newsfilter.io/articles/zhihu-inc-reports-unaudited-third-quarter-2026-financial-results-8f3f13292f0559119be8df3d79792088",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ZH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:54Z",
+   "news_id": 130277296,
+   "headline": "Morgan Stanley Adjusts Price Target for Zoom Communications",
+   "url": "https://www.marketscreener.com/news/morgan-stanley-raises-zoom-communications-price-target-to-108-from-107-maintains-equal-weight-rat-ce7851dbdd8bf526",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:51Z",
+   "news_id": 130277293,
+   "headline": "ChipMOS to Present at Cathay Securities 2026 Q4 Industry Forum",
+   "url": "https://www.morningstar.com/news/pr-newswire/20261124hk05243/chipmos-to-present-at-cathay-securities-2026-q4-industry-forum",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IMOS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:45Z",
+   "news_id": 130277287,
+   "headline": "S&P Global Ratings Revises Outlook for Melco Resorts (Macau) and Studio City to Negative",
+   "url": "https://www.moomoo.com/hans/news/post/1005607420",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MLCO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:43Z",
+   "news_id": 130277283,
+   "headline": "Analog Devices Reports Record Fourth Quarter and Fiscal 2026 Financial Results",
+   "url": "https://www.prnewswire.com/news-releases/analog-devices-reports-record-fourth-quarter-and-fiscal-2026-financial-results-302948778.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ADI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:42Z",
+   "news_id": 130277282,
+   "headline": "Lockheed Martin CEO and CFO to Participate in UBS Global Industrials & Transportation Conference",
+   "url": "https://www.morningstar.com/news/pr-newswire/20261124ph05989/lockheed-martin-ceo-and-cfo-to-speak-at-2026-ubs-global-industrials-transportation-conference",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LMT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:39Z",
+   "news_id": 130277280,
+   "headline": "Ongoing Legal Developments in Depo-Provera Meningioma Litigation",
+   "url": "https://www.einpresswire.com/article/958792952/2017-depo-provera-use-and-reported-meningioma-cases",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PFE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:38Z",
+   "news_id": 130277276,
+   "headline": "Kingsoft Cloud Reports Third Quarter 2026 Financial Results",
+   "url": "https://www.prnewswire.com/news-releases/kingsoft-cloud-announces-unaudited-third-quarter-2026-financial-results-302949324.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:35Z",
+   "news_id": 130277273,
+   "headline": "Qfin Holdings, Inc. Announces Unaudited Financial Results for the Third Quarter of 2026",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409909/0/en/qfin-holdings-announces-third-quarter-2026-unaudited-financial-results.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "QFIN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:34Z",
+   "news_id": 130277272,
+   "headline": "Maverick Medical AI Integrates CodeAgent with Microsoft Dragon Copilot",
+   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409926/0/en/maverick-medical-ai-surfaces-codeagent-within-microsoft-radiology-reporting-solutions-to-reduce-physician-rework.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MSFT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:34Z",
+   "news_id": 130277271,
+   "headline": "Microsoft Declares 'Code Red' Following Historic Outage",
+   "url": "https://www.pymnts.com/technology/2026/microsoft-sets-goal-of-one-hour-fixes-after-email-outage/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MSFT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:32Z",
+   "news_id": 130277269,
+   "headline": "OpenTable to Acquire Hospitality Technology Platform me&u",
+   "url": "https://www.prnewswire.com/apac/news-releases/opentable-announces-proposed-acquisition-of-australian-restaurant-technology-company-meu-302949909.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BKNG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:28Z",
+   "news_id": 130277266,
+   "headline": "iQIYI Receives Outstanding International Series Award at 2026 Golden Unicorn Awards",
+   "url": "https://www.prlog.org/13185474-international-short-drama-association-celebrates-microdrama-talent-and-industry-innovation-at-2026-golden-unicorn-awards-and-festival-panels.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IQ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T01:01:27Z",
+   "news_id": 130277264,
+   "headline": "Ascentage Pharma Announces Trustee Purchase of 100,000 Shares for 2022 RSU Plan",
+   "url": "https://www.moomoo.com/hant/news/post/1005628462/ascentage-pharma-06855-trustee-purchases-100000-shares-under-the-2022",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AAPG"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -3722,10 +3759,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T01:07:28Z",
+   "fetched": 49,
+   "news": 19,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 2166
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T00:52:26Z",
+ "updated_at": "2026-11-25T01:07:28Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -3738,10 +3784,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99628.27,
+  "equity": 99654.91,
   "cash": 93376.32,
   "last_equity": 99774.35,
-  "buying_power": 391010.75
+  "buying_power": 391085.34
  },
  "pending": 2,
  "positions": [
@@ -3750,10 +3796,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 279.0,
-   "market_value": 1395.0,
-   "unrealized_pl": -241.14,
-   "unrealized_plpc": -0.14738,
+   "current_price": 278.47,
+   "market_value": 1392.35,
+   "unrealized_pl": -243.79,
+   "unrealized_plpc": -0.149,
    "opened_at": null
   },
   {
@@ -3761,10 +3807,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 39.8,
-   "market_value": 4856.953609,
-   "unrealized_pl": -130.576391,
-   "unrealized_plpc": -0.02618,
+   "current_price": 40.04,
+   "market_value": 4886.241771,
+   "unrealized_pl": -101.288229,
+   "unrealized_plpc": -0.02031,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
