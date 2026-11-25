@@ -247,108 +247,13 @@
   {
    "t": "2026-11-25T09:22:18Z",
    "v": 99414.71
+  },
+  {
+   "t": "2026-11-25T09:37:25Z",
+   "v": 99404.37
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-24T14:34:27Z",
-   "news_id": 129603330,
-   "headline": "Mizuho Securities Initiates Coverage on Intuitive Machines With Outperform Rating",
-   "url": "https://www.marketscreener.com/news/mizuho-securities-initiates-coverage-on-intuitive-machines-with-outperform-rating-ce7851dbd881f22c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LUNR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:34:20Z",
-   "news_id": 129603329,
-   "headline": "Abercrombie & Fitch Raises Fiscal 2026 Earnings Outlook",
-   "url": "https://www.marketscreener.com/news/abercrombie-fitch-fiscal-q3-earnings-net-sales-increase-fiscal-2027-eps-guidance-lifted-ce7851dbdb88f321",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ANF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:34:20Z",
-   "news_id": 129603328,
-   "headline": "Abercrombie & Fitch Co. Reports Third Quarter 2026 Financial Results",
-   "url": "https://www.globenewswire.com/news-release/2026/11/24/3409152/0/en/abercrombie-fitch-co-reports-third-quarter-fiscal-2026-results.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ANF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:34:19Z",
-   "news_id": 129603327,
-   "headline": "Seaport Initiates Visteon at Buy With $98 Price Target",
-   "url": "https://www.marketscreener.com/news/seaport-initiates-visteon-at-buy-with-98-price-target-ce7851dbd88ef122",
-   "source": "fiscal.ai",
-   "symbols": [
-    "VC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:34:15Z",
-   "news_id": 129603326,
-   "headline": "Mizuho Securities Initiates Coverage on Mercury Systems With Neutral Rating",
-   "url": "https://www.marketscreener.com/news/mizuho-securities-initiates-coverage-on-mercury-systems-with-neutral-rating-85-price-target-ce7851dbd881ff25",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MRCY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:34:06Z",
-   "news_id": 129603325,
-   "headline": "Mizuho Initiates Coverage of Firefly Aerospace with Outperform Rating",
-   "url": "https://www.marketscreener.com/news/mizuho-initiates-firefly-aerospace-at-outperform-ce7851dbdb88ff22",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FLY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:34:06Z",
-   "news_id": 129603324,
-   "headline": "Cushman & Wakefield Releases Analysis on Data Center Impact on Industrial Leasing",
-   "url": "https://www.businesswire.com/newsroom/industry/construction-property/commercial-real-estate",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CWK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:34:00Z",
-   "news_id": 129603321,
-   "headline": "Moody's Launches Zero-Copy Data Exchange for AI Platforms",
-   "url": "https://ch.marketscreener.com/boerse-nachrichten/moody-s-startet-zero-copy-datenaustausch-fuer-ki-plattformen-ce7851dbdb8ef024",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MCO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-24T14:33:58Z",
-   "news_id": 129602399,
-   "headline": "Morgan Stanley Raises Helmerich & Payne Price Target",
-   "url": "https://www.finanznachrichten.de/nachrichten-branche/oel-gas.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HP"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-24T14:33:55Z",
    "news_id": 129602398,
@@ -3648,6 +3553,105 @@
     "ECOR"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T09:32:43Z",
+   "news_id": 130337226,
+   "headline": "GSK's Exdensur Meets Primary Endpoint in Late-Stage Study for EGPA",
+   "url": "https://www.marketscreener.com/news/gsk-says-potential-inflammatory-disease-treatment-meets-primary-endpoint-in-clinical-trial-ce7851dbd18ff12c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GSK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:32:03Z",
+   "news_id": 130337222,
+   "headline": "Barclays Initiates Coverage on WeRide with Hold Rating",
+   "url": "https://www.moomoo.com/stock/WRD-US?chain_id=Name1K9-3FXPhg.1lgcjpg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FGRAB-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WRD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:31:49Z",
+   "news_id": 130336862,
+   "headline": "Deutsche Bank Downgrades Coca-Cola Europacific Partners to Hold",
+   "url": "https://www.moomoo.com/hant/news/post/1005734593",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CCEP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:31:41Z",
+   "news_id": 130336861,
+   "headline": "Gaotu Techedu Announces Third Quarter 2026 Unaudited Financial Results",
+   "url": "https://www.prnewswire.com/news-releases/gaotu-techedu-announces-third-quarter-2026-unaudited-financial-results-302950230.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GOTU"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:31:34Z",
+   "news_id": 130336858,
+   "headline": "easyJet Reports 96% Profit Decline Amid Fuel Cost Pressures",
+   "url": "https://europeanbusinessmagazine.com/easyjet-profit-fuel-costs/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EZJ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:31:30Z",
+   "news_id": 130336857,
+   "headline": "U.K. Regulator Signals Potential Path Forward for McCormick-Unilever Foods Merger",
+   "url": "https://www.morningstar.com/news/dow-jones/202611251515/uk-regulator-says-mccormick-sale-of-colmans-could-address-unilever-foods-merger-concerns-update",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:31:30Z",
+   "news_id": 130336856,
+   "headline": "Alkermes to Participate in the 9th Annual Evercore Healthcare Conference",
+   "url": "https://www.businesswire.com/newsroom/industry/health/pharmaceutical",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ALKS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:31:26Z",
+   "news_id": 130336855,
+   "headline": "Alibaba Reportedly in Preliminary Discussions for Offshore Bond Sale",
+   "url": "https://www.moomoo.com/hans/news/post/1005739055/market-chatter-alibaba-held-discussions-with-banks-about-raising-money",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BABA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T09:31:22Z",
+   "news_id": 130336853,
+   "headline": "HSBC Holdings plc Repurchased 10,000 Shares on November 24, 2026",
+   "url": "https://www.moomoo.com/hans/news/flash/1005733795/hsbc-bought-back-10000-shares-for-hk-1-3-mln",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HSBC"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4237,10 +4241,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T09:37:25Z",
+   "fetched": 17,
+   "news": 9,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1256
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T09:22:18Z",
+ "updated_at": "2026-11-25T09:37:25Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4253,10 +4266,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99414.71,
+  "equity": 99404.37,
   "cash": 93376.31,
   "last_equity": 99676.10687299244,
-  "buying_power": 390412.77
+  "buying_power": 390383.81
  },
  "pending": 5,
  "positions": [
@@ -4265,10 +4278,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 272.9,
-   "market_value": 1364.5,
-   "unrealized_pl": -271.64,
-   "unrealized_plpc": -0.16602,
+   "current_price": 272.54,
+   "market_value": 1362.7,
+   "unrealized_pl": -273.44,
+   "unrealized_plpc": -0.16713,
    "opened_at": null
   },
   {
@@ -4276,10 +4289,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 38.3,
-   "market_value": 4673.902594,
-   "unrealized_pl": -313.627406,
-   "unrealized_plpc": -0.06288,
+   "current_price": 38.23,
+   "market_value": 4665.360213,
+   "unrealized_pl": -322.169787,
+   "unrealized_plpc": -0.0646,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
