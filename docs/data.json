@@ -271,20 +271,13 @@
   {
    "t": "2026-11-25T10:52:16Z",
    "v": 99390.63
+  },
+  {
+   "t": "2026-11-25T11:07:21Z",
+   "v": 99412.56
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-24T14:33:43Z",
-   "news_id": 129602392,
-   "headline": "DXC Technology Launches AI-Powered Cybersecurity Service 'Frontier Code Assurance'",
-   "url": "https://www.prnewswire.com/news-releases/dxc-presenta-frontier-code-assurance-un-servicio-de-seguridad-de-codigo-gestionado-basado-en-claude-mythos-302949316.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DXC"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-24T14:33:41Z",
    "news_id": 129602391,
@@ -3672,6 +3665,17 @@
     "BSBR"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T11:01:42Z",
+   "news_id": 130370408,
+   "headline": "Andika Rama Wins TOYOTA GAZOO Racing Asia Esports GT Championship 2026",
+   "url": "https://www.kipost.net/news/articleViewAmp.html?idxno=343645",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TM"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4315,10 +4319,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T11:07:21Z",
+   "fetched": 10,
+   "news": 1,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 617
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T10:52:16Z",
+ "updated_at": "2026-11-25T11:07:21Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4331,10 +4344,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99390.63,
+  "equity": 99412.56,
   "cash": 93376.31,
   "last_equity": 99676.10687299244,
-  "buying_power": 390345.35
+  "buying_power": 390406.75
  },
  "pending": 5,
  "positions": [
@@ -4343,10 +4356,10 @@
    "crypto": false,
    "qty": 5.0,
    "avg_entry_price": 327.228,
-   "current_price": 270.525,
-   "market_value": 1352.625,
-   "unrealized_pl": -283.515,
-   "unrealized_plpc": -0.17328,
+   "current_price": 271.25,
+   "market_value": 1356.25,
+   "unrealized_pl": -279.89,
+   "unrealized_plpc": -0.17107,
    "opened_at": null
   },
   {
@@ -4354,10 +4367,10 @@
    "crypto": false,
    "qty": 122.034010276,
    "avg_entry_price": 40.87,
-   "current_price": 38.2,
-   "market_value": 4661.699193,
-   "unrealized_pl": -325.830807,
-   "unrealized_plpc": -0.06533,
+   "current_price": 38.35,
+   "market_value": 4680.004294,
+   "unrealized_pl": -307.525706,
+   "unrealized_plpc": -0.06166,
    "opened_at": "2026-11-24T16:04:36Z"
   }
  ]
