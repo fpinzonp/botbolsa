@@ -419,64 +419,13 @@
   {
    "t": "2026-11-25T20:22:19Z",
    "v": 99491.94
+  },
+  {
+   "t": "2026-11-25T20:37:14Z",
+   "v": 99471.84
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T11:31:48Z",
-   "news_id": 130382036,
-   "headline": "Jefferies Adjusts Kinder Morgan Price Target",
-   "url": "https://www.moomoo.com/hans/news/flash/1005730055/kinder-morgan-inc-jefferies-cuts-target-price-to-34-from",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KMI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:48Z",
-   "news_id": 130382035,
-   "headline": "Tide Migrates Data Infrastructure from Snowflake to Google Cloud",
-   "url": "https://natlawreview.com/press-releases/atgeir-solutions-and-tide-accelerate-fintech-data-modernization-google-cloud",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SNOW"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:43Z",
-   "news_id": 130382034,
-   "headline": "Amazon to Launch Auto Marketplace in the UK",
-   "url": "https://www.fidelity.com/news/article/default/202611250330PRIMZONEFULLFEED9884845",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMZN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:43Z",
-   "news_id": 130382033,
-   "headline": "AWS Representatives Participate in AI Infrastructure Roundtable in South Korea",
-   "url": "https://www.koreaherald.com/article/10949349",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMZN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T11:31:42Z",
-   "news_id": 130382032,
-   "headline": "Corning Participates in Korea-US AI Cooperation Roundtable",
-   "url": "https://www.koreaherald.com/article/10949349",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GLW"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T11:31:39Z",
    "news_id": 130382031,
@@ -3721,6 +3670,61 @@
     "BLK"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-25T20:32:43Z",
+   "news_id": 130925641,
+   "headline": "Citigroup Upgrades Adecoagro S.A. to Buy",
+   "url": "https://www.marketscreener.com/news/citigroup-upgrades-adecoagro-s-a-to-buy-from-neutral-price-target-is-9-75-ce7851d8d98df021",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AGRO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:32:16Z",
+   "news_id": 130925640,
+   "headline": "Insider Transaction Filing: Alejandro Gustavo Elsztain",
+   "url": "https://www.streetinsider.com/SEC+Filings?before_id=27394489",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LND"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:32:03Z",
+   "news_id": 130924283,
+   "headline": "UBS Adjusts Price Target on Inter & Co to $6.60",
+   "url": "https://www.marketscreener.com/news/ubs-adjusts-price-target-on-inter-to-6-60-from-10-maintains-buy-rating-ce7851d8d88ef526",
+   "source": "fiscal.ai",
+   "symbols": [
+    "INTR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:31:30Z",
+   "news_id": 130924282,
+   "headline": "Globant Announces Converge 2026 Virtual Event",
+   "url": "https://www.prnewswire.com/news-releases/globant-announces-converge-2026-an-edition-about-reinvention-in-the-ai-native-era-with-globai-at-the-center-302950595.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GLOB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-25T20:31:23Z",
+   "news_id": 130924281,
+   "headline": "Foresea Recognized in Petrobras Offshore Drilling Rig Operational Excellence Awards",
+   "url": "https://www.prnewswire.com/news-releases/foresea-cements-its-position-as-a-leader-in-brazilian-offshore-drilling-with-us1-7-billion-in-backlog-302949875.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PBR.A"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4787,10 +4791,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-25T20:37:14Z",
+   "fetched": 5,
+   "news": 5,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 937
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T20:22:19Z",
+ "updated_at": "2026-11-25T20:37:14Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4803,10 +4816,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99491.94,
+  "equity": 99471.84,
   "cash": 84553.25,
   "last_equity": 99676.10687299244,
-  "buying_power": 380041.34
+  "buying_power": 379985.05
  },
  "pending": 0,
  "positions": [
@@ -4815,10 +4828,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.315,
-   "market_value": 4894.623014,
-   "unrealized_pl": -76.926986,
-   "unrealized_plpc": -0.01547,
+   "current_price": 21.23,
+   "market_value": 4875.104226,
+   "unrealized_pl": -96.445774,
+   "unrealized_plpc": -0.0194,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4826,10 +4839,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 164.42,
-   "market_value": 5086.002059,
-   "unrealized_pl": 114.452059,
-   "unrealized_plpc": 0.02302,
+   "current_price": 164.52,
+   "market_value": 5089.095358,
+   "unrealized_pl": 117.545358,
+   "unrealized_plpc": 0.02364,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4837,10 +4850,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.225,
-   "market_value": 4958.066999,
-   "unrealized_pl": -13.483001,
-   "unrealized_plpc": -0.00271,
+   "current_price": 20.21,
+   "market_value": 4954.389818,
+   "unrealized_pl": -17.160182,
+   "unrealized_plpc": -0.00345,
    "opened_at": "2026-11-25T14:37:19Z"
   }
  ]
