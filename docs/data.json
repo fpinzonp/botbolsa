@@ -367,6 +367,10 @@
   {
    "t": "2026-11-25T17:07:22Z",
    "v": 99088.86
+  },
+  {
+   "t": "2026-11-25T17:22:19Z",
+   "v": 99096.52
   }
  ],
  "decisions": [
@@ -4635,10 +4639,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 1549
+  },
+  {
+   "t": "2026-11-25T17:22:19Z",
+   "fetched": 0,
+   "news": 0,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 0
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T17:07:22Z",
+ "updated_at": "2026-11-25T17:22:19Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -4651,10 +4664,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99088.86,
+  "equity": 99096.52,
   "cash": 78940.55,
   "last_equity": 99676.10687299244,
-  "buying_power": 372177.46
+  "buying_power": 372198.92
  },
  "pending": 0,
  "positions": [
@@ -4663,10 +4676,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.4,
-   "market_value": 4914.141801,
-   "unrealized_pl": -57.408199,
-   "unrealized_plpc": -0.01155,
+   "current_price": 21.42,
+   "market_value": 4918.734457,
+   "unrealized_pl": -52.815543,
+   "unrealized_plpc": -0.01062,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4674,10 +4687,10 @@
    "crypto": false,
    "qty": 525.533826638,
    "avg_entry_price": 9.46,
-   "current_price": 9.95,
-   "market_value": 5229.061575,
-   "unrealized_pl": 257.511575,
-   "unrealized_plpc": 0.0518,
+   "current_price": 9.9114,
+   "market_value": 5208.775969,
+   "unrealized_pl": 237.225969,
+   "unrealized_plpc": 0.04772,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -4685,10 +4698,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 163.2,
-   "market_value": 5048.263813,
-   "unrealized_pl": 76.713813,
-   "unrealized_plpc": 0.01543,
+   "current_price": 163.955,
+   "market_value": 5071.61822,
+   "unrealized_pl": 100.06822,
+   "unrealized_plpc": 0.02013,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
