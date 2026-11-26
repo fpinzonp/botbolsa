@@ -859,97 +859,13 @@
   {
    "t": "2026-11-26T22:52:16Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T23:07:20Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T09:01:43Z",
-   "news_id": 131247058,
-   "headline": "ASOS Appoints Nigel Pocklington as Independent Non-Executive Director",
-   "url": "https://www.investegate.co.uk/announcement/rns/asos--asc/appoint-of-independent-non-executive-director-/9893756",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ASC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T09:01:42Z",
-   "news_id": 131247056,
-   "headline": "Savannah Resources Issues Tenders for Barroso Lithium Project Earthworks and Mining",
-   "url": "https://kalkinemedia.com/uk/news/announcements/savannah-resources-sav-progresses-barroso-lithium-project-with-powerline-approval-contractor-bids-and-key-hires",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SAV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T09:01:42Z",
-   "news_id": 131247055,
-   "headline": "Director/PDMR Shareholding: Anders Hedlund Purchases 2,000,000 Shares",
-   "url": "https://www.investegate.co.uk/announcement/rns/ig-design-group--igr/director-pdmr-shareholding/9894184",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IGR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T09:01:42Z",
-   "news_id": 131247054,
-   "headline": "Court Rules in Favor of Deutsche Bahn in Commission Dispute",
-   "url": "https://www.finanzen.at/nachrichten/aktien/provision-fuer-ticketverkauf-erfolg-fuer-bahn-vor-gericht-1036799698",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TRN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T09:01:41Z",
-   "news_id": 131247052,
-   "headline": "Navigator Gas Publishes Independent Valuation Report for Corporate Domicile Change",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410580/0/en/navigator-gas-publishes-independent-valuation-report-in-connection-with-its-change-of-domicile-to-england-and-wales.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NVGS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T09:01:40Z",
-   "news_id": 131247049,
-   "headline": "COMPASS Pathways Announces Partnership with Emyria for PTSD Clinical Trial",
-   "url": "https://irw-press.com/de/weltweit-fuehrender-entwickler-psychedelischer-arzneimittel-compass-pathways-waehlt-emyria-fuer-klinische-studie-aus/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CMPS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T09:01:40Z",
-   "news_id": 131247048,
-   "headline": "Form 8.5 (EPT/RI) Disclosure Regarding Pharos Energy Plc",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410044/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PHAR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T09:01:29Z",
-   "news_id": 131247036,
-   "headline": "Edinburgh Worldwide Investment Trust Proposes Combination with Impax Environmental Markets",
-   "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-worldwide-inv-trust--ewi/proposed-new-strategy-tender-combination-/9892201",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IPX"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T09:01:23Z",
    "news_id": 131247032,
@@ -4197,6 +4113,94 @@
     "MRNA"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T23:02:32Z",
+   "news_id": 131703144,
+   "headline": "Federated Hermes, Inc. Opens New $159.6 Million Position in Coupang",
+   "url": "https://www.moomoo.com/stock/CPNG-US?chain_id=Name1K9-3FXPhg.1lfn680&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2F00788-HK%2Fcommunity%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FHI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T23:02:25Z",
+   "news_id": 131703143,
+   "headline": "Wedbush Initiates Coverage of ExlService Holdings, Inc. with Outperform Rating",
+   "url": "https://www.moomoo.com/options/EXLS261120P45000-US/news?a0v5la7bquf89=0845b309d1e65c2a2gosix00m46phuhz&uy3ubftvh0u6o8=b9ec8c3ddfb4afd81a22b577bc89eec9&xnfrr0ncac=&cc4d76fdaf5=",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EXLS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T23:02:12Z",
+   "news_id": 131703142,
+   "headline": "Andrew Puente Promoted to Vice President, Global Sourcing at Dover Corporation",
+   "url": "https://procurementmag.com/news/procurement-executive-appointments-in-november-2026",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DOV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T23:02:07Z",
+   "news_id": 131703141,
+   "headline": "Andersen CPA Services Professional Corporation Announces Transition to Karbon Client Portal",
+   "url": "https://taxspoc.com/news/a619a7a5-8492-4ace-81c3-63e6d841730e",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ANDG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T23:02:04Z",
+   "news_id": 131703140,
+   "headline": "HSBC Downgrades HP Inc. to Hold, Citing Quality of Earnings Concerns",
+   "url": "https://www.moomoo.com/hant/news/post/1005917479",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HPQ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T23:01:56Z",
+   "news_id": 131702288,
+   "headline": "AbCellera to Present at the Piper Sandler Healthcare Conference on December 1, 2026",
+   "url": "https://www.businesswire.com/newsroom/industry/health/biotechnology",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ABCL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T23:01:49Z",
+   "news_id": 131702287,
+   "headline": "Franklin Templeton Launches Tokenized Euro Money Market Fund",
+   "url": "https://www.milanofinanza.it/news/franklin-templeton-lancia-un-fondo-sul-mercato-monetario-in-euro-tokenizzato-202611261920283384",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BEN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T23:01:38Z",
+   "news_id": 131702286,
+   "headline": "Ford Racing Unveils New GT41 Hypercar for 2027 Le Mans Return",
+   "url": "https://www.cbtnews.com/ford-racing-return-to-le-mans/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "F"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4322,15 +4326,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-24T22:28:48Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-24T22:43:49Z",
    "fetched": 96,
@@ -6121,10 +6116,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T23:07:20Z",
+   "fetched": 8,
+   "news": 8,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1170
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T22:52:16Z",
+ "updated_at": "2026-11-26T23:07:20Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
