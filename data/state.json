@@ -1,18 +1,6 @@
 {
- "news_cursor": "2026-11-26T15:32:02Z",
+ "news_cursor": "2026-11-26T16:02:24Z",
  "seen_ids": [
-  130303825,
-  130303824,
-  130303823,
-  130303822,
-  130303821,
-  130303820,
-  130303819,
-  130303818,
-  130303817,
-  130303816,
-  130303815,
-  130303814,
   130303813,
   130303812,
   130303811,
@@ -2000,7 +1988,19 @@
   131369439,
   131369438,
   131369437,
-  131369436
+  131369436,
+  131386950,
+  131386949,
+  131386374,
+  131386373,
+  131386372,
+  131386371,
+  131386370,
+  131386369,
+  131386368,
+  131386367,
+  131386366,
+  131386365
  ],
  "opened_at": {
   "BA": "2026-11-25T14:37:19Z",
@@ -2008,38 +2008,6 @@
   "AAT": "2026-11-25T14:37:19Z"
  },
  "pending": [
-  {
-   "news_id": 131224832,
-   "symbol": "RTX",
-   "action": "buy",
-   "confidence": 0.92,
-   "impact": "high",
-   "rationale": "El contrato de $2.53 bn con la Marina EE.UU. para los motores F135 del F‑35 es un catalizador claro y material que impulsará los ingresos de Pratt & Whitney y, por extensión, de RTX.",
-   "asset": {
-    "id": "4d8f7f83-d998-4839-9134-38473cd13123",
-    "class": "us_equity",
-    "exchange": "NYSE",
-    "symbol": "RTX",
-    "name": "RTX Corporation",
-    "status": "active",
-    "tradable": true,
-    "marginable": true,
-    "maintenance_margin_requirement": 30,
-    "margin_requirement_long": "30",
-    "margin_requirement_short": "30",
-    "shortable": true,
-    "easy_to_borrow": true,
-    "borrow_status": "easy_to_borrow",
-    "fractionable": true,
-    "attributes": [
-     "fractional_eh_enabled",
-     "has_options",
-     "overnight_tradable"
-    ]
-   },
-   "t": "2026-11-26T00:07:15Z",
-   "ref_price": 196.11
-  },
   {
    "news_id": 131239401,
    "symbol": "JACK",

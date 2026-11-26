@@ -743,86 +743,13 @@
   {
    "t": "2026-11-26T15:52:18Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T16:07:18Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T22:32:21Z",
-   "news_id": 131090983,
-   "headline": "Morgan Stanley and Piper Sandler Update Analyst Ratings for TWFG, Inc.",
-   "url": "https://www.moomoo.com/stock/TWFG-US?chain_id=AN-8eKumNBRgKk.1lf4nk0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A64,%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2F%E7%9B%AE%E6%A0%87%E7%BF%BB%E5%80%8D-104096871%2Fpost%2Foriginal%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TWFG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:20Z",
-   "news_id": 131090982,
-   "headline": "Organigram Global and Aurora Cannabis File Joint Circular for Acquisition Vote",
-   "url": "https://stockhouse.com/news/newswire/2026/11/25/organigram-global-and-aurora-file-circular-for-c-7-80-per-share-deal-vote",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ACB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:18Z",
-   "news_id": 131090981,
-   "headline": "Cantor Fitzgerald Lowers Price Target on CleanSpark Inc. (CLSK)",
-   "url": "https://www.streetinsider.com/news.php?id=27398281&classic=1",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CLSK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:18Z",
-   "news_id": 131090980,
-   "headline": "Tandem Diabetes Care Recalls Certain Mobi Insulin Pumps",
-   "url": "https://www.marketscreener.com/news/tandem-diabetes-recalls-certain-mobi-insulin-pumps-fda-says-ce7851d8da8ff025",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TNDM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:18Z",
-   "news_id": 131090979,
-   "headline": "Targa Resources in Talks to Acquire Kinetik Holdings",
-   "url": "https://www.marketscreener.com/news/targa-resources-in-talks-to-buy-kinetik-in-pipeline-deal-ce7851d8dd89f023",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TRGP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:16Z",
-   "news_id": 131090978,
-   "headline": "Truist Provides Commentary on Travelers Companies",
-   "url": "https://www.marketscreener.com/news/travelers-casualty-lines-improved-property-mixed-truist-says-ce7851d8da8ef52c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TFC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:16Z",
-   "news_id": 131090977,
-   "headline": "Truist Adjusts Price Target on Best Buy",
-   "url": "https://www.moomoo.com/news/post/1005753832/truist-adjusts-pt-on-best-buy-to-111-from-100",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TFC"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T22:32:16Z",
    "news_id": 131090976,
@@ -4090,6 +4017,83 @@
     "TTE"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T16:01:49Z",
+   "news_id": 131386373,
+   "headline": "Duke Energy Responds to Power Outages Caused by Thanksgiving Week Storms",
+   "url": "https://hoodline.com/2026/11/thousands-lose-power-across-upstate-western-nc-after-stormy-night/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DUK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:01:48Z",
+   "news_id": 131386372,
+   "headline": "Arthur J. Gallagher & Co. Operational and Integration Update",
+   "url": "https://www.barchart.com/story/news/9019260/arthur-j-gallagher-stock-analyst-estimates-ratings",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AJG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:01:46Z",
+   "news_id": 131386371,
+   "headline": "Amazon Announces Quick Sight Upgrade and Autonomous Workload Build Capabilities",
+   "url": "https://aithority.com/machine-learning/megazonecloud-launches-its-amazon-quick-center-of-excellence-to-turn-enterprise-data-into-autonomous-action/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AMZN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:01:45Z",
+   "news_id": 131386370,
+   "headline": "Moody's Maintains NVIDIA's Aa1 Rating and Stable Outlook",
+   "url": "https://www.finanzen.at/nachrichten/aktien/nvidia-aktie-unter-beobachtung-s&p-zweifelt-am-verwaltungsrat-moodys-halt-still-1036802240",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MCO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:01:37Z",
+   "news_id": 131386369,
+   "headline": "Target Addresses Pricing Transparency and App Functionality",
+   "url": "https://www.milwaukeeindependent.com/featured/u-s-retail-expansion-ai-assisted-pricing-tools-accelerates-consumer-alarm-price-gouging/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TGT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:01:32Z",
+   "news_id": 131386367,
+   "headline": "JPMorgan Chase & Co. Discloses Change in Voting Rights for Delivery Hero SE",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-delivery-hero-se-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036803459",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JPM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:01:32Z",
+   "news_id": 131386366,
+   "headline": "JPMorgan Chase & Co. Reduces Stake in Gamma Communications PLC",
+   "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/holding-s-in-company/9895474",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JPM"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5885,10 +5889,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T16:07:18Z",
+   "fetched": 12,
+   "news": 7,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1050
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T15:52:18Z",
+ "updated_at": "2026-11-26T16:07:18Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -5906,7 +5919,7 @@
   "last_equity": 99492.29055690177,
   "buying_power": 380041.87
  },
- "pending": 4,
+ "pending": 3,
  "positions": [
   {
    "symbol": "AAT",
