@@ -735,64 +735,13 @@
   {
    "t": "2026-11-26T15:22:21Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T15:37:17Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T22:32:30Z",
-   "news_id": 131090988,
-   "headline": "Root, Inc. CEO Alexander E. Timm Files Form 144 for Proposed Sale of Securities",
-   "url": "https://www.streetinsider.com/SEC+Filings?before_id=27395578",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ROOT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:29Z",
-   "news_id": 131090987,
-   "headline": "Paysign, Inc. Form 144 Filing",
-   "url": "https://www.streetinsider.com/SEC+Filings?before_id=27397275",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PAYS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:28Z",
-   "news_id": 131090986,
-   "headline": "RPC, Inc. Reports Insider Ownership Filings",
-   "url": "https://www.streetinsider.com/SEC+Filings?before_id=27393022",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RES"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:26Z",
-   "news_id": 131090985,
-   "headline": "UBS Adjusts Price Target on Ameresco to $24 From $32",
-   "url": "https://www.marketscreener.com/news/ubs-adjusts-price-target-on-ameresco-to-24-from-32-maintains-neutral-rating-ce7851d8d88ffe21",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMRC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:22Z",
-   "news_id": 131090984,
-   "headline": "Permian Basin Royalty Trust Unitholders Approve Combination and Rights Offering Oversubscribed",
-   "url": "https://www.marketscreener.com/news/pbt-land-and-minerals-rights-offering-oversubscribed-expected-to-raise-119-3-million-ce7851dbdc8cff24",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PBT"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T22:32:21Z",
    "news_id": 131090983,
@@ -4082,6 +4031,61 @@
     "UL"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T15:31:48Z",
+   "news_id": 131369443,
+   "headline": "UBS Reaffirms Commitment to Strategy and Global Footprint",
+   "url": "https://www.marketscreener.com/news/ubs-says-fully-committed-to-strategy-global-footprint-ce7851d8d08ef620",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T15:31:39Z",
+   "news_id": 131369442,
+   "headline": "Deutsche Bank Releases Capital Market Outlook 2027",
+   "url": "https://www.finanzen.at/nachrichten/aktien/deutsche-bank-projects-broadly-constructive-capital-market-environment-in-2027-1036802906",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T15:31:30Z",
+   "news_id": 131369438,
+   "headline": "Subsea 7 Secures Contract Extension from Equinor for Seven Viking",
+   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410783/0/en/subsea7-awarded-contract-extension-offshore-norway.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EQNR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T15:31:27Z",
+   "news_id": 131369437,
+   "headline": "Airbus Divests Florida Manufacturing Facility",
+   "url": "https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Corporations/Airbus",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AIR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T15:31:23Z",
+   "news_id": 131369436,
+   "headline": "TotalEnergies CEO to Co-Chair 10th Paris Conference",
+   "url": "https://www.prnewswire.com/fr/communiques-de-presse/la-conference-de-paris-2026-reunira-les-decideurs-internationaux-autour-du-theme--de-lincertitude-a-laction--302950726.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TTE"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5859,10 +5863,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T15:37:17Z",
+   "fetched": 11,
+   "news": 5,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 894
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T15:22:21Z",
+ "updated_at": "2026-11-26T15:37:17Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
