@@ -479,86 +479,13 @@
   {
    "t": "2026-11-25T23:52:14Z",
    "v": 99507.2
+  },
+  {
+   "t": "2026-11-26T00:07:15Z",
+   "v": 99492.66
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T14:04:26Z",
-   "news_id": 130458601,
-   "headline": "JPMorgan Downgrades Goodyear Tire & Rubber to Neutral",
-   "url": "https://www.marketscreener.com/news/jpmorgan-downgrades-goodyear-tire-rubber-to-neutral-from-overweight-4-price-target-ce7851d8d98df020",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:04:21Z",
-   "news_id": 130458576,
-   "headline": "Aurora Spine Corporation Announces Third Quarter FY26 Financial Results",
-   "url": "https://www.newsfilecorp.com/release/325779/Aurora-Spine-Corporation-Announces-Third-Quarter-FY26-Financial-Results",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ASG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:04:19Z",
-   "news_id": 130458575,
-   "headline": "FNX Inc. Announces Upsize of Private Placement Financing to $4.275 Million",
-   "url": "https://www.newsfilecorp.com/release/325432/FNX-Announces-Upsize-of-Private-Placement-Financing-to-up-to-4.275-Million",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FNX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:04:15Z",
-   "news_id": 130458559,
-   "headline": "Galloper Gold Intersects 3.14 g/t Au over 22.28 m at Kettle Pond South",
-   "url": "https://www.newsfilecorp.com/release/325768/Galloper-Gold-Intersects-3.14-gt-Au-over-22.28-m-Including-20.30-gt-Au-over-1.08-m-at-Kettle-Pond-South-on-Glover-Island",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BOOM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:04:13Z",
-   "news_id": 130458549,
-   "headline": "America's Car-Mart Files for Chapter 11 Bankruptcy and Agrees to Asset Sale",
-   "url": "https://quantisnow.com/insight/americas-car-mart-inc-filed-sec-form-8-k-entry-into-a-6805126",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CRMT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:04:11Z",
-   "news_id": 130458545,
-   "headline": "ValOre Metals Enters Definitive Agreement to Acquire Bemisa Água Azul Mineração S.A.",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3409978/0/en/valore-metals-announces-definitive-agreement-to-acquire-bemisa-%C3%A1gua-azul-minera%C3%A7%C3%A3o-s-a-owner-of-the-%C3%A1gua-azul-gold-project-in-par%C3%A1-state-brazil.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "VO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:04:07Z",
-   "news_id": 130458530,
-   "headline": "Oppenheimer Adjusts PennantPark Investment Price Target to $4.50",
-   "url": "https://www.marketscreener.com/news/oppenheimer-adjusts-pennantpark-investment-pt-to-4-50-from-5-maintains-perform-rating-ce7851dbdd89fe2c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PNNT"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T14:04:06Z",
    "news_id": 130458527,
@@ -3799,6 +3726,92 @@
     "VIK"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T00:01:52Z",
+   "news_id": 131224833,
+   "headline": "RBC Global Asset Management Announces Estimated 2026 Annual Reinvested Capital Gains Distributions",
+   "url": "https://www.newswire.ca/news-releases/rbc-global-asset-management-inc-announces-estimated-annual-reinvested-capital-gains-distributions-for-rbc-etfs-and-etf-series-of-rbc-funds-847656792.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T00:01:36Z",
+   "news_id": 131224832,
+   "headline": "RTX's Pratt & Whitney Awarded $2.53 Billion U.S. Navy Contract",
+   "url": "https://www.marketscreener.com/news/rtx-unit-pratt-whitney-gets-2-53-billion-navy-contract-ce7851d8dd8cf02d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RTX"
+   ],
+   "signals": [
+    {
+     "symbol": "RTX",
+     "action": "buy",
+     "confidence": 0.92,
+     "impact": "high",
+     "rationale": "El contrato de $2.53 bn con la Marina EE.UU. para los motores F135 del F‑35 es un catalizador claro y material que impulsará los ingresos de Pratt & Whitney y, por extensión, de RTX.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-26T00:01:33Z",
+   "news_id": 131224831,
+   "headline": "BNY and Microsoft Complete AI Agent Pilot for Treasury Trading",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bny-and-microsoft-let-ai-agents-haggle-over-treasurys/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MSFT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T00:01:33Z",
+   "news_id": 131224830,
+   "headline": "Netflix Cancels Development of Will Ferrell's 'The Hawk'",
+   "url": "https://www.avclub.com/article-type/news",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NFLX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T00:01:29Z",
+   "news_id": 131224829,
+   "headline": "SpaceX Adjusts GPU Rental Rates and Faces Lease Non-Renewal",
+   "url": "https://www.moomoo.com/news/post/1005800757/spacex-reportedly-cuts-blackwell-gpu-rental-rates-by-up-to",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SPCX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T00:01:27Z",
+   "news_id": 131224828,
+   "headline": "BlackRock Canada Announces Estimated 2026 Annual Reinvested Capital Gains Distributions for iShares ETFs",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410604/0/en/blackrock-canada-announces-estimated-2026-annual-reinvested-capital-gains-distributions-for-the-ishares-etfs.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BLK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T00:01:18Z",
+   "news_id": 131224827,
+   "headline": "Morgan Stanley B.V. Announces Early Redemption of Security",
+   "url": "https://www.investegate.co.uk/announcement/rns/morgan-stanley-b-v---71lf/ism_msbv_early-redemption_25-11-2026/9894283",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MS"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5000,10 +5013,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T00:07:15Z",
+   "fetched": 7,
+   "news": 7,
+   "signals": 1,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1266
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-25T23:52:14Z",
+ "updated_at": "2026-11-26T00:07:15Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -5016,12 +5038,12 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99507.2,
+  "equity": 99492.66,
   "cash": 84553.25,
   "last_equity": 99676.10687299244,
-  "buying_power": 380084.06
+  "buying_power": 380043.35
  },
- "pending": 1,
+ "pending": 2,
  "positions": [
   {
    "symbol": "AAT",
@@ -5039,10 +5061,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 165.0,
-   "market_value": 5103.943193,
-   "unrealized_pl": 132.393193,
-   "unrealized_plpc": 0.02663,
+   "current_price": 164.53,
+   "market_value": 5089.404688,
+   "unrealized_pl": 117.854688,
+   "unrealized_plpc": 0.02371,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
