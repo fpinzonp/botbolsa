@@ -767,108 +767,13 @@
   {
    "t": "2026-11-26T17:22:16Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T17:37:13Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T23:03:29Z",
-   "news_id": 131136547,
-   "headline": "Intapp Insider Reports Sale of Shares",
-   "url": "https://www.marketscreener.com/news/intapp-insider-sold-shares-worth-1-530-368-according-to-a-recent-sec-filing-ce7851d8d88ff12c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "INTA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:03:11Z",
-   "news_id": 131136546,
-   "headline": "PTC Inc. Insider Sells Shares Worth $606,701",
-   "url": "https://www.marketscreener.com/news/ptc-insider-sold-shares-worth-606-701-according-to-a-recent-sec-filing-ce7851d8da80f327",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PTC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:03:09Z",
-   "news_id": 131136545,
-   "headline": "VeriSign Insider Executes Share Sale",
-   "url": "https://www.marketscreener.com/news/verisign-insider-sold-shares-worth-1-043-989-according-to-a-recent-sec-filing-ce7851d8dd89f02d",
-   "source": "fiscal.ai",
-   "symbols": [
-    "VRSN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:57Z",
-   "news_id": 131135028,
-   "headline": "Barclays Adjusts Celldex Therapeutics Price Target",
-   "url": "https://www.moomoo.com/stock/CLDX-US?chain_id=Name1K9-3FXPhg.1lgefi0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FIBB-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CLDX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:56Z",
-   "news_id": 131135027,
-   "headline": "Targa Resources in Talks to Acquire Kinetik Holdings Inc.",
-   "url": "https://www.marketscreener.com/news/targa-resources-in-talks-to-buy-kinetik-in-pipeline-deal-ce7851d8dd89f023",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KNTK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:29Z",
-   "news_id": 131135026,
-   "headline": "ICU Medical Removes Portex Endotracheal Tubes After Reported Death, FDA Says",
-   "url": "https://www.marketscreener.com/news/icu-medical-removes-portex-endotracheal-tubes-after-reported-death-fda-says-ce7851d8da8ffe23",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ICUI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:28Z",
-   "news_id": 131135025,
-   "headline": "Wiley Participates in Community Thanksgiving Initiative",
-   "url": "https://www.streetinsider.com/Press+Releases?before_id=27378744",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WLY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:20Z",
-   "news_id": 131135024,
-   "headline": "Wedbush Initiates Coverage of PayPal Holdings, Inc.",
-   "url": "https://www.moomoo.com/stock/PYPL-US?chain_id=Name1K9-3FXPhg.1lgefi0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FUBS-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PYPL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:18Z",
-   "news_id": 131135023,
-   "headline": "Applied Optoelectronics to Present at Raymond James TMT & Consumer Conference",
-   "url": "https://www.barchart.com/press-releases/9010105/applied-optoelectronics-to-present-at-the-raymond-james-tmt-consumer-conference",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AAOI"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T23:02:15Z",
    "news_id": 131135022,
@@ -4114,6 +4019,105 @@
     "NU"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T17:32:55Z",
+   "news_id": 131443712,
+   "headline": "Dole plc Launches Co-Branded 'Little Prince' Banana Product in China",
+   "url": "https://www.moomoo.com/stock/DOLE-US?chain_id=Name1K9-3FXPhg.1l1njj0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A64,%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2F%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5-nysp-103267505%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DOLE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:31:46Z",
+   "news_id": 131442989,
+   "headline": "Norges Bank Discloses 9.02% Voting Rights Stake in Grainger plc",
+   "url": "https://www.investegate.co.uk/announcement/rns/grainger--gri/holding-s-in-company/9895803",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GRI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:31:46Z",
+   "news_id": 131442987,
+   "headline": "Saba Capital Management Increases Stake in Grainger plc to 11.00%",
+   "url": "https://www.investegate.co.uk/announcement/rns/grainger--gri/holding-s-in-company/9896451",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GRI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:31:44Z",
+   "news_id": 131442983,
+   "headline": "Trainline Partners with HTS to Add Accommodation Booking",
+   "url": "https://travelprnews.com/travel-press-releases-tagged-with/trainline-expands-trip-planning-with-in-app-stays-and-a-black-friday-launch-offer/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TRN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:31:43Z",
+   "news_id": 131442982,
+   "headline": "Rathbones Group Plc Discloses 2.12% Interest in Gresham House Energy Storage Fund PLC",
+   "url": "https://newsfilter.io/articles/form-8-3-gresham-house-energy-storage-fund-plc-34407b5ea5c4503fa1ad650e8f8cefdf",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GRID"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:31:43Z",
+   "news_id": 131442980,
+   "headline": "Alvotech to Appeal U.S. Preliminary Injunction Regarding AVT05",
+   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410693/0/en/alvotech-to-appeal-us-preliminary-injunction-decision-relating-to-avt05.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ALVO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:31:42Z",
+   "news_id": 131442976,
+   "headline": "Keystone Law Group plc Announces Director Disclosure",
+   "url": "https://www.investegate.co.uk/announcement/rns/keystone-law-group--keys/director-declaration/9895879",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KEYS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:31:41Z",
+   "news_id": 131442973,
+   "headline": "Volution Group plc Subsidiary Identified as Offeror in Regulatory Disclosure",
+   "url": "https://www.lse.co.uk/rns/disclosure-table-ku4i6jfmbkr7lxl.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FAN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:31:40Z",
+   "news_id": 131442972,
+   "headline": "Dr. Martens Launches New 1460 Shoulder Bag",
+   "url": "https://www.prnewswire.co.uk/news-releases/the-boot-becomes-the-bag-dr-martens-introduces-the-new-1460-shoulder-bag-302950753.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DOCS"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5963,10 +5967,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T17:37:13Z",
+   "fetched": 42,
+   "news": 9,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1243
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T17:22:16Z",
+ "updated_at": "2026-11-26T17:37:13Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
