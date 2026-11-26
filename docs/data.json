@@ -627,196 +627,13 @@
   {
    "t": "2026-11-26T08:52:16Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T09:07:14Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T14:32:40Z",
-   "news_id": 130486654,
-   "headline": "Rosenblatt Maintains Buy Rating on Rubrik",
-   "url": "https://www.moomoo.com/hans/news/post/1005765849",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RBRK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:39Z",
-   "news_id": 130486653,
-   "headline": "General Motors Korea to Adopt Tesla's North American Charging Standard",
-   "url": "https://www.moomoo.com/stock/TSLA-CA?chain_id=Name1K9-3FXPhg.1l14fs0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A107,%22f%22%3A%22www.moomoo.com%2Fetfs%2FEMDV-US%2Fnews%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TSLA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:37Z",
-   "news_id": 130486652,
-   "headline": "Oppenheimer, RBC, and BofA Securities Adjust Nutanix Ratings and Price Targets",
-   "url": "https://www.marketscreener.com/news/oppenheimer-adjusts-nutanix-price-target-to-70-from-85-maintains-outperform-rating-ce7851d8d88af420",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NTNX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:36Z",
-   "news_id": 130486651,
-   "headline": "Hasbro Insider Executes Stock Sale",
-   "url": "https://www.marketscreener.com/news/hasbro-insider-sold-shares-worth-319-228-according-to-a-recent-sec-filing-ce7851d8d88bf522",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HAS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:36Z",
-   "news_id": 130486650,
-   "headline": "TD Cowen Adjusts Ulta Beauty Price Target to $730 From $600",
-   "url": "https://www.marketscreener.com/news/td-cowen-adjusts-ulta-beauty-price-target-to-730-from-600-ce7851d8d98ff226",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ULTA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:36Z",
-   "news_id": 130486649,
-   "headline": "Digi International Completes Acquisition of Disruptive Technologies",
-   "url": "https://www.businesswire.com/newsroom/industry/technology/telecommunications",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DGII"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:35Z",
-   "news_id": 130486648,
-   "headline": "B. Riley Adjusts Price Target for Dycom Industries",
-   "url": "https://www.marketscreener.com/news/b-riley-cuts-price-target-on-dycom-industries-to-400-from-625-maintains-buy-rating-ce7851d8d88bff25",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:35Z",
-   "news_id": 130486647,
-   "headline": "Oppenheimer Adjusts StepStone Group Price Target to $81 From $82",
-   "url": "https://www.marketscreener.com/news/oppenheimer-adjusts-stepstone-group-price-target-to-81-from-82-maintains-outperform-rating-ce7851d8d88af42c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STEP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:34Z",
-   "news_id": 130486646,
-   "headline": "JP Morgan Raises Netskope Price Target to $30.00",
-   "url": "https://www.moomoo.com/hans/news/post/1005774125",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NTSK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:32Z",
-   "news_id": 130486645,
-   "headline": "PHINIA Inc. to Acquire FMP Group Business in Asia-Pacific",
-   "url": "https://www.businesswire.com/newsroom/industry/energy/oil-gas",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PHIN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:30Z",
-   "news_id": 130486643,
-   "headline": "Robert Half Canada Analysis Shows Increase in On-Site Job Postings",
-   "url": "https://www.hrreporter.com/focus-areas/leadership-succession-planning/is-your-return-to-office-mandate-shrinking-your-talent-pool/395195",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RHI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:29Z",
-   "news_id": 130486642,
-   "headline": "Zoetis Receives USDA Conditional License for Lyme Disease Vaccine for Horses",
-   "url": "https://www.marketscreener.com/news/zoetis-receives-conditional-license-for-first-lyme-disease-vaccine-for-horses-ce7851d8d980f324",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ZTS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:26Z",
-   "news_id": 130486641,
-   "headline": "Independence Realty Trust to Expand Its Board; Appoints Two Centerspace Directors",
-   "url": "https://www.businesswire.com/newsroom/industry/construction-property/reit",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IRT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:25Z",
-   "news_id": 130486640,
-   "headline": "ARK Invest Reduces Position in CareDx",
-   "url": "https://www.moomoo.com/community/feed/tracking-cathie-wood-aggressively-adding-anthropic-reducing-bitcoin-and-crypto-117676108808198",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CDNA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T15:01:59Z",
-   "news_id": 130518191,
-   "headline": "HSBC Holdings Repurchases 200,000 Shares",
-   "url": "https://www.moomoo.com/stock/00005-HK?chain_id=Name1K9-3FXPhg.1lgdftg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2F00998-HK%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HSBC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T15:01:29Z",
-   "news_id": 130518189,
-   "headline": "BP Capital Markets Announces Indicative Tender Offer Results",
-   "url": "https://www.investegate.co.uk/announcement/rns/bp-capital-markets-plc--89ff/tender-offer-indicative-results/9893215",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T15:32:53Z",
-   "news_id": 130552015,
-   "headline": "Deutsche Bank Lowers Price Target on Workday",
-   "url": "https://www.marketscreener.com/news/deutsche-bank-lowers-price-target-on-workday-to-195-from-220-keeps-hold-rating-ce7851d8d98efe24",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DB"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T15:32:13Z",
    "news_id": 130552013,
@@ -3974,6 +3791,193 @@
     "DB"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T09:02:08Z",
+   "news_id": 131247261,
+   "headline": "Safestore Reports Higher Group Revenue for Fiscal Year 2026",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/safestore-meldet-hoeheren-konzernumsatz-im-geschaeftsjahr-2026-ce7851d8df8efe2d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SAFE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:50Z",
+   "news_id": 131247073,
+   "headline": "Sintana Energy Completes Acquisition of Interest in Corcel's Block KON-16",
+   "url": "https://www.morningstar.com/news/accesswire/1256520msn/kon-16-angola-completion-of-transaction",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CRCL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:47Z",
+   "news_id": 131247067,
+   "headline": "Sintana Energy Files Interim Financial Results for Q3 2026",
+   "url": "https://www.newswire.com/news/sintana-announces-interim-results-for-the-three-and-nine-months-ended-september",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SEI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:47Z",
+   "news_id": 131247066,
+   "headline": "Sintana Energy Completes Acquisition of Indirect Interest in Block KON-16, Angola",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70226413-sintana-energy-inc-kon-16-angola-completion-of-transaction-200.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SEI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:45Z",
+   "news_id": 131247064,
+   "headline": "Altitude Group plc Announces Director Share Purchase",
+   "url": "https://www.investegate.co.uk/announcement/rns/altitude-group--alt/director-pdmr-shareholding/9894494",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ALT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:43Z",
+   "news_id": 131247061,
+   "headline": "Oberon Capital Appointed as Joint Corporate Broker for Pathos Communications",
+   "url": "https://www.investegate.co.uk/announcement/rns/pathos-communications-plc--news/appointment-of-oberon-capital-as-joint-broker/9892198",
+   "source": "fiscal.ai",
+   "symbols": [
+    "OBE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:43Z",
+   "news_id": 131247060,
+   "headline": "Goldman Sachs Group Inc. Increases Holding in ASOS",
+   "url": "https://www.investegate.co.uk/announcement/rns/asos--asc/holding-s-in-company/9894201",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ASC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:43Z",
+   "news_id": 131247059,
+   "headline": "Titan Partners Initiates Coverage of Arqit Quantum with Buy Rating",
+   "url": "https://www.barchart.com/story/news/9009960/arqit-quantum-stock-just-scored-a-new-buy-rating-here-s-why",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ARQQ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:43Z",
+   "news_id": 131247058,
+   "headline": "ASOS Appoints Nigel Pocklington as Independent Non-Executive Director",
+   "url": "https://www.investegate.co.uk/announcement/rns/asos--asc/appoint-of-independent-non-executive-director-/9893756",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ASC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:42Z",
+   "news_id": 131247056,
+   "headline": "Savannah Resources Issues Tenders for Barroso Lithium Project Earthworks and Mining",
+   "url": "https://kalkinemedia.com/uk/news/announcements/savannah-resources-sav-progresses-barroso-lithium-project-with-powerline-approval-contractor-bids-and-key-hires",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SAV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:42Z",
+   "news_id": 131247055,
+   "headline": "Director/PDMR Shareholding: Anders Hedlund Purchases 2,000,000 Shares",
+   "url": "https://www.investegate.co.uk/announcement/rns/ig-design-group--igr/director-pdmr-shareholding/9894184",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IGR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:42Z",
+   "news_id": 131247054,
+   "headline": "Court Rules in Favor of Deutsche Bahn in Commission Dispute",
+   "url": "https://www.finanzen.at/nachrichten/aktien/provision-fuer-ticketverkauf-erfolg-fuer-bahn-vor-gericht-1036799698",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TRN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:41Z",
+   "news_id": 131247052,
+   "headline": "Navigator Gas Publishes Independent Valuation Report for Corporate Domicile Change",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410580/0/en/navigator-gas-publishes-independent-valuation-report-in-connection-with-its-change-of-domicile-to-england-and-wales.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NVGS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:40Z",
+   "news_id": 131247049,
+   "headline": "COMPASS Pathways Announces Partnership with Emyria for PTSD Clinical Trial",
+   "url": "https://irw-press.com/de/weltweit-fuehrender-entwickler-psychedelischer-arzneimittel-compass-pathways-waehlt-emyria-fuer-klinische-studie-aus/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CMPS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:40Z",
+   "news_id": 131247048,
+   "headline": "Form 8.5 (EPT/RI) Disclosure Regarding Pharos Energy Plc",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410044/0/en/form-8-5-ept-ri-pharos-energy-plc.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PHAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:29Z",
+   "news_id": 131247036,
+   "headline": "Edinburgh Worldwide Investment Trust Proposes Combination with Impax Environmental Markets",
+   "url": "https://www.investegate.co.uk/announcement/rns/edinburgh-worldwide-inv-trust--ewi/proposed-new-strategy-tender-combination-/9892201",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IPX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:01:23Z",
+   "news_id": 131247032,
+   "headline": "Dole Packaged Foods to Close Atwater, California Facility",
+   "url": "https://economia.ig.com.br/2026-11-25/empresa-fecha-unidade-e-anuncia-demissao-de-404-trabalhadores.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DOLE"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5508,10 +5512,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T09:07:14Z",
+   "fetched": 58,
+   "news": 17,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1903
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T08:52:16Z",
+ "updated_at": "2026-11-26T09:07:14Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
