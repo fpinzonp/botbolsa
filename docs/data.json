@@ -779,6 +779,10 @@
   {
    "t": "2026-11-26T18:07:15Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T18:22:22Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
@@ -6002,10 +6006,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 955
+  },
+  {
+   "t": "2026-11-26T18:22:22Z",
+   "fetched": 0,
+   "news": 0,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 0
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T18:07:15Z",
+ "updated_at": "2026-11-26T18:22:22Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
