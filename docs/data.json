@@ -619,31 +619,13 @@
   {
    "t": "2026-11-26T08:22:13Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T08:37:22Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T14:32:40Z",
-   "news_id": 130486656,
-   "headline": "JPMorgan Adjusts AutoZone Price Target to $3,675 From $3,700",
-   "url": "https://www.marketscreener.com/news/jpmorgan-adjusts-autozone-price-target-to-3-675-from-3-700-ce7851d8d98ef722",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AZO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:40Z",
-   "news_id": 130486655,
-   "headline": "Analysts Adjust Price Targets for The J.M. Smucker Co.",
-   "url": "https://www.marketscreener.com/news/deutsche-bank-lifts-price-target-on-j-m-smucker-to-127-from-125-keeps-hold-rating-ce7851d8d98ef324",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SJM"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T14:32:40Z",
    "news_id": 130486654,
@@ -3966,6 +3948,28 @@
     "MUX"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T08:31:42Z",
+   "news_id": 131243037,
+   "headline": "UniCredit Demands Extraordinary General Meeting Following Takeover Approval",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70234341-unicredit-ceo-orcel-soll-neuer-aufsichtsratschef-bei-der-commerzbank-werden-015.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CBK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:31:35Z",
+   "news_id": 131243035,
+   "headline": "Deutsche Bank Research Adjusts Deutsche Telekom Price Target",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/deutsche-bank-ag-beurteilt-deutsche-telekom-aktie-mit-buy-1036802433",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DB"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5482,10 +5486,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T08:37:22Z",
+   "fetched": 8,
+   "news": 2,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 760
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T08:22:13Z",
+ "updated_at": "2026-11-26T08:37:22Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
