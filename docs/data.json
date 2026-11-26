@@ -691,339 +691,13 @@
   {
    "t": "2026-11-26T12:52:15Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T13:07:19Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T17:31:49Z",
-   "news_id": 130689695,
-   "headline": "Clarivate Announces Development Partners for IPOne AI Platform",
-   "url": "https://www.prnewswire.com/news-releases/clarivate-develops-ipone-in-collaboration-with-leading-global-organizations-302949777.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CLVT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:31:47Z",
-   "news_id": 130689694,
-   "headline": "Pets at Home Group Plc Reports Financial Results for H1 2026",
-   "url": "https://www.investegate.co.uk/announcement/rns/pets-at-home-group--pets/pets-at-home-group-plc-fy27-interim-results/9892177",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PETS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:31:46Z",
-   "news_id": 130689692,
-   "headline": "Alvotech Announces Participation in December Investor Conferences",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410125/0/en/alvotech-to-present-at-upcoming-investor-conferences-in-december.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ALVO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:31:45Z",
-   "news_id": 130689689,
-   "headline": "Netcall plc Announces Issue of Contingent Consideration Shares",
-   "url": "https://www.investegate.co.uk/announcement/rns/netcall--net/issue-of-consideration-shares-total-voting-rights/9892196",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NET"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:31:41Z",
-   "news_id": 130689685,
-   "headline": "Henry Boot PLC Issues Trading Update and Profit Warning",
-   "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/trading-statement/9892152",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BOOT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:31:37Z",
-   "news_id": 130689679,
-   "headline": "Borr Drilling Limited - Notification of PDMR Transaction",
-   "url": "https://live.euronext.com/fr/markets/oslo/equities/company-news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BORR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:31:36Z",
-   "news_id": 130689678,
-   "headline": "Deutsche Bank Research maintains 'Hold' rating on Diageo",
-   "url": "https://www.finanznachrichten.de/nachrichten-aktien/diageo-plc.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DEO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T18:02:01Z",
-   "news_id": 130728501,
-   "headline": "Beazley Security Executives Discuss Rising Cyber Threats and AI Risks",
-   "url": "https://www.newsmax.com/finance/streettalk/retail-shopping-cyberattack/2026/11/25/id/1277486/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BEZ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T18:01:49Z",
-   "news_id": 130727238,
-   "headline": "Centrica plc Director/PDMR Share Transaction",
-   "url": "https://www.investegate.co.uk/announcement/rns/centrica--cna/director-pdmr-shareholding/9894176",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CNA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T18:01:35Z",
-   "news_id": 130727237,
-   "headline": "UBS to Present 'LA in MIA' at Art Basel Miami Beach",
-   "url": "https://investingnews.com/ubs-brings-los-angeles-to-art-basel-miami-beach-with-la-in-mia-anchored-by-alex-israel-s-monumental-new-commission-traffic/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UBS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T18:01:35Z",
-   "news_id": 130727236,
-   "headline": "Schneider Electric Launches 'Partnerships for Innovation' Initiative",
-   "url": "https://sustainabilitymag.com/news/schneider-electric-reshaping-grids-with-hybrid-systems",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SU"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T18:01:32Z",
-   "news_id": 130727234,
-   "headline": "First Abu Dhabi Bank Publishes Prospectus for $500 Million Tier 2 Capital Securities",
-   "url": "https://www.investegate.co.uk/announcement/rns/first-abu-dhabi-bank-p-j-s-c---13sg/fab-tier-2-usd500million-due-may-2037/9893856",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FAB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T18:01:21Z",
-   "news_id": 130727230,
-   "headline": "Roche Implements AI-Driven Procurement Transformation",
-   "url": "https://procurementmag.com/company-reports/axiom-roche-deloitte-content-before-ai-orchestration",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ROP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:04:23Z",
-   "news_id": 130807134,
-   "headline": "Webull Canada Announces Integration Project with TradingView",
-   "url": "https://www.marketscreener.com/news/webull-canada-launching-integration-project-with-tradingview-ce7851d8d88ef527",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BULL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:03:54Z",
-   "news_id": 130805791,
-   "headline": "KeyBanc Adjusts Texas Pacific Land Price Target",
-   "url": "https://www.marketscreener.com/news/keybanc-adjusts-texas-pacific-land-price-target-to-388-from-639-ce7851d8d880f02c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TPL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:03:27Z",
-   "news_id": 130805790,
-   "headline": "UBS Adjusts Mattel Price Target to $26",
-   "url": "https://www.marketscreener.com/news/ubs-cuts-price-target-on-mattel-to-26-from-28-maintains-buy-rating-ce7851d8d88ef520",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MAT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:03:08Z",
-   "news_id": 130805789,
-   "headline": "Stifel Adjusts Price Target on Federal Realty Investment Trust to $118 From $120",
-   "url": "https://www.marketscreener.com/news/stifel-adjusts-price-target-on-federal-realty-investment-trust-to-118-from-120-ce7851d8d880f127",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FRT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:03:06Z",
-   "news_id": 130805788,
-   "headline": "BofA Securities Adjusts Kohl's Price Target to $19",
-   "url": "https://www.marketscreener.com/news/bofa-securities-adjusts-price-target-on-kohl-s-to-19-from-16-ce7851d8d88cfe20",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KSS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:03:06Z",
-   "news_id": 130805787,
-   "headline": "Scotiabank Downgrades Zscaler to Sector Perform",
-   "url": "https://www.marketscreener.com/news/scotiabank-downgrades-zscaler-to-sector-perform-from-sector-outperform-260-price-target-ce7851d8d98dfe26",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ZS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:03:06Z",
-   "news_id": 130805786,
-   "headline": "UBS Raises Kohl's Price Target to $13",
-   "url": "https://www.moomoo.com/news/post/1005786258/kohl-s-price-target-raised-to-13-00-share-from",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KSS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:03:03Z",
-   "news_id": 130805785,
-   "headline": "BMO Capital Adjusts Monster Beverage Price Target to $47.50",
-   "url": "https://www.marketscreener.com/news/bmo-capital-adjusts-monster-beverage-price-target-to-47-50-from-47-ce7851d8da89f12c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MNST"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:02:56Z",
-   "news_id": 130804449,
-   "headline": "Wells Fargo Maintains Overweight Rating and Raises Price Target for BridgeBio Pharma",
-   "url": "https://www.moomoo.com/stock/BBIO-US?chain_id=Name1K9-3FXPhg.1lgdftg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FRHHBY-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BBIO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:02:45Z",
-   "news_id": 130804448,
-   "headline": "TD Cowen Initiates Coverage on Axon Enterprise with Buy Rating",
-   "url": "https://www.moomoo.com/stock/AXON-US?chain_id=Name1K9-3FXPhg.1lge50g&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FAXON-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AXON"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:02:43Z",
-   "news_id": 130804446,
-   "headline": "JRM Construction Management Completes New Office for East West Bank in New York City",
-   "url": "https://www.newswire.com/news/jrm-construction-management-completes-distinctive-workplace-for-east-22900205",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EWBC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:02:39Z",
-   "news_id": 130804444,
-   "headline": "Curtiss-Wright Enhances AVDU Rugged LCD Touchscreen Displays with Software Upgrade",
-   "url": "https://www.newswiretoday.com/news/187301/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CW"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:02:36Z",
-   "news_id": 130804443,
-   "headline": "Neurocrine Biosciences' Vykat Positioned for Growth in PWS Market, Oppenheimer Says",
-   "url": "https://www.marketscreener.com/news/neurocrine-biosciences-vykat-positioned-for-growth-in-pws-market-oppenheimer-says-ce7851d8da8bf621",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NBIX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:02:35Z",
-   "news_id": 130804442,
-   "headline": "Corpay Officer Ronald Clarke Files Intent to Sell Shares",
-   "url": "https://www.moomoo.com/stock/CPAY-US?chain_id=Name1K9-3FXPhg.1lge1g0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FCRL-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CPAY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:02:28Z",
-   "news_id": 130804440,
-   "headline": "Goldman Sachs Adjusts Diamondback Energy Price Target",
-   "url": "https://www.marketscreener.com/news/goldman-sachs-adjusts-diamondback-energy-price-target-to-230-from-235-ce7851d8d880f22d",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FANG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:02:26Z",
-   "news_id": 130804439,
-   "headline": "Seaport Global Securities Adjusts Hasbro Price Target to $120",
-   "url": "https://www.marketscreener.com/news/seaport-global-securities-adjusts-hasbro-price-target-to-120-from-130-ce7851d8d880f022",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HAS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T19:02:26Z",
-   "news_id": 130804438,
-   "headline": "CoreWeave's Banks to Sell $4.5 Billion Loan Secured by GPUs for Meta",
-   "url": "https://www.marketscreener.com/news/coreweave-s-banks-to-sell-4-5-billion-loan-next-week-secured-by-gpus-for-meta-ce7851d8da8af426",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CRWV"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T19:02:25Z",
    "news_id": 130804437,
@@ -4047,6 +3721,345 @@
     "JNJ"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T13:02:24Z",
+   "news_id": 131300415,
+   "headline": "SK hynix Announces 1Q26 Financial Results",
+   "url": "https://admiralmarkets.com/de/wissen/articles/shares/sk-hynix-aktie",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SKHY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:02:19Z",
+   "news_id": 131300413,
+   "headline": "Klarna Launches Search & Compare Tool in Greece",
+   "url": "https://www.euro2day.gr/news/highlights/article/2382068/pshfiaka-portofolia-kai-diasynoriakes-agores-allaz.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KLAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:02:09Z",
+   "news_id": 131300410,
+   "headline": "Manulife Investments Announces Estimated Cash Distributions for Manulife ETFs and ETF Series of Manulife Funds",
+   "url": "https://www.newswire.ca/news-releases/manulife-investments-announces-estimated-cash-distributions-for-manulife-exchange-traded-funds-and-etf-series-of-manulife-funds-865979427.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MFC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:02:00Z",
+   "news_id": 131300404,
+   "headline": "Ericsson and BT Deploy AI-Native Scheduler for Link Adaptation",
+   "url": "https://telcomagazine.com/news/bt-ericsson-lift-ee-london-speeds-26-with-ai-software",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ERIC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:58Z",
+   "news_id": 131300402,
+   "headline": "Eni-backed GreenIT Begins Construction of 131-MW Solar Plant in Sicily",
+   "url": "https://www.marketscreener.com/news/eni-backed-greenit-starts-construction-of-italian-solar-plant-ce7851d8de81f423",
+   "source": "fiscal.ai",
+   "symbols": [
+    "E"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:58Z",
+   "news_id": 131300070,
+   "headline": "Northrop Grumman Wins $1.13B Contract Modification for Navy E-130J Program",
+   "url": "https://www.moomoo.com/stock/HACK-US?chain_id=Name1K9-3FXPhg.1lgft8g&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FGD-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NOC"
+   ],
+   "signals": [
+    {
+     "symbol": "NOC",
+     "action": "buy",
+     "confidence": 0.78,
+     "impact": "medium",
+     "rationale": "La modificación de contrato de $1.13 bn para el programa E-130J de la Marina EE.UU. es un catalizador concreto que incrementa los ingresos futuros de Northrop Grumman.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-26T13:01:56Z",
+   "news_id": 131300401,
+   "headline": "Uber Appoints Rakesh Ranjan as President of India and South Asia",
+   "url": "https://worldautoforum.com/uber-ropes-in-former-zomato-ceo-rakesh-ranjan-as-president-for-india-south-asia/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBER"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:56Z",
+   "news_id": 131300400,
+   "headline": "Stellantis Hosts Maserati Day Presentation",
+   "url": "https://news.europawire.eu/media-advisory-maserati-day-in-modena-to-present-the-brands-strategic-product-plan/eu-press-release/2026/11/26/13/50/05/189769/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STLA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:51Z",
+   "news_id": 131300069,
+   "headline": "CA Immo Reports Nine-Month 2026 Results and Raises Annual Guidance",
+   "url": "https://www.finanzen.at/nachrichten/aktien/ca-immo-aktie-im-plus-hoeheres-jahresziel-trotz-deutlichem-gewinneinbruch-1036800623",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CAI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:50Z",
+   "news_id": 131300390,
+   "headline": "Moody's Affirms A3 Credit Rating for Amplius",
+   "url": "https://www.investegate.co.uk/announcement/rns/libra-longhurst-group-treasury-plc--38lt/non-deal-investor-update-credit-opinion/9895521",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MCO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:50Z",
+   "news_id": 131300068,
+   "headline": "Vienna Insurance Group Reports Strong Nine-Month Results and Raises 2026 Profit Outlook",
+   "url": "https://www.finanzen.at/nachrichten/aktien/vig-aktie-sinkt-dennoch-starkes-wachstum-in-osteuropa-treibt-gewinn-prognose-fuer-2026-angehoben-1036802267",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VIG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:50Z",
+   "news_id": 131300066,
+   "headline": "Almirall Enters Exclusive Licensing Agreement with Hyphens Pharma for Seysara® in ASEAN",
+   "url": "https://www.prnewswire.com/apac/news-releases/hyphens-pharma-licenses-seysara-for-asean-countries-302951180.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ALM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:50Z",
+   "news_id": 131300065,
+   "headline": "SMG Swiss Marketplace Group Appoints New Managing Director for Automotive Division",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/smg-announces-a-change-at-the-helm-of-the-automotive-division-maurice-acker-appointed-new-managing-director-1036802809",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SMG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:48Z",
+   "news_id": 131300060,
+   "headline": "Goldman Sachs Prime Broking Insights on Hedge Fund Positioning",
+   "url": "https://www.morningstar.com/news/marketwatch/20261126104/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:46Z",
+   "news_id": 131300058,
+   "headline": "Higgsfield AI Partners with Nebius on NVIDIA Blackwell Infrastructure",
+   "url": "https://stockanalysis.com/private/higgsfield-ai/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NBIS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:45Z",
+   "news_id": 131300054,
+   "headline": "Ahold Delhaize Subsidiary AB Vassilopoulos Pilots New Discount Model",
+   "url": "https://www.euro2day.gr/amp/news/enterprises/article/2382049/metopo-me-lidl-anoigei-h-av-vasilopoylos-mpainei-s.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:44Z",
+   "news_id": 131300050,
+   "headline": "Goldman Sachs Raises Price Target for Sartorius Stedim Biotech",
+   "url": "https://www.finanzen.ch/analyse/sartorius-stedim-biotech-buy-1123442",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DIM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:43Z",
+   "news_id": 131300046,
+   "headline": "UBS Maintains Buy Rating for LVMH",
+   "url": "https://www.finanzen.ch/analyse/lvmh-moet-hennessy-louis-vuitton-buy-1123433",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:40Z",
+   "news_id": 131300039,
+   "headline": "Philips Ambilight TV MLED831 Crowdfunding Campaign Launches in Japan",
+   "url": "https://www.webook.com.tw/acg-news/2026-11-26-lifestyle-and-consumer-05/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PHG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:40Z",
+   "news_id": 131300038,
+   "headline": "S&P Global Ratings Upgrades KDB Bank Uzbekistan and Revises Uzpromstroybank Outlook",
+   "url": "https://www.uzdaily.uz/en/sp-upgrades-kdb-bank-uzbekistan-revises-uzpromstroybank-outlook/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SPGI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:36Z",
+   "news_id": 131300034,
+   "headline": "Binance Adds Tokenized Security Linked to Freedom Holding Corp. Shares",
+   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410692/0/en/tokenized-security-linked-to-freedom-holding-corp-shares-listed-on-binance-expanding-investor-access.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FRHC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:36Z",
+   "news_id": 131300033,
+   "headline": "Real Canadian Superstore Celebrates Grand Opening at Buffalo Run",
+   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410734/0/en/real-canadian-superstore-celebrates-grand-opening-at-buffalo-run-on-tsuut-ina-nation.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "L"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:32Z",
+   "news_id": 131300031,
+   "headline": "Daimler Truck Expands TruckCharge Network and Integrates Milence Charging Points",
+   "url": "https://www.finanznachrichten.de/nachrichten-medien/electrive-net.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DTG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:32Z",
+   "news_id": 131300029,
+   "headline": "NVIDIA and Kioxia Announce Collaboration to Extend GPU Memory Capacity",
+   "url": "https://natlawreview.com/press-releases/kioxia-and-nvidia-collaborate-expand-effective-high-bandwidth-memory",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NVDA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:30Z",
+   "news_id": 131300027,
+   "headline": "Chevron Increases Investment in Argentina's Energy Infrastructure",
+   "url": "https://newsfilter.io/articles/latin-america-has-the-copper-and-energy-the-ai-build-out-needs-infrastructure-is-cfb3a66dd618589b924d043b1a1cd7fa",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CVX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:30Z",
+   "news_id": 131300025,
+   "headline": "Chevron Partners with TPAO for Offshore Exploration in Guinea Bissau",
+   "url": "https://www.moomoo.com/hans/news/flash/1005903439/turkish-energy-minister-turkey-s-tpao-partners-with-chevron-in",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CVX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:28Z",
+   "news_id": 131300024,
+   "headline": "Chobani Fails to Dismiss Danone's Cold-Brew Coffee Lawsuit",
+   "url": "https://stockanalysis.com/private/chobani/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:27Z",
+   "news_id": 131300022,
+   "headline": "Johnson Controls Reports Sustainability Gains at Oklahoma Manufacturing Facility",
+   "url": "https://manufacturingdigital.com/news/johnson-controls-how-manufacturers-can-cut-energy-waste",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JCI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:21Z",
+   "news_id": 131300020,
+   "headline": "Elon Musk Announces $18 Billion SpaceX Share Giveaway",
+   "url": "https://newsfilter.io/articles/musk-pledges-two-spacex-shares-for-every-u-s-child-in-us-18-billion-ai-charm-b8eecea35bb65d8daf901dedb75691b1",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SPCX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T13:01:18Z",
+   "news_id": 131300019,
+   "headline": "Visa Announces Plans for New 'Visa Flex Card' in Partnership with NBX",
+   "url": "https://news.europawire.eu/visa-and-nbx-plan-single-card-payments-from-traditional-currency-and-stablecoin-balances-across-five-european-markets/eu-press-release/2026/11/26/13/48/03/189766/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "V"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5725,10 +5738,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T13:07:19Z",
+   "fetched": 76,
+   "news": 30,
+   "signals": 1,
+   "orders": 0,
+   "errors": [],
+   "tokens": 3557
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T12:52:15Z",
+ "updated_at": "2026-11-26T13:07:19Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -5746,7 +5768,7 @@
   "last_equity": 99492.29055690177,
   "buying_power": 380041.87
  },
- "pending": 4,
+ "pending": 5,
  "positions": [
   {
    "symbol": "AAT",
