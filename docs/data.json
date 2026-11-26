@@ -807,53 +807,13 @@
   {
    "t": "2026-11-26T19:52:24Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T20:07:16Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T03:01:44Z",
-   "news_id": 131228277,
-   "headline": "Marriott International Hosts 2026 Masters of the Craft Finals",
-   "url": "https://travelprnews.com/article/from-sinigang-to-a-reimagined-pina-colada-coconut-connects-marriotts-three-craft-champions/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MAR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T03:01:38Z",
-   "news_id": 131228276,
-   "headline": "CMS Proposes Rule Allowing Automatic Enrollment in Medicare Advantage Plans",
-   "url": "https://www.commondreams.org/daily-feature",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ELV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T03:01:31Z",
-   "news_id": 131228275,
-   "headline": "FedEx Cargo Plane Overruns Runway at Miami International Airport",
-   "url": "https://wjno.iheart.com/content/2026-11-26-fedex-plane-goes-off-miami-airport-runway-causing-ground-stop/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FDX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T03:01:30Z",
-   "news_id": 131228274,
-   "headline": "Walmart Integrates Meta's Muse AI for Shopping",
-   "url": "https://www.moomoo.com/news/post/1005747401/ai-agents-go-shopping-walmart-integrates-meta-muse-and-sets",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WMT"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T03:01:29Z",
    "news_id": 131228273,
@@ -4154,6 +4114,50 @@
     "GM"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T20:01:32Z",
+   "news_id": 131556181,
+   "headline": "Rothmans, Benson & Hedges Inc. Reports 2026 Environmental Results for BeBot Initiative",
+   "url": "https://www.newswire.ca/news-releases/unsmoke-canada-backs-innovative-beach-cleaning-robot-delivering-results-in-2026-882264877.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T20:01:30Z",
+   "news_id": 131556180,
+   "headline": "Tesla Deploys Manual Battery Preconditioning Feature",
+   "url": "https://www.frandroid.com/marques/tesla/3341437_tesla-lance-enfin-une-fonction-que-ses-rivaux-proposaient-deja-depuis-des-annees-le-prechauffage-manuel-de-la-batterie",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TSLA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T20:01:30Z",
+   "news_id": 131556179,
+   "headline": "EU Postpones Vote on Tesla Assisted Driving Approval",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eu-delays-vote-on-teslas-assisted-driving-system-to-december-15-reports-1036803762",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TSLA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T20:01:26Z",
+   "news_id": 131556178,
+   "headline": "The Goldman Sachs Group, Inc. Discloses Major Holding in Hugo Boss AG",
+   "url": "https://www.placera.se/pressmeddelanden/hugo-boss-hugo-boss-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-20261126",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GS"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4279,15 +4283,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-24T15:48:18Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-24T16:04:36Z",
    "fetched": 33,
@@ -6078,10 +6073,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T20:07:16Z",
+   "fetched": 4,
+   "news": 4,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 836
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T19:52:24Z",
+ "updated_at": "2026-11-26T20:07:16Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
