@@ -759,152 +759,13 @@
   {
    "t": "2026-11-26T16:52:16Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T17:07:12Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T22:32:07Z",
-   "news_id": 131089531,
-   "headline": "Rapid7 Analysis: VMware vCenter SRP Authentication Bypass to Root (CVE-2026-123890)",
-   "url": "https://labsecurity.com.br/articles?time_window=24h",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RPD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:07Z",
-   "news_id": 131089530,
-   "headline": "The Honest Company Sponsors 2026 Baby of the Year Competition",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410171/0/en/colossal-names-the-2026-baby-of-the-year-announces-more-than-25-million-dtcare-grant-to-baby2baby.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HNST"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:07Z",
-   "news_id": 131089529,
-   "headline": "UBS Adjusts Price Target on Plug Power to $1.15 From $4",
-   "url": "https://www.marketscreener.com/news/ubs-adjusts-price-target-on-plug-power-to-1-15-from-4-maintains-neutral-rating-ce7851d8d88ef421",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PLUG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:07Z",
-   "news_id": 131089528,
-   "headline": "Palo Alto Networks Sued by Former Executive Over Alleged Accounting Fraud",
-   "url": "https://www.marketscreener.com/news/palo-alto-networks-sued-by-ex-executive-over-alleged-accounting-fraud-ce7851d8dd89f02c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PANW"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:06Z",
-   "news_id": 131089527,
-   "headline": "ISG Releases 2026 Provider Lens® Generative AI Services Global Report",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410351/9060/en/exl-named-a-leader-in-2026-isg-provider-lens-generative-ai-and-agentic-ai-services-global-reports.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "III"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:06Z",
-   "news_id": 131089526,
-   "headline": "Runway Growth Finance Corp. Announces Redemption of Remaining 7.50% Notes Due 2027",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410579/0/en/runway-growth-finance-corp-announces-redemption-of-remaining-7-50-notes-due-2027.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RWAY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:06Z",
-   "news_id": 131089525,
-   "headline": "FTC Finalizes Order Resolving Antitrust Concerns Over Beretta's Stake in Ruger",
-   "url": "https://www.marketscreener.com/news/ftc-imposes-strict-board-restrictions-on-beretta-s-25-stake-in-rival-sturm-ruger-ce7851d8da88ff25",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RGR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:06Z",
-   "news_id": 131089524,
-   "headline": "Analysts Update Coverage and Price Targets for RTX Corporation",
-   "url": "https://www.moomoo.com/stock/RTX-US?chain_id=Name1K9-3FXPhg.1lgd5c0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FSTLD-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RTX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:04Z",
-   "news_id": 131089523,
-   "headline": "Quanex Building Products Announces Fourth Quarter and Full Year 2026 Earnings Release and Conference Call Schedule",
-   "url": "https://www.morningstar.com/news/globe-newswire/9884943/quanex-building-products-announces-fourth-quarter-and-full-year-2026-earnings-release-and-conference-call-schedule",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:03Z",
-   "news_id": 131089522,
-   "headline": "Teamshares Appoints Vincent Colman to Board of Directors",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410236/0/en/teamshares-appoints-vin-colman-to-board-of-directors.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TMS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:03:37Z",
-   "news_id": 131136550,
-   "headline": "BMO Capital Downgrades Abercrombie & Fitch to Market Perform",
-   "url": "https://de.marketscreener.com/boerse-nachrichten/abercrombie-fitch-co-bmo-capital-revidiert-seine-meinung-und-wendet-sich-an-neutral-ce7851d8db88f524",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ANF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:03:37Z",
-   "news_id": 131136549,
-   "headline": "UBS Raises Abercrombie & Fitch Price Target to $220",
-   "url": "https://www.marketscreener.com/news/ubs-raises-abercrombie-fitch-price-target-to-220-from-200-maintains-buy-rating-ce7851d8d88ff321",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ANF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:03:36Z",
-   "news_id": 131136548,
-   "headline": "Piper Sandler Adjusts Price Target on Workday",
-   "url": "https://www.marketscreener.com/news/piper-sandler-adjusts-price-target-on-workday-to-185-from-190-ce7851d8d981f725",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PIPR"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T23:03:29Z",
    "news_id": 131136547,
@@ -4106,6 +3967,149 @@
     "HSBC"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T17:02:24Z",
+   "news_id": 131423207,
+   "headline": "Canadian Officials and Union Demand Carbon Tax Exemption to Save Stellantis Brampton Plant",
+   "url": "https://www.morningstar.com/news/dow-jones/202611263053/canada-faces-demand-to-exempt-automakers-from-carbon-tax",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STLA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:02:13Z",
+   "news_id": 131423202,
+   "headline": "BlackRock, Inc. Increases Voting Rights in Brenntag SE",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-brenntag-se-veroeffentlichung-gemass-%C2%A7-40-abs-1-wphg-mit-dem-ziel-der-europaweiten-verbreitung-1036803024",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BNR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:02:08Z",
+   "news_id": 131422532,
+   "headline": "Irish High Court Rejects Scheme of Arrangement for BAWAG Group's Acquisition of Permanent TSB",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70239259-pta-adhoc-bawag-group-ag-irisches-high-court-genehmigt-scheme-of-arrangement-nicht-015.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:01:59Z",
+   "news_id": 131422528,
+   "headline": "Billerud No Longer Subject to Public Short Selling",
+   "url": "https://www.avanza.se/nyheter.html?a=%2Ftelegram%2Favanza%2F16_fcbc5241-9ce3-43be-b692-4c9dfe778d85",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BILL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:01:55Z",
+   "news_id": 131422526,
+   "headline": "Banco Macro Announces Results for the Third Quarter of 2026",
+   "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Ftelegram%2Favanza%2F17_9711c87e-7dd9-4dcd-9f96-4515e2982b19",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BMA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:01:51Z",
+   "news_id": 131422522,
+   "headline": "Morgan Stanley Reports Change in Voting Rights in AT&S",
+   "url": "https://www.finanzen.at/nachrichten/aktien/eqs-pvr-at&s-austria-technologie-&-systemtechnik-ag-veroeffentlichung-gemass-%C2%A7-135-abs-2-boerseg-mit-dem-ziel-der-europaweiten-verbreitung-1036803408",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ATS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:01:47Z",
+   "news_id": 131422513,
+   "headline": "Credem Receives Annual SREP Capital Requirement from ECB",
+   "url": "https://www.milanofinanza.it/news/la-bce-da-i-voti-alle-banche-italiane-ed-europee-ecco-i-risultati-degli-esami-annuali-srep-202611261611494042",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:01:38Z",
+   "news_id": 131422505,
+   "headline": "Technip Energies Joins MSGBC Oil, Gas & Power 2026 as Silver Sponsor",
+   "url": "https://africa.com/apo/technip-energies-expands-role-in-west-africas-energy-push-at-msgbc-2026-as-silver-sponsor",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:01:35Z",
+   "news_id": 131422500,
+   "headline": "Gerdau Receives 2026 Procurement Success Award",
+   "url": "https://moneycompass.com.my/cn/pss2026%E4%BA%9A%E5%A4%AA%E5%8D%93%E8%B6%8A%E9%87%87%E8%B4%AD%E5%B3%B0%E4%BC%9A%E5%9C%A8%E4%B8%8A%E6%B5%B7%E4%B8%BE%E8%A1%8C%EF%BC%8C%E6%B1%87%E8%81%9A850%E4%BD%99%E4%BD%8D%E5%85%A8%E7%90%83%E9%87%87/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GGB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:01:34Z",
+   "news_id": 131422499,
+   "headline": "Indra Group Unveils Forward2030 Strategic Plan",
+   "url": "https://sciencebusiness.net/network-updates/indra-group-presents-strategic-plan-reinforcing-its-dual-use-leadership",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IDR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:01:31Z",
+   "news_id": 131422497,
+   "headline": "Suzano Launches 'Pode Contar' Initiative to Enhance Rural Supply Chain Risk Management",
+   "url": "https://www.businesswire.com/news/home/20261126705544/en/ILO-UN-Global-Compact-CONTAR-and-Suzano-Launch-Initiative-That-Turns-Workers-Voices-Into-Intelligence-for-Managing-and-Preventing-Risks-in-Rural-Supply-Chains",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SUZ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:01:31Z",
+   "news_id": 131422496,
+   "headline": "BlackRock Increases Voting Rights in Continental AG",
+   "url": "https://live.deutsche-boerse.com/news/EQS-PVR-Continental-AG-Release-according-to-Article-40-Section-1-of-the-WpHG-the-German-Securities-Trading-Act-with-the-objective-of-Europe-wide-distribution-f0c20d98-aed2-471a-913b-fb444525585c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CON"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T17:01:19Z",
+   "news_id": 131422494,
+   "headline": "Sandy & Junior Announce Residency at Nubank Parque",
+   "url": "https://gente.ig.com.br/colunas/lobianco/2026-11-26/globo-especial-sandy-jr.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NU"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5937,10 +5941,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T17:07:12Z",
+   "fetched": 54,
+   "news": 13,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1602
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T16:52:16Z",
+ "updated_at": "2026-11-26T17:07:12Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
