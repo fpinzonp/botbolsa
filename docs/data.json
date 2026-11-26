@@ -527,108 +527,13 @@
   {
    "t": "2026-11-26T02:52:17Z",
    "v": 99519.57
+  },
+  {
+   "t": "2026-11-26T03:07:12Z",
+   "v": 99492.66
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T14:03:58Z",
-   "news_id": 130457712,
-   "headline": "Aldeyra Therapeutics Requests FDA Transfer of ADX-2191 Review and Withdraws Special Protocol Assessment",
-   "url": "https://www.moomoo.com/stock/ALDX-US?chain_id=Name1K9-3FXPhg.1lg4c40&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhant%2Fstock%2F00343-HK%2Ffinancials-cash-flow%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ALDX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:03:55Z",
-   "news_id": 130457707,
-   "headline": "Metalsource Mining Inc. Issues Correction Notice",
-   "url": "https://www.newsfilecorp.com/release/325792/CORRECTION-FROM-SOURCE-Metalsource-Mining-Intercepts-Significant-Mineralized-Zone-at-Silver-Hill-South-of-Previously-Identified-HighGrade-Mineralization",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MSM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:03:55Z",
-   "news_id": 130457706,
-   "headline": "Metalsource Mining Inc. Reports Assay Results from Silver Hill Drill Program",
-   "url": "https://investingnews.com/metalsource-mining-intercepts-significant-mineralized-zone-at-silver-hill-south-of-previously-identified-high-grade-mineralization/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MSM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:03:51Z",
-   "news_id": 130457695,
-   "headline": "Next Hydrogen Solutions Inc. Announces Strategic Collaboration with H2 Manufacturing LLC",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410114/0/en/next-hydrogen-and-h2-manufacturing-announce-strategic-collaboration-to-deliver-integrated-hydrogen-production-solutions-across-north-america.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NXH"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:03:46Z",
-   "news_id": 130457682,
-   "headline": "Kutcho Copper Announces Non-Brokered Private Placement",
-   "url": "https://www.newsfilecorp.com/news/mining-metals",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:03:46Z",
-   "news_id": 130457678,
-   "headline": "MIND Technology Announces Fiscal 2027 Third Quarter Earnings Release and Conference Call Schedule",
-   "url": "https://www.morningstar.com/news/pr-newswire/20261124da05739/mind-technology-announces-fiscal-2027-third-quarter-earnings-release-and-conference-call-schedule",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MIND"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:03:44Z",
-   "news_id": 130457672,
-   "headline": "BCM Resources Corporation Deploys Second Drill Rig at Thompson Knolls Project",
-   "url": "https://www.newsfilecorp.com/release/325798/BCM-Resources-Corp.-Second-Diamond-Drill-Rig-Has-Arrived-at-the-Companys-Thompson-Knolls-Porphyry-Cu-Au-Ag-Mo-Discovery-in-Utah",
-   "source": "fiscal.ai",
-   "symbols": [
-    "B"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:03:43Z",
-   "news_id": 130457670,
-   "headline": "GoPro, Inc. Files Preliminary Proxy Statement (PRER14A)",
-   "url": "https://www.streetinsider.com/SEC+Filings?before_id=27388371",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GPRO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:03:41Z",
-   "news_id": 130457667,
-   "headline": "Emerita Resources Announces Date for Annual General and Special Meeting of Shareholders",
-   "url": "https://investingnews.com/emerita-announces-date-for-annual-general-and-special-meeting-of-shareholders/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EMO"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T14:03:40Z",
    "news_id": 130457664,
@@ -3865,6 +3770,105 @@
     "YSG"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T03:02:11Z",
+   "news_id": 131228312,
+   "headline": "Home Depot Insider Executes Sale of Company Shares",
+   "url": "https://www.marketscreener.com/news/home-depot-insider-sold-shares-worth-4-312-400-according-to-a-recent-sec-filing-ce7851d8da80f023",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T03:02:07Z",
+   "news_id": 131228311,
+   "headline": "Barrick International CEO Meets with Mali Prime Minister",
+   "url": "https://www.mining.com/press-release?id=6b07356f40301c0f42b5058c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ABX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T03:01:46Z",
+   "news_id": 131228278,
+   "headline": "Oreo Brand Launches Holiday Campaign Addressing 'Perfection Tax'",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410577/0/en/no-baking-no-stress-all-magic-the-oreo-brand-and-ciara-invite-moms-to-dunk-into-the-holidays.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MDLZ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T03:01:44Z",
+   "news_id": 131228277,
+   "headline": "Marriott International Hosts 2026 Masters of the Craft Finals",
+   "url": "https://travelprnews.com/article/from-sinigang-to-a-reimagined-pina-colada-coconut-connects-marriotts-three-craft-champions/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T03:01:38Z",
+   "news_id": 131228276,
+   "headline": "CMS Proposes Rule Allowing Automatic Enrollment in Medicare Advantage Plans",
+   "url": "https://www.commondreams.org/daily-feature",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ELV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T03:01:31Z",
+   "news_id": 131228275,
+   "headline": "FedEx Cargo Plane Overruns Runway at Miami International Airport",
+   "url": "https://wjno.iheart.com/content/2026-11-26-fedex-plane-goes-off-miami-airport-runway-causing-ground-stop/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FDX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T03:01:30Z",
+   "news_id": 131228274,
+   "headline": "Walmart Integrates Meta's Muse AI for Shopping",
+   "url": "https://www.moomoo.com/news/post/1005747401/ai-agents-go-shopping-walmart-integrates-meta-muse-and-sets",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WMT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T03:01:29Z",
+   "news_id": 131228273,
+   "headline": "Moody's Ratings Introduces New 'XG' Issuer Rating Category",
+   "url": "https://www.globenewswire.com/news/banks-financial-services/banks",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MCO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T03:01:24Z",
+   "news_id": 131228272,
+   "headline": "Hilton Opens The Lan Kwai Fong, Tapestry Collection by Hilton in Hong Kong",
+   "url": "https://travelprnews.com/article/hilton-brings-its-tapestry-collection-to-hong-kong-with-a-41-room-hotel-in-central/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HLT"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5174,10 +5178,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T03:07:12Z",
+   "fetched": 9,
+   "news": 9,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1195
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T02:52:17Z",
+ "updated_at": "2026-11-26T03:07:12Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -5190,10 +5203,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99519.57,
+  "equity": 99492.66,
   "cash": 84553.25,
   "last_equity": 99676.10687299244,
-  "buying_power": 380118.7
+  "buying_power": 380043.35
  },
  "pending": 2,
  "positions": [
@@ -5213,10 +5226,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 165.4,
-   "market_value": 5116.316389,
-   "unrealized_pl": 144.766389,
-   "unrealized_plpc": 0.02912,
+   "current_price": 164.53,
+   "market_value": 5089.404688,
+   "unrealized_pl": 117.854688,
+   "unrealized_plpc": 0.02371,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
