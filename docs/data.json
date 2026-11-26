@@ -643,31 +643,13 @@
   {
    "t": "2026-11-26T09:52:14Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T10:07:15Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T15:31:56Z",
-   "news_id": 130550904,
-   "headline": "UBS Adjusts Ferrari Price Target to $465 From $450",
-   "url": "https://www.marketscreener.com/news/ubs-adjusts-ferrari-price-target-to-465-from-450-maintains-buy-rating-ce7851d8d88ff025",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RACE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T15:31:45Z",
-   "news_id": 130550902,
-   "headline": "Diana Shipping Inc. Announces Leadership Changes",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410198/10065/en/diana-shipping-inc-announces-key-leadership-appointment-and-organizational-changes-to-support-its-long-term-strategy.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DSX"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T15:31:45Z",
    "news_id": 130550901,
@@ -3990,6 +3972,28 @@
     "AER"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T10:03:31Z",
+   "news_id": 131259175,
+   "headline": "Alibaba Reduces Stake in ZTO Express",
+   "url": "https://www.moomoo.com/stock/800000-HK?chain_id=Name1K9-3FXPhg.1lgfpo0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2F03377-HK%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ZTO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T10:02:08Z",
+   "news_id": 131258966,
+   "headline": "Deutsche Bank Adjusts Bilibili Price Targets Amid Advertising Headwinds",
+   "url": "https://news.futunn.com/en/post/1005734487/tech-media-telecom-roundup-market-talk",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BILI"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5560,10 +5564,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T10:07:15Z",
+   "fetched": 10,
+   "news": 2,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 726
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T09:52:14Z",
+ "updated_at": "2026-11-26T10:07:15Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
