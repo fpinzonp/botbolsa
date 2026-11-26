@@ -727,20 +727,13 @@
   {
    "t": "2026-11-26T14:52:18Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T15:07:16Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T22:32:31Z",
-   "news_id": 131090989,
-   "headline": "Lifeway Foods Announces Scale-Up of Waukesha Manufacturing Facility",
-   "url": "https://kalkinemedia.com/us/stocks/smallcap/why-did-lifeway-foods-nasdaqlway-post-record-quarterly-net-sales",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LWAY"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T22:32:30Z",
    "news_id": 131090988,
@@ -4074,6 +4067,17 @@
     "JPM"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T15:01:21Z",
+   "news_id": 131352846,
+   "headline": "Unilever Hellas Adopts ENTERSOFTONE IMPACT for B2B E-Invoicing",
+   "url": "https://www.euro2day.gr/amp/news/enterprises/article/2382035/unilever-hellas-synergasia-me-thn-entersoftone-imp.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UL"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5833,10 +5837,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T15:07:16Z",
+   "fetched": 2,
+   "news": 1,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 636
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T14:52:18Z",
+ "updated_at": "2026-11-26T15:07:16Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
