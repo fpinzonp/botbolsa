@@ -751,97 +751,13 @@
   {
    "t": "2026-11-26T16:22:17Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T16:37:18Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T22:32:16Z",
-   "news_id": 131090976,
-   "headline": "Insider Sells Shares of Grid Dynamics Holdings",
-   "url": "https://de.marketscreener.com/boerse-nachrichten/insider-von-grid-dynamics-holdings-verkaufte-aktien-im-wert-von-278-600-usd-wie-aus-einer-aktuellen-ce7851dbdc88f022",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GDYN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:16Z",
-   "news_id": 131090975,
-   "headline": "Truist Adjusts Price Target on Burlington Stores",
-   "url": "https://www.marketscreener.com/news/truist-adjusts-price-target-on-burlington-stores-to-285-from-310-maintains-hold-rating-ce7851dbd08ff126",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TFC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:15Z",
-   "news_id": 131090974,
-   "headline": "Evertz Technologies Limited to Announce Second Quarter 2027 Results on December 2, 2026",
-   "url": "https://www.newsfilecorp.com/release/325976/Evertz-Technologies-Limited-to-Announce-Second-Quarter-2027-Results-on-December-2-2026",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ET"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:13Z",
-   "news_id": 131090973,
-   "headline": "Riskified Enters Comprehensive Business Partnership in Japan",
-   "url": "https://www.moomoo.com/ja/news/post/1005755607",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RSKD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:11Z",
-   "news_id": 131090972,
-   "headline": "Fermi Inc. Insider Executes Share Sale",
-   "url": "https://www.marketscreener.com/news/fermi-insider-sold-shares-worth-1-791-155-according-to-a-recent-sec-filing-ce7851dad08bf321",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FRMI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:09Z",
-   "news_id": 131089532,
-   "headline": "Dauch Corporation to Participate in BofA Securities 2026 Leveraged Finance Conference",
-   "url": "https://www.morningstar.com/news/pr-newswire/20261125de04956/dauch-to-present-at-the-bofa-securities-2026-leveraged-finance-conference-on-december-1",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DCH"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:08Z",
-   "news_id": 131090968,
-   "headline": "GoodRx Reports Q3 2026 Financial Results and Restates Prior Quarters",
-   "url": "https://newsfilter.io/earnings/goodrx-third-quarter-2026-earnings-summary-3fb9f202cfeb5974bb415b76fade28cf",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GDRX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T22:32:08Z",
-   "news_id": 131090967,
-   "headline": "Law Firms Initiate Investigations into GoodRx Following Financial Restatements",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410571/0/en/goodrx-gdrx-restates-financial-results-discloses-material-weaknesses-kehoe-law-firm-investigating.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GDRX"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T22:32:07Z",
    "news_id": 131089531,
@@ -4098,6 +4014,94 @@
     "JPM"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T16:32:08Z",
+   "news_id": 131404301,
+   "headline": "Atos Partners with Scaleway for Sovereign Cloud Deployment",
+   "url": "https://www.abcbourse.com/marches/atos-et-scaleway-s-associent-pour-accelerer-le-deploiement-de-clouds-souverains_706723",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ATO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:32:02Z",
+   "news_id": 131404290,
+   "headline": "Stabilus SE Announces Web Conference for FY2026 Results",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-stabilus-se-invitation-to-a-web-conference-on-fy2026-results-on-december-7-2026-1036802366",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:31:50Z",
+   "news_id": 131403678,
+   "headline": "Ferrari Advances Ocean Sailing Challenge Initiative",
+   "url": "https://www.milanofinanza.it/news/ferrari-hypersail-il-monoscafo-volante-di-100-piedi-che-sfidera-gli-oceani-senza-combustibili-202611261648369086",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RACE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:31:36Z",
+   "news_id": 131403665,
+   "headline": "Barclays Releases UK SME Borrowing Index Report",
+   "url": "https://news.europawire.eu/barclays-reports-recovery-in-uk-small-business-lending-as-delayed-investment-rolls-into-2027/eu-press-release/2026/11/26/14/49/04/189816/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BCS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:31:31Z",
+   "news_id": 131403659,
+   "headline": "Adtran Networks SE Issues Voting Rights Announcement",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-adtran-networks-se-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036798892",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ADV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:31:28Z",
+   "news_id": 131403657,
+   "headline": "Jefferies Maintains 'Buy' Rating for Basler AG",
+   "url": "https://www.finanzen.ch/analyse/basler-buy-1123407",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BSL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:31:26Z",
+   "news_id": 131403656,
+   "headline": "UBS Lowers Price Target for EssilorLuxottica",
+   "url": "https://www.finanzen.ch/analyse/essilorluxottica-buy-1123428",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T16:31:18Z",
+   "news_id": 131403655,
+   "headline": "HSBC's Hong Kong Dollar Stablecoin 'RedCoin' Reaches 100,000 Users",
+   "url": "https://www.newsnow.co.uk/h/Industry+Sectors/Banking/UK+and+Ireland/HSBC",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HSBC"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5911,10 +5915,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T16:37:18Z",
+   "fetched": 51,
+   "news": 8,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1129
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T16:22:17Z",
+ "updated_at": "2026-11-26T16:37:18Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
