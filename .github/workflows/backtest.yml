@@ -1,0 +1,32 @@
+name: Simulación de stop loss
+
+on:
+  workflow_dispatch:          # solo a mano: Actions > Simulación de stop loss > Run workflow
+    inputs:
+      start:
+        description: "Fecha de inicio de los precios (AAAA-MM-DD)"
+        default: "2016-01-01"
+
+permissions:
+  contents: read
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt numpy==2.3.4
+      - name: Simular
+        run: python -m backtest.stops >> "$GITHUB_STEP_SUMMARY"
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          BT_START: ${{ inputs.start }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: resultados
+          path: backtest/results.*

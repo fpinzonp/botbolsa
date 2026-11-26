@@ -5,7 +5,7 @@ on:
     - cron: "7,22,37,52 * * * *"   # cada 15 min, fuera del minuto 0 (hora pico de GitHub)
   workflow_dispatch:          # botón "Run workflow" para correrlo a mano
   push:                       # al subir cambios de código solo se corren las pruebas
-    paths: ["bot/**", "tests/**", "requirements.txt", ".github/workflows/**"]
+    paths: ["bot/**", "backtest/**", "tests/**", "requirements.txt", ".github/workflows/**"]
 
 permissions:
   contents: write             # para guardar data/ y docs/data.json en el repo
@@ -89,4 +89,4 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt pytest && python -m pytest -q
+      - run: pip install -r requirements.txt numpy==2.3.4 pytest && python -m pytest -q
