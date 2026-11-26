@@ -831,117 +831,13 @@
   {
    "t": "2026-11-26T21:22:15Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T21:37:25Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T07:02:14Z",
-   "news_id": 131236603,
-   "headline": "Roth Capital Partners Lowers PolyPid Price Target Amid Payment Uncertainty",
-   "url": "https://www.cantechletter.com/2026/11/polypid-this-analyst-just-trimmed-his-price-target/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PYPD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T07:01:40Z",
-   "news_id": 131236561,
-   "headline": "Nanox Announces Third Quarter 2026 Financial Results and Provides Business Updates",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410167/0/en/nanox-announces-third-quarter-2026-financial-results-and-provides-business-updates.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NNOX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T07:01:34Z",
-   "news_id": 131236560,
-   "headline": "Beyond Oil Ltd. Expands Presence in the Netherlands Through FryFlow Partnership",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410133/0/en/beyond-oil-expands-its-presence-in-the-netherlands-through-fryflow-and-receives-initial-container-order.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BOIL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T08:02:41Z",
-   "news_id": 131239401,
-   "headline": "Hunter Group Subsidiary Increases Stake in Jacktel",
-   "url": "https://ch.marketscreener.com/boerse-nachrichten/beteiligung-der-hunter-group-tochter-an-jacktel-soll-nach-abwicklung-der-kaufangebote-auf-92-5-ste-ce7851d8dc8ef527",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JACK"
-   ],
-   "signals": [
-    {
-     "symbol": "JACK",
-     "action": "buy",
-     "confidence": 0.78,
-     "impact": "medium",
-     "rationale": "El aumento de participación de Hunter Group a 92.5% indica una fuerte confianza en Jacktel y un posible impulso al precio a corto plazo.",
-     "outcome": "En cola: mercado cerrado"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-26T08:02:37Z",
-   "news_id": 131239395,
-   "headline": "JPMorgan Lowers Price Target on Novocure Ltd. (NVCR)",
-   "url": "https://www.streetinsider.com/news.php?id=27398296&classic=1",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NVCR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T08:02:34Z",
-   "news_id": 131239392,
-   "headline": "Wolftank Group Reports 9-Month 2026 Financial Results and New Maintenance Contract",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-wolftank-group-bestatigt-operative-erholung-nach-neun-monaten-umsatz-+15percent-ebitda-bei-eur-6-8-mio--1036798858",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WOLF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T08:02:32Z",
-   "news_id": 131239391,
-   "headline": "Sonae Group's MC Deploys StrongPoint Order Picking Solution",
-   "url": "https://retailtechinnovationhub.com/category/grocery-retail?page=2",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STRO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T08:02:12Z",
-   "news_id": 131239374,
-   "headline": "SP Group Reports 2025/26 Financial Results and 2026/27 Outlook",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410026/0/en/the-continuing-operations-continued-to-grow-and-improved-all-primary-key-figures-for-the-financial-year-2025-26.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SPG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T08:02:11Z",
-   "news_id": 131239371,
-   "headline": "Western Bulk Chartering AS Announces Extraordinary General Meeting",
-   "url": "https://live.euronext.com/en/markets/oslo/equities/company-news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WEST"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T08:02:11Z",
    "news_id": 131239370,
@@ -4178,6 +4074,105 @@
     "MC"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T21:32:33Z",
+   "news_id": 131628652,
+   "headline": "JPMorgan Chase Lowers Price Target for Vodafone",
+   "url": "https://www.marketscreener.com/news/jpmorgan-lowers-vodafone-pt-maintains-underweight-rating-ce7851d8d08fff21",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JPM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:31:53Z",
+   "news_id": 131627839,
+   "headline": "Saba Capital Discloses Increased Voting Rights in W.W. Grainger, Inc.",
+   "url": "https://www.investegate.co.uk/announcement/rns/grainger--gri/holding-s-in-company/9896451",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GWW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:31:52Z",
+   "news_id": 131627838,
+   "headline": "Bernstein Maintains Hold Rating on Hewlett Packard Enterprise and Adjusts Price Target",
+   "url": "https://www.moomoo.com/hans/news/post/1005925891/bernstein-maintains-hewlett-packard-enterprise-hpeus-with-hold-rating-cuts",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HPE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:31:48Z",
+   "news_id": 131627837,
+   "headline": "Red Box Storage Expands Hong Kong Footprint with Brookfield Support",
+   "url": "https://businessfocus.io/article/366520/%E7%B4%85%E7%9B%92%E8%BF%B7%E4%BD%A0%E5%80%89%E5%86%8D%E6%96%B0%E5%A2%9E%E5%85%A9%E5%80%8B%E6%93%9A%E9%BB%9E-%E5%85%A8%E6%B8%AF%E6%93%B4%E8%87%B3-17-%E9%96%93-%E7%B8%BD%E6%A8%93%E9%9D%A2%E5%A2%9E%E9%95%B7%E9%80%BE%E4%B8%89%E6%88%90",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:31:44Z",
+   "news_id": 131627836,
+   "headline": "Elevance Health Employee Recognized for AI-Driven Operational Excellence",
+   "url": "https://www.einpresswire.com/article/958767389/ashutosh-das-recognized-for-using-ai-to-digitize-health-plan-operations",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ELV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:31:44Z",
+   "news_id": 131627835,
+   "headline": "CNESST Releases Findings on Workplace Fatality at Cintas Canada Ltée",
+   "url": "https://www.newswire.ca/fr/news-releases/accidents-mortels-impliquant-des-convoyeurs-la-cnesst-rappelle-l-importance-du-cadenassage-843161387.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CTAS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:31:35Z",
+   "news_id": 131627834,
+   "headline": "Goldman Sachs International Discloses Dealings in Permanent TSB Shares",
+   "url": "https://www.investegate.co.uk/announcement/rns/permanent-tsb-group-holdings-cdi---ptsb/form-38-5a-permanent-tsb-group-holdings-plc/9895914",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:31:34Z",
+   "news_id": 131627833,
+   "headline": "Manulife Investments Announces 2026 Annual Reinvested Distribution Estimates",
+   "url": "https://www.newswire.ca/fr/news-releases/investissements-manuvie-annonce-les-distributions-reinvesties-estimatives-de-gains-en-capital-pour-les-fonds-negocies-en-bourse-manuvie-et-de-la-serie-fnb-des-fonds-manuvie-875298718.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MFC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:31:23Z",
+   "news_id": 131627831,
+   "headline": "Mexican Government Seeks Meeting with US Authorities Regarding SpaceX Launch Debris",
+   "url": "https://newsfilter.io/articles/mexico-seeking-talks-with-u-s-on-spacex-airspace-use-8c4d525d0a1f5a12ad41df0c4fde3252",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SPCX"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4303,15 +4298,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-24T20:43:44Z",
-   "fetched": 3,
-   "news": 2,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 700
-  },
   {
    "t": "2026-11-24T20:59:00Z",
    "fetched": 0,
@@ -6102,10 +6088,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T21:37:25Z",
+   "fetched": 10,
+   "news": 9,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1226
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T21:22:15Z",
+ "updated_at": "2026-11-26T21:37:25Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
