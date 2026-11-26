@@ -1,13 +1,6 @@
 {
- "news_cursor": "2026-11-26T11:32:57Z",
+ "news_cursor": "2026-11-26T12:02:54Z",
  "seen_ids": [
-  129714578,
-  129714577,
-  129714576,
-  129714575,
-  129714574,
-  129714573,
-  129714572,
   129955971,
   129954715,
   129954714,
@@ -2000,7 +1993,14 @@
   131277697,
   131277696,
   131277695,
-  131277694
+  131277694,
+  131284910,
+  131284671,
+  131284670,
+  131284669,
+  131284668,
+  131284667,
+  131284666
  ],
  "opened_at": {
   "BA": "2026-11-25T14:37:19Z",
@@ -2103,6 +2103,38 @@
    },
    "t": "2026-11-26T08:07:15Z",
    "ref_price": 14.79
+  },
+  {
+   "news_id": 131284670,
+   "symbol": "AFYA",
+   "action": "buy",
+   "confidence": 0.82,
+   "impact": "medium",
+   "rationale": "La aprobación de la fusión con YDUQS es un catalizador concreto que debería mejorar la perspectiva de crecimiento y sinergias de Afya.",
+   "asset": {
+    "id": "ad100351-19bb-4ce4-bcaa-46b7d5cf2cb4",
+    "class": "us_equity",
+    "exchange": "NASDAQ",
+    "symbol": "AFYA",
+    "name": "Afya Limited Class A Common Shares",
+    "status": "active",
+    "tradable": true,
+    "marginable": true,
+    "maintenance_margin_requirement": 30,
+    "margin_requirement_long": "30",
+    "margin_requirement_short": "30",
+    "shortable": false,
+    "easy_to_borrow": false,
+    "borrow_status": "hard_to_borrow",
+    "fractionable": true,
+    "attributes": [
+     "fractional_eh_enabled",
+     "has_options",
+     "overnight_tradable"
+    ]
+   },
+   "t": "2026-11-26T12:07:23Z",
+   "ref_price": 10.16
   }
  ]
 }

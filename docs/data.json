@@ -675,20 +675,13 @@
   {
    "t": "2026-11-26T11:52:17Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T12:07:23Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T16:32:07Z",
-   "news_id": 130619159,
-   "headline": "JPMorgan Raises Unilever Price Target",
-   "url": "https://www.marketscreener.com/news/jpmorgan-raises-unilever-pt-keeps-at-overweight-ce7851d8d888f321",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UL"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T16:32:02Z",
    "news_id": 130619155,
@@ -4022,6 +4015,26 @@
     "AMZN"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T12:01:53Z",
+   "news_id": 131284670,
+   "headline": "Afya Limited Shareholders Approve Merger with YDUQS Participações S.A.",
+   "url": "https://www.businesswire.com/newsroom/industry/health",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AFYA"
+   ],
+   "signals": [
+    {
+     "symbol": "AFYA",
+     "action": "buy",
+     "confidence": 0.82,
+     "impact": "medium",
+     "rationale": "La aprobación de la fusión con YDUQS es un catalizador concreto que debería mejorar la perspectiva de crecimiento y sinergias de Afya.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
   }
  ],
  "trades": [
@@ -5664,10 +5677,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T12:07:23Z",
+   "fetched": 7,
+   "news": 1,
+   "signals": 1,
+   "orders": 0,
+   "errors": [],
+   "tokens": 748
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T11:52:17Z",
+ "updated_at": "2026-11-26T12:07:23Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -5685,7 +5707,7 @@
   "last_equity": 99492.29055690177,
   "buying_power": 380041.87
  },
- "pending": 3,
+ "pending": 4,
  "positions": [
   {
    "symbol": "AAT",
