@@ -683,317 +683,13 @@
   {
    "t": "2026-11-26T12:22:15Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T12:37:16Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T16:32:02Z",
-   "news_id": 130619155,
-   "headline": "NatWest Group Announces Strategic Goal to Quadruple Retail and Affluent Clients by 2030",
-   "url": "https://in.marketscreener.com/news/natwest-aims-to-quadruple-retail-affluent-clients-by-2030-ce7851d8db89f120",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NWG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T16:31:55Z",
-   "news_id": 130617994,
-   "headline": "Polestar Reports Third-Quarter 2026 Financial Results",
-   "url": "https://www.marketscreener.com/news/polestar-3q-loss-widens-on-competition-u-s-regulatory-pressures-ce7851d8d98ef526",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PSNY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T16:31:55Z",
-   "news_id": 130617993,
-   "headline": "SEALSQ Receives Approval for Secondary Listing on Euronext Growth Paris",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410309/0/en/sealsq-announces-that-euronext-paris-approved-the-admission-of-its-ordinary-shares-for-trading-on-euronext-growth-paris.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LAES"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T16:31:54Z",
-   "news_id": 130617991,
-   "headline": "Webuild's Acquisition of Trevi Highlighted for Industrial Complementarity",
-   "url": "https://www.milanofinanza.it/newsmarketdriver/market-driver-webuild-intermonte-conferma-outperform-202611251244012964",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TFIN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T16:31:54Z",
-   "news_id": 130617990,
-   "headline": "Meier Tobler Group AG Announces Extraordinary General Meeting Following Ahlsell AB Tender Offer",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/meier-tobler-publiziert-die-einladung-zur-ausserordentlichen-generalversammlung-vom-16-dezember-2026-1036796591",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MTG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T16:31:53Z",
-   "news_id": 130617989,
-   "headline": "ABG Sundal Collier Holding ASA Publishes Financial Calendar",
-   "url": "https://live.euronext.com/fr/markets/oslo/equities/company-news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ABG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T16:31:51Z",
-   "news_id": 130617986,
-   "headline": "LuxExperience Bans Ostrich Feathers Across Online Platforms",
-   "url": "https://www.milanofinanza.it/fashion/da-mytheresa-a-yoox-piume-di-struzzo-vietate-nell-e-commerce-202611241925168057",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LUXE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T16:31:49Z",
-   "news_id": 130617984,
-   "headline": "Integrated Wind Solutions ASA: Ex dividend NOK 1.00 today",
-   "url": "https://live.euronext.com/fr/markets/oslo/equities/company-news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IWS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T16:31:49Z",
-   "news_id": 130617983,
-   "headline": "InstallatørGruppen Completes Acquisition of Poul Sejr Nielsen Service A/S and Poul Sejr Nielsen EL A/S",
-   "url": "https://www.marketscreener.com/news/poul-sejr-nielsen-service-a-s-and-poul-sejr-nielsen-el-a-s-are-now-part-of-installatorgruppen-ce7851d8db89f624",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T16:31:45Z",
-   "news_id": 130617979,
-   "headline": "Prosegur Cash Announces Upcoming Ex-Dividend Date",
-   "url": "https://www.moomoo.com/news/post/1005681555/prosegur-cash-to-go-ex-dividend-on-november-27th-2026",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CASH"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:02:52Z",
-   "news_id": 130654322,
-   "headline": "Stellantis Scales Back French Plant Operations",
-   "url": "https://www.marketscreener.com/news/stellantis-scales-back-french-plant-operations-amid-weak-demand-competition-ce7851dbd089f221",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STLA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:02:52Z",
-   "news_id": 130654321,
-   "headline": "Stellantis Files Lawsuit Against Unifor Over Brampton Plant Access",
-   "url": "https://www.hrreporter.com/news/hr-news/stellantis-lawsuit-against-unifor-puts-site-access-rights-in-court/395196",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STLA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:02:06Z",
-   "news_id": 130654313,
-   "headline": "AlphaValue/Baader Europe Downgrades Heidelberg Materials to Add",
-   "url": "https://www.marketscreener.com/news/alphavalue-baader-europe-downgrades-heidelberg-materials-to-add-ce7851d8d888f324",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HEI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:02:00Z",
-   "news_id": 130653104,
-   "headline": "RBC Capital Markets Downgrades Almirall to Sector Perform",
-   "url": "https://de.marketscreener.com/boerse-nachrichten/almirall-s-a-rbc-capital-markets-senkt-seine-meinung-und-wechselt-zu-neutral-ce7851d8db81f027",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ALM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:01:52Z",
-   "news_id": 130653100,
-   "headline": "Sodexo Announces Preparatory Documents for December 2026 Combined Shareholders Meeting",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410173/0/en/sodexo-december-16-2026-combined-shareholders-meeting-on-conditions-for-obtaining-or-consulting-the-preparatory-documents.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SW"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:01:45Z",
-   "news_id": 130653091,
-   "headline": "QIAGEN and BenchSci Partner to Integrate Multi-Omics Evidence into BenchSci EMET",
-   "url": "https://news.europawire.eu/press-releases-tagged-with/qiagen-digital-insights-brings-curated-multi-omics-evidence-into-benchsci-emet/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "QGEN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:01:41Z",
-   "news_id": 130653088,
-   "headline": "US Government Proposes 10% Tariff on Brazilian Aircraft",
-   "url": "https://economia.ig.com.br/2026-11-25/eua-propoem-tarifa-adicional-de-10--sobre-avioes-do-brasil.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EMBJ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:01:40Z",
-   "news_id": 130653087,
-   "headline": "Fraport Greece Reports 2026 Passenger Traffic and 2027 Outlook",
-   "url": "https://www.euro2day.gr/news/enterprises/122/list.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FRA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:01:35Z",
-   "news_id": 130653083,
-   "headline": "STMicroelectronics Expands STripFET F8 Power MOSFET Family",
-   "url": "https://www.einpresswire.com/article/958940806/stmicroelectronics-80v-mosfets-tailor-power-conversion-for-ai-servers-industrial-and-automotive",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:01:34Z",
-   "news_id": 130653080,
-   "headline": "Trigano Reports 2025-2026 Full-Year Results Below Analyst Expectations",
-   "url": "https://www.abcbourse.com/marches/trigano-plonge-apres-avoir-a-manque-le-consensus-en-2025-2026_706671",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TRI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:01:31Z",
-   "news_id": 130653078,
-   "headline": "Klarna Launches One-Time Card in Canada",
-   "url": "https://www.businesswire.com/newsroom/industry/retail",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KLAR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:01:26Z",
-   "news_id": 130653074,
-   "headline": "Franz Kainersdorfer Awarded Honorary Senator Title by TU Graz",
-   "url": "https://www.myscience.at/de/news/wire/hochkaraetige_ehrungen_an_der_tu_graz-2026-tugraz",
-   "source": "fiscal.ai",
-   "symbols": [
-    "VOE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:01:26Z",
-   "news_id": 130653073,
-   "headline": "Danone Canada Launches New OIKOS Brand Campaign and Visual Identity",
-   "url": "https://www.newswire.ca/news-releases/oikos-r-celebrates-the-rituals-that-nourish-us-881413627.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:32:32Z",
-   "news_id": 130690950,
-   "headline": "Barclays Issues Sell Rating on Dr. Martens plc",
-   "url": "https://de.marketscreener.com/boerse-nachrichten/dr-martens-plc-barclays-gibt-eine-verkaufsbewertung-ab-ce7851d8db81fe27",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DOCS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:32:32Z",
-   "news_id": 130690949,
-   "headline": "Dr. Martens Announces Collaboration with Slipknot",
-   "url": "https://www.milanofinanza.it/fashion/da-rick-owens-a-chopova-lowena-e-slipknot-dr-martens-riscrive-l-anfibio-202611251144125237",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DOCS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:31:52Z",
-   "news_id": 130689700,
-   "headline": "YouGov Conducts 'Megapoll' for Victorian State Election",
-   "url": "https://afndaily.com/victorian-labor-polls-at-20-in-yougov-survey-ahead-of-state-election-its-lowest-primary-vote-since-1902/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "YOU"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:31:52Z",
-   "news_id": 130689699,
-   "headline": "YouGov Poll Examines Consumer Sentiment Amid Stock Market Volatility",
-   "url": "https://www.morningstar.com/news/marketwatch/20261125135/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers",
-   "source": "fiscal.ai",
-   "symbols": [
-    "YOU"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T17:31:52Z",
-   "news_id": 130689698,
-   "headline": "YouGov Survey Reveals Public Misconceptions About Aging and Memory Loss",
-   "url": "https://www.prnewswire.com/news-releases/three-in-four-americans-say-some-memory-loss-is-a-typical-part-of-aging-302949533.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "YOU"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T17:31:49Z",
    "news_id": 130689695,
@@ -4039,6 +3735,314 @@
      "outcome": "En cola: mercado cerrado"
     }
    ]
+  },
+  {
+   "t": "2026-11-26T12:36:05Z",
+   "news_id": 131293218,
+   "headline": "Supermicro Halts Server Shipments to Certain Southeast Asian Markets Following New US Export Controls",
+   "url": "https://www.newsmax.com/world/globaltalk/nvidia-chips-shipments/2026/11/26/id/1277608/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SMCI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:32:35Z",
+   "news_id": 131292133,
+   "headline": "Uber and Rappi Face New Tax Regulations in Mexico",
+   "url": "https://www.avanza.se/nyheter-bevaka-app.html?a=%2Ftelegram%2Favanza%2F1_4f8b873f-d122-432c-a701-89d68e09d1a6",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBER"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:32:10Z",
+   "news_id": 131292132,
+   "headline": "Harley-Davidson Announces Strategic Expansion in India with Hero MotoCorp",
+   "url": "https://www.prnewswire.com/in/news-releases/harley-davidson-marks-17-years-in-india-commits-to-expanding-brands-presence-and-accelerating-growth-in-partnership-with-hero-motocorp-302951161.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HOG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:32:08Z",
+   "news_id": 131292131,
+   "headline": "Lionsgate's 'The Hunger Games: Sunrise on the Reaping' Sets New Franchise Tuesday Record",
+   "url": "https://www.moomoo.com/news/post/1005883274/hunger-games-sunrise-on-the-reaping-heads-for-us-85",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LION"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:32:05Z",
+   "news_id": 131292128,
+   "headline": "Vita Coco Community Foundation Joins Partnership to Support Philippine Coconut Farmers",
+   "url": "https://www.pna.gov.ph/article/pbbm-10m-coconut-tree-drive-to-boost-production-farmers-income",
+   "source": "fiscal.ai",
+   "symbols": [
+    "COCO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:32:04Z",
+   "news_id": 131292127,
+   "headline": "Amdocs Joins Consortium to Deliver Czech European Digital Identity Wallet",
+   "url": "https://www.prnewswire.com/de/pressemitteilungen/wultra-led-consortium-wins-tender-to-deliver-and-operate-the-czech-european-digital-identity-wallet-302950397.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DOX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:32:04Z",
+   "news_id": 131292126,
+   "headline": "Netflix Announces Limited-Time 'Stranger Things' 10th Anniversary Cafe",
+   "url": "http://www.excite.co.jp/news/article/Kyodo_prw_202611261116/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NFLX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:32:04Z",
+   "news_id": 131292125,
+   "headline": "Netflix Identified as Most Impersonated Brand in Black Friday Phishing Scams",
+   "url": "https://tecnologia.ig.com.br/2026-11-26/golpe-na-black-friday--netflix-lidera-lista-de-sites-suspeitos.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NFLX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:50Z",
+   "news_id": 131291862,
+   "headline": "Director Adriana Cisneros Purchases Over $1 Million in AST SpaceMobile Stock",
+   "url": "https://www.moomoo.com/ja/news/post/1005899280/us-space-stocks-diverge-executive-buying-boosts-ast-spacemobile-to",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ASTS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:50Z",
+   "news_id": 131291861,
+   "headline": "Owens Corning Expands Laminate Shingle Manufacturing Capacity",
+   "url": "https://www.openpr.com/news/4700926/roofing-market-to-reach-usd-216-3-billion-by-2036-with-gaf-owens",
+   "source": "fiscal.ai",
+   "symbols": [
+    "OC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:49Z",
+   "news_id": 131291860,
+   "headline": "Madrigal Pharmaceuticals Executive VP & Chief Commercial Officer Sells Shares",
+   "url": "https://www.moomoo.com/hans/news/post/1005899403/executive-vp-chief-commercial-officer-carole-huntsman-sold-a-bunch",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MDGL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:49Z",
+   "news_id": 131291859,
+   "headline": "Pershing Square Holdings, Ltd. Announces Share Buyback Transactions",
+   "url": "https://www.investegate.co.uk/announcement/bzw/pershing-square-holdings-ltd--psh/transaction-in-own-shares/9894488",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PSH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:47Z",
+   "news_id": 131291858,
+   "headline": "United Airlines to Launch Nonstop Service to Ljubljana in 2027",
+   "url": "https://markets.businessinsider.com/news/stocks/what-s-new-in-slovenia-in-2027-new-us-flights-hotel-openings-cultural-highlights-and-wellbeing-experiences-1036802230",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UAL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:47Z",
+   "news_id": 131291857,
+   "headline": "CoStar Group Releases Market Data on Noho Office Leasing and Canadian Retail Forecast",
+   "url": "https://www.businesswire.com/newsroom/industry/construction-property/commercial-real-estate",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CSGP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:45Z",
+   "news_id": 131291856,
+   "headline": "Hexaware Receives Guidewire 2026 Consulting Partner Outstanding Market Growth Award—EMEA",
+   "url": "https://www.prnewswire.com/news-releases/hexaware-receives-guidewire-2026-consulting-partner-outstanding-market-growth-awardemea-302951227.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GWRE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:44Z",
+   "news_id": 131291854,
+   "headline": "Ford Announces Expansion of SUV Portfolio with Hybrid Territory",
+   "url": "https://carros.ig.com.br/colunas/bene-gomes/2026-11-26/ford-amplia-oferta-de-suvs-com-territory-hibrido-flex-em-2027.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "F"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:44Z",
+   "news_id": 131291853,
+   "headline": "Workday Expands Native Payroll Capabilities with AI-Driven Process",
+   "url": "https://www.marketscale.com/industries/software-and-technology/workday-used-ai-to-launch-singapore-payroll-10-times-faster-than-earlier-country-rollouts",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WDAY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:43Z",
+   "news_id": 131291852,
+   "headline": "DPC Dash Expands Domino's Pizza China Supply Chain Network",
+   "url": "https://newsfilter.io/articles/dpc-dash-dominos-pizza-china-scales-supply-chain-network-to-drive-disciplined-e6aed90c3ceb5c29843ac853a3cd5597",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DPZ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:38Z",
+   "news_id": 131291851,
+   "headline": "Lenovo and Formula 1 Expand Technology Partnership",
+   "url": "https://procurementmag.com/news/lenovos-circularity-pledge-what-it-procurement-should-know",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FWONA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:38Z",
+   "news_id": 131291850,
+   "headline": "Vale Enters Strategic Cooperation Agreement with XCMG",
+   "url": "https://newsfilter.io/articles/green-intelligence-for-solid-future-xcmgs-largest-exhibition-at-bauma-2026-5f6649dbdb465e938ec23a9a14164381",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VALE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:35Z",
+   "news_id": 131291849,
+   "headline": "Medtronic Hellas CEO Addresses Hospital Payment Delays in Greece",
+   "url": "https://www.euro2day.gr/news/economy/article/2382044/georgiadhs-sto-healthcare-transformation-leipoyn-a.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MDT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:33Z",
+   "news_id": 131291848,
+   "headline": "California American Water Announces 'Operation Gobble 2026' Thanksgiving Initiative",
+   "url": "https://www.prnewswire.com/news-releases/energy-latest-news/water-utilities-list/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AWK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:31Z",
+   "news_id": 131291847,
+   "headline": "TPG to Invest $100 Million in Student Mobility Company Zum",
+   "url": "https://stockanalysis.com/private/zum/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TPG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:29Z",
+   "news_id": 131291846,
+   "headline": "Yum! Brands and Taco Bell Named in Negligence Lawsuit Over Foreign Object Incident",
+   "url": "https://ultimosegundo.ig.com.br/2026-11-26/mulher-processa-rede-de-fast-food-apos-se-engasgar-com-luva.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "YUM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:27Z",
+   "news_id": 131291845,
+   "headline": "CrowdStrike Joins Coalition for BT's 'Cyber Prepared UK' Initiative",
+   "url": "https://www.prnewswire.co.uk/news-releases/bt-launches-nationwide-cyber-resilience-drive-as-ai-helps-fuel-500-surge-in-malicious-activity-302951195.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CRWD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:24Z",
+   "news_id": 131291844,
+   "headline": "BlackRock Discloses Increased Voting Rights in ADTRAN Holdings",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-adtran-holdings-inc-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036802731",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BLK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:24Z",
+   "news_id": 131291843,
+   "headline": "Coca-Cola India Relaunches Gold Spot Beverage",
+   "url": "https://biznextindia.com/companies/gold-spot-is-back-coca-cola-india-brings-back-the-zing-thing-now-in-a-can/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T12:31:15Z",
+   "news_id": 131291842,
+   "headline": "U.S. Court Grants Janssen Preliminary Injunction Against Alvotech's Biosimilar AVT05",
+   "url": "https://www.morningstar.com/news/globe-newswire/1001315591/alvotech-to-appeal-us-preliminary-injunction-decision-relating-to-avt05",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JNJ"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5699,10 +5703,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T12:37:16Z",
+   "fetched": 33,
+   "news": 28,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 3258
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T12:22:15Z",
+ "updated_at": "2026-11-26T12:37:16Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
