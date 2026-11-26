@@ -635,42 +635,13 @@
   {
    "t": "2026-11-26T09:22:28Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T09:37:16Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T15:32:13Z",
-   "news_id": 130552013,
-   "headline": "Nexxen Expands TV Home Screen Advertising to Southeast Asia via Coolita Partnership",
-   "url": "https://martechseries.com/tv-advertising/nexxen-tv-home-screen-expands-across-southeast-asia-with-coolita/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NEXN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T15:32:13Z",
-   "news_id": 130552012,
-   "headline": "Nexxen International Ltd. Insider Executes Stock Sale",
-   "url": "https://de.marketscreener.com/boerse-nachrichten/insider-von-nexxen-international-verkaufte-laut-aktueller-sec-meldung-aktien-im-wert-von-458-188-usd-ce7851dbdd8eff2d",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NEXN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T15:31:59Z",
-   "news_id": 130550906,
-   "headline": "UBS Updates EssilorLuxottica Price Target and Estimates for FY27",
-   "url": "https://www.marketscreener.com/news/ubs-sees-fewer-overhangs-for-essilorluxottica-in-fy27-price-target-estimates-updated-ce7851d8d981f426",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EL"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T15:31:56Z",
    "news_id": 130550904,
@@ -3982,6 +3953,39 @@
     "DOLE"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T09:31:25Z",
+   "news_id": 131252810,
+   "headline": "Taobao Korea Monthly Active Users Surpass One Million",
+   "url": "https://www.moomoo.com/hans/stock/BABA-US/news",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BABA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:31:25Z",
+   "news_id": 131252809,
+   "headline": "NetEase LingDong Partners with LiuGong for AI-Powered Unmanned Excavator",
+   "url": "https://www.prnewswire.com/news-releases/liugong-prasentiert-auf-der-bauma-china-2026-moderne-maschinen-und-intelligente-technologien-302951137.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NTES"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T09:31:19Z",
+   "news_id": 131252808,
+   "headline": "Norse Atlantic Airways Faces Potential Bankruptcy and Flight Suspension",
+   "url": "https://www.euro2day.gr/news/world/article/2382026/ston-aera-h-norse-atlantic-anastellei-tis-pthseis.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AER"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5534,10 +5538,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T09:37:16Z",
+   "fetched": 7,
+   "news": 3,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 847
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T09:22:28Z",
+ "updated_at": "2026-11-26T09:37:16Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
