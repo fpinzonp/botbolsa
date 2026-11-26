@@ -775,75 +775,13 @@
   {
    "t": "2026-11-26T17:52:18Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T18:07:15Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T23:02:15Z",
-   "news_id": 131135022,
-   "headline": "Mizuho Initiates Coverage on Rocket Lab with Underperform Rating",
-   "url": "https://www.moomoo.com/stock/RKLB-US?chain_id=Name1K9-3FXPhg.1lge8h0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FFN-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RKLB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:14Z",
-   "news_id": 131135021,
-   "headline": "JPMorgan Raises Kohl's Price Target to $22",
-   "url": "https://www.moomoo.com/news/flash/1005767659/kohls-jp-morgan-raises-target-price-to-22-from-17",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KSS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:13Z",
-   "news_id": 131135020,
-   "headline": "Evercore and BNP Paribas Adjust Ciena Price Targets",
-   "url": "https://www.moomoo.com/stock/CIEN-US?chain_id=Name1K9-3FXPhg.1lge8h0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FFN-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CIEN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:11Z",
-   "news_id": 131135019,
-   "headline": "Morgan Stanley and Citi Maintain Buy Ratings on Performance Food Group",
-   "url": "https://www.moomoo.com/stock/PFGC-US?chain_id=Name1K9-3FXPhg.1lfhtg0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A64,%22f%22%3A%22www.moomoo.com%2Fhant%2Fcommunity%2Fprofile%2Fipicklosers-103833600%2Fpost%2Fall%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PFGC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:08Z",
-   "news_id": 131135018,
-   "headline": "Coherent Director Stephen G. Pagliuca Purchases $15.22 Million in Common Stock",
-   "url": "https://www.moomoo.com/stock/COHR-US?chain_id=Name1K9-3FXPhg.1lge8h0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FJD-US%2Fcommunity%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "COHR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T23:02:05Z",
-   "news_id": 131135016,
-   "headline": "Woodward Insider Sold Shares Worth $1,228,150",
-   "url": "https://www.marketscreener.com/news/woodward-insider-sold-shares-worth-1-228-150-according-to-a-recent-sec-filing-ce7851d8da8cf225",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WWD"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T23:02:02Z",
    "news_id": 131135015,
@@ -4122,6 +4060,72 @@
     "DOCS"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T18:02:56Z",
+   "news_id": 131465396,
+   "headline": "Analyst Rating Updates for Vodafone Group PLC",
+   "url": "https://www.marketscreener.com/news/alphavalue-baader-europe-upgrades-vodafone-to-add-ce7851d8d08ffe2d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VOD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T18:01:51Z",
+   "news_id": 131464659,
+   "headline": "SAP Considers Workforce Reduction of at Least 10,000 Employees",
+   "url": "https://www.marketscreener.com/news/sap-said-to-trim-at-least-10-000-jobs-amid-ai-push-ce7851d9d98ef522",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SAP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T18:01:50Z",
+   "news_id": 131464658,
+   "headline": "easyJet to Launch Newcastle–Southampton Route in February 2027",
+   "url": "https://travelprnews.com/article/easyjet-to-restore-newcastle-southampton-air-link-with-february-2027-flights/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EZJ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T18:01:35Z",
+   "news_id": 131464656,
+   "headline": "DPC Dash Scales Supply Chain Network to Drive Store Expansion",
+   "url": "https://www.prnewswire.com/news-releases/dpc-dash--dominos-pizza-china-scales-supply-chain-network-to-drive-disciplined-store-expansion-and-nationwide-ip-collaborations-302951147.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DPC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T18:01:35Z",
+   "news_id": 131464655,
+   "headline": "Wellington Management Group LLP Files Holding Notification for Admiral Group plc",
+   "url": "https://www.globenewswire.com/news-release/2026/11/26/3411004/0/en/holding-s-in-company.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ADM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T18:01:27Z",
+   "news_id": 131464652,
+   "headline": "Roche Canada Launches 'Time for More' Initiative",
+   "url": "https://www.newswire.ca/news-releases/roche-canada-s-time-for-more-shows-what-s-made-possible-when-innovative-medicines-reach-the-people-who-need-them-819340128.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ROP"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5989,10 +5993,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T18:07:15Z",
+   "fetched": 15,
+   "news": 6,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 955
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T17:52:18Z",
+ "updated_at": "2026-11-26T18:07:15Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
