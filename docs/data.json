@@ -611,218 +611,13 @@
   {
    "t": "2026-11-26T07:52:14Z",
    "v": 99492.66
+  },
+  {
+   "t": "2026-11-26T08:07:15Z",
+   "v": 99492.66
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T14:33:24Z",
-   "news_id": 130487748,
-   "headline": "UBS Adjusts Park Hotels & Resorts Price Target to $16 From $14",
-   "url": "https://www.marketscreener.com/news/ubs-adjusts-park-hotels-resorts-price-target-to-16-from-14-maintains-neutral-rating-ce7851d8d88ff12d",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:33:19Z",
-   "news_id": 130487747,
-   "headline": "BNP Paribas Adjusts Clorox Price Target to $109 From $98",
-   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-clorox-price-target-to-109-from-98-ce7851d8d98df221",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CLX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:33:15Z",
-   "news_id": 130487746,
-   "headline": "Scotiabank Downgrades Zscaler to Sector Perform",
-   "url": "https://www.marketscreener.com/news/scotiabank-downgrades-zscaler-to-sector-perform-from-sector-outperform-260-price-target-ce7851d8d98dfe26",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BNS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:33:12Z",
-   "news_id": 130487744,
-   "headline": "Analyst Downgrades and Price Target Adjustments for Ambarella",
-   "url": "https://www.marketscreener.com/news/bofa-securities-adjusts-price-target-on-ambarella-to-30-from-70-ce7851d8d88af32c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMBA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:33:09Z",
-   "news_id": 130487743,
-   "headline": "Lancer Aesthetics Opens First Location Outside Beverly Hills at Wynn Las Vegas",
-   "url": "https://www.newswire.ca/fr/news-releases/le-docteur-harold-lancer-ouvre-le-centre-lancer-aesthetics-au-sein-du-wynn-las-vegas-son-premier-etablissement-en-dehors-de-beverly-hills-856051171.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WYNN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:33:09Z",
-   "news_id": 130487742,
-   "headline": "Argus Downgrades HCA Healthcare to Sell From Buy",
-   "url": "https://www.marketscreener.com/news/argus-downgrades-hca-healthcare-to-sell-from-buy-ce7851d8d98ff324",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HCA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:33:04Z",
-   "news_id": 130487741,
-   "headline": "Deutsche Bank Lowers Price Target on BJ's Wholesale Club Holdings",
-   "url": "https://www.marketscreener.com/news/deutsche-bank-cuts-price-target-on-bj-s-wholesale-club-holdings-to-101-from-104-keeps-hold-rating-ce7851d8d98ef626",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BJ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:58Z",
-   "news_id": 130487740,
-   "headline": "Argus Adjusts Price Target on Jacobs Solutions to $180 From $170",
-   "url": "https://www.marketscreener.com/news/argus-adjusts-price-target-on-jacobs-solutions-to-180-from-170-ce7851d8d98ff220",
-   "source": "fiscal.ai",
-   "symbols": [
-    "J"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:56Z",
-   "news_id": 130487739,
-   "headline": "Deutsche Bank Raises Price Target on Campbell's to $20 From $19",
-   "url": "https://www.marketscreener.com/news/deutsche-bank-raises-price-target-on-campbell-s-to-20-from-19-keeps-hold-rating-ce7851d8d98ef623",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CPB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:50Z",
-   "news_id": 130486666,
-   "headline": "Oppenheimer Adjusts Advanced Drainage Systems Price Target to $175",
-   "url": "https://www.marketscreener.com/news/oppenheimer-adjusts-advanced-drainage-systems-price-target-to-175-from-180-maintains-outperform-r-ce7851d8d88af523",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WMS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:49Z",
-   "news_id": 130486665,
-   "headline": "Telesat Selected as Transitional Satellite Provider for German Bundeswehr",
-   "url": "https://www.milanofinanza.it/news/l-esercito-tedesco-avra-il-suo-starlink-rheinmetall-ohb-e-airbus-vicini-alla-firma-202611251252451129",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TSAT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:48Z",
-   "news_id": 130486664,
-   "headline": "UK Competition Regulator Fines IFF GBP85 Million for Illegal Collusion",
-   "url": "https://www.marketscreener.com/news/uk-competition-regulator-fines-firmenich-givaudan-iff-gbp85-million-for-illegal-collusion-ce7851d8d88cf022",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IFF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:46Z",
-   "news_id": 130486663,
-   "headline": "JPMorgan Adjusts Dick's Sporting Goods Price Target",
-   "url": "https://www.marketscreener.com/news/jpmorgan-adjusts-dick-s-sporting-goods-price-target-to-210-from-188-maintains-overweight-rating-ce7851d8d88fff22",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DKS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:45Z",
-   "news_id": 130486662,
-   "headline": "National Bank Financial Adjusts BRP Inc. Price Target",
-   "url": "https://www.cantechletter.com/2026/11/brp-this-analyst-just-trimmed-his-price-target/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DOO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:45Z",
-   "news_id": 130486661,
-   "headline": "BRP Inc. Marks Fifth Anniversary of 'Yellow Day' Anti-Bullying Initiative",
-   "url": "https://www.newswire.ca/fr/news-releases/brp-fait-un-don-de-plus-de-325-000-pour-defier-l-intimidation-lors-de-sa-cinquieme-journee-jaune-899693922.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DOO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:43Z",
-   "news_id": 130486660,
-   "headline": "Analyst Raises Price Target on MiniMed Group, Inc.",
-   "url": "https://www.moomoo.com/hans/news/post/1005775414/sector-update-tech",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MMED"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:43Z",
-   "news_id": 130486659,
-   "headline": "Piper Sandler Adjusts Argan Rating to Neutral",
-   "url": "https://www.marketscreener.com/news/piper-sandler-downgrades-argan-to-neutral-from-underweight-ce7851d8d98df22c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AGX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:41Z",
-   "news_id": 130486658,
-   "headline": "Daiwa Securities Adjusts Intuit Price Target to $325 From $400",
-   "url": "https://www.marketscreener.com/news/daiwa-securities-adjusts-intuit-price-target-to-325-from-400-ce7851d8d98eff24",
-   "source": "fiscal.ai",
-   "symbols": [
-    "INTU"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:32:41Z",
-   "news_id": 130486657,
-   "headline": "StandardAero Signs Multi-Year APS 2300 APU MRO Contract with Portugália Airlines",
-   "url": "https://avi-go.com/news/articles/6a1f26467ed048cad91acd1a6b6db6dd",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SARO"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T14:32:40Z",
    "news_id": 130486656,
@@ -3949,6 +3744,224 @@
     "BOIL"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:41Z",
+   "news_id": 131239401,
+   "headline": "Hunter Group Subsidiary Increases Stake in Jacktel",
+   "url": "https://ch.marketscreener.com/boerse-nachrichten/beteiligung-der-hunter-group-tochter-an-jacktel-soll-nach-abwicklung-der-kaufangebote-auf-92-5-ste-ce7851d8dc8ef527",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JACK"
+   ],
+   "signals": [
+    {
+     "symbol": "JACK",
+     "action": "buy",
+     "confidence": 0.78,
+     "impact": "medium",
+     "rationale": "El aumento de participación de Hunter Group a 92.5% indica una fuerte confianza en Jacktel y un posible impulso al precio a corto plazo.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-26T08:02:37Z",
+   "news_id": 131239395,
+   "headline": "JPMorgan Lowers Price Target on Novocure Ltd. (NVCR)",
+   "url": "https://www.streetinsider.com/news.php?id=27398296&classic=1",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NVCR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:34Z",
+   "news_id": 131239392,
+   "headline": "Wolftank Group Reports 9-Month 2026 Financial Results and New Maintenance Contract",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-wolftank-group-bestatigt-operative-erholung-nach-neun-monaten-umsatz-+15percent-ebitda-bei-eur-6-8-mio--1036798858",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WOLF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:32Z",
+   "news_id": 131239391,
+   "headline": "Sonae Group's MC Deploys StrongPoint Order Picking Solution",
+   "url": "https://retailtechinnovationhub.com/category/grocery-retail?page=2",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STRO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:12Z",
+   "news_id": 131239374,
+   "headline": "SP Group Reports 2025/26 Financial Results and 2026/27 Outlook",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410026/0/en/the-continuing-operations-continued-to-grow-and-improved-all-primary-key-figures-for-the-financial-year-2025-26.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SPG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:11Z",
+   "news_id": 131239371,
+   "headline": "Western Bulk Chartering AS Announces Extraordinary General Meeting",
+   "url": "https://live.euronext.com/en/markets/oslo/equities/company-news",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WEST"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:11Z",
+   "news_id": 131239370,
+   "headline": "UBM Development Reports Q3 2026 Financial Performance",
+   "url": "https://www.tradegatebsx.com/finanz-nachrichten-detail.php?id=20261126000143",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:09Z",
+   "news_id": 131239367,
+   "headline": "CI Games SE Announces Expiry of Registered Pledge on Shares Held by CEO",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/ci-games-se-402026-informacja-o-transakcjach-na-akcjach-emitenta-w-trybie-art-19",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CIG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:06Z",
+   "news_id": 131239363,
+   "headline": "RTX A/S Reports Financial Results for the Quarter Ended September 30, 2026",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/rtx-a-s-gab-ergebnis-zum-abgelaufenen-quartal-bekannt-1036801934",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RTX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:05Z",
+   "news_id": 131239362,
+   "headline": "Equita Sim Maintains 'Buy' Rating on Italian Wine Brands Following Bond Issuance",
+   "url": "https://www.milanofinanza.it/newsmarketdriver/market-driver-italian-wine-brands-equita-sim-conferma-buy-202611251748016572",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IWB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:02Z",
+   "news_id": 131239356,
+   "headline": "Montana Aerospace Announces Extraordinary General Meeting to Elect Kai Arndt to Board",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/montana-aerospace-aktie-ex-chef-kai-arndt-soll-in-den-verwaltungsrat-einziehen-1036802153",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AERO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:02Z",
+   "news_id": 131239354,
+   "headline": "Ascencio SA Reports Annual Results for 2025/2026",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410466/0/en/press-release-annual-results-2025-2026.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ASCE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:02:00Z",
+   "news_id": 131239283,
+   "headline": "Stabilus SE Announces Upcoming Publication of Annual Financial Report",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-afr-stabilus-se-vorabbekanntmachung-ueber-die-veroeffentlichung-von-finanzberichten-gemass-%C2%A7%C2%A7-114-115-117-wphg-1036802359",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:01:58Z",
+   "news_id": 131239279,
+   "headline": "DZ Bank Raises Fair Value for STRATEC SE",
+   "url": "https://www.finanzen.ch/analyse/stratec-se-halten-1123221",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SBS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:01:57Z",
+   "news_id": 131239278,
+   "headline": "Evotec SE: Voting Rights Notification by JPMorgan Chase & Co.",
+   "url": "https://www.placera.se/pressmeddelanden/evotec-evotec-se-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-20261125-1",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EVO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:01:57Z",
+   "news_id": 131239277,
+   "headline": "Text Group Reports Financial Results for H1 2026/27",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410543/0/en/text-s-net-profit-up-18-7-in-q2.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TXT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:01:55Z",
+   "news_id": 131239272,
+   "headline": "Echo Investment S.A. Issues Series 9I/2026 Bonds",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/echo-investment-sa-362026-emisja-obligacji-serii-9i2026",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ECH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:01:53Z",
+   "news_id": 131239270,
+   "headline": "Newag to Manufacture 32 Electric Trains for GZM and Koleje Śląskie",
+   "url": "https://www.finanznachrichten.de/nachrichten-medien/railmarket.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NWG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T08:01:49Z",
+   "news_id": 131239267,
+   "headline": "Mutares Completes Sale of Majority Stake in Lapeyre Group",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-mutares-schliesst-den-verkauf-einer-kontrollbeteiligung-an-der-lapeyre-group-an-ein-investmentvehikel-italienischer-unternehmer-ab-1036802176",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MUX"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5447,10 +5460,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T08:07:15Z",
+   "fetched": 80,
+   "news": 19,
+   "signals": 1,
+   "orders": 0,
+   "errors": [],
+   "tokens": 2166
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T07:52:14Z",
+ "updated_at": "2026-11-26T08:07:15Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -5468,7 +5490,7 @@
   "last_equity": 99676.10687299244,
   "buying_power": 380043.35
  },
- "pending": 2,
+ "pending": 3,
  "positions": [
   {
    "symbol": "AAT",
