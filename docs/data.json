@@ -839,31 +839,13 @@
   {
    "t": "2026-11-26T21:52:15Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T22:07:20Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T08:02:11Z",
-   "news_id": 131239370,
-   "headline": "UBM Development Reports Q3 2026 Financial Performance",
-   "url": "https://www.tradegatebsx.com/finanz-nachrichten-detail.php?id=20261126000143",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UBS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T08:02:09Z",
-   "news_id": 131239367,
-   "headline": "CI Games SE Announces Expiry of Registered Pledge on Shares Held by CEO",
-   "url": "https://pap-mediaroom.pl/biznes-i-finanse/ci-games-se-402026-informacja-o-transakcjach-na-akcjach-emitenta-w-trybie-art-19",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CIG"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T08:02:06Z",
    "news_id": 131239363,
@@ -4177,6 +4159,28 @@
     "SPCX"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T22:01:21Z",
+   "news_id": 131652231,
+   "headline": "GSK Executive Maya Martinez-Davis Acquires American Depositary Shares",
+   "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9896394",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GSK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T22:01:18Z",
+   "news_id": 131652230,
+   "headline": "National Grid Announces Scrip Dividend Reference Price for 2026/27 Interim Dividend",
+   "url": "https://www.investegate.co.uk/announcement/rns/national-grid--ng./scrip-dividend-for-2026-27-interim-dividend/9896154",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NGG"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4302,15 +4306,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-24T21:13:53Z",
-   "fetched": 8,
-   "news": 4,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 822
-  },
   {
    "t": "2026-11-24T21:28:48Z",
    "fetched": 0,
@@ -6101,10 +6096,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T22:07:20Z",
+   "fetched": 7,
+   "news": 2,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 700
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T21:52:15Z",
+ "updated_at": "2026-11-26T22:07:20Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
