@@ -595,75 +595,13 @@
   {
    "t": "2026-11-26T06:52:18Z",
    "v": 99492.66
+  },
+  {
+   "t": "2026-11-26T07:07:16Z",
+   "v": 99492.66
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-25T14:03:40Z",
-   "news_id": 130457664,
-   "headline": "CanAlaska Announces Preliminary Results from Summer Drill Program on West McArthur JV Project",
-   "url": "https://natlawreview.com/press-releases/canalaska-announces-preliminary-results-summer-drill-program-west-mcarthur",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CVV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:34:26Z",
-   "news_id": 130488839,
-   "headline": "Stifel Adjusts Price Targets for Best Buy and Dollar Tree",
-   "url": "https://www.marketscreener.com/news/stifel-adjusts-price-target-on-best-buy-to-103-from-100-ce7851d8d98ef021",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:33:57Z",
-   "news_id": 130487752,
-   "headline": "Raymond James Adjusts Dell Technologies Price Target",
-   "url": "https://www.marketscreener.com/news/raymond-james-adjusts-dell-technologies-price-target-to-570-from-617-ce7851d8d98efe25",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RJF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:33:57Z",
-   "news_id": 130487751,
-   "headline": "Raymond James Downgrades GoodRx to Market Perform",
-   "url": "https://www.marketscreener.com/news/raymond-james-downgrades-goodrx-to-market-perform-from-outperform-ce7851d8d98df027",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RJF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:33:31Z",
-   "news_id": 130487750,
-   "headline": "BofA Securities Adjusts Price Target on Equifax to $202 From $200",
-   "url": "https://www.marketscreener.com/news/bofa-securities-adjusts-price-target-on-equifax-to-202-from-200-ce7851d8d88af227",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EFX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-25T14:33:28Z",
-   "news_id": 130487749,
-   "headline": "BNP Paribas Adjusts Church & Dwight Price Target to $114 From $110",
-   "url": "https://www.marketscreener.com/news/bnp-paribas-adjusts-church-dwight-price-target-to-114-from-110-ce7851d8d98df226",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CHD"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-25T14:33:24Z",
    "news_id": 130487748,
@@ -3933,6 +3871,72 @@
     "HLT"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T07:02:23Z",
+   "news_id": 131236607,
+   "headline": "Similarweb Insider Executes $3.3 Million Share Sale",
+   "url": "https://www.marketscreener.com/news/similarweb-insider-sold-shares-worth-3-312-802-according-to-a-recent-sec-filing-ce7851d8db89f025",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SMWB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T07:02:22Z",
+   "news_id": 131236606,
+   "headline": "BrainsWay Announces Strategic Investment in Neurolief Ltd.",
+   "url": "https://www.moomoo.com/stock/BWAY-US?chain_id=Name1K9-3FXPhg.1lg6ie0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FRRX-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BWAY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T07:02:14Z",
+   "news_id": 131236604,
+   "headline": "Oppenheimer Raises PolyPid Price Target to $12",
+   "url": "https://www.marketscreener.com/news/oppenheimer-adjusts-price-target-on-polypid-to-12-from-10-maintains-outperform-rating-ce7851dbd08df721",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PYPD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T07:02:14Z",
+   "news_id": 131236603,
+   "headline": "Roth Capital Partners Lowers PolyPid Price Target Amid Payment Uncertainty",
+   "url": "https://www.cantechletter.com/2026/11/polypid-this-analyst-just-trimmed-his-price-target/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PYPD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T07:01:40Z",
+   "news_id": 131236561,
+   "headline": "Nanox Announces Third Quarter 2026 Financial Results and Provides Business Updates",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410167/0/en/nanox-announces-third-quarter-2026-financial-results-and-provides-business-updates.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NNOX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T07:01:34Z",
+   "news_id": 131236560,
+   "headline": "Beyond Oil Ltd. Expands Presence in the Netherlands Through FryFlow Partnership",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410133/0/en/beyond-oil-expands-its-presence-in-the-netherlands-through-fryflow-and-receives-initial-container-order.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BOIL"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5395,10 +5399,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T07:07:16Z",
+   "fetched": 10,
+   "news": 6,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1026
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T06:52:18Z",
+ "updated_at": "2026-11-26T07:07:16Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
