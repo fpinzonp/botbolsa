@@ -815,20 +815,13 @@
   {
    "t": "2026-11-26T20:22:20Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T20:37:18Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T03:01:29Z",
-   "news_id": 131228273,
-   "headline": "Moody's Ratings Introduces New 'XG' Issuer Rating Category",
-   "url": "https://www.globenewswire.com/news/banks-financial-services/banks",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MCO"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T03:01:24Z",
    "news_id": 131228272,
@@ -4162,6 +4155,17 @@
     "GS"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T20:32:03Z",
+   "news_id": 131580734,
+   "headline": "Susquehanna and Other Analysts Adjust StoneCo Price Targets",
+   "url": "https://www.moomoo.com/stock/STNE-US?chain_id=Name1K9-3FXPhg.1lfhtg0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FGOOG-CA%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STNE"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4287,15 +4291,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-24T16:06:02Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-24T19:55:27Z",
    "fetched": 270,
@@ -6086,10 +6081,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T20:37:18Z",
+   "fetched": 1,
+   "news": 1,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 626
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T20:22:20Z",
+ "updated_at": "2026-11-26T20:37:18Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
