@@ -823,53 +823,13 @@
   {
    "t": "2026-11-26T20:52:15Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-26T21:07:27Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T03:01:24Z",
-   "news_id": 131228272,
-   "headline": "Hilton Opens The Lan Kwai Fong, Tapestry Collection by Hilton in Hong Kong",
-   "url": "https://travelprnews.com/article/hilton-brings-its-tapestry-collection-to-hong-kong-with-a-41-room-hotel-in-central/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HLT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T07:02:23Z",
-   "news_id": 131236607,
-   "headline": "Similarweb Insider Executes $3.3 Million Share Sale",
-   "url": "https://www.marketscreener.com/news/similarweb-insider-sold-shares-worth-3-312-802-according-to-a-recent-sec-filing-ce7851d8db89f025",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SMWB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T07:02:22Z",
-   "news_id": 131236606,
-   "headline": "BrainsWay Announces Strategic Investment in Neurolief Ltd.",
-   "url": "https://www.moomoo.com/stock/BWAY-US?chain_id=Name1K9-3FXPhg.1lg6ie0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FRRX-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BWAY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T07:02:14Z",
-   "news_id": 131236604,
-   "headline": "Oppenheimer Raises PolyPid Price Target to $12",
-   "url": "https://www.marketscreener.com/news/oppenheimer-adjusts-price-target-on-polypid-to-12-from-10-maintains-outperform-rating-ce7851dbd08df721",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PYPD"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T07:02:14Z",
    "news_id": 131236603,
@@ -4170,6 +4130,50 @@
     "STNE"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-26T21:01:46Z",
+   "news_id": 131603740,
+   "headline": "Law Firm Investigates JBS N.V.'s Proposed Acquisition of Pilgrim's Pride Corporation",
+   "url": "https://natlawreview.com/press-releases/bronstein-gewirtz-grossman-llc-investigating-pilgrims-pride-corporation-0",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JBS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:01:39Z",
+   "news_id": 131603739,
+   "headline": "Latam Airlines Expands Regional Network with Embraer E195-E2",
+   "url": "https://turismo.ig.com.br/colunas/celso-martins/2026-11-26/latam-tera-novos-voos-domesticos-em-6-cidades--saiba-quais.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EMBJ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:01:29Z",
+   "news_id": 131603734,
+   "headline": "Equita Sim assesses EssilorLuxottica's exposure to potential US tariffs",
+   "url": "https://www.milanofinanza.it/newsmarketdriver/market-driver-equita-indica-aziende-piu-esposte-a-potenziali-nuovi-dazi-202611261716016691",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-26T21:01:21Z",
+   "news_id": 131603732,
+   "headline": "Jefferies Lowers Price Target for LVMH to 380 Euro",
+   "url": "https://www.finanzen.ch/analyse/lvmh-moet-hennessy-louis-vuitton-hold-1123462",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MC"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4295,15 +4299,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-24T20:13:45Z",
-   "fetched": 7,
-   "news": 5,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 888
-  },
   {
    "t": "2026-11-24T20:28:45Z",
    "fetched": 0,
@@ -6094,10 +6089,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-26T21:07:27Z",
+   "fetched": 10,
+   "news": 4,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 853
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T20:52:15Z",
+ "updated_at": "2026-11-26T21:07:27Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
