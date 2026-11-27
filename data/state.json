@@ -2009,38 +2009,6 @@
  },
  "pending": [
   {
-   "news_id": 131300070,
-   "symbol": "NOC",
-   "action": "buy",
-   "confidence": 0.78,
-   "impact": "medium",
-   "rationale": "La modificación de contrato de $1.13 bn para el programa E-130J de la Marina EE.UU. es un catalizador concreto que incrementa los ingresos futuros de Northrop Grumman.",
-   "asset": {
-    "id": "02deac19-d59b-4b15-ae55-a375e182bffd",
-    "class": "us_equity",
-    "exchange": "NYSE",
-    "symbol": "NOC",
-    "name": "Northrop Grumman Corp.",
-    "status": "active",
-    "tradable": true,
-    "marginable": true,
-    "maintenance_margin_requirement": 30,
-    "margin_requirement_long": "30",
-    "margin_requirement_short": "30",
-    "shortable": true,
-    "easy_to_borrow": true,
-    "borrow_status": "easy_to_borrow",
-    "fractionable": true,
-    "attributes": [
-     "fractional_eh_enabled",
-     "has_options",
-     "overnight_tradable"
-    ]
-   },
-   "t": "2026-11-26T13:07:19Z",
-   "ref_price": 556.05
-  },
-  {
    "news_id": 131508901,
    "symbol": "MDB",
    "action": "buy",
