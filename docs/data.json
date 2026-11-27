@@ -1155,141 +1155,13 @@
   {
    "t": "2026-11-27T16:52:21Z",
    "v": 100126.43
+  },
+  {
+   "t": "2026-11-27T17:07:17Z",
+   "v": 99972.55
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T20:32:03Z",
-   "news_id": 131580734,
-   "headline": "Susquehanna and Other Analysts Adjust StoneCo Price Targets",
-   "url": "https://www.moomoo.com/stock/STNE-US?chain_id=Name1K9-3FXPhg.1lfhtg0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FGOOG-CA%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STNE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:01:46Z",
-   "news_id": 131603740,
-   "headline": "Law Firm Investigates JBS N.V.'s Proposed Acquisition of Pilgrim's Pride Corporation",
-   "url": "https://natlawreview.com/press-releases/bronstein-gewirtz-grossman-llc-investigating-pilgrims-pride-corporation-0",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JBS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:01:39Z",
-   "news_id": 131603739,
-   "headline": "Latam Airlines Expands Regional Network with Embraer E195-E2",
-   "url": "https://turismo.ig.com.br/colunas/celso-martins/2026-11-26/latam-tera-novos-voos-domesticos-em-6-cidades--saiba-quais.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EMBJ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:01:29Z",
-   "news_id": 131603734,
-   "headline": "Equita Sim assesses EssilorLuxottica's exposure to potential US tariffs",
-   "url": "https://www.milanofinanza.it/newsmarketdriver/market-driver-equita-indica-aziende-piu-esposte-a-potenziali-nuovi-dazi-202611261716016691",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:01:21Z",
-   "news_id": 131603732,
-   "headline": "Jefferies Lowers Price Target for LVMH to 380 Euro",
-   "url": "https://www.finanzen.ch/analyse/lvmh-moet-hennessy-louis-vuitton-hold-1123462",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:32:33Z",
-   "news_id": 131628652,
-   "headline": "JPMorgan Chase Lowers Price Target for Vodafone",
-   "url": "https://www.marketscreener.com/news/jpmorgan-lowers-vodafone-pt-maintains-underweight-rating-ce7851d8d08fff21",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JPM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:31:53Z",
-   "news_id": 131627839,
-   "headline": "Saba Capital Discloses Increased Voting Rights in W.W. Grainger, Inc.",
-   "url": "https://www.investegate.co.uk/announcement/rns/grainger--gri/holding-s-in-company/9896451",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GWW"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:31:52Z",
-   "news_id": 131627838,
-   "headline": "Bernstein Maintains Hold Rating on Hewlett Packard Enterprise and Adjusts Price Target",
-   "url": "https://www.moomoo.com/hans/news/post/1005925891/bernstein-maintains-hewlett-packard-enterprise-hpeus-with-hold-rating-cuts",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HPE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:31:48Z",
-   "news_id": 131627837,
-   "headline": "Red Box Storage Expands Hong Kong Footprint with Brookfield Support",
-   "url": "https://businessfocus.io/article/366520/%E7%B4%85%E7%9B%92%E8%BF%B7%E4%BD%A0%E5%80%89%E5%86%8D%E6%96%B0%E5%A2%9E%E5%85%A9%E5%80%8B%E6%93%9A%E9%BB%9E-%E5%85%A8%E6%B8%AF%E6%93%B4%E8%87%B3-17-%E9%96%93-%E7%B8%BD%E6%A8%93%E9%9D%A2%E5%A2%9E%E9%95%B7%E9%80%BE%E4%B8%89%E6%88%90",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:31:44Z",
-   "news_id": 131627836,
-   "headline": "Elevance Health Employee Recognized for AI-Driven Operational Excellence",
-   "url": "https://www.einpresswire.com/article/958767389/ashutosh-das-recognized-for-using-ai-to-digitize-health-plan-operations",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ELV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:31:44Z",
-   "news_id": 131627835,
-   "headline": "CNESST Releases Findings on Workplace Fatality at Cintas Canada Ltée",
-   "url": "https://www.newswire.ca/fr/news-releases/accidents-mortels-impliquant-des-convoyeurs-la-cnesst-rappelle-l-importance-du-cadenassage-843161387.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CTAS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:31:35Z",
-   "news_id": 131627834,
-   "headline": "Goldman Sachs International Discloses Dealings in Permanent TSB Shares",
-   "url": "https://www.investegate.co.uk/announcement/rns/permanent-tsb-group-holdings-cdi---ptsb/form-38-5a-permanent-tsb-group-holdings-plc/9895914",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GS"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T21:31:34Z",
    "news_id": 131627833,
@@ -4529,6 +4401,156 @@
     "ING"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T17:02:04Z",
+   "news_id": 132050513,
+   "headline": "AlphaValue/Baader Europe Downgrades Brenntag",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/brenntag-se-alphavalue-baader-europe-stuft-alphavalue-baader-europe-zum-verkauf-zurueck-ce7851d9df8eff20",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BNR"
+   ],
+   "signals": [
+    {
+     "symbol": "BNR",
+     "action": "sell",
+     "confidence": 0.75,
+     "impact": "medium",
+     "rationale": "Downgrade to 'Reduce' and lowered EPS forecasts indican presión negativa sobre el precio.",
+     "outcome": "Sin acción: no hay posición abierta"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-27T17:01:59Z",
+   "news_id": 132049647,
+   "headline": "Procon of Toledo Opens Investigation into Copel Following Power Outage Complaints",
+   "url": "https://palotinapress.com.br/artigo/geral/procon-de-toledo-investiga-copel-apos-reclamacoes-de-falta-de-energia-C-23500",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ELPC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:01:59Z",
+   "news_id": 132049646,
+   "headline": "Opposition Lawmaker in Paraná Requests Explanations from Copel Regarding Recent Blackouts",
+   "url": "https://palotinapress.com.br/artigo/geral/deputado-anuncia-requerimento-para-cobrar-explicacoes-da-copel-sobre-apagoes-no-parana-C-23498",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ELPC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:01:47Z",
+   "news_id": 132049638,
+   "headline": "EQT Healthcare Growth Strategy Fund to Acquire Majority Stake in Kelso Pharma",
+   "url": "https://www.marketscreener.com/news/eqt-unit-to-buy-majority-stake-in-specialty-pharmaceutical-company-kelso-pharma-ce7851d9dd88f624",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EQT"
+   ],
+   "signals": [
+    {
+     "symbol": "EQT",
+     "action": "buy",
+     "confidence": 0.78,
+     "impact": "medium",
+     "rationale": "Acuerdo definitivo para adquirir una participación mayoritaria en Kelso Pharma actúa como catalizador positivo para EQT.",
+     "outcome": "Compra $4,998 · enviada"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-27T17:01:46Z",
+   "news_id": 132049636,
+   "headline": "Kibon Celebrates 85th Anniversary with 'Vila Kibon' Event in São Paulo",
+   "url": "https://ultimosegundo.ig.com.br/colunas/ideia-e-meio/2026-11-27/kibon-faz-85-anos-e-mistura-chicabon-com-minecraft-no-ibirapuera.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MICC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:01:42Z",
+   "news_id": 132049631,
+   "headline": "Dr. John Feldmann to Resign from Supervisory Board of HORNBACH Baumarkt AG",
+   "url": "https://www.finanzen.at/nachrichten/aktien/eqs-adhoc-hornbach-holding-ag-&-co-kgaa-nachfolgeregelung-im-aufsichtsrat-dr-john-feldmann-legt-sein-mandat-im-aufsichtsrat-zum-ablauf-der-ordentlichen-hauptversammlung-am-9-juli-2027-nieder-1036805432",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HBM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:01:37Z",
+   "news_id": 132049628,
+   "headline": "Bradesco Joins B3 and Other Financial Institutions to Launch 'Open BRL' Stablecoin",
+   "url": "https://www.moomoo.com/th/news/post/1006002106/brazil-s-stock-exchange-teams-up-with-major-banks-to",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BBD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:01:33Z",
+   "news_id": 132049626,
+   "headline": "Artisan Partners Funds Files Voting Rights Notification for Fresenius Medical Care",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-fresenius-medical-care-ag-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036805506",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FMS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:01:30Z",
+   "news_id": 132049624,
+   "headline": "Vale Provides Update on FICO Railway Project Progress",
+   "url": "https://ultimosegundo.ig.com.br/brasil/2026-11-27/ferrovia-entre-go-e-mt-tem-operacao-prevista-para-2030.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VALE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:01:23Z",
+   "news_id": 132049619,
+   "headline": "Jefferies Reaffirms Buy Rating on FinecoBank",
+   "url": "https://www.milanofinanza.it/newsmarketdriver/market-driver-fineco-azimut-jefferies-conferma-i-buy-202611271524027559",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FBK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:01:22Z",
+   "news_id": 132049618,
+   "headline": "Santander Brasil Partners with B3 to Launch Open BRL Stablecoin",
+   "url": "https://www.moomoo.com/th/news/post/1006002106/brazil-s-stock-exchange-teams-up-with-major-banks-to",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BSBR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:01:22Z",
+   "news_id": 132049617,
+   "headline": "Erste Bank Polska S.A. Joins Erste Group's Multi Issuer EMTN Programme",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/erste-bank-polska-sa-432026-przystapienie-przez-erste-bank-polska-sa-do-programu",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EBS"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4711,18 +4733,19 @@
    "news_id": 132001689,
    "crypto": false,
    "status": "enviada"
+  },
+  {
+   "t": "2026-11-27T17:07:17Z",
+   "symbol": "EQT",
+   "side": "buy",
+   "reason": "Noticia positiva",
+   "notional": 4998.44,
+   "news_id": 132049638,
+   "crypto": false,
+   "status": "enviada"
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T16:37:18Z",
-   "fetched": 44,
-   "news": 15,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 1663
-  },
   {
    "t": "2026-11-25T16:52:25Z",
    "fetched": 0,
@@ -6513,10 +6536,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T17:07:17Z",
+   "fetched": 41,
+   "news": 12,
+   "signals": 2,
+   "orders": 1,
+   "errors": [],
+   "tokens": 1814
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T16:52:21Z",
+ "updated_at": "2026-11-27T17:07:17Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6529,10 +6561,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100126.43,
-  "cash": 54678.65,
+  "equity": 99972.55,
+  "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 341856.49
+  "buying_power": 335446.98
  },
  "pending": 0,
  "positions": [
@@ -6541,10 +6573,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.34,
-   "market_value": 4900.363834,
-   "unrealized_pl": -71.186166,
-   "unrealized_plpc": -0.01432,
+   "current_price": 21.36,
+   "market_value": 4904.95649,
+   "unrealized_pl": -66.59351,
+   "unrealized_plpc": -0.01339,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6552,21 +6584,32 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.095,
-   "market_value": 5168.747805,
-   "unrealized_pl": 197.197805,
-   "unrealized_plpc": 0.03967,
+   "current_price": 166.955,
+   "market_value": 5164.417187,
+   "unrealized_pl": 192.867187,
+   "unrealized_plpc": 0.03879,
    "opened_at": "2026-11-25T14:37:19Z"
+  },
+  {
+   "symbol": "EQT",
+   "crypto": false,
+   "qty": 96.179141812,
+   "avg_entry_price": 51.97,
+   "current_price": 51.9783,
+   "market_value": 4999.228287,
+   "unrealized_pl": 0.798287,
+   "unrealized_plpc": 0.00016,
+   "opened_at": "2026-11-27T17:07:17Z"
   },
   {
    "symbol": "HUT",
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 51.9848,
-   "market_value": 5087.189173,
-   "unrealized_pl": 112.029173,
-   "unrealized_plpc": 0.02252,
+   "current_price": 51.3,
+   "market_value": 5020.175216,
+   "unrealized_pl": 45.015216,
+   "unrealized_plpc": 0.00905,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6585,10 +6628,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 172.435,
-   "market_value": 5160.355845,
-   "unrealized_pl": 185.19583,
-   "unrealized_plpc": 0.03722,
+   "current_price": 171.67,
+   "market_value": 5137.462162,
+   "unrealized_pl": 162.302147,
+   "unrealized_plpc": 0.03262,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6596,10 +6639,10 @@
    "crypto": false,
    "qty": 5.077693573,
    "avg_entry_price": 984.389847,
-   "current_price": 990.46,
-   "market_value": 5029.252376,
-   "unrealized_pl": 30.822377,
-   "unrealized_plpc": 0.00617,
+   "current_price": 991.15,
+   "market_value": 5032.755985,
+   "unrealized_pl": 34.325986,
+   "unrealized_plpc": 0.00687,
    "opened_at": "2026-11-27T16:07:16Z"
   },
   {
@@ -6607,10 +6650,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 400.82,
-   "market_value": 5139.882696,
-   "unrealized_pl": 164.722687,
-   "unrealized_plpc": 0.03311,
+   "current_price": 398.92,
+   "market_value": 5115.518201,
+   "unrealized_pl": 140.358192,
+   "unrealized_plpc": 0.02821,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6618,10 +6661,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 67.01,
-   "market_value": 4974.155399,
-   "unrealized_pl": -1.004629,
-   "unrealized_plpc": -0.0002,
+   "current_price": 66.77,
+   "market_value": 4956.340188,
+   "unrealized_pl": -18.81984,
+   "unrealized_plpc": -0.00378,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6629,10 +6672,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.355,
-   "market_value": 5029.770008,
-   "unrealized_pl": 54.610008,
-   "unrealized_plpc": 0.01098,
+   "current_price": 13.285,
+   "market_value": 5003.406556,
+   "unrealized_pl": 28.246556,
+   "unrealized_plpc": 0.00568,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
