@@ -1243,196 +1243,13 @@
   {
    "t": "2026-11-27T22:22:22Z",
    "v": 100131.93
+  },
+  {
+   "t": "2026-11-27T22:37:12Z",
+   "v": 100131.93
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T08:02:05Z",
-   "news_id": 131773898,
-   "headline": "Comsol Networks Expands 5G Capacity Using Adtran FSP 3000 Technology",
-   "url": "https://www.newswiretoday.com/news/187312/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ADV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:02:04Z",
-   "news_id": 131773897,
-   "headline": "CI Games Reports Quarterly Financial Results",
-   "url": "https://www.finanzen.at/nachrichten/aktien/ci-games-mit-zahlen-zum-abgelaufenen-quartal-1036804195",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CIG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:01:51Z",
-   "news_id": 131773874,
-   "headline": "RCS MediaGroup Appoints Stefano Barigelli as New Director of Corriere della Sera",
-   "url": "https://www.milanofinanza.it/news/stefano-barigelli-e-il-nuovo-direttore-del-corriere-della-sera-202611261845319106",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RCS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:01:50Z",
-   "news_id": 131773764,
-   "headline": "Stabilus SE Supervisory Board Extends CEO Contract",
-   "url": "https://www.eqs-news.com/news/ad-hoc/stabilus-se-supervisory-board-extends-contract-with-ceo-dr-michael-buchsner/784fcdba-5a41-4bd5-9f5f-a620c9939087_en",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:01:50Z",
-   "news_id": 131773762,
-   "headline": "AMF Approves Response Document for Gaumont Public Withdrawal Offer",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3411008/0/fr/gaumont-mise-%C3%A0-disposition-de-la-note-en-r%C3%A9ponse.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GAM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:01:48Z",
-   "news_id": 131773761,
-   "headline": "Polenergia Subsidiaries Complete Debt Refinancing and Interest Rate Hedging Settlement",
-   "url": "https://pap-mediaroom.pl/biznes-i-finanse/polenergia-sa-342026-rozliczenie-transakcji-zabezpieczajacych-ryzyko-stopy",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PEP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:01:43Z",
-   "news_id": 131773754,
-   "headline": "InstallatørGruppen A/S Provides Update on Share Buyback Program",
-   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411076/0/en/regulatory-announcement-no-29-share-buyback.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:01:41Z",
-   "news_id": 131773749,
-   "headline": "Ramsay Santé Demerger from Ramsay Health Care Becomes Effective",
-   "url": "https://newsfilter.io/articles/ramsay-generale-de-sante-distribution-scheme-effective-6627181b7426570ab930082f1860630a",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GDS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:32:01Z",
-   "news_id": 131781784,
-   "headline": "SAP Confirms No Customer Data Breach Following Security Incident",
-   "url": "https://www.marketscreener.com/news/germany-s-sap-finds-no-signs-of-customer-data-breach-following-security-incident-ce7851d9da81fe2c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SAP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:31:59Z",
-   "news_id": 131781516,
-   "headline": "Deutsche Telekom and Rheinmetall Reportedly Explore Joint Surveillance Platform Offering",
-   "url": "https://www.finanzen.at/nachrichten/aktien/rheinmetall-aktie-zieht-weiter-an-vor-mittelfristausblick-auch-renk-hensoldt-&-tkms-im-plus-1036804680",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DTE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:31:56Z",
-   "news_id": 131781515,
-   "headline": "Stellantis in Advanced Negotiations with Struggling Supplier",
-   "url": "https://www.milanofinanza.it/news/stellantis-vuole-ricomprare-una-parte-di-marelli-sul-tavolo-tre-fabbriche-italiane-202611270908224741",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STLA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:31:43Z",
-   "news_id": 131781514,
-   "headline": "Transamerica Life Bermuda Expands Operations in Dubai International Financial Centre",
-   "url": "https://money.udn.com/money/story/12987/9906055",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AEG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:31:21Z",
-   "news_id": 131781510,
-   "headline": "Toyota, Honda, Nissan, and Mazda Collaborate on Vehicle Component Standardization",
-   "url": "https://www.newswire.lk/category/news/page/2/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:02:20Z",
-   "news_id": 131789985,
-   "headline": "Cloudbreak Discovery Lands Exclusive Option for Australia's Historic Emerald Gold Mine",
-   "url": "https://www.marketscreener.com/news/cloudbreak-discovery-lands-exclusive-option-for-australia-s-historic-emerald-gold-mine-ce7851dbd18df127",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CDL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:02:19Z",
-   "news_id": 131789984,
-   "headline": "Accsys Technologies: Forecasts maintained after resilient first half",
-   "url": "https://www.voxmarkets.com/media/6b07da3b29198aa3e3bdfa68",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AXS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:02:08Z",
-   "news_id": 131789980,
-   "headline": "Transense Technologies plc Trading Update and AGM",
-   "url": "https://shareprophets.com/news/89483/transense-technologies-trt-agm-update-believe-that-the-company-remains-on-track-to-deliver-profits-in-line-with-market-expectations-for-fy",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TRT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:02:01Z",
-   "news_id": 131789969,
-   "headline": "Nanoco Publishes Annual Report and Accounts for FY2026",
-   "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/annual-reports-and-accounts/9892334",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NANO"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T09:01:59Z",
    "news_id": 131789964,
@@ -4626,6 +4443,193 @@
     "BP"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T22:32:36Z",
+   "news_id": 132358992,
+   "headline": "Zevra Therapeutics Reports Q4 Earnings Beat",
+   "url": "https://www.moomoo.com/stock/ZVRA-US?chain_id=Name1K9-3FXPhg.1lf7c00&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A59%2C%22f%22%3A%22www.moomoo.com%2Foptions%2FASND261120C300000-US%2Fcommunity%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ZVRA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:32:36Z",
+   "news_id": 132358991,
+   "headline": "Berto Acquisition Corp. Files Form S-4 Registration Statement",
+   "url": "https://www.streetinsider.com/SEC+Filings?before_id=27396486",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TACO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:32:35Z",
+   "news_id": 132358990,
+   "headline": "Power Solutions International, Inc. Appoints Robert Losier as Interim CFO",
+   "url": "https://www.moomoo.com/stock/PSIX-US?chain_id=Name1K9-3FXPhg.1lfpqk0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A59,%22f%22%3A%22www.moomoo.com%2Foptions%2FSPXW261116P7710000-US%2Fcommunity%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PSIX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:32:35Z",
+   "news_id": 132358989,
+   "headline": "Inspire Medical Systems Files SEC Documents Regarding European Patient Access and Nyxoah Patent Litigation",
+   "url": "https://www.moomoo.com/stock/INSP-US?chain_id=Name1K9-3FXPhg.1ldikg0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A59%2C%22f%22%3A%22www.moomoo.com%2Foptions%2FINSP261120C22500-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "INSP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:32:18Z",
+   "news_id": 132358988,
+   "headline": "PCB Bancorp Director Reports Insider Stock Sale",
+   "url": "https://www.streetinsider.com/SEC+Filings?before_id=27403630",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PCB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:32:02Z",
+   "news_id": 132358987,
+   "headline": "Gray Media Subsidiary Files Comments Supporting Channel Substitution for KOSA-TV",
+   "url": "https://newsfilter.io/articles/comment-by-gray-television-licensee-llc-in-26-302-2a8e85b9332b5400827204d0e057eeb8",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GTN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:59Z",
+   "news_id": 132358003,
+   "headline": "Jefferies Adjusts GoodRx Price Target to $3.00",
+   "url": "https://www.moomoo.com/ja/news/post/1006014866/jefferies-maintains-goodrx-gdrxus-with-hold-rating-raises-target-price",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GDRX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:58Z",
+   "news_id": 132358002,
+   "headline": "NAFFCO Group Selects Rapid7 to Strengthen Cyber Resilience",
+   "url": "https://synovatechnologies.com/security-insights/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RPD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:54Z",
+   "news_id": 132358001,
+   "headline": "Quantum Space Announces Financial Results Release Date and Investor Webcast",
+   "url": "https://www.morningstar.com/news/pr-newswire/20261127da07574/quantum-space-to-hold-financial-update-call",
+   "source": "fiscal.ai",
+   "symbols": [
+    "QSPC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:54Z",
+   "news_id": 132358000,
+   "headline": "Fulcrum Therapeutics Declares Special Cash Dividend in Connection with Proposed Merger with Slate Medicines",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411464/0/en/fulcrum-therapeutics-declares-special-cash-dividend-in-connection-with-the-proposed-merger-with-slate-medicines.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FULC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:52Z",
+   "news_id": 132357999,
+   "headline": "Aduro Clean Technologies Inc. General Meeting",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/boerse-aktuell-27-11-2026-1036804519",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ACT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:51Z",
+   "news_id": 132357998,
+   "headline": "WELLSTAR Technologies Appoints Rodrigo Pinto as Chief Financial Officer",
+   "url": "https://www.newsfilecorp.com/release/326106/WELLSTAR-Announces-Appointment-of-Rodrigo-Pinto-as-Chief-Financial-Officer",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WELL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:50Z",
+   "news_id": 132357997,
+   "headline": "FuboTV Officer John Janedis Files Notice of Proposed Stock Sale",
+   "url": "https://www.moomoo.com/ja/news/notice/1006033955/notice-of-proposed-sale-of-securities-pursuant-to-rule-144",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FUBO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:44Z",
+   "news_id": 132357993,
+   "headline": "ALP Supply Co. LLC Announces Final Stretch of 'Bronco Bash' Sweepstakes",
+   "url": "https://www.prnewswire.com/news-releases/alp-bronco-bash-shifts-into-high-gear-for-black-friday-and-cyber-monday-with-custom-2026-ford-bronco-up-for-grabs-302951850.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TPB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:43Z",
+   "news_id": 132357992,
+   "headline": "TJX Companies Expects Sales Momentum to Accelerate",
+   "url": "https://newsfilter.io/articles/inflation-has-shoppers-hunting-for-value-that-bodes-well-for-black-friday-6f76218415ef561a9512842a4d06e577",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TJX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:39Z",
+   "news_id": 132357991,
+   "headline": "Heartland Express Announces CFO Participation in UBS 2026 Global Industrials and Transportation Conference",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411267/15800/en/heartland-express-inc-announces-participation-in-upcoming-conference.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HTLD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:31:34Z",
+   "news_id": 132357990,
+   "headline": "RBC Global Asset Management Announces Fee Reductions for Select Funds",
+   "url": "https://www.newswire.ca/news-releases/rbc-global-asset-management-inc-announces-changes-to-certain-rbc-funds-and-ph-amp-n-funds-816879895.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RY"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4821,15 +4825,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T22:00:40Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-25T22:07:24Z",
    "fetched": 6,
@@ -6620,10 +6615,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T22:37:12Z",
+   "fetched": 22,
+   "news": 17,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1876
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T22:22:22Z",
+ "updated_at": "2026-11-27T22:37:12Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
