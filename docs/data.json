@@ -1131,20 +1131,13 @@
   {
    "t": "2026-11-27T15:22:18Z",
    "v": 99669.29
+  },
+  {
+   "t": "2026-11-27T15:37:21Z",
+   "v": 99910.27
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T19:01:59Z",
-   "news_id": 131509661,
-   "headline": "AlmapBBDO Announces New Executive Leadership",
-   "url": "https://ultimosegundo.ig.com.br/colunas/ideia-e-meio/2026-11-26/almapbbdo-divide-o-comando-entre-dados-e-criatividade.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "OMC"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T19:01:58Z",
    "news_id": 131508901,
@@ -4514,6 +4507,17 @@
     "TGT"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T15:31:23Z",
+   "news_id": 131977486,
+   "headline": "UBS Group AG Discloses Change in Shareholding in Solar A/S",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411206/0/en/solar-a-s-no-16-2026-major-shareholder-announcement.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBS"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4689,15 +4693,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T14:37:19Z",
-   "fetched": 94,
-   "news": 40,
-   "signals": 0,
-   "orders": 6,
-   "errors": [],
-   "tokens": 4097
-  },
   {
    "t": "2026-11-25T14:52:23Z",
    "fetched": 0,
@@ -6488,10 +6483,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T15:37:21Z",
+   "fetched": 5,
+   "news": 1,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 639
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T15:22:18Z",
+ "updated_at": "2026-11-27T15:37:21Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6504,10 +6508,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99669.29,
+  "equity": 99910.27,
   "cash": 59677.08,
   "last_equity": 99492.29055690177,
-  "buying_power": 346645.01
+  "buying_power": 347259.29
  },
  "pending": 0,
  "positions": [
@@ -6516,10 +6520,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.225,
-   "market_value": 4873.956062,
-   "unrealized_pl": -97.593938,
-   "unrealized_plpc": -0.01963,
+   "current_price": 21.27,
+   "market_value": 4884.289538,
+   "unrealized_pl": -87.260462,
+   "unrealized_plpc": -0.01755,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6527,10 +6531,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 166.28,
-   "market_value": 5143.537419,
-   "unrealized_pl": 171.987419,
-   "unrealized_plpc": 0.03459,
+   "current_price": 166.64,
+   "market_value": 5154.673295,
+   "unrealized_pl": 183.123295,
+   "unrealized_plpc": 0.03683,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6538,10 +6542,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 50.415,
-   "market_value": 4933.569854,
-   "unrealized_pl": -41.590146,
-   "unrealized_plpc": -0.00836,
+   "current_price": 51.3,
+   "market_value": 5020.175216,
+   "unrealized_pl": 45.015216,
+   "unrealized_plpc": 0.00905,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6549,10 +6553,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.2,
-   "market_value": 4951.938363,
-   "unrealized_pl": -19.611637,
-   "unrealized_plpc": -0.00394,
+   "current_price": 20.205,
+   "market_value": 4953.16409,
+   "unrealized_pl": -18.38591,
+   "unrealized_plpc": -0.0037,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6560,10 +6564,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 169.86,
-   "market_value": 5083.295408,
-   "unrealized_pl": 108.135393,
-   "unrealized_plpc": 0.02174,
+   "current_price": 170.67,
+   "market_value": 5107.535779,
+   "unrealized_pl": 132.375764,
+   "unrealized_plpc": 0.02661,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6571,10 +6575,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 393.955,
-   "market_value": 5051.849927,
-   "unrealized_pl": 76.689918,
-   "unrealized_plpc": 0.01541,
+   "current_price": 399.85,
+   "market_value": 5127.44398,
+   "unrealized_pl": 152.283971,
+   "unrealized_plpc": 0.03061,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6582,10 +6586,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 67.15,
-   "market_value": 4984.547605,
-   "unrealized_pl": 9.387577,
-   "unrealized_plpc": 0.00189,
+   "current_price": 67.3,
+   "market_value": 4995.682112,
+   "unrealized_pl": 20.522084,
+   "unrealized_plpc": 0.00412,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6593,10 +6597,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.195,
-   "market_value": 4969.510689,
-   "unrealized_pl": -5.649311,
-   "unrealized_plpc": -0.00114,
+   "current_price": 13.25,
+   "market_value": 4990.22483,
+   "unrealized_pl": 15.06483,
+   "unrealized_plpc": 0.00303,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
