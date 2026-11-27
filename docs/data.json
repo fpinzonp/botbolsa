@@ -1071,20 +1071,13 @@
   {
    "t": "2026-11-27T11:52:28Z",
    "v": 99556.63
+  },
+  {
+   "t": "2026-11-27T12:07:17Z",
+   "v": 99568.7
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T14:03:18Z",
-   "news_id": 131321939,
-   "headline": "HPQ Silicon Secures Second Conditional Purchase Reservation for ENDURA+ MiniMax Systems",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410737/0/en/hpq-secures-us-625-000-conditional-purchase-reservation-for-500-additional-endura-minimax-power-systems-bringing-total-potential-sales-to-us-750-000.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HPQ"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T14:03:08Z",
    "news_id": 131321931,
@@ -4445,6 +4438,17 @@
     "MU"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T12:01:41Z",
+   "news_id": 131854293,
+   "headline": "Star Bulk to Join FTSE 25 Index",
+   "url": "https://www.euro2day.gr/news/economy/124/list.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SBLK"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4570,15 +4574,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T11:07:21Z",
-   "fetched": 10,
-   "news": 1,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 617
-  },
   {
    "t": "2026-11-25T11:22:14Z",
    "fetched": 0,
@@ -6369,10 +6364,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T12:07:17Z",
+   "fetched": 6,
+   "news": 1,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 624
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T11:52:28Z",
+ "updated_at": "2026-11-27T12:07:17Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6385,10 +6389,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99556.63,
+  "equity": 99568.7,
   "cash": 84552.88,
   "last_equity": 99492.29055690177,
-  "buying_power": 380222.02
+  "buying_power": 380255.8
  },
  "pending": 4,
  "positions": [
@@ -6408,10 +6412,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 166.61,
-   "market_value": 5153.745305,
-   "unrealized_pl": 182.195305,
-   "unrealized_plpc": 0.03665,
+   "current_price": 167.0,
+   "market_value": 5165.809171,
+   "unrealized_pl": 194.259171,
+   "unrealized_plpc": 0.03907,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
