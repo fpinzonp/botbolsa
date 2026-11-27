@@ -1255,236 +1255,13 @@
   {
    "t": "2026-11-27T22:52:22Z",
    "v": 100131.93
+  },
+  {
+   "t": "2026-11-27T23:07:21Z",
+   "v": 100131.93
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T09:01:59Z",
-   "news_id": 131789964,
-   "headline": "Emmerson PLC Restores Trading on AIM",
-   "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/capital-access-window-emmerson-plc/9895268",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EML"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:01:59Z",
-   "news_id": 131789653,
-   "headline": "Emmerson PLC Announces Results of Annual General Meeting and Proceeds with Fundraising",
-   "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/result-of-agm/9895881",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EML"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:01:58Z",
-   "news_id": 131789651,
-   "headline": "Trifast plc Announces Director-Related Share Purchase",
-   "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-pdmr-shareholding/9896426",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TRI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:01:52Z",
-   "news_id": 131789641,
-   "headline": "FDM Group Announces Retirement of Chief Commercial Officer Andy Brown",
-   "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/directorate-change/9896305",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FDM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:01:50Z",
-   "news_id": 131789634,
-   "headline": "Rockfire Resources Announces Maiden Germanium Resource at Molaoi Deposit",
-   "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-26-arrow-aterian-cmc-empresaria-forgent-kendrick-reveille-roadside-rockfire-serval-upland-cda4e9f",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ROCK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:01:48Z",
-   "news_id": 131789941,
-   "headline": "NewRiver REIT Announces Appointment of Sarah Williams as Chair of the Audit Committee",
-   "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/changes-to-director-responsibilities/9896435",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NRR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:01:47Z",
-   "news_id": 131789631,
-   "headline": "Kendrick Resources Provides Project Update and Assay Results for Teufelskuppe Complex",
-   "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-26-arrow-aterian-cmc-empresaria-forgent-kendrick-reveille-roadside-rockfire-serval-upland-cda4e9f",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KEN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:01:47Z",
-   "news_id": 131789630,
-   "headline": "Empresaria Group plc Raises Full-Year 2026 Profit Forecast",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/empresaria-raises-fy26-profit-forecast-1036803995",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EMR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:01:37Z",
-   "news_id": 131789622,
-   "headline": "Roadside Real Estate plc Provides Trading Update for FY26",
-   "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-26-arrow-aterian-cmc-empresaria-forgent-kendrick-reveille-roadside-rockfire-serval-upland-cda4e9f",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ROAD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:01:21Z",
-   "news_id": 131789617,
-   "headline": "Honda, Nissan, and Mazda to Standardize Vehicle Components",
-   "url": "https://www.newswire.lk/category/news/page/2/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HMC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T09:32:08Z",
-   "news_id": 131800057,
-   "headline": "BP and Iberdrola Joint Venture Commences Operations at 25-MW Green Hydrogen Plant in Spain",
-   "url": "https://www.marketscreener.com/news/bp-iberdrola-jv-starts-operations-at-25-mw-green-hydrogen-plant-n-spain-ce7851d9dd8bf22c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T10:02:27Z",
-   "news_id": 131810427,
-   "headline": "United Microelectronics Acquires NT$17 Billion of Production Facilities",
-   "url": "https://www.marketscreener.com/news/united-microelectronics-acquires-nt-17-billion-of-production-facilities-ce7851d9dd8ff624",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UMC"
-   ],
-   "signals": [
-    {
-     "symbol": "UMC",
-     "action": "buy",
-     "confidence": 0.78,
-     "impact": "medium",
-     "rationale": "La adquisición de instalaciones de producción por 17 mil millones NT$ refuerza la capacidad de UMC y su posición competitiva, lo que puede impulsar el precio a corto plazo.",
-     "outcome": "Compra $4,975 · enviada"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-27T10:02:13Z",
-   "news_id": 131810426,
-   "headline": "HUTCHMED Announces NDA Acceptance for ORPATHYS Plus Osimertinib in China",
-   "url": "https://www.marketscreener.com/news/hutchmed-s-new-drug-application-for-orphathys-osimertinib-combination-to-treat-lung-cancer-accepted-ce7851d9dd88fe21",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HCM"
-   ],
-   "signals": [
-    {
-     "symbol": "HCM",
-     "action": "buy",
-     "confidence": 0.74,
-     "impact": "medium",
-     "rationale": "La aceptación de la NDA en China para la combinación ORPATHYS + osimertinib abre un mercado importante y representa un catalizador regulatorio positivo.",
-     "outcome": "Ignorada: confianza 74% < 75%"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-27T10:01:40Z",
-   "news_id": 131810070,
-   "headline": "NIO's Firefly Brand Reaches 100,000 Cumulative Deliveries",
-   "url": "https://www.moomoo.com/news/post/1005995712/nio-firefly-reaches-100000-cumulative-deliveries-about-19-months-after",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NIO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T10:01:37Z",
-   "news_id": 131810069,
-   "headline": "Schneider Electric Launches Ultra-Fast EV Charging and Battery Energy Storage Solutions in Hong Kong",
-   "url": "https://thesun.my/business/corporate-news/schneider-electric-launches-ultra-fast-ev-charging-and-battery-energy-storage-solutions-to-advance-hong-kongs-ev-charging-infrastructure/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SU"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T10:01:36Z",
-   "news_id": 131810068,
-   "headline": "XPeng Unveils 2027 Global Physical AI Expansion Roadmap",
-   "url": "https://markets.businessinsider.com/news/stocks/xpeng-accelerates-global-physical-ai-expansion-at-the-2026-guangzhou-international-automobile-exhibition-1036804638",
-   "source": "fiscal.ai",
-   "symbols": [
-    "XPEV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T10:01:34Z",
-   "news_id": 131810066,
-   "headline": "First Abu Dhabi Bank P.J.S.C. Securities Admitted to FCA Official List",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70243468-financial-conduct-authority-notice-of-admission-to-the-official-list-015.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FAB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T10:01:25Z",
-   "news_id": 131810065,
-   "headline": "Melon Releases First Global-K Chart Data Report in Partnership with Tencent Music and Line Music",
-   "url": "https://www.koreaherald.com/article/10952210",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TME"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T10:01:21Z",
-   "news_id": 131810064,
-   "headline": "Toyota Reports Decline in October Group Production and Sales",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/toyota-motor-worldwide-production-sales-drop-in-october-1036804796",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TM"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T10:01:19Z",
    "news_id": 131810063,
@@ -4638,6 +4415,215 @@
     "RY"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T23:02:52Z",
+   "news_id": 132388733,
+   "headline": "KBR, Inc. Announces New Credit Facilities and Debt Restructuring",
+   "url": "https://www.moomoo.com/stock/KBR-US?chain_id=AN-8eKumNBRgKk.1lf7c00&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A63,%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fdiscussion%2Freward-share-your-trade-plan-today-2196242449%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KBR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:02:28Z",
+   "news_id": 132388732,
+   "headline": "Rivian Automotive Issues Recall for Certain Vehicles Due to Tire Inflation and Replacement Issues",
+   "url": "https://www.moomoo.com/stock/RIVN-US?chain_id=Name1K9-3FXPhg.1lgjh90&global_content=%7B%22promote_id%22%3A%22%22%2C%22sub_promote_id%22%3A64%2C%22subpromote_id%22%3A%22%22%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Fstock-review-103692347%2Fpost%2Fall%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RIVN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:02:20Z",
+   "news_id": 132388731,
+   "headline": "Baxter International Inc. Trades Ex-Dividend",
+   "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fsaljtryck-vantar-i-skf-vertevo-baddar-for-koplage-2026-11-27",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BAX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:02:11Z",
+   "news_id": 132388730,
+   "headline": "Mundoro Capital Closes Private Placement with Centerra Gold",
+   "url": "https://www.newsfilecorp.com/release/326261/Mundoro-Closes-Equity-Investment-by-Centerra-Gold",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:59Z",
+   "news_id": 132387721,
+   "headline": "Stagwell Expands APAC Presence with Singapore Hub Launch and Executive Appointment",
+   "url": "https://theprpost.com/date/27-11-2026",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STGW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:56Z",
+   "news_id": 132387720,
+   "headline": "HSBC Adjusts Price Target on Cognizant Technology Solutions",
+   "url": "https://www.marketscreener.com/news/hsbc-adjusts-price-target-on-cognizant-technology-solutions-to-80-from-75-ce7851d9de8bf620",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CTSH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:52Z",
+   "news_id": 132387719,
+   "headline": "Contigo Promotes AutoSeal Travel Mug for Holiday Season",
+   "url": "https://newsfilter.io/articles/the-holiday-gift-theyll-actually-use-contigo-makes-practical-gifting-feel-0f733e8ba84f5ac8b66edf2d3881cc15",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NWL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:48Z",
+   "news_id": 132387717,
+   "headline": "State Street Corp Reduces Holdings in Iovance Biotherapeutics, Inc.",
+   "url": "https://stocktwits.com/symbol/IOVA/news",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IOVA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:45Z",
+   "news_id": 132387716,
+   "headline": "Cerebras Systems Director Lior Susan Files Form 144 to Sell Shares",
+   "url": "https://www.moomoo.com/news/flash/1006031581/form-144-cerebras-systems-cbrsus-director-proposes-to-sell-11",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CBRS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:43Z",
+   "news_id": 132387715,
+   "headline": "Sun Life Global Investments Announces Estimated 2026 Annual Reinvested Distributions for ETF Series",
+   "url": "https://www.newswire.ca/news-releases/sunlife-global-investments-announces-estimated-2026-annual-reinvested-distributions-for-etf-series-830005651.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SLF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:39Z",
+   "news_id": 132387714,
+   "headline": "Baron Financials ETF Exits Position in Fair Isaac",
+   "url": "https://www.finanznachrichten.de/nachrichten-branche/finanzdienstleistungen.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FICO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:37Z",
+   "news_id": 132387713,
+   "headline": "TELUS Foundation for a Better Future Announces $1 Million Scholarship Collaboration",
+   "url": "https://www.newswire.ca/fr/news-releases/l-uqar-sa-fondation-et-la-fondation-telus-pour-un-futur-meilleur-investissent-un-million-de-dollars-dans-la-reussite-des-jeunes-871203417.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "T"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:32Z",
+   "news_id": 132387711,
+   "headline": "Align Technology Announces $300 Million Share Repurchase Plan for Q4 2026",
+   "url": "https://www.barchart.com/story/news/9034747/is-wall-street-bullish-or-bearish-on-align-technology-stock",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ALGN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:32Z",
+   "news_id": 132387709,
+   "headline": "CCORF Maintains Natera Buy Rating, Adjusts Price Target to $450",
+   "url": "https://www.moomoo.com/hans/news/post/1006031558/ccorf-maintains-natera-ntraus-with-buy-rating-cuts-target-price",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NTRA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:31Z",
+   "news_id": 132387708,
+   "headline": "MSCI Requests Indonesia's OJK to Criminalize Stock Manipulation",
+   "url": "https://www.finanznachrichten.de/nachrichten-aktien/msci-inc.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MSCI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:31Z",
+   "news_id": 132387707,
+   "headline": "vVARDIS and Henry Schein One Launch One-Click Auto Charting for Early-Stage Cavity Care",
+   "url": "https://newsfilter.io/articles/vvardis-and-henry-schein-one-launch-one-click-auto-charting-for-early-stage-8fcc1fecc4e1591489a82096ed699956",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HSIC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:28Z",
+   "news_id": 132387706,
+   "headline": "Philippine Authorities Investigate Use of Roblox in Youth Violence",
+   "url": "https://www.manilatimes.net/2026/11/28/news/national/pnp-logs-over-100-youth-violence-cases/2479137",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RBLX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:27Z",
+   "news_id": 132387705,
+   "headline": "Canadian Grand Prix to Expand to Four-Day Format in 2027",
+   "url": "https://www.newswire.ca/news-releases/four-days-of-the-canadian-grand-prix-montreal-thinks-big--856059548.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FWONA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T23:01:24Z",
+   "news_id": 132387704,
+   "headline": "Exelon Mobilizes Crews to Restore Power Following Thanksgiving Nor'easter",
+   "url": "https://www.businesswire.com/newsroom",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EXC"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4833,15 +4819,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T22:37:16Z",
-   "fetched": 73,
-   "news": 40,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 4211
-  },
   {
    "t": "2026-11-25T22:52:18Z",
    "fetched": 0,
@@ -6632,10 +6609,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T23:07:21Z",
+   "fetched": 22,
+   "news": 19,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 2050
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T22:52:22Z",
+ "updated_at": "2026-11-27T23:07:21Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
