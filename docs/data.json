@@ -1063,273 +1063,13 @@
   {
    "t": "2026-11-27T11:22:15Z",
    "v": 99575.19
+  },
+  {
+   "t": "2026-11-27T11:37:20Z",
+   "v": 99575.19
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T13:01:43Z",
-   "news_id": 131300046,
-   "headline": "UBS Maintains Buy Rating for LVMH",
-   "url": "https://www.finanzen.ch/analyse/lvmh-moet-hennessy-louis-vuitton-buy-1123433",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:40Z",
-   "news_id": 131300039,
-   "headline": "Philips Ambilight TV MLED831 Crowdfunding Campaign Launches in Japan",
-   "url": "https://www.webook.com.tw/acg-news/2026-11-26-lifestyle-and-consumer-05/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PHG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:40Z",
-   "news_id": 131300038,
-   "headline": "S&P Global Ratings Upgrades KDB Bank Uzbekistan and Revises Uzpromstroybank Outlook",
-   "url": "https://www.uzdaily.uz/en/sp-upgrades-kdb-bank-uzbekistan-revises-uzpromstroybank-outlook/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SPGI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:36Z",
-   "news_id": 131300034,
-   "headline": "Binance Adds Tokenized Security Linked to Freedom Holding Corp. Shares",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410692/0/en/tokenized-security-linked-to-freedom-holding-corp-shares-listed-on-binance-expanding-investor-access.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FRHC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:36Z",
-   "news_id": 131300033,
-   "headline": "Real Canadian Superstore Celebrates Grand Opening at Buffalo Run",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410734/0/en/real-canadian-superstore-celebrates-grand-opening-at-buffalo-run-on-tsuut-ina-nation.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "L"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:32Z",
-   "news_id": 131300031,
-   "headline": "Daimler Truck Expands TruckCharge Network and Integrates Milence Charging Points",
-   "url": "https://www.finanznachrichten.de/nachrichten-medien/electrive-net.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DTG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:32Z",
-   "news_id": 131300029,
-   "headline": "NVIDIA and Kioxia Announce Collaboration to Extend GPU Memory Capacity",
-   "url": "https://natlawreview.com/press-releases/kioxia-and-nvidia-collaborate-expand-effective-high-bandwidth-memory",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NVDA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:30Z",
-   "news_id": 131300027,
-   "headline": "Chevron Increases Investment in Argentina's Energy Infrastructure",
-   "url": "https://newsfilter.io/articles/latin-america-has-the-copper-and-energy-the-ai-build-out-needs-infrastructure-is-cfb3a66dd618589b924d043b1a1cd7fa",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CVX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:30Z",
-   "news_id": 131300025,
-   "headline": "Chevron Partners with TPAO for Offshore Exploration in Guinea Bissau",
-   "url": "https://www.moomoo.com/hans/news/flash/1005903439/turkish-energy-minister-turkey-s-tpao-partners-with-chevron-in",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CVX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:28Z",
-   "news_id": 131300024,
-   "headline": "Chobani Fails to Dismiss Danone's Cold-Brew Coffee Lawsuit",
-   "url": "https://stockanalysis.com/private/chobani/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:27Z",
-   "news_id": 131300022,
-   "headline": "Johnson Controls Reports Sustainability Gains at Oklahoma Manufacturing Facility",
-   "url": "https://manufacturingdigital.com/news/johnson-controls-how-manufacturers-can-cut-energy-waste",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JCI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:21Z",
-   "news_id": 131300020,
-   "headline": "Elon Musk Announces $18 Billion SpaceX Share Giveaway",
-   "url": "https://newsfilter.io/articles/musk-pledges-two-spacex-shares-for-every-u-s-child-in-us-18-billion-ai-charm-b8eecea35bb65d8daf901dedb75691b1",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SPCX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:18Z",
-   "news_id": 131300019,
-   "headline": "Visa Announces Plans for New 'Visa Flex Card' in Partnership with NBX",
-   "url": "https://news.europawire.eu/visa-and-nbx-plan-single-card-payments-from-traditional-currency-and-stablecoin-balances-across-five-european-markets/eu-press-release/2026/11/26/13/48/03/189766/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "V"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:04:14Z",
-   "news_id": 131322489,
-   "headline": "Brand Engagement Network Enters Settlement Agreement with Cohen & Company Securities, LLC",
-   "url": "https://www.moomoo.com/stock/BNAI-US?chain_id=Name1K9-3FXPhg.1kqhhs0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FWA8O-AU%2Ffinancials-balance-sheet%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "COHN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:59Z",
-   "news_id": 131321975,
-   "headline": "Lake Street Downgrades Research Solutions to Hold Rating",
-   "url": "https://www.moomoo.com/stock/RSSS-US?chain_id=Name1K9-3FXPhg.1lg3qhg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FFGDL-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RSSS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:36Z",
-   "news_id": 131321964,
-   "headline": "Loop Industries Announces CEO Transition and $5.9 Million Capital Raise",
-   "url": "https://www.newswire.com/news/loop-industries-appoints-adel-essaddam-interim-ceo-raises-5-9-million-and",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LOOP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:34Z",
-   "news_id": 131321963,
-   "headline": "Freedom Broker Maintains Buy Rating on LifeVantage, Lowers Price Target to $8",
-   "url": "https://www.moomoo.com/stock/LFVN-US?chain_id=Name1K9-3FXPhg.1lf7c00&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FKMEM-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LFVN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:30Z",
-   "news_id": 131321959,
-   "headline": "Avalon Advanced Materials Announces Closing of Additional C$1.0 Million Flow-Through Financing",
-   "url": "https://www.newsfilecorp.com/news/mining-metals",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AVL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:29Z",
-   "news_id": 131321958,
-   "headline": "Blink Charging Co. Announces 1-for-30 Reverse Stock Split",
-   "url": "https://www.moomoo.com/stock/BLNK-US?chain_id=Name1K9-3FXPhg.1lfhtg0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A107,%22f%22%3A%22www.moomoo.com%2Fhans%2Fetfs%2FAPRJ-US%2Foptions-chain%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BLNK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:25Z",
-   "news_id": 131321950,
-   "headline": "Conduent Achieves HITRUST Cybersecurity Certification",
-   "url": "https://www.streetinsider.com/Business+Wire?before_id=27391687",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CNDT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:24Z",
-   "news_id": 131321949,
-   "headline": "Grey Wolf Health Corp. Reports Financial Results for the Third Quarter Ended September 30, 2026",
-   "url": "https://www.newswire.ca/news-releases/grey-wolf-health-reports-third-quarter-2026-financial-results-873288677.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WOLF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:21Z",
-   "news_id": 131321945,
-   "headline": "Focus Graphite Commences Pilot-Scale Graphite Processing Program with COREM",
-   "url": "https://www.newsfilecorp.com/release/326015/Focus-Graphite-Commences-GovernmentSupported-PilotScale-Graphite-Processing-Program-with-COREM-and-Advances-Lac-Tetepisca-PEA",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FMS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:20Z",
-   "news_id": 131321943,
-   "headline": "Uniserve Announces Grant of Incentive Stock Options",
-   "url": "https://www.newsfilecorp.com/release/325986/Uniserve-Announces-Grant-of-Incentive-Stock-Options",
-   "source": "fiscal.ai",
-   "symbols": [
-    "COMP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:18Z",
-   "news_id": 131321941,
-   "headline": "Sportsman's Warehouse Schedules Third Quarter 2026 Earnings Conference Call",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410257/30783/en/sportsman-s-warehouse-holdings-inc-schedules-third-quarter-2026-earnings-conference-call.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SPWH"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T14:03:18Z",
    "news_id": 131321939,
@@ -4410,6 +4150,297 @@
     "SKHY"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T11:32:24Z",
+   "news_id": 131842951,
+   "headline": "Daiwa Adjusts Price Target on Walmart to $140 From $113",
+   "url": "https://www.marketscreener.com/news/daiwa-adjusts-price-target-on-walmart-to-140-from-113-ce7851d9dc8af520",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WMT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:32:15Z",
+   "news_id": 131842950,
+   "headline": "Jefferies Adjusts Price Target on Moderna to $215 From $200",
+   "url": "https://www.marketscreener.com/news/jefferies-adjusts-price-target-on-moderna-to-215-from-200-ce7851d9dc8af025",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MRNA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:32:02Z",
+   "news_id": 131842949,
+   "headline": "Daiwa Adjusts Price Target on The TJX Companies, Inc.",
+   "url": "https://www.marketscreener.com/news/daiwa-adjusts-price-target-on-tjx-companies-to-152-from-155-ce7851d9dc8af123",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TJX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:58Z",
+   "news_id": 131842948,
+   "headline": "Stryker Insider Sold Shares Worth $1,999,140",
+   "url": "https://www.marketscreener.com/news/stryker-insider-sold-shares-worth-1-999-140-according-to-a-recent-sec-filing-ce7851d9da80f224",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SYK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:57Z",
+   "news_id": 131842560,
+   "headline": "Daiwa Adjusts Price Target on Medtronic to $115 From $108",
+   "url": "https://www.marketscreener.com/news/daiwa-adjusts-price-target-on-medtronic-to-115-from-108-ce7851d9dc8af125",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MDT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:55Z",
+   "news_id": 131842559,
+   "headline": "Tesla Files Plans to Acquire German Company Emag",
+   "url": "https://www.moomoo.com/stock/TSLA-US/news?chain_id=Name1K9-3FXPhg.1l60200&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FUROY-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TSLA"
+   ],
+   "signals": [
+    {
+     "symbol": "TSLA",
+     "action": "buy",
+     "confidence": 0.8,
+     "impact": "high",
+     "rationale": "La adquisición anunciada de Emag en Alemania representa una expansión estratégica en fabricación europea, lo que suele impulsar el precio de TSLA en el corto plazo.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-27T11:31:55Z",
+   "news_id": 131842558,
+   "headline": "Jefferies Adjusts Price Target on Bristol-Myers Squibb to $77 From $76",
+   "url": "https://www.marketscreener.com/news/jefferies-adjusts-price-target-on-bristol-myers-squibb-to-77-from-76-ce7851d9dc8af02d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BMY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:52Z",
+   "news_id": 131842557,
+   "headline": "Palantir Technologies Reportedly to Supply Maven Smart System to Poland's Defence Ministry",
+   "url": "https://www.marketscreener.com/news/palantir-technologies-to-reportedly-supply-maven-smart-system-to-poland-s-defence-ministry-ce7851d9dc8df726",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PLTR"
+   ],
+   "signals": [
+    {
+     "symbol": "PLTR",
+     "action": "buy",
+     "confidence": 0.75,
+     "impact": "medium",
+     "rationale": "El contrato con el Ministerio de Defensa polaco abre una nueva fuente de ingresos gubernamentales y refuerza la posición de Palantir en defensa, impulsando su acción.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-27T11:31:50Z",
+   "news_id": 131842556,
+   "headline": "Uber Secures Approximately 87% of Delivery Hero Shares",
+   "url": "https://www.moomoo.com/news/post/1005986680/press-release-uber-secures-approximately-87-of-delivery-hero-shares",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBER"
+   ],
+   "signals": [
+    {
+     "symbol": "UBER",
+     "action": "buy",
+     "confidence": 0.8,
+     "impact": "high",
+     "rationale": "Uber controla el 87% de Delivery Hero, una adquisición que podría generar sinergias y crecimiento de ingresos, catalizando una fuerte reacción positiva.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-27T11:31:47Z",
+   "news_id": 131842555,
+   "headline": "Target Implements New Pricing Strategy for Holiday Season",
+   "url": "https://newsfilter.io/articles/inflation-has-shoppers-hunting-for-value-that-bodes-well-for-black-friday-6f76218415ef561a9512842a4d06e577",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TGT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:44Z",
+   "news_id": 131842554,
+   "headline": "Disney Issues Cease-and-Desist to ByteDance Over AI Copyright Concerns",
+   "url": "https://stockanalysis.com/private/bytedance/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DIS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:43Z",
+   "news_id": 131842553,
+   "headline": "Equinix Collaborates with Honeywell on AI Data Center Infrastructure",
+   "url": "https://technologymagazine.com/news/cognitive-ai-buildings-infrastructure-tech-by-honeywell",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EQIX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:41Z",
+   "news_id": 131842552,
+   "headline": "Lowe's Reports November Sales Performance",
+   "url": "https://newsfilter.io/articles/inflation-has-shoppers-hunting-for-value-that-bodes-well-for-black-friday-6f76218415ef561a9512842a4d06e577",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LOW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:39Z",
+   "news_id": 131842551,
+   "headline": "BlackRock Increases Voting Rights Stake in J Sainsbury PLC",
+   "url": "https://www.investegate.co.uk/announcement/rns/sainsbury-j---sbry/holding-s-in-company/9897626",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BLK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:39Z",
+   "news_id": 131842550,
+   "headline": "BlackRock Files Major Holdings Notification for Adtran Holdings, Inc.",
+   "url": "https://www.finanzen.at/nachrichten/aktien/eqs-pvr-adtran-holdings-inc-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036805081",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BLK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:37Z",
+   "news_id": 131842549,
+   "headline": "Goldman Sachs Warns of $100 Billion in Upcoming Systematic Selling",
+   "url": "https://www.morningstar.com/news/marketwatch/20261127105/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:36Z",
+   "news_id": 131842548,
+   "headline": "Citigroup Launches Reviews of Data Center Clients Following New U.S. Export Rules",
+   "url": "https://world.storm.mg/articles/1184970",
+   "source": "fiscal.ai",
+   "symbols": [
+    "C"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:33Z",
+   "news_id": 131842547,
+   "headline": "Cloudflare Reports Significant Internet Traffic Surges During Grand Theft Auto 6 Launch",
+   "url": "https://www.moomoo.com/hans/news/post/1005461031/gta-6-breaks-entertainment-launch-record-with-us-3-8",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NET"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:31Z",
+   "news_id": 131842546,
+   "headline": "Thermo Fisher Scientific Discusses Cooperation with Uzbekistan's Medical and Pharmaceutical Agency",
+   "url": "https://www.uzdaily.uz/en/uzbekistan-discusses-cooperation-with-thermo-fisher-scientific/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TMO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:30Z",
+   "news_id": 131842545,
+   "headline": "Salesforce Releases Global Consumer Research on AI Adoption and Data Privacy",
+   "url": "https://www.euro2day.gr/news/world/article/2382230/salesforce-to-ai-kai-h-hrhsh-se-agores-758-dis-th.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CRM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:30Z",
+   "news_id": 131842544,
+   "headline": "Moody's Upgrades Vietnam's Sovereign Credit Rating to Ba1",
+   "url": "https://www.morningstar.com/news/dow-jones/202611272026/moodys-upgrades-vietnams-sovereign-rating-to-ba1",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MCO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:29Z",
+   "news_id": 131842543,
+   "headline": "The Coca-Cola Company Completes Sale of Controlling Interest in Coca-Cola Beverages Africa",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/coca-cola-company-gfi-complete-sale-of-75percent-controlling-interest-in-ccba-1036804771",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:28Z",
+   "news_id": 131842542,
+   "headline": "ScitiX Launches Model Inference Services on AWS Marketplace",
+   "url": "https://www.prnewswire.com/apac/news-releases/scitix-model-inference-now-available-in-aws-marketplace-302951612.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AMZN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:31:22Z",
+   "news_id": 131842541,
+   "headline": "Micron Reports High Bandwidth Memory (HBM) Capacity Largely Booked for Upcoming Year",
+   "url": "https://www.moomoo.com/news/post/1005986341/where-is-the-memory-market-headed-analysts-debate-whether-dram",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MU"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4535,15 +4566,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T10:37:23Z",
-   "fetched": 2,
-   "news": 1,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 624
-  },
   {
    "t": "2026-11-25T10:52:16Z",
    "fetched": 0,
@@ -6334,10 +6356,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T11:37:20Z",
+   "fetched": 24,
+   "news": 24,
+   "signals": 3,
+   "orders": 0,
+   "errors": [],
+   "tokens": 2644
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T11:22:15Z",
+ "updated_at": "2026-11-27T11:37:20Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6355,7 +6386,7 @@
   "last_equity": 99492.29055690177,
   "buying_power": 380273.99
  },
- "pending": 1,
+ "pending": 4,
  "positions": [
   {
    "symbol": "AAT",
