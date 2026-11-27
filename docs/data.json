@@ -1227,97 +1227,13 @@
   {
    "t": "2026-11-27T21:22:24Z",
    "v": 100113.76
+  },
+  {
+   "t": "2026-11-27T21:37:17Z",
+   "v": 100110.2
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T07:01:44Z",
-   "news_id": 131769172,
-   "headline": "Rise Nano Optics Ltd. Announces Commercial Partnership with Special Eye Care",
-   "url": "https://irw-press.com/de/rise-nano-optics-beschleunigt-die-kommerzielle-expansion-seiner-patentierten-spectraguardtm-technologie-in-den-usa-durch-eine-neue-partnerschaft-mit-einer-optometrischen-praxis/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EYE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:04:15Z",
-   "news_id": 131774489,
-   "headline": "Insplorion sets record date for distribution of shares in Insplorion RTO AB and Altera Invest AB",
-   "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Fintervju%2Fskf-star-pall-nar-vertevo-knoppas-av-2026-11-26",
-   "source": "fiscal.ai",
-   "symbols": [
-    "INSP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:03:49Z",
-   "news_id": 131774227,
-   "headline": "Rentunder Holding AB Announces Termination of Share Transfer Agreement Regarding Edvince AB",
-   "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Ftelegram%2Favanza%2F49_81a426c0-f0cb-475a-a2f0-e15cb2e829dd",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RENT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:03:29Z",
-   "news_id": 131774216,
-   "headline": "Nomination Committee Appointed for the 2027 Annual General Meeting of Svenska Aerogel Holding AB (publ)",
-   "url": "https://www.avanza.se/nyheter.html?a=%2Ftelegram%2Favanza%2F39_730da857-9338-4313-a937-cf1decb4234e",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AERO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:03:10Z",
-   "news_id": 131774197,
-   "headline": "Aeffe Faces Legal Challenge Over Collective Layoffs",
-   "url": "https://www.milanofinanza.it/fashion/aeffe-i-licenziamenti-finiscono-in-tribunale-prima-udienza-il-16-dicembre-202611261201127192",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AEF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:03:00Z",
-   "news_id": 131774187,
-   "headline": "BioInvent Appoints Catharina Johansson as New CFO",
-   "url": "https://www.morningstar.com/news/accesswire/1312241msn/bioinvent-appoints-catharina-johansson-as-new-cfo",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BINV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:02:58Z",
-   "news_id": 131774182,
-   "headline": "Starhedge S.A. Postpones Publication of Q3 2026 Financial Report",
-   "url": "https://pap-mediaroom.pl/biznes-i-finanse/starhedge-sa-72026-zmiana-terminu-publikacji-raportu-okresowego",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SHG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:02:55Z",
-   "news_id": 131773968,
-   "headline": "DB Energy S.A. Convenes Ordinary General Meeting for December 22, 2026",
-   "url": "https://pap-mediaroom.pl/biznes-i-finanse/db-energy-sa-82026-zwolanie-zwyczajnego-walnego-zgromadzenia-na-dzien-22-grudnia",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DBE"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T08:02:44Z",
    "news_id": 131773949,
@@ -4610,6 +4526,94 @@
     "G"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T21:32:28Z",
+   "news_id": 132300961,
+   "headline": "Truist Securities Analyst Coverage Updates",
+   "url": "https://www.marketscreener.com/news/truist-adjusts-price-target-on-regency-centers-to-81-from-84-maintains-buy-rating-ce7851d9df8ffe2d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TFC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:32:19Z",
+   "news_id": 132300960,
+   "headline": "Amphenol Officer Files Intent to Sell Shares",
+   "url": "https://www.moomoo.com/stock/APH-US?chain_id=Name1K9-3FXPhg.1lgjh90&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FFFIV-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "APH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:31:46Z",
+   "news_id": 132299996,
+   "headline": "Federal Court Rules Robinhood Must Face Class-Action Lawsuit Over Event Contracts",
+   "url": "https://dailycallernewsfoundation.org/2026/11/27/robinhood-dragged-to-court-for-sports-betting/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HOOD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:31:34Z",
+   "news_id": 132299995,
+   "headline": "Edwards Lifesciences LLC Awarded Government Contract for TAVR Supplies",
+   "url": "https://newsfilter.io/articles/edwards-lifesciences-llc-was-awarded-a-new-government-contract-6515-pros-v23-618-2400ac7426d15f99816d07c12b144fa9",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:31:33Z",
+   "news_id": 132299994,
+   "headline": "Shopify Enhances Chargeback Evidence Tools for Agentic Commerce",
+   "url": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-gives-merchants-proof-to-fight-agentic-order-chargebacks/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SHOP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:31:30Z",
+   "news_id": 132299993,
+   "headline": "Lupin Launches Generic Sitagliptin in the U.S. Market",
+   "url": "https://www.prnewswire.com/news-releases/lupin-announces-us-fda-approval-and-launch-of-sitagliptin-tablets-usp-in-the-united-states-302951831.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MRK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:31:26Z",
+   "news_id": 132299992,
+   "headline": "Moody's Upgrades Vietnam's Sovereign Rating to Ba1",
+   "url": "https://www.morningstar.com/news/dow-jones/202611272026/moodys-upgrades-vietnams-sovereign-rating-to-ba1",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MCO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:31:20Z",
+   "news_id": 132299991,
+   "headline": "OpenAI Files Counterclaims Against Apple in Trade Secret Dispute",
+   "url": "https://newsfilter.io/articles/openai-countersues-apple-for-stealing-trade-secrets-0d87ce11b27055aa8258a54eec95e532",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AAPL"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4805,15 +4809,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T21:07:18Z",
-   "fetched": 12,
-   "news": 8,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 1183
-  },
   {
    "t": "2026-11-25T21:22:21Z",
    "fetched": 0,
@@ -6604,10 +6599,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T21:37:17Z",
+   "fetched": 8,
+   "news": 8,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1138
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T21:22:24Z",
+ "updated_at": "2026-11-27T21:37:17Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6620,10 +6624,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100113.76,
+  "equity": 100110.2,
   "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 335843.12
+  "buying_power": 335834.56
  },
  "pending": 0,
  "positions": [
@@ -6643,10 +6647,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.15,
-   "market_value": 5170.44912,
-   "unrealized_pl": 198.89912,
-   "unrealized_plpc": 0.04001,
+   "current_price": 167.4025,
+   "market_value": 5178.259699,
+   "unrealized_pl": 206.709699,
+   "unrealized_plpc": 0.04158,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6687,10 +6691,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 172.3429,
-   "market_value": 5157.599625,
-   "unrealized_pl": 182.43961,
-   "unrealized_plpc": 0.03667,
+   "current_price": 172.02,
+   "market_value": 5147.936396,
+   "unrealized_pl": 172.776381,
+   "unrealized_plpc": 0.03473,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6709,10 +6713,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 398.8475,
-   "market_value": 5114.588503,
-   "unrealized_pl": 139.428494,
-   "unrealized_plpc": 0.02802,
+   "current_price": 398.71,
+   "market_value": 5112.825283,
+   "unrealized_pl": 137.665274,
+   "unrealized_plpc": 0.02767,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6720,10 +6724,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 66.85,
-   "market_value": 4962.278592,
-   "unrealized_pl": -12.881436,
-   "unrealized_plpc": -0.00259,
+   "current_price": 66.8,
+   "market_value": 4958.567089,
+   "unrealized_pl": -16.592939,
+   "unrealized_plpc": -0.00334,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6731,10 +6735,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.31,
-   "market_value": 5012.822074,
-   "unrealized_pl": 37.662074,
-   "unrealized_plpc": 0.00757,
+   "current_price": 13.32,
+   "market_value": 5016.588282,
+   "unrealized_pl": 41.428282,
+   "unrealized_plpc": 0.00833,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
