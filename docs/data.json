@@ -1139,137 +1139,13 @@
   {
    "t": "2026-11-27T15:52:17Z",
    "v": 99896.76
+  },
+  {
+   "t": "2026-11-27T16:07:16Z",
+   "v": 99956.48
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T19:01:58Z",
-   "news_id": 131508901,
-   "headline": "RBC Capital Markets Names MongoDB as Preferred Database Provider for Generative AI",
-   "url": "https://www.moomoo.com/hant/options/MDB261127P160000-US/news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MDB"
-   ],
-   "signals": [
-    {
-     "symbol": "MDB",
-     "action": "buy",
-     "confidence": 0.86,
-     "impact": "medium",
-     "rationale": "RBC Capital Markets designa a MongoDB como proveedor preferido para IA generativa, un respaldo institucional que puede impulsar la demanda de sus servicios a corto plazo.",
-     "outcome": "En cola: mercado cerrado"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-26T19:01:58Z",
-   "news_id": 131508900,
-   "headline": "Honeywell Deploys Autonomous Cooling Platform at Google Data Center",
-   "url": "https://sustainabilitymag.com/news/google-meta-aws-ai-for-data-centre-sustainability",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HON"
-   ],
-   "signals": [
-    {
-     "symbol": "HON",
-     "action": "buy",
-     "confidence": 0.68,
-     "impact": "low",
-     "rationale": "La implementación de la plataforma de refrigeración autónoma de Honeywell en un centro de datos de Google muestra una adopción relevante, aunque el efecto de precio esperado es modesto.",
-     "outcome": "Ignorada: confianza 68% < 75%"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-26T19:01:58Z",
-   "news_id": 131508899,
-   "headline": "KeyBanc Analyst Adjusts Symbotic Price Target",
-   "url": "https://www.moomoo.com/ja/news/post/1005895592/keybanc-maintains-symbotic-symus-with-buy-rating-cuts-target-price",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SYM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:53Z",
-   "news_id": 131508898,
-   "headline": "Coinbase Ranked as Top-Tier Exchange in November 2026 CoinDesk Data Benchmark",
-   "url": "https://www.moomoo.com/news/post/1005921951/crypto-for-advisors-four-questions-to-ask-before-trusting-a",
-   "source": "fiscal.ai",
-   "symbols": [
-    "COIN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:52Z",
-   "news_id": 131508897,
-   "headline": "Morgan Stanley Discloses Voting Rights in tk accelis Group AG & Co. KGaA",
-   "url": "https://www.eqs-news.com/news/voting-rights/morgan-stanley-wilmington-delaware-united-states-of-america-usa/62dde24a-060b-4572-9372-e5999a7fb032_en",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:51Z",
-   "news_id": 131508896,
-   "headline": "Accenture Collaborates with Siemens and IFS on Industrial Manufacturing Solutions",
-   "url": "https://aimagazine.com/news/industrial-ai-siemens-ifs-link-design-to-field-assets",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ACN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:50Z",
-   "news_id": 131508895,
-   "headline": "Hilton and Sun Group Expand Partnership with Four New Hotels in Vietnam",
-   "url": "https://travelprnews.com/article/hilton-and-sun-group-plan-four-new-phu-quoc-hotels-as-vietnam-partnership-passes-5000-rooms/amp/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HLT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:50Z",
-   "news_id": 131508894,
-   "headline": "Raymond James Wealth Management Limited Increases Stake in Solid State PLC",
-   "url": "https://www.investegate.co.uk/announcement/rns/solid-state--soli/holding-s-in-company/9895971",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RJF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:44Z",
-   "news_id": 131508893,
-   "headline": "Keurig Dr Pepper Completes Redemption of Chobani Equity Stake",
-   "url": "https://stockanalysis.com/private/chobani/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KDP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:43Z",
-   "news_id": 131508892,
-   "headline": "Life & Banc Split Corp. Completes Preferred Share Offering",
-   "url": "https://www.newsfilecorp.com/release/325982/Life-Banc-Split-Corp.-Completes-Preferred-Share-Offering",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RY"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T19:01:43Z",
    "news_id": 131508891,
@@ -4522,6 +4398,125 @@
     "UBS"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T16:02:50Z",
+   "news_id": 132001689,
+   "headline": "Regeneron Pharmaceuticals Receives UK Regulatory Approval for Linvoseltamab",
+   "url": "https://www.marketscreener.com/news/regeneron-pharmaceuticals-receives-uk-regulator-s-approval-for-linvoseltamab-in-multiple-myeloma-ce7851d9de88f525",
+   "source": "fiscal.ai",
+   "symbols": [
+    "REGN"
+   ],
+   "signals": [
+    {
+     "symbol": "REGN",
+     "action": "buy",
+     "confidence": 0.78,
+     "impact": "medium",
+     "rationale": "La aprobación regulatoria británica de Linvoseltamab abre un nuevo mercado para Regeneron y puede impulsar ingresos antes de los resultados de EE.UU.",
+     "outcome": "Compra $4,998 · enviada"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-27T16:02:13Z",
+   "news_id": 132001688,
+   "headline": "Sibanye-Stillwater Receives Notification of JPMorgan Chase & Co. Beneficial Interest",
+   "url": "https://irw-press.com/de/mitteilung-ueber-den-erwerb-einer-wirtschaftlichen-beteiligung-an-wertpapieren-durch-jpmorgan-chase-co-2/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SBSW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:02:09Z",
+   "news_id": 132001687,
+   "headline": "Palo Alto Networks Collaborates with Google Cloud and Fujitsu on AI-Driven Security",
+   "url": "https://technologymagazine.com/news/behind-fujitsu-and-google-clouds-high-security-ai-alliance",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PANW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:01:59Z",
+   "news_id": 132000897,
+   "headline": "Scotiabank Comments on Alberta's Provincial Budget Surplus",
+   "url": "https://www.marketscreener.com/news/alberta-s-provincial-budget-surplus-reduces-net-debt-borrowing-needs-scotiabank-says-ce7851d9df81f427",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BNS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:01:53Z",
+   "news_id": 132000896,
+   "headline": "McKesson Canada Opens New Distribution Centre in Québec",
+   "url": "https://www.newswire.ca/news-releases/mckesson-canada-opens-new-distribution-centre-to-strengthen-quebec-s-pharmaceutical-supply-chain-885332789.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MCK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:01:36Z",
+   "news_id": 132000894,
+   "headline": "Southwest Airlines Provides Free WiFi Powered by T-Mobile",
+   "url": "https://www.prnewswire.com/news-releases/fly-one-roundtrip-with-southwest-airlines-over-the-holidays-and-earn-a-promotional-companion-pass-302951330.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TMUS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:01:35Z",
+   "news_id": 132000893,
+   "headline": "Star Bulk Carriers Corp. Shares to Trade Ex-Dividend on Euronext Athens",
+   "url": "https://www.euro2day.gr/market_announcements/shares/article-market-announcement/2382274/alpha-trapeza-star-bulk-carriers-corp-hrhmatikes-d.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SBLK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:01:29Z",
+   "news_id": 132000892,
+   "headline": "SodaStream Updates Cylinder Exchange Process",
+   "url": "https://www.finanznachrichten.de/nachrichten-aktien/pepsico-inc.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PEP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:01:25Z",
+   "news_id": 132000891,
+   "headline": "Intercontinental Exchange Abandons Proposed UK Government Bond Futures Modification",
+   "url": "https://www.moomoo.com/hans/news/post/1006024792",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ICE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:01:17Z",
+   "news_id": 132000889,
+   "headline": "JPMorgan Chase Discloses Change in Voting Rights in Ashtead Technology",
+   "url": "https://www.investegate.co.uk/announcement/rns/ashtead-technology-holdings--at./holding-s-in-company/9897534",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JPM"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4694,18 +4689,19 @@
    "news_id": 131930987,
    "crypto": false,
    "status": "enviada"
+  },
+  {
+   "t": "2026-11-27T16:07:16Z",
+   "symbol": "REGN",
+   "side": "buy",
+   "reason": "Noticia positiva",
+   "notional": 4998.44,
+   "news_id": 132001689,
+   "crypto": false,
+   "status": "enviada"
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T15:07:20Z",
-   "fetched": 3,
-   "news": 2,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 688
-  },
   {
    "t": "2026-11-25T15:22:18Z",
    "fetched": 0,
@@ -6496,10 +6492,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T16:07:16Z",
+   "fetched": 12,
+   "news": 10,
+   "signals": 1,
+   "orders": 1,
+   "errors": [],
+   "tokens": 1406
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T15:52:17Z",
+ "updated_at": "2026-11-27T16:07:16Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6512,10 +6517,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99896.76,
-  "cash": 59677.08,
+  "equity": 99956.48,
+  "cash": 54678.65,
   "last_equity": 99492.29055690177,
-  "buying_power": 347230.77
+  "buying_power": 341402.05
  },
  "pending": 0,
  "positions": [
@@ -6524,10 +6529,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.34,
-   "market_value": 4900.363834,
-   "unrealized_pl": -71.186166,
-   "unrealized_plpc": -0.01432,
+   "current_price": 21.28,
+   "market_value": 4886.585866,
+   "unrealized_pl": -84.964134,
+   "unrealized_plpc": -0.01709,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6546,10 +6551,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 51.16,
-   "market_value": 5006.474933,
-   "unrealized_pl": 31.314933,
-   "unrealized_plpc": 0.00629,
+   "current_price": 51.86,
+   "market_value": 5074.976349,
+   "unrealized_pl": 99.816349,
+   "unrealized_plpc": 0.02006,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6557,10 +6562,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.215,
-   "market_value": 4955.615545,
-   "unrealized_pl": -15.934455,
-   "unrealized_plpc": -0.00321,
+   "current_price": 20.225,
+   "market_value": 4958.066999,
+   "unrealized_pl": -13.483001,
+   "unrealized_plpc": -0.00271,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6568,21 +6573,32 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 170.88,
-   "market_value": 5113.820319,
-   "unrealized_pl": 138.660304,
-   "unrealized_plpc": 0.02787,
+   "current_price": 170.9699,
+   "market_value": 5116.510701,
+   "unrealized_pl": 141.350686,
+   "unrealized_plpc": 0.02841,
    "opened_at": "2026-11-27T14:37:21Z"
+  },
+  {
+   "symbol": "REGN",
+   "crypto": false,
+   "qty": 5.077693573,
+   "avg_entry_price": 984.389847,
+   "current_price": 983.7,
+   "market_value": 4994.927168,
+   "unrealized_pl": -3.502831,
+   "unrealized_plpc": -0.0007,
+   "opened_at": "2026-11-27T16:07:16Z"
   },
   {
    "symbol": "TSLA",
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 398.945,
-   "market_value": 5115.838786,
-   "unrealized_pl": 140.678777,
-   "unrealized_plpc": 0.02828,
+   "current_price": 398.7305,
+   "market_value": 5113.088163,
+   "unrealized_pl": 137.928154,
+   "unrealized_plpc": 0.02772,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6590,10 +6606,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 67.375,
-   "market_value": 5001.249366,
-   "unrealized_pl": 26.089338,
-   "unrealized_plpc": 0.00524,
+   "current_price": 67.305,
+   "market_value": 4996.053263,
+   "unrealized_pl": 20.893235,
+   "unrealized_plpc": 0.0042,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6601,10 +6617,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.19,
-   "market_value": 4967.627585,
-   "unrealized_pl": -7.532415,
-   "unrealized_plpc": -0.00151,
+   "current_price": 13.22,
+   "market_value": 4978.926207,
+   "unrealized_pl": 3.766207,
+   "unrealized_plpc": 0.00076,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
