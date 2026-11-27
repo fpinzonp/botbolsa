@@ -991,31 +991,13 @@
   {
    "t": "2026-11-27T06:52:17Z",
    "v": 99557.87
+  },
+  {
+   "t": "2026-11-27T07:07:14Z",
+   "v": 99557.87
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T11:31:39Z",
-   "news_id": 131277701,
-   "headline": "Adobe Acrobat Recognized as Top AI Document Assistant for Business Teams",
-   "url": "https://www.prnewswire.com/news-releases/business-technology-latest-news/computer-software-list/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ADBE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:31:37Z",
-   "news_id": 131277700,
-   "headline": "Goldman Sachs Releases Economic Outlook for Southern Europe",
-   "url": "https://www.euro2day.gr/news/market/article/2382050/goldman-sachs-overweight-gia-ellhnikes-metohes-ta.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GS"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T11:31:35Z",
    "news_id": 131277699,
@@ -4338,6 +4320,28 @@
     "CSCO"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T07:02:24Z",
+   "news_id": 131769257,
+   "headline": "Customer Adopts Digital-First Production Model with Investment in Kornit Digital's Apollo",
+   "url": "https://www.streetinsider.com/Press+Releases?before_id=26087212",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KRNT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T07:01:44Z",
+   "news_id": 131769172,
+   "headline": "Rise Nano Optics Ltd. Announces Commercial Partnership with Special Eye Care",
+   "url": "https://irw-press.com/de/rise-nano-optics-beschleunigt-die-kommerzielle-expansion-seiner-patentierten-spectraguardtm-technologie-in-den-usa-durch-eine-neue-partnerschaft-mit-einer-optometrischen-praxis/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EYE"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4463,15 +4467,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T06:07:15Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-25T06:22:27Z",
    "fetched": 0,
@@ -6262,10 +6257,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T07:07:14Z",
+   "fetched": 29,
+   "news": 2,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 695
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T06:52:17Z",
+ "updated_at": "2026-11-27T07:07:14Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
