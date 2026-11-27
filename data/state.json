@@ -1,18 +1,6 @@
 {
- "news_cursor": "2026-11-27T09:32:08Z",
+ "news_cursor": "2026-11-27T10:02:27Z",
  "seen_ids": [
-  130458545,
-  130458544,
-  130458543,
-  130458542,
-  130458541,
-  130458540,
-  130458539,
-  130458538,
-  130458537,
-  130458536,
-  130458535,
-  130458534,
   130458533,
   130458532,
   130458531,
@@ -2000,7 +1988,19 @@
   131799707,
   131799706,
   131799705,
-  131799704
+  131799704,
+  131810427,
+  131810426,
+  131810425,
+  131810424,
+  131810070,
+  131810069,
+  131810068,
+  131810067,
+  131810066,
+  131810065,
+  131810064,
+  131810063
  ],
  "opened_at": {
   "BA": "2026-11-25T14:37:19Z",
@@ -2039,6 +2039,38 @@
    },
    "t": "2026-11-26T19:07:15Z",
    "ref_price": 313.61
+  },
+  {
+   "news_id": 131810427,
+   "symbol": "UMC",
+   "action": "buy",
+   "confidence": 0.78,
+   "impact": "medium",
+   "rationale": "La adquisición de instalaciones de producción por 17 mil millones NT$ refuerza la capacidad de UMC y su posición competitiva, lo que puede impulsar el precio a corto plazo.",
+   "asset": {
+    "id": "b27c9c18-8f41-44ef-abec-d5bbd444217a",
+    "class": "us_equity",
+    "exchange": "NYSE",
+    "symbol": "UMC",
+    "name": "United Microelectronic Corp.",
+    "status": "active",
+    "tradable": true,
+    "marginable": true,
+    "maintenance_margin_requirement": 30,
+    "margin_requirement_long": "30",
+    "margin_requirement_short": "30",
+    "shortable": true,
+    "easy_to_borrow": true,
+    "borrow_status": "easy_to_borrow",
+    "fractionable": true,
+    "attributes": [
+     "fractional_eh_enabled",
+     "has_options",
+     "overnight_tradable"
+    ]
+   },
+   "t": "2026-11-27T10:07:24Z",
+   "ref_price": 13.21
   }
  ]
 }
