@@ -891,75 +891,13 @@
   {
    "t": "2026-11-27T00:52:17Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-27T01:07:13Z",
+   "v": 99519.2
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T10:02:08Z",
-   "news_id": 131258966,
-   "headline": "Deutsche Bank Adjusts Bilibili Price Targets Amid Advertising Headwinds",
-   "url": "https://news.futunn.com/en/post/1005734487/tech-media-telecom-roundup-market-talk",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BILI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:02:13Z",
-   "news_id": 131271458,
-   "headline": "GSK Wins China Approval for Hibsago to Treat Chronic Hepatitis B",
-   "url": "https://www.marketscreener.com/news/gsk-wins-china-approval-for-hibsago-to-treat-chronic-hepatitis-b-ce7851d8d189fe21",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GSK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:02:10Z",
-   "news_id": 131271457,
-   "headline": "Yinhawangka People and Rio Tinto celebrate landmark modernised agreement",
-   "url": "https://www.streetinsider.com/Press+Releases//Press+Releases?before_id=27404153",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RIO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:02:03Z",
-   "news_id": 131271456,
-   "headline": "HSBC Holdings plc Announces Share Repurchase on November 26, 2026",
-   "url": "https://www.moomoo.com/hans/news/post/1005879540/hsbc-holdings-00005-repurchased-315000-shares-for-hkd-169100-on",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HSBC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:01:57Z",
-   "news_id": 131271243,
-   "headline": "TSMC Completes Registration of Paid-in Capital Reduction",
-   "url": "https://www.marketscreener.com/news/tsmc-completes-registration-of-paid-in-capital-reduction-ce7851d8de81f525",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TSM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:01:35Z",
-   "news_id": 131271242,
-   "headline": "Sony Joins UKRI-Funded Creative Industries Cluster in Eastern England",
-   "url": "https://news.europawire.eu/university-of-east-anglia-to-lead-6-75-million-createsci-programme-for-regional-creative-businesses/eu-press-release/2026/11/26/11/32/03/189643/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SONY"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T11:01:31Z",
    "news_id": 131271240,
@@ -4229,6 +4167,72 @@
     "JNJ"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T01:01:49Z",
+   "news_id": 131754029,
+   "headline": "Jefferies Analyst Thomas Chong Initiates Bullish Rating on Zhihu",
+   "url": "https://www.moomoo.com/ja/news/post/1005906307/jefferies-initiates-zhihu-zhus-with-buy-rating-announces-target-price",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ZH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T01:01:34Z",
+   "news_id": 131754020,
+   "headline": "Citi Presents 2026 Distinguished Alumni Award",
+   "url": "https://www.manilatimes.net/2026/11/27/tmt-newswire/gsis-chief-wick-veloso-honored-by-citi-hsbc-for-leadership-and-achievements/2478614",
+   "source": "fiscal.ai",
+   "symbols": [
+    "C"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T01:01:30Z",
+   "news_id": 131754016,
+   "headline": "Wall Street Analysts Update Ratings and Price Targets for Dell Technologies",
+   "url": "https://www.moomoo.com/news/post/1005908732/a-quick-look-at-today-s-ratings-for-dell-technologies",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DELL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T01:01:26Z",
+   "news_id": 131754015,
+   "headline": "ExxonMobil Files Disclosure Regarding Threshold Crossing in Esso S.A.F.",
+   "url": "https://www.globenewswire.com/news-release/2026/11/26/3411020/0/fr/communiqu%C3%A9-relatif-au-d%C3%A9p%C3%B4t-d-un-projet-d-offre-publique-d-achat-simplifi%C3%A9e.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "XOM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T01:01:24Z",
+   "news_id": 131754014,
+   "headline": "MegazoneCloud Launches Amazon Quick Center of Excellence",
+   "url": "https://aithority.com/machine-learning/megazonecloud-launches-its-amazon-quick-center-of-excellence-to-turn-enterprise-data-into-autonomous-action/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AMZN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T01:01:20Z",
+   "news_id": 131754013,
+   "headline": "JPMorgan Chase & Co. Discloses Holding in Vistry Group PLC",
+   "url": "https://www.investegate.co.uk/announcement/rns/vistry-group--vty/holding-s-in-company/9896431",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JPM"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4354,15 +4358,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T00:14:53Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-25T00:22:23Z",
    "fetched": 0,
@@ -6153,10 +6148,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T01:07:13Z",
+   "fetched": 28,
+   "news": 6,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1008
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T00:52:17Z",
+ "updated_at": "2026-11-27T01:07:13Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6169,10 +6173,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99492.29,
+  "equity": 99519.2,
   "cash": 84552.88,
   "last_equity": 99492.29055690177,
-  "buying_power": 380041.87
+  "buying_power": 380117.22
  },
  "pending": 3,
  "positions": [
@@ -6192,10 +6196,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 164.53,
-   "market_value": 5089.404688,
-   "unrealized_pl": 117.854688,
-   "unrealized_plpc": 0.02371,
+   "current_price": 165.4,
+   "market_value": 5116.316389,
+   "unrealized_pl": 144.766389,
+   "unrealized_plpc": 0.02912,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
