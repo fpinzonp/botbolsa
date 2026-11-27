@@ -1211,20 +1211,13 @@
   {
    "t": "2026-11-27T20:22:18Z",
    "v": 100087.48
+  },
+  {
+   "t": "2026-11-27T20:37:15Z",
+   "v": 100129.6
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T03:01:35Z",
-   "news_id": 131758180,
-   "headline": "Oil Sands Alliance Evaluates Impact of New Federal Tax Deduction on Pathways Carbon Capture Project",
-   "url": "https://energynow.ca/2026/09/ottawas-new-mega-deduction-could-help-unlock-pathways-carbon-capture-project-oil-sands-alliance-says/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IMO"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T03:01:34Z",
    "news_id": 131758179,
@@ -4603,6 +4596,17 @@
     "COST"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T20:31:30Z",
+   "news_id": 132242744,
+   "headline": "Companhia Siderúrgica Nacional Appoints New CFO and Investor Relations Officer",
+   "url": "https://www.marketscreener.com/news/companhia-siderurgica-nacional-announces-chief-financial-officer-changes-effective-december-1-2026-ce7851d9df89f422",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SID"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4798,15 +4802,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T20:07:19Z",
-   "fetched": 10,
-   "news": 10,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 1241
-  },
   {
    "t": "2026-11-25T20:22:19Z",
    "fetched": 0,
@@ -6597,10 +6592,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T20:37:15Z",
+   "fetched": 1,
+   "news": 1,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 649
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T20:22:18Z",
+ "updated_at": "2026-11-27T20:37:15Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6613,10 +6617,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100087.48,
+  "equity": 100129.6,
   "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 335772.65
+  "buying_power": 335891.32
  },
  "pending": 0,
  "positions": [
@@ -6636,10 +6640,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.197,
-   "market_value": 5171.90297,
-   "unrealized_pl": 200.35297,
-   "unrealized_plpc": 0.0403,
+   "current_price": 167.2037,
+   "market_value": 5172.110221,
+   "unrealized_pl": 200.560221,
+   "unrealized_plpc": 0.04034,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6647,10 +6651,10 @@
    "crypto": false,
    "qty": 96.179141812,
    "avg_entry_price": 51.97,
-   "current_price": 51.9917,
-   "market_value": 5000.517087,
-   "unrealized_pl": 2.087087,
-   "unrealized_plpc": 0.00042,
+   "current_price": 51.86,
+   "market_value": 4987.850294,
+   "unrealized_pl": -10.579706,
+   "unrealized_plpc": -0.00212,
    "opened_at": "2026-11-27T17:07:17Z"
   },
   {
@@ -6658,10 +6662,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 51.92,
-   "market_value": 5080.847899,
-   "unrealized_pl": 105.687899,
-   "unrealized_plpc": 0.02124,
+   "current_price": 52.1,
+   "market_value": 5098.462549,
+   "unrealized_pl": 123.302549,
+   "unrealized_plpc": 0.02478,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6680,10 +6684,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 171.7038,
-   "market_value": 5138.473673,
-   "unrealized_pl": 163.313658,
-   "unrealized_plpc": 0.03283,
+   "current_price": 171.8,
+   "market_value": 5141.352591,
+   "unrealized_pl": 166.192576,
+   "unrealized_plpc": 0.0334,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6691,10 +6695,10 @@
    "crypto": false,
    "qty": 5.077693573,
    "avg_entry_price": 984.389847,
-   "current_price": 992.06,
-   "market_value": 5037.376686,
-   "unrealized_pl": 38.946687,
-   "unrealized_plpc": 0.00779,
+   "current_price": 994.04,
+   "market_value": 5047.430519,
+   "unrealized_pl": 49.00052,
+   "unrealized_plpc": 0.0098,
    "opened_at": "2026-11-27T16:07:16Z"
   },
   {
@@ -6702,10 +6706,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 398.5431,
-   "market_value": 5110.685054,
-   "unrealized_pl": 135.525045,
-   "unrealized_plpc": 0.02724,
+   "current_price": 398.4734,
+   "market_value": 5109.791262,
+   "unrealized_pl": 134.631253,
+   "unrealized_plpc": 0.02706,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6713,10 +6717,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 66.88,
-   "market_value": 4964.505493,
-   "unrealized_pl": -10.654535,
-   "unrealized_plpc": -0.00214,
+   "current_price": 66.81,
+   "market_value": 4959.30939,
+   "unrealized_pl": -15.850638,
+   "unrealized_plpc": -0.00319,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6724,10 +6728,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.36,
-   "market_value": 5031.653111,
-   "unrealized_pl": 56.493111,
-   "unrealized_plpc": 0.01136,
+   "current_price": 13.44,
+   "market_value": 5061.782771,
+   "unrealized_pl": 86.622771,
+   "unrealized_plpc": 0.01741,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
