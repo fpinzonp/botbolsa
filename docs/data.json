@@ -1103,449 +1103,13 @@
   {
    "t": "2026-11-27T13:52:22Z",
    "v": 99596.81
+  },
+  {
+   "t": "2026-11-27T14:07:13Z",
+   "v": 99586.33
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T14:31:30Z",
-   "news_id": 131336291,
-   "headline": "Zurich City Council Prepares Counter-Proposal to Airbnb Regulation Initiative",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/stadt-zuerich-zahlt-immer-mehr-business-apartments-1036802778",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ABNB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:31:28Z",
-   "news_id": 131336290,
-   "headline": "State Street Global Advisors Discloses Dealings in DCC Energy plc",
-   "url": "https://newsfilter.io/articles/form-8-3-dcc-energy-plc-41cefbd534a552eab451bb2454e56fc9",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:31:27Z",
-   "news_id": 131336289,
-   "headline": "Visa Releases 2026 Holiday Spending Shift Survey for Canada",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410758/0/fr/cette-ann%C3%A9e-les-canadiens-veulent-en-avoir-pour-leur-argent-aux-f%C3%AAtes-mais-les-exp%C3%A9riences-et-les-%C3%A9v%C3%A9nements-sont-en-haut-de-leur-liste-de-souhaits-une-%C3%A9tude-visa.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "V"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:31:24Z",
-   "news_id": 131336288,
-   "headline": "Moloco Selects JPMorgan Chase and Goldman Sachs for IPO",
-   "url": "https://stockanalysis.com/private/moloco/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JPM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T15:01:21Z",
-   "news_id": 131352846,
-   "headline": "Unilever Hellas Adopts ENTERSOFTONE IMPACT for B2B E-Invoicing",
-   "url": "https://www.euro2day.gr/amp/news/enterprises/article/2382035/unilever-hellas-synergasia-me-thn-entersoftone-imp.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T15:31:48Z",
-   "news_id": 131369443,
-   "headline": "UBS Reaffirms Commitment to Strategy and Global Footprint",
-   "url": "https://www.marketscreener.com/news/ubs-says-fully-committed-to-strategy-global-footprint-ce7851d8d08ef620",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UBS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T15:31:39Z",
-   "news_id": 131369442,
-   "headline": "Deutsche Bank Releases Capital Market Outlook 2027",
-   "url": "https://www.finanzen.at/nachrichten/aktien/deutsche-bank-projects-broadly-constructive-capital-market-environment-in-2027-1036802906",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T15:31:30Z",
-   "news_id": 131369438,
-   "headline": "Subsea 7 Secures Contract Extension from Equinor for Seven Viking",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410783/0/en/subsea7-awarded-contract-extension-offshore-norway.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EQNR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T15:31:27Z",
-   "news_id": 131369437,
-   "headline": "Airbus Divests Florida Manufacturing Facility",
-   "url": "https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Corporations/Airbus",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AIR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T15:31:23Z",
-   "news_id": 131369436,
-   "headline": "TotalEnergies CEO to Co-Chair 10th Paris Conference",
-   "url": "https://www.prnewswire.com/fr/communiques-de-presse/la-conference-de-paris-2026-reunira-les-decideurs-internationaux-autour-du-theme--de-lincertitude-a-laction--302950726.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TTE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:01:49Z",
-   "news_id": 131386373,
-   "headline": "Duke Energy Responds to Power Outages Caused by Thanksgiving Week Storms",
-   "url": "https://hoodline.com/2026/11/thousands-lose-power-across-upstate-western-nc-after-stormy-night/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DUK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:01:48Z",
-   "news_id": 131386372,
-   "headline": "Arthur J. Gallagher & Co. Operational and Integration Update",
-   "url": "https://www.barchart.com/story/news/9019260/arthur-j-gallagher-stock-analyst-estimates-ratings",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AJG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:01:46Z",
-   "news_id": 131386371,
-   "headline": "Amazon Announces Quick Sight Upgrade and Autonomous Workload Build Capabilities",
-   "url": "https://aithority.com/machine-learning/megazonecloud-launches-its-amazon-quick-center-of-excellence-to-turn-enterprise-data-into-autonomous-action/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMZN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:01:45Z",
-   "news_id": 131386370,
-   "headline": "Moody's Maintains NVIDIA's Aa1 Rating and Stable Outlook",
-   "url": "https://www.finanzen.at/nachrichten/aktien/nvidia-aktie-unter-beobachtung-s&p-zweifelt-am-verwaltungsrat-moodys-halt-still-1036802240",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MCO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:01:37Z",
-   "news_id": 131386369,
-   "headline": "Target Addresses Pricing Transparency and App Functionality",
-   "url": "https://www.milwaukeeindependent.com/featured/u-s-retail-expansion-ai-assisted-pricing-tools-accelerates-consumer-alarm-price-gouging/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TGT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:01:32Z",
-   "news_id": 131386367,
-   "headline": "JPMorgan Chase & Co. Discloses Change in Voting Rights for Delivery Hero SE",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-delivery-hero-se-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036803459",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JPM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:01:32Z",
-   "news_id": 131386366,
-   "headline": "JPMorgan Chase & Co. Reduces Stake in Gamma Communications PLC",
-   "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/holding-s-in-company/9895474",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JPM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:32:08Z",
-   "news_id": 131404301,
-   "headline": "Atos Partners with Scaleway for Sovereign Cloud Deployment",
-   "url": "https://www.abcbourse.com/marches/atos-et-scaleway-s-associent-pour-accelerer-le-deploiement-de-clouds-souverains_706723",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ATO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:32:02Z",
-   "news_id": 131404290,
-   "headline": "Stabilus SE Announces Web Conference for FY2026 Results",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-stabilus-se-invitation-to-a-web-conference-on-fy2026-results-on-december-7-2026-1036802366",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:31:50Z",
-   "news_id": 131403678,
-   "headline": "Ferrari Advances Ocean Sailing Challenge Initiative",
-   "url": "https://www.milanofinanza.it/news/ferrari-hypersail-il-monoscafo-volante-di-100-piedi-che-sfidera-gli-oceani-senza-combustibili-202611261648369086",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RACE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:31:36Z",
-   "news_id": 131403665,
-   "headline": "Barclays Releases UK SME Borrowing Index Report",
-   "url": "https://news.europawire.eu/barclays-reports-recovery-in-uk-small-business-lending-as-delayed-investment-rolls-into-2027/eu-press-release/2026/11/26/14/49/04/189816/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BCS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:31:31Z",
-   "news_id": 131403659,
-   "headline": "Adtran Networks SE Issues Voting Rights Announcement",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-adtran-networks-se-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036798892",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ADV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:31:28Z",
-   "news_id": 131403657,
-   "headline": "Jefferies Maintains 'Buy' Rating for Basler AG",
-   "url": "https://www.finanzen.ch/analyse/basler-buy-1123407",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BSL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:31:26Z",
-   "news_id": 131403656,
-   "headline": "UBS Lowers Price Target for EssilorLuxottica",
-   "url": "https://www.finanzen.ch/analyse/essilorluxottica-buy-1123428",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T16:31:18Z",
-   "news_id": 131403655,
-   "headline": "HSBC's Hong Kong Dollar Stablecoin 'RedCoin' Reaches 100,000 Users",
-   "url": "https://www.newsnow.co.uk/h/Industry+Sectors/Banking/UK+and+Ireland/HSBC",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HSBC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:02:24Z",
-   "news_id": 131423207,
-   "headline": "Canadian Officials and Union Demand Carbon Tax Exemption to Save Stellantis Brampton Plant",
-   "url": "https://www.morningstar.com/news/dow-jones/202611263053/canada-faces-demand-to-exempt-automakers-from-carbon-tax",
-   "source": "fiscal.ai",
-   "symbols": [
-    "STLA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:02:13Z",
-   "news_id": 131423202,
-   "headline": "BlackRock, Inc. Increases Voting Rights in Brenntag SE",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-brenntag-se-veroeffentlichung-gemass-%C2%A7-40-abs-1-wphg-mit-dem-ziel-der-europaweiten-verbreitung-1036803024",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BNR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:02:08Z",
-   "news_id": 131422532,
-   "headline": "Irish High Court Rejects Scheme of Arrangement for BAWAG Group's Acquisition of Permanent TSB",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70239259-pta-adhoc-bawag-group-ag-irisches-high-court-genehmigt-scheme-of-arrangement-nicht-015.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:01:59Z",
-   "news_id": 131422528,
-   "headline": "Billerud No Longer Subject to Public Short Selling",
-   "url": "https://www.avanza.se/nyheter.html?a=%2Ftelegram%2Favanza%2F16_fcbc5241-9ce3-43be-b692-4c9dfe778d85",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BILL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:01:55Z",
-   "news_id": 131422526,
-   "headline": "Banco Macro Announces Results for the Third Quarter of 2026",
-   "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Ftelegram%2Favanza%2F17_9711c87e-7dd9-4dcd-9f96-4515e2982b19",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BMA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:01:51Z",
-   "news_id": 131422522,
-   "headline": "Morgan Stanley Reports Change in Voting Rights in AT&S",
-   "url": "https://www.finanzen.at/nachrichten/aktien/eqs-pvr-at&s-austria-technologie-&-systemtechnik-ag-veroeffentlichung-gemass-%C2%A7-135-abs-2-boerseg-mit-dem-ziel-der-europaweiten-verbreitung-1036803408",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ATS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:01:47Z",
-   "news_id": 131422513,
-   "headline": "Credem Receives Annual SREP Capital Requirement from ECB",
-   "url": "https://www.milanofinanza.it/news/la-bce-da-i-voti-alle-banche-italiane-ed-europee-ecco-i-risultati-degli-esami-annuali-srep-202611261611494042",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:01:38Z",
-   "news_id": 131422505,
-   "headline": "Technip Energies Joins MSGBC Oil, Gas & Power 2026 as Silver Sponsor",
-   "url": "https://africa.com/apo/technip-energies-expands-role-in-west-africas-energy-push-at-msgbc-2026-as-silver-sponsor",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:01:35Z",
-   "news_id": 131422500,
-   "headline": "Gerdau Receives 2026 Procurement Success Award",
-   "url": "https://moneycompass.com.my/cn/pss2026%E4%BA%9A%E5%A4%AA%E5%8D%93%E8%B6%8A%E9%87%87%E8%B4%AD%E5%B3%B0%E4%BC%9A%E5%9C%A8%E4%B8%8A%E6%B5%B7%E4%B8%BE%E8%A1%8C%EF%BC%8C%E6%B1%87%E8%81%9A850%E4%BD%99%E4%BD%8D%E5%85%A8%E7%90%83%E9%87%87/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GGB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:01:34Z",
-   "news_id": 131422499,
-   "headline": "Indra Group Unveils Forward2030 Strategic Plan",
-   "url": "https://sciencebusiness.net/network-updates/indra-group-presents-strategic-plan-reinforcing-its-dual-use-leadership",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IDR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:01:31Z",
-   "news_id": 131422497,
-   "headline": "Suzano Launches 'Pode Contar' Initiative to Enhance Rural Supply Chain Risk Management",
-   "url": "https://www.businesswire.com/news/home/20261126705544/en/ILO-UN-Global-Compact-CONTAR-and-Suzano-Launch-Initiative-That-Turns-Workers-Voices-Into-Intelligence-for-Managing-and-Preventing-Risks-in-Rural-Supply-Chains",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SUZ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:01:31Z",
-   "news_id": 131422496,
-   "headline": "BlackRock Increases Voting Rights in Continental AG",
-   "url": "https://live.deutsche-boerse.com/news/EQS-PVR-Continental-AG-Release-according-to-Article-40-Section-1-of-the-WpHG-the-German-Securities-Trading-Act-with-the-objective-of-Europe-wide-distribution-f0c20d98-aed2-471a-913b-fb444525585c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CON"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:01:19Z",
-   "news_id": 131422494,
-   "headline": "Sandy & Junior Announce Residency at Nubank Parque",
-   "url": "https://gente.ig.com.br/colunas/lobianco/2026-11-26/globo-especial-sandy-jr.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NU"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:32:55Z",
-   "news_id": 131443712,
-   "headline": "Dole plc Launches Co-Branded 'Little Prince' Banana Product in China",
-   "url": "https://www.moomoo.com/stock/DOLE-US?chain_id=Name1K9-3FXPhg.1l1njj0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A64,%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2F%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5-nysp-103267505%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DOLE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:31:46Z",
-   "news_id": 131442989,
-   "headline": "Norges Bank Discloses 9.02% Voting Rights Stake in Grainger plc",
-   "url": "https://www.investegate.co.uk/announcement/rns/grainger--gri/holding-s-in-company/9895803",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GRI"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T17:31:46Z",
    "news_id": 131442987,
@@ -4477,6 +4041,446 @@
     "SKHY"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T14:05:04Z",
+   "news_id": 131911756,
+   "headline": "CopperCorp Provides Update on Proposed Sale of the Skyline Copper-Gold Project",
+   "url": "https://www.newsfilecorp.com/release/325978/CopperCorp-Provides-Update-on-Proposed-Sale-of-the-Skyline-CopperGold-Project",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CPER"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:44Z",
+   "news_id": 131911018,
+   "headline": "Q/C Technologies Reports Quarterly Financial Results",
+   "url": "https://www.moomoo.com/stock/QCLS-US?chain_id=Name1K9-3FXPhg.1lg4c40&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FSBSW-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "QCLS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:32Z",
+   "news_id": 131911012,
+   "headline": "Western Metallica Resources Corp. Extends Exclusivity and Revises Terms for Nueva Celti Copper Project Sale",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411089/0/en/improved-terms-for-nueva-celti-option-agreement.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WMS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:27Z",
+   "news_id": 131911004,
+   "headline": "Freedom Gold Corp. Announces Extension and Amendment of Flow-Through Offering and Extension of Unit Offering",
+   "url": "https://www.barchart.com/press-releases/9013572/freedom-gold-corp-announces-extension-and-amendment-of-ft-offering-and-extension-of-unit-offering",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FRDM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:23Z",
+   "news_id": 131910994,
+   "headline": "Maxim Group Downgrades Kyntra Bio to Hold; Oppenheimer Adjusts Price Target",
+   "url": "https://www.moomoo.com/stock/KYNB-US?chain_id=Name1K9-3FXPhg.1l5lgg0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A120%2C%22f%22%3A%22www.moomoo.com%2Findex%2F.CBTX-US%2Foptions-chain%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KYNB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:14Z",
+   "news_id": 131910976,
+   "headline": "Kodiak AI CEO Don Burnette Purchases 2 Million Shares",
+   "url": "https://www.moomoo.com/stock/KDK-US?chain_id=Name1K9-3FXPhg.1l0i180&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fhans%2Fetfs%2FDIVN-US%2Fnews%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KDK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:14Z",
+   "news_id": 131910974,
+   "headline": "Adelphi Metals Inc. Closes Non-Brokered Private Placement",
+   "url": "https://www.thenewswire.com/press-releases/1AD4Fp6N9-adelphi-metals-closes-private-placement.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ADP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:12Z",
+   "news_id": 131910970,
+   "headline": "Rocky Mountain Liquor Inc. Reports Financial Results for the Third Quarter and Nine Months Ended September 30, 2026",
+   "url": "https://www.accessnewswire.com/newsroom/en/food-and-beverage-products/rum-reports-quarterly-financial-results-for-september-30-2026-1257362",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RUM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:09Z",
+   "news_id": 131910963,
+   "headline": "Visionstate Announces Leadership Transition and Board Appointments",
+   "url": "https://www.newsfilecorp.com/release/325613/Visionstate-Announces-Leadership-Transition-and-Board-Appointments-to-Accelerate-Commercial-Growth",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VIS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:05Z",
+   "news_id": 131910957,
+   "headline": "Panther Minerals Inc. Adopts Semi-Annual Financial Reporting",
+   "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/panther-minerals-adopts-semi-annual-reporting-1351967",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PURR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:02Z",
+   "news_id": 131910951,
+   "headline": "Republic Technologies Inc. Partners with FalconX to Support Ethereum Validator Operations",
+   "url": "https://stockanalysis.com/private/falconx/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DOCT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:04:01Z",
+   "news_id": 131910948,
+   "headline": "Scilex Holding Company Receives Nasdaq Non-Compliance Notice Regarding Delayed Q3 2026 Form 10-Q",
+   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410613/0/en/scilex-holding-company-announces-receipt-of-notice-from-nasdaq.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SCLX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:55Z",
+   "news_id": 131910281,
+   "headline": "Benton Resources Acquires Strategic Land for Dominion Project",
+   "url": "https://www.newsfilecorp.com/release/326112/Benton-Acquires-Additional-Strategic-Land-Within-Its-Dominion-GoldBase-Metal-Project-Newfoundland",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BEX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:53Z",
+   "news_id": 131910274,
+   "headline": "Atlas Engineered Products Secures $3.6 Million Conditional Loan for Ontario Robotics Facility",
+   "url": "https://www.newswire.ca/news-releases/atlas-engineered-products-announces-provincial-grant-872264398.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AEP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:52Z",
+   "news_id": 131910269,
+   "headline": "WidePoint Coverage Assumed by HC Wainwright & Co. at Buy",
+   "url": "https://www.moomoo.com/hant/news/post/1006007214",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WYY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:47Z",
+   "news_id": 131910257,
+   "headline": "Predictiv AI Inc. Announces Resignation of Independent Director Rob Barlow",
+   "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/predictiv-ai-announces-change-to-board-of-directors-1394601",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PAI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:46Z",
+   "news_id": 131910254,
+   "headline": "AirIQ Inc. Reports Financial Results for the Three and Six Months Ended September 30, 2026",
+   "url": "https://www.accessnewswire.com/newsroom/en/government/airiq-announces-september-30-2026-quarterly-results-1341783",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IQ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:39Z",
+   "news_id": 131910246,
+   "headline": "PetMeds Adopts Tax Benefit Preservation Plan",
+   "url": "https://www.morningstar.com/news/globe-newswire/9885406/petmeds-adopts-tax-benefit-preservation-plan",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PETS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:36Z",
+   "news_id": 131910243,
+   "headline": "Shore Capital Markets Upgrades tinyBuild to Hold",
+   "url": "https://www.marketscreener.com/news/shore-capital-markets-upgrades-tinybuild-to-hold-ce7851d8d08fff23",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TBLD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:36Z",
+   "news_id": 131910242,
+   "headline": "Power Probe Issues Trading Update Ahead of FY26 Year-End",
+   "url": "https://shareprophets.com/news/89481/power-probe-pwr-warns-trading-in-the-groups-core-us-market-has-been-softer-than-anticipated-during-the-second-half-with-conditions-becoming-more-challenging-in-q4",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PWR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:27Z",
+   "news_id": 131910234,
+   "headline": "Huntington Securities Adjusts Price Target on Chiron Real Estate",
+   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-chiron-real-estate-to-31-from-34-maintains-market-perform-rati-ce7851d9dd80f121",
+   "source": "fiscal.ai",
+   "symbols": [
+    "XRN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:26Z",
+   "news_id": 131910233,
+   "headline": "Barranco Gold Mining Corp. Completes Second and Final Tranche of Flow-Through Private Placement",
+   "url": "https://www.newswire.ca/news-releases/barranco-gold-mining-completes-second-tranche-of-flow-through-offering-892359859.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:25Z",
+   "news_id": 131910231,
+   "headline": "Aterian Signs Due Diligence and Exclusivity Agreement for Morocco Copper Projects",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/aterian-schliesst-due-diligence-und-exklusivitaetsvereinbarung-fuer-kupferprojekte-in-marokko-ce7851d8de8ff524",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ATER"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:25Z",
+   "news_id": 131910230,
+   "headline": "Draganfly CEO Cameron Chell Appointed to LUNR Aerospace Board of Directors",
+   "url": "https://www.accessnewswire.com/newsroom/en/aerospace-and-defense/lunr-aerospace-appoints-draganfly-ceo-cameron-chell-to-board-of-directors-1255987",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DPRO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:21Z",
+   "news_id": 131910228,
+   "headline": "LUNR Aerospace Appoints Cameron Chell to Board of Directors",
+   "url": "https://newsfilter.io/articles/lunr-aerospace-appoints-draganfly-ceo-cameron-chell-to-board-of-directors-be910be3dda5517f91d48abd031bacc1",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FLY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:17Z",
+   "news_id": 131910225,
+   "headline": "Railtown AI Introduces Model Evaluation Technology to Help Reduce Inference Costs and Expand Model Choice",
+   "url": "https://www.newsfilecorp.com/release/326088/Railtown-AI-Introduces-Model-Evaluation-Technology-to-Help-Reduce-Inference-Costs-and-Expand-Model-Choice",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RAIL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:14Z",
+   "news_id": 131910223,
+   "headline": "B. Riley Initiates Coverage on N-able With Buy Rating",
+   "url": "https://www.marketscreener.com/news/b-riley-initiates-coverage-on-n-able-with-buy-rating-8-price-target-ce7851d9df8ffe25",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NABL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:11Z",
+   "news_id": 131910219,
+   "headline": "Weight Watchers Announces Results of Discounted Term Loan Prepayment Solicitation",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411169/0/en/weight-watchers-announces-results-of-discounted-term-loan-prepayment-solicitation-retiring-16-3-million-in-debt-for-10-million.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:11Z",
+   "news_id": 131910218,
+   "headline": "Nations Royalty Corp. Reports Q2 Fiscal 2027 Results and Appoints New Board Chair",
+   "url": "https://www.newsfilecorp.com/release/326068/Nations-Royalty-Reports-Second-Quarter-Fiscal-2027-Results-and-Announces-Alex-Morrison-as-Chair-of-the-Board-of-Directors",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NRC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:03:09Z",
+   "news_id": 131910217,
+   "headline": "Sierra Madre Gold and Silver Targets 1,200 to 1,500 Tonnes Per Day Production",
+   "url": "https://ucapital.com/en/news/breaking/17849063",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:02:54Z",
+   "news_id": 131910204,
+   "headline": "Eco (Atlantic) Oil & Gas Ltd. Announces Investor Presentation",
+   "url": "https://www.morningstar.com/news/accesswire/1362689msn/eco-atlantic-oil-and-gas-ltd-announces-investor-presentation-via-investor-meet-company",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EOG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:02:54Z",
+   "news_id": 131910203,
+   "headline": "Lucid Capital Adjusts Price Target for ASP Isotopes",
+   "url": "https://www.moomoo.com/ja/news/post/1005911686/lucid-capital-maintains-asp-isotopes-aspius-with-buy-rating-cuts",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ASPI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:02:53Z",
+   "news_id": 131910201,
+   "headline": "Bleichmar Fonti & Auld LLP Investigates Cardinal Infrastructure Group, Inc. for Potential Securities Violations",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411136/0/en/cdnl-legal-news-cardinal-infrastructure-faces-securities-investigation-after-project-issues-spark-62-stock-drop-investors-notified-to-contact-bfa-law.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CDNL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:02:44Z",
+   "news_id": 131909628,
+   "headline": "CION Investment Corporation Dividend Declaration",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70241968-dividendenbekanntmachungen-27-11-2026-035.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CION"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:02:43Z",
+   "news_id": 131909627,
+   "headline": "TaskUs Faces Labor Concerns Over Restructuring and AI-Driven Downsizing",
+   "url": "https://scitechanddigital.news/2026/11/27/bpo-workers-threaten-national-day-to-disconnect-protest-saturday-over-ai-job-cuts/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TASK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:02:41Z",
+   "news_id": 131909626,
+   "headline": "FalconX Closes First Bitcoin-Backed Financing from Cantor",
+   "url": "https://stockanalysis.com/private/falconx/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CEPO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:02:41Z",
+   "news_id": 131909625,
+   "headline": "Entrée Resources Provides Operational Update and Hugo North Extension Drill Results",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411184/0/en/entr%C3%A9e-resources-provides-update-on-outstanding-license-matters-and-announces-additional-hugo-north-extension-drill-results.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ETG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:02:40Z",
+   "news_id": 131909624,
+   "headline": "Kodak-Branded SlideTag Item Locator Launched",
+   "url": "https://www.techtimes.vn/kodak-ra-mat-slidetag-bo-dinh-vi-vat-dung-co-man-hinh-e-ink/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KODK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:02:33Z",
+   "news_id": 131909622,
+   "headline": "Riley Downgrades Capricor Therapeutics to Neutral",
+   "url": "https://www.moomoo.com/hans/news/post/1005487764/b-riley-downgrades-capricor-therapeutics-to-neutral-from-buy",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CAPR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:02:31Z",
+   "news_id": 131909621,
+   "headline": "Temu Commits to Aligning Commercial Practices with EU Consumer Protection Laws",
+   "url": "https://www.moomoo.com/stock/PDD-US?chain_id=Name1K9-3FXPhg.1lgil50&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FPDD-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PDD"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4602,15 +4606,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T12:52:15Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-25T13:07:21Z",
    "fetched": 77,
@@ -6401,10 +6396,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T14:07:13Z",
+   "fetched": 242,
+   "news": 40,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 4248
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T13:52:22Z",
+ "updated_at": "2026-11-27T14:07:13Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6417,10 +6421,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99596.81,
+  "equity": 99586.33,
   "cash": 84552.88,
   "last_equity": 99492.29055690177,
-  "buying_power": 380334.53
+  "buying_power": 380305.17
  },
  "pending": 4,
  "positions": [
@@ -6440,10 +6444,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.909,
-   "market_value": 5193.927258,
-   "unrealized_pl": 222.377258,
-   "unrealized_plpc": 0.04473,
+   "current_price": 167.57,
+   "market_value": 5183.440975,
+   "unrealized_pl": 211.890975,
+   "unrealized_plpc": 0.04262,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
