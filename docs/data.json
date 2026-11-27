@@ -1219,73 +1219,13 @@
   {
    "t": "2026-11-27T20:52:17Z",
    "v": 100077.26
+  },
+  {
+   "t": "2026-11-27T21:07:14Z",
+   "v": 100104.78
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T03:01:34Z",
-   "news_id": 131758179,
-   "headline": "NASA Takes Ownership of X-59 Supersonic Aircraft",
-   "url": "https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LMT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T03:01:34Z",
-   "news_id": 131758178,
-   "headline": "Synopsys Launches EPIC HPC Scale-Up Program in India",
-   "url": "https://www.openpr.com/news/categories2-9-Associations-Organizations.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SNPS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T03:01:28Z",
-   "news_id": 131758177,
-   "headline": "Dana Prepares to Combine with Eaton's Mobility Business",
-   "url": "https://manufacturingdigital.com/news/manufacturing-executive-appointments-in-november-2026",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ETN"
-   ],
-   "signals": [
-    {
-     "symbol": "ETN",
-     "action": "buy",
-     "confidence": 0.65,
-     "impact": "medium",
-     "rationale": "La combinación de Dana con el negocio de movilidad de Eaton indica una posible sinergia y expansión de mercado que podría impulsar el precio en el corto plazo.",
-     "outcome": "Ignorada: confianza 65% < 75%"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-27T03:01:24Z",
-   "news_id": 131758176,
-   "headline": "Cisco Named Premier Sponsor of OpenSSL",
-   "url": "https://cybermagazine.com/news/openssl-cryptography-that-secures-most-internet-websites",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CSCO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T07:02:24Z",
-   "news_id": 131769257,
-   "headline": "Customer Adopts Digital-First Production Model with Investment in Kornit Digital's Apollo",
-   "url": "https://www.streetinsider.com/Press+Releases?before_id=26087212",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KRNT"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T07:01:44Z",
    "news_id": 131769172,
@@ -4611,6 +4551,61 @@
     "SID"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T21:01:43Z",
+   "news_id": 132271280,
+   "headline": "Embraer Opposes Proposed US Tariff on Brazilian Aircraft",
+   "url": "https://www.manilatimes.net/2026/11/28/business/foreign-business/embraer-warns-trump-tariffs-to-affect-us-airfares/2479249",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EMBJ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:01:43Z",
+   "news_id": 132271279,
+   "headline": "Embraer Engineer Accepted to Present Aviation Safety Research at AIAA Forum",
+   "url": "https://dino.ig.com.br/2026-11-27/ester-quintino-leva-pesquisa-em-seguranca-aerea-a-aiaa.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EMBJ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:01:42Z",
+   "news_id": 132271278,
+   "headline": "LATAM Airlines Completes First E195-E2 Flight",
+   "url": "https://www.newsnow.com/us/World/Latin+America",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LTM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:01:37Z",
+   "news_id": 132271276,
+   "headline": "Ambev Partners with ABRAPE for the 2026 Sustainability Award (PRESE)",
+   "url": "https://brasilagoraonline.com.br/noticias/2026/11/pedro-leopoldo-rodeio-show-experience-vence-o-prese-2026-e-leva-projeto-social-de-minas-ao-sxsw-2027/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ABEV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T21:01:30Z",
+   "news_id": 132271275,
+   "headline": "Generali and World Tennis Sign Expanded Multi-Year Partnership",
+   "url": "https://www.prnewswire.com/news-releases/world-tennis-and-generali-seal-new-expanded-partnership-to-power-global-participation-302951873.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "G"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4806,15 +4801,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T20:37:14Z",
-   "fetched": 5,
-   "news": 5,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 937
-  },
   {
    "t": "2026-11-25T20:52:17Z",
    "fetched": 0,
@@ -6605,10 +6591,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T21:07:14Z",
+   "fetched": 6,
+   "news": 5,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 937
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T20:52:17Z",
+ "updated_at": "2026-11-27T21:07:14Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6621,10 +6616,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100077.26,
+  "equity": 100104.78,
   "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 335741.31
+  "buying_power": 335818.6
  },
  "pending": 0,
  "positions": [
@@ -6644,10 +6639,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.29,
-   "market_value": 5174.779738,
-   "unrealized_pl": 203.229738,
-   "unrealized_plpc": 0.04088,
+   "current_price": 167.24,
+   "market_value": 5173.233089,
+   "unrealized_pl": 201.683089,
+   "unrealized_plpc": 0.04057,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6666,10 +6661,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 51.91,
-   "market_value": 5079.869308,
-   "unrealized_pl": 104.709308,
-   "unrealized_plpc": 0.02105,
+   "current_price": 52.21,
+   "market_value": 5109.227057,
+   "unrealized_pl": 134.067057,
+   "unrealized_plpc": 0.02695,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6688,10 +6683,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 172.1,
-   "market_value": 5150.330506,
-   "unrealized_pl": 175.170491,
-   "unrealized_plpc": 0.03521,
+   "current_price": 172.05,
+   "market_value": 5148.834187,
+   "unrealized_pl": 173.674172,
+   "unrealized_plpc": 0.03491,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6710,10 +6705,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 398.8089,
-   "market_value": 5114.093519,
-   "unrealized_pl": 138.93351,
-   "unrealized_plpc": 0.02793,
+   "current_price": 398.7876,
+   "market_value": 5113.82038,
+   "unrealized_pl": 138.660371,
+   "unrealized_plpc": 0.02787,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6721,10 +6716,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 66.8,
-   "market_value": 4958.567089,
-   "unrealized_pl": -16.592939,
-   "unrealized_plpc": -0.00334,
+   "current_price": 66.82,
+   "market_value": 4960.05169,
+   "unrealized_pl": -15.108338,
+   "unrealized_plpc": -0.00304,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
