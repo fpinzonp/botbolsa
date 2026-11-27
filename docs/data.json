@@ -875,64 +875,13 @@
   {
    "t": "2026-11-26T23:52:16Z",
    "v": 99492.29
+  },
+  {
+   "t": "2026-11-27T00:07:15Z",
+   "v": 99492.29
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T09:01:23Z",
-   "news_id": 131247032,
-   "headline": "Dole Packaged Foods to Close Atwater, California Facility",
-   "url": "https://economia.ig.com.br/2026-11-25/empresa-fecha-unidade-e-anuncia-demissao-de-404-trabalhadores.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DOLE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T09:31:25Z",
-   "news_id": 131252810,
-   "headline": "Taobao Korea Monthly Active Users Surpass One Million",
-   "url": "https://www.moomoo.com/hans/stock/BABA-US/news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BABA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T09:31:25Z",
-   "news_id": 131252809,
-   "headline": "NetEase LingDong Partners with LiuGong for AI-Powered Unmanned Excavator",
-   "url": "https://www.prnewswire.com/news-releases/liugong-prasentiert-auf-der-bauma-china-2026-moderne-maschinen-und-intelligente-technologien-302951137.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NTES"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T09:31:19Z",
-   "news_id": 131252808,
-   "headline": "Norse Atlantic Airways Faces Potential Bankruptcy and Flight Suspension",
-   "url": "https://www.euro2day.gr/news/world/article/2382026/ston-aera-h-norse-atlantic-anastellei-tis-pthseis.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AER"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T10:03:31Z",
-   "news_id": 131259175,
-   "headline": "Alibaba Reduces Stake in ZTO Express",
-   "url": "https://www.moomoo.com/stock/800000-HK?chain_id=Name1K9-3FXPhg.1lgfpo0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2F03377-HK%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ZTO"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T10:02:08Z",
    "news_id": 131258966,
@@ -4213,6 +4162,61 @@
     "F"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T00:03:00Z",
+   "news_id": 131753664,
+   "headline": "BofA Securities Updates Bank of Montreal Rating and Price Target",
+   "url": "https://www.moomoo.com/stock/BMO-US?chain_id=Name1K9-3FXPhg.1lgg0p0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FCM-CA%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BMO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T00:01:52Z",
+   "news_id": 131753653,
+   "headline": "Reports Indicate McDonald's App Sending Unauthorized Notifications",
+   "url": "https://infosertecla.com/2026/11/26/reportan-apps-de-iphone-que-mandan-anuncios-por-live-activities/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MCD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T00:01:51Z",
+   "news_id": 131753652,
+   "headline": "Families File Lawsuit Against Uber Following Fatal Arizona Collision",
+   "url": "https://www.einpresswire.com/article/958529862/families-sue-uber-following-arizona-crash-that-killed-four-seriously-injured-child",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBER"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T00:01:38Z",
+   "news_id": 131753650,
+   "headline": "Investigation into Alleged Deliberate Methane Releases at Chevron Facilities",
+   "url": "https://www.finanznachrichten.de/nachrichten-aktien/chevron-corporation.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CVX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T00:01:37Z",
+   "news_id": 131753649,
+   "headline": "Johanna Mendez Appointed Global Procurement Director at Johnson & Johnson",
+   "url": "https://procurementmag.com/news/procurement-executive-appointments-in-november-2026",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JNJ"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4338,15 +4342,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-24T23:28:46Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-24T23:43:49Z",
    "fetched": 1,
@@ -6137,10 +6132,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T00:07:15Z",
+   "fetched": 6,
+   "news": 5,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 910
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-26T23:52:16Z",
+ "updated_at": "2026-11-27T00:07:15Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6158,7 +6162,7 @@
   "last_equity": 99492.29055690177,
   "buying_power": 380041.87
  },
- "pending": 4,
+ "pending": 3,
  "positions": [
   {
    "symbol": "AAT",

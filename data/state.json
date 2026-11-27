@@ -1,12 +1,6 @@
 {
- "news_cursor": "2026-11-26T23:02:32Z",
+ "news_cursor": "2026-11-27T00:03:00Z",
  "seen_ids": [
-  130370406,
-  130382887,
-  130382886,
-  130382465,
-  130382464,
-  130382463,
   130382462,
   130382461,
   130382460,
@@ -2000,7 +1994,13 @@
   131703140,
   131702288,
   131702287,
-  131702286
+  131702286,
+  131753664,
+  131753653,
+  131753652,
+  131753651,
+  131753650,
+  131753649
  ],
  "opened_at": {
   "BA": "2026-11-25T14:37:19Z",
@@ -2008,38 +2008,6 @@
   "AAT": "2026-11-25T14:37:19Z"
  },
  "pending": [
-  {
-   "news_id": 131239401,
-   "symbol": "JACK",
-   "action": "buy",
-   "confidence": 0.78,
-   "impact": "medium",
-   "rationale": "El aumento de participación de Hunter Group a 92.5% indica una fuerte confianza en Jacktel y un posible impulso al precio a corto plazo.",
-   "asset": {
-    "id": "3c65ddf0-1336-462d-bd58-fa43ccec3c4a",
-    "class": "us_equity",
-    "exchange": "NASDAQ",
-    "symbol": "JACK",
-    "name": "Jack In The Box Inc. Common Stock",
-    "status": "active",
-    "tradable": true,
-    "marginable": true,
-    "maintenance_margin_requirement": 30,
-    "margin_requirement_long": "30",
-    "margin_requirement_short": "30",
-    "shortable": true,
-    "easy_to_borrow": true,
-    "borrow_status": "easy_to_borrow",
-    "fractionable": true,
-    "attributes": [
-     "fractional_eh_enabled",
-     "has_options",
-     "overnight_tradable"
-    ]
-   },
-   "t": "2026-11-26T08:07:15Z",
-   "ref_price": 14.79
-  },
   {
    "news_id": 131284670,
    "symbol": "AFYA",
