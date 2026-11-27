@@ -1207,6 +1207,10 @@
   {
    "t": "2026-11-27T20:07:14Z",
    "v": 100069.98
+  },
+  {
+   "t": "2026-11-27T20:22:18Z",
+   "v": 100087.48
   }
  ],
  "decisions": [
@@ -4795,15 +4799,6 @@
  ],
  "runs": [
   {
-   "t": "2026-11-25T19:52:22Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
-  {
    "t": "2026-11-25T20:07:19Z",
    "fetched": 10,
    "news": 10,
@@ -6593,10 +6588,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 1024
+  },
+  {
+   "t": "2026-11-27T20:22:18Z",
+   "fetched": 0,
+   "news": 0,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 0
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T20:07:14Z",
+ "updated_at": "2026-11-27T20:22:18Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6609,10 +6613,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100069.98,
+  "equity": 100087.48,
   "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 335724.2
+  "buying_power": 335772.65
  },
  "pending": 0,
  "positions": [
@@ -6632,10 +6636,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.25,
-   "market_value": 5173.542418,
-   "unrealized_pl": 201.992418,
-   "unrealized_plpc": 0.04063,
+   "current_price": 167.197,
+   "market_value": 5171.90297,
+   "unrealized_pl": 200.35297,
+   "unrealized_plpc": 0.0403,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6654,10 +6658,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 51.7295,
-   "market_value": 5062.205728,
-   "unrealized_pl": 87.045728,
-   "unrealized_plpc": 0.0175,
+   "current_price": 51.92,
+   "market_value": 5080.847899,
+   "unrealized_pl": 105.687899,
+   "unrealized_plpc": 0.02124,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6676,10 +6680,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 171.71,
-   "market_value": 5138.659217,
-   "unrealized_pl": 163.499202,
-   "unrealized_plpc": 0.03286,
+   "current_price": 171.7038,
+   "market_value": 5138.473673,
+   "unrealized_pl": 163.313658,
+   "unrealized_plpc": 0.03283,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6698,10 +6702,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 398.49,
-   "market_value": 5110.004131,
-   "unrealized_pl": 134.844122,
-   "unrealized_plpc": 0.0271,
+   "current_price": 398.5431,
+   "market_value": 5110.685054,
+   "unrealized_pl": 135.525045,
+   "unrealized_plpc": 0.02724,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
