@@ -1023,163 +1023,13 @@
   {
    "t": "2026-11-27T08:52:23Z",
    "v": 99557.87
+  },
+  {
+   "t": "2026-11-27T09:07:18Z",
+   "v": 99584.78
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T12:31:44Z",
-   "news_id": 131291853,
-   "headline": "Workday Expands Native Payroll Capabilities with AI-Driven Process",
-   "url": "https://www.marketscale.com/industries/software-and-technology/workday-used-ai-to-launch-singapore-payroll-10-times-faster-than-earlier-country-rollouts",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WDAY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:43Z",
-   "news_id": 131291852,
-   "headline": "DPC Dash Expands Domino's Pizza China Supply Chain Network",
-   "url": "https://newsfilter.io/articles/dpc-dash-dominos-pizza-china-scales-supply-chain-network-to-drive-disciplined-e6aed90c3ceb5c29843ac853a3cd5597",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DPZ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:38Z",
-   "news_id": 131291851,
-   "headline": "Lenovo and Formula 1 Expand Technology Partnership",
-   "url": "https://procurementmag.com/news/lenovos-circularity-pledge-what-it-procurement-should-know",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FWONA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:38Z",
-   "news_id": 131291850,
-   "headline": "Vale Enters Strategic Cooperation Agreement with XCMG",
-   "url": "https://newsfilter.io/articles/green-intelligence-for-solid-future-xcmgs-largest-exhibition-at-bauma-2026-5f6649dbdb465e938ec23a9a14164381",
-   "source": "fiscal.ai",
-   "symbols": [
-    "VALE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:35Z",
-   "news_id": 131291849,
-   "headline": "Medtronic Hellas CEO Addresses Hospital Payment Delays in Greece",
-   "url": "https://www.euro2day.gr/news/economy/article/2382044/georgiadhs-sto-healthcare-transformation-leipoyn-a.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MDT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:33Z",
-   "news_id": 131291848,
-   "headline": "California American Water Announces 'Operation Gobble 2026' Thanksgiving Initiative",
-   "url": "https://www.prnewswire.com/news-releases/energy-latest-news/water-utilities-list/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AWK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:31Z",
-   "news_id": 131291847,
-   "headline": "TPG to Invest $100 Million in Student Mobility Company Zum",
-   "url": "https://stockanalysis.com/private/zum/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TPG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:29Z",
-   "news_id": 131291846,
-   "headline": "Yum! Brands and Taco Bell Named in Negligence Lawsuit Over Foreign Object Incident",
-   "url": "https://ultimosegundo.ig.com.br/2026-11-26/mulher-processa-rede-de-fast-food-apos-se-engasgar-com-luva.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "YUM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:27Z",
-   "news_id": 131291845,
-   "headline": "CrowdStrike Joins Coalition for BT's 'Cyber Prepared UK' Initiative",
-   "url": "https://www.prnewswire.co.uk/news-releases/bt-launches-nationwide-cyber-resilience-drive-as-ai-helps-fuel-500-surge-in-malicious-activity-302951195.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CRWD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:24Z",
-   "news_id": 131291844,
-   "headline": "BlackRock Discloses Increased Voting Rights in ADTRAN Holdings",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-adtran-holdings-inc-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036802731",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BLK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:24Z",
-   "news_id": 131291843,
-   "headline": "Coca-Cola India Relaunches Gold Spot Beverage",
-   "url": "https://biznextindia.com/companies/gold-spot-is-back-coca-cola-india-brings-back-the-zing-thing-now-in-a-can/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:15Z",
-   "news_id": 131291842,
-   "headline": "U.S. Court Grants Janssen Preliminary Injunction Against Alvotech's Biosimilar AVT05",
-   "url": "https://www.morningstar.com/news/globe-newswire/1001315591/alvotech-to-appeal-us-preliminary-injunction-decision-relating-to-avt05",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JNJ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:02:24Z",
-   "news_id": 131300415,
-   "headline": "SK hynix Announces 1Q26 Financial Results",
-   "url": "https://admiralmarkets.com/de/wissen/articles/shares/sk-hynix-aktie",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SKHY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:02:19Z",
-   "news_id": 131300413,
-   "headline": "Klarna Launches Search & Compare Tool in Greece",
-   "url": "https://www.euro2day.gr/news/highlights/article/2382068/pshfiaka-portofolia-kai-diasynoriakes-agores-allaz.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KLAR"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T13:02:09Z",
    "news_id": 131300410,
@@ -4361,6 +4211,160 @@
     "TM"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T09:02:20Z",
+   "news_id": 131789985,
+   "headline": "Cloudbreak Discovery Lands Exclusive Option for Australia's Historic Emerald Gold Mine",
+   "url": "https://www.marketscreener.com/news/cloudbreak-discovery-lands-exclusive-option-for-australia-s-historic-emerald-gold-mine-ce7851dbd18df127",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CDL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:02:19Z",
+   "news_id": 131789984,
+   "headline": "Accsys Technologies: Forecasts maintained after resilient first half",
+   "url": "https://www.voxmarkets.com/media/6b07da3b29198aa3e3bdfa68",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AXS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:02:08Z",
+   "news_id": 131789980,
+   "headline": "Transense Technologies plc Trading Update and AGM",
+   "url": "https://shareprophets.com/news/89483/transense-technologies-trt-agm-update-believe-that-the-company-remains-on-track-to-deliver-profits-in-line-with-market-expectations-for-fy",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TRT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:02:01Z",
+   "news_id": 131789969,
+   "headline": "Nanoco Publishes Annual Report and Accounts for FY2026",
+   "url": "https://www.investegate.co.uk/announcement/rns/nanoco-group--nano/annual-reports-and-accounts/9892334",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NANO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:01:59Z",
+   "news_id": 131789964,
+   "headline": "Emmerson PLC Restores Trading on AIM",
+   "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/capital-access-window-emmerson-plc/9895268",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EML"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:01:59Z",
+   "news_id": 131789653,
+   "headline": "Emmerson PLC Announces Results of Annual General Meeting and Proceeds with Fundraising",
+   "url": "https://www.investegate.co.uk/announcement/rns/emmerson-npv--eml/result-of-agm/9895881",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EML"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:01:58Z",
+   "news_id": 131789651,
+   "headline": "Trifast plc Announces Director-Related Share Purchase",
+   "url": "https://www.investegate.co.uk/announcement/rns/trifast--tri/director-pdmr-shareholding/9896426",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TRI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:01:52Z",
+   "news_id": 131789641,
+   "headline": "FDM Group Announces Retirement of Chief Commercial Officer Andy Brown",
+   "url": "https://www.investegate.co.uk/announcement/rns/fdm-group-holdings---fdm/directorate-change/9896305",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FDM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:01:50Z",
+   "news_id": 131789634,
+   "headline": "Rockfire Resources Announces Maiden Germanium Resource at Molaoi Deposit",
+   "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-26-arrow-aterian-cmc-empresaria-forgent-kendrick-reveille-roadside-rockfire-serval-upland-cda4e9f",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ROCK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:01:48Z",
+   "news_id": 131789941,
+   "headline": "NewRiver REIT Announces Appointment of Sarah Williams as Chair of the Audit Committee",
+   "url": "https://www.investegate.co.uk/announcement/rns/newriver-reit--nrr/changes-to-director-responsibilities/9896435",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NRR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:01:47Z",
+   "news_id": 131789631,
+   "headline": "Kendrick Resources Provides Project Update and Assay Results for Teufelskuppe Complex",
+   "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-26-arrow-aterian-cmc-empresaria-forgent-kendrick-reveille-roadside-rockfire-serval-upland-cda4e9f",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KEN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:01:47Z",
+   "news_id": 131789630,
+   "headline": "Empresaria Group plc Raises Full-Year 2026 Profit Forecast",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/empresaria-raises-fy26-profit-forecast-1036803995",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EMR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:01:37Z",
+   "news_id": 131789622,
+   "headline": "Roadside Real Estate plc Provides Trading Update for FY26",
+   "url": "https://www.voxmarkets.com/articles/rns-hotlist-november-26-arrow-aterian-cmc-empresaria-forgent-kendrick-reveille-roadside-rockfire-serval-upland-cda4e9f",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ROAD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T09:01:21Z",
+   "news_id": 131789617,
+   "headline": "Honda, Nissan, and Mazda to Standardize Vehicle Components",
+   "url": "https://www.newswire.lk/category/news/page/2/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HMC"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4486,15 +4490,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T08:07:14Z",
-   "fetched": 145,
-   "news": 17,
-   "signals": 2,
-   "orders": 0,
-   "errors": [],
-   "tokens": 2168
-  },
   {
    "t": "2026-11-25T08:22:17Z",
    "fetched": 0,
@@ -6285,10 +6280,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T09:07:18Z",
+   "fetched": 65,
+   "news": 14,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1555
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T08:52:23Z",
+ "updated_at": "2026-11-27T09:07:18Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6301,10 +6305,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99557.87,
+  "equity": 99584.78,
   "cash": 84552.88,
   "last_equity": 99492.29055690177,
-  "buying_power": 380225.49
+  "buying_power": 380300.84
  },
  "pending": 1,
  "positions": [
@@ -6324,10 +6328,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 166.65,
-   "market_value": 5154.982625,
-   "unrealized_pl": 183.432625,
-   "unrealized_plpc": 0.0369,
+   "current_price": 167.52,
+   "market_value": 5181.894325,
+   "unrealized_pl": 210.344325,
+   "unrealized_plpc": 0.04231,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
