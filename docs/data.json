@@ -923,119 +923,13 @@
   {
    "t": "2026-11-27T02:52:25Z",
    "v": 99519.2
+  },
+  {
+   "t": "2026-11-27T03:07:16Z",
+   "v": 99519.2
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T11:01:31Z",
-   "news_id": 131271240,
-   "headline": "Alibaba Updates Qwen-Audio-3.1 Model Suite",
-   "url": "https://af.net/realtime/alibaba-expands-qwen-audio-3-1-to-59-languages-as-dialect-count-drops-to-8/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BABA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:32:57Z",
-   "news_id": 131277937,
-   "headline": "Advisory Alpha LLC Acquires Shares of The Progressive Corporation",
-   "url": "https://insurancenewsnet.com/oarticle/the-progressive-corporation-pgr-shares-newly-purchased-by-advisory-alpha-llc",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PGR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:32:36Z",
-   "news_id": 131277936,
-   "headline": "Wells Fargo Releases 'Relief at the Grocery Store' Report",
-   "url": "https://www.moomoo.com/stock/.NDX-US?chain_id=Name1K9-3FXPhg.1lgft8g&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FFER-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WFC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:32:14Z",
-   "news_id": 131277935,
-   "headline": "Apple Removes Talkie AI App from App Store Worldwide",
-   "url": "https://www.marketscreener.com/news/minimax-s-talkie-removed-from-apple-app-store-worldwide-ce7851d8d18af721",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AAPL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:32:14Z",
-   "news_id": 131277934,
-   "headline": "Apple to Open New Retail Store in Hyderabad, India",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/apple-to-open-new-store-in-hyderabad-expanding-indian-retail-business-1036802666",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AAPL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:32:13Z",
-   "news_id": 131277933,
-   "headline": "Morgan Stanley Releases Research on AI and Humanoid Robotics Commercialization",
-   "url": "https://news.futunn.com/en/post/1005734487/tech-media-telecom-roundup-market-talk",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:31:51Z",
-   "news_id": 131277705,
-   "headline": "DEKRA Expands Digital Trust Capabilities Through Strategic Collaboration with IBM",
-   "url": "https://www.newswire.ca/news-releases/dekra-sustains-growth-and-unlocks-new-opportunities-839867768.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IBM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:31:42Z",
-   "news_id": 131277704,
-   "headline": "Fresenius Kabi Launches Denosumab Biosimilars in Canada",
-   "url": "https://www.biosimilardevelopment.com/doc/fresenius-kabi-launches-its-denosumab-biosimilars-in-canada-including-the-first-and-only-ready-to-use-0001",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMGN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:31:41Z",
-   "news_id": 131277703,
-   "headline": "NVIDIA Orders Partners to Stop Server Shipments to ASEAN States",
-   "url": "https://www.marketscreener.com/news/nvidia-orders-partners-to-stop-server-shipments-to-asean-states-ce7851d8de89f626",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NVDA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:31:41Z",
-   "news_id": 131277702,
-   "headline": "S&P Global Ratings Places NVIDIA on CreditWatch Negative",
-   "url": "https://wjno.iheart.com/content/2026-11-26-sp-huang-drama-could-hurt-nvidias-credit-rating/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NVDA"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T11:31:39Z",
    "news_id": 131277701,
@@ -4261,6 +4155,125 @@
     "JPM"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T03:02:12Z",
+   "news_id": 131758227,
+   "headline": "Sankei Real Estate Reports No Notice of KKR Bid Withdrawal",
+   "url": "https://www.marketscreener.com/news/sankei-real-estate-has-yet-to-receive-notice-of-kkr-bid-withdrawal-ce7851d9d880f72d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KKR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T03:02:07Z",
+   "news_id": 131758226,
+   "headline": "Motorola Solutions Leadership Discusses AI Adoption at WeAreDevelopers Conference India",
+   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410931/0/en/from-bengaluru-to-the-world-ai-agents-set-to-create-india-s-next-tech-giants.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MSI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T03:02:01Z",
+   "news_id": 131758225,
+   "headline": "Citi Reiterates Sell Rating on Elekta",
+   "url": "https://www.avanza.se/nyheter-bevaka-app.html?a=%2Ftelegram%2Favanza%2F17_dde096ac-34a1-4f1b-ad0e-afedc922c228",
+   "source": "fiscal.ai",
+   "symbols": [
+    "C"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T03:01:57Z",
+   "news_id": 131758182,
+   "headline": "JERA in Talks With Anthropic and Meta Regarding Data Center Development",
+   "url": "https://www.marketscreener.com/news/jera-in-talks-with-anthropic-meta-on-data-centers-near-tokyo-power-plants-ce7851d9d880f727",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ANT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T03:01:42Z",
+   "news_id": 131758181,
+   "headline": "All Indian Cine Workers Association Demands Ban on Netflix's Pakistani Series",
+   "url": "https://www.nation.com.pk/27-Nov-2026/two-screenings-pakistani-tv-show-cancelled-india-backlash",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NFLX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T03:01:35Z",
+   "news_id": 131758180,
+   "headline": "Oil Sands Alliance Evaluates Impact of New Federal Tax Deduction on Pathways Carbon Capture Project",
+   "url": "https://energynow.ca/2026/09/ottawas-new-mega-deduction-could-help-unlock-pathways-carbon-capture-project-oil-sands-alliance-says/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IMO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T03:01:34Z",
+   "news_id": 131758179,
+   "headline": "NASA Takes Ownership of X-59 Supersonic Aircraft",
+   "url": "https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LMT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T03:01:34Z",
+   "news_id": 131758178,
+   "headline": "Synopsys Launches EPIC HPC Scale-Up Program in India",
+   "url": "https://www.openpr.com/news/categories2-9-Associations-Organizations.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SNPS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T03:01:28Z",
+   "news_id": 131758177,
+   "headline": "Dana Prepares to Combine with Eaton's Mobility Business",
+   "url": "https://manufacturingdigital.com/news/manufacturing-executive-appointments-in-november-2026",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ETN"
+   ],
+   "signals": [
+    {
+     "symbol": "ETN",
+     "action": "buy",
+     "confidence": 0.65,
+     "impact": "medium",
+     "rationale": "La combinación de Dana con el negocio de movilidad de Eaton indica una posible sinergia y expansión de mercado que podría impulsar el precio en el corto plazo.",
+     "outcome": "Ignorada: confianza 65% < 75%"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-27T03:01:24Z",
+   "news_id": 131758176,
+   "headline": "Cisco Named Premier Sponsor of OpenSSL",
+   "url": "https://cybermagazine.com/news/openssl-cryptography-that-secures-most-internet-websites",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CSCO"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4386,15 +4399,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T02:07:16Z",
-   "fetched": 1,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-25T02:22:16Z",
    "fetched": 0,
@@ -6185,10 +6189,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T03:07:16Z",
+   "fetched": 10,
+   "news": 10,
+   "signals": 1,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1510
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T02:52:25Z",
+ "updated_at": "2026-11-27T03:07:16Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
