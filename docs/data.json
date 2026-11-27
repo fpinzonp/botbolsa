@@ -1203,64 +1203,13 @@
   {
    "t": "2026-11-27T19:52:21Z",
    "v": 100114.71
+  },
+  {
+   "t": "2026-11-27T20:07:14Z",
+   "v": 100069.98
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T03:02:12Z",
-   "news_id": 131758227,
-   "headline": "Sankei Real Estate Reports No Notice of KKR Bid Withdrawal",
-   "url": "https://www.marketscreener.com/news/sankei-real-estate-has-yet-to-receive-notice-of-kkr-bid-withdrawal-ce7851d9d880f72d",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KKR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T03:02:07Z",
-   "news_id": 131758226,
-   "headline": "Motorola Solutions Leadership Discusses AI Adoption at WeAreDevelopers Conference India",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410931/0/en/from-bengaluru-to-the-world-ai-agents-set-to-create-india-s-next-tech-giants.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MSI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T03:02:01Z",
-   "news_id": 131758225,
-   "headline": "Citi Reiterates Sell Rating on Elekta",
-   "url": "https://www.avanza.se/nyheter-bevaka-app.html?a=%2Ftelegram%2Favanza%2F17_dde096ac-34a1-4f1b-ad0e-afedc922c228",
-   "source": "fiscal.ai",
-   "symbols": [
-    "C"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T03:01:57Z",
-   "news_id": 131758182,
-   "headline": "JERA in Talks With Anthropic and Meta Regarding Data Center Development",
-   "url": "https://www.marketscreener.com/news/jera-in-talks-with-anthropic-meta-on-data-centers-near-tokyo-power-plants-ce7851d9d880f727",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ANT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T03:01:42Z",
-   "news_id": 131758181,
-   "headline": "All Indian Cine Workers Association Demands Ban on Netflix's Pakistani Series",
-   "url": "https://www.nation.com.pk/27-Nov-2026/two-screenings-pakistani-tv-show-cancelled-india-backlash",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NFLX"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T03:01:35Z",
    "news_id": 131758180,
@@ -4595,6 +4544,61 @@
     "JPM"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T20:02:02Z",
+   "news_id": 132215193,
+   "headline": "Apple Officer Discloses Sale of 55,000 Shares",
+   "url": "https://www.moomoo.com/stock/AAPL-US?chain_id=Name1K9-3FXPhg.1lgjh90&global_content=%7B%22promote_id%22%3A%22%22%2C%22sub_promote_id%22%3A64%2C%22subpromote_id%22%3A%22%22%2C%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Fchris-strazzeri-151367145%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AAPL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T20:02:02Z",
+   "news_id": 132215192,
+   "headline": "Apple Increases US Smartphone Market Share to 57% in Q3 2026",
+   "url": "https://telcomagazine.com/news/apple-hits-57-share-as-q3-us-smartphone-shipments-fall-9",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AAPL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T20:01:43Z",
+   "news_id": 132214243,
+   "headline": "Equinix Appoints Michiel Eielts as President for EMEA",
+   "url": "https://datacentremagazine.com/news/data-centre-executive-appointments-in-november-2026",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EQIX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T20:01:38Z",
+   "news_id": 132214242,
+   "headline": "Gemmy Industries Launches Grinchmas Décor at Lowe's",
+   "url": "https://newsfilter.io/articles/spread-heart-growing-holiday-cheer-with-whimsical-grinch-decorations-efb2b477e3795361a7bbec595084b30d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LOW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T20:01:30Z",
+   "news_id": 132214241,
+   "headline": "Amskor Corp. Files Lawsuit Against Costco Wholesale Canada",
+   "url": "https://newsfilter.io/articles/costcos-return-policy-pushed-a-toronto-rug-supplier-to-the-brink-lawsuit-alleges-edd0f989d1fd573c8aaa5af21c8162cb",
+   "source": "fiscal.ai",
+   "symbols": [
+    "COST"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4790,15 +4794,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T19:37:17Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-25T19:52:22Z",
    "fetched": 0,
@@ -6589,10 +6584,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T20:07:14Z",
+   "fetched": 5,
+   "news": 5,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1024
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T19:52:21Z",
+ "updated_at": "2026-11-27T20:07:14Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6605,10 +6609,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100114.71,
+  "equity": 100069.98,
   "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 335844.74
+  "buying_power": 335724.2
  },
  "pending": 0,
  "positions": [
@@ -6628,10 +6632,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.26,
-   "market_value": 5173.851748,
-   "unrealized_pl": 202.301748,
-   "unrealized_plpc": 0.04069,
+   "current_price": 167.25,
+   "market_value": 5173.542418,
+   "unrealized_pl": 201.992418,
+   "unrealized_plpc": 0.04063,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6650,10 +6654,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 52.0,
-   "market_value": 5088.676633,
-   "unrealized_pl": 113.516633,
-   "unrealized_plpc": 0.02282,
+   "current_price": 51.7295,
+   "market_value": 5062.205728,
+   "unrealized_pl": 87.045728,
+   "unrealized_plpc": 0.0175,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6672,10 +6676,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 171.84,
-   "market_value": 5142.549647,
-   "unrealized_pl": 167.389632,
-   "unrealized_plpc": 0.03365,
+   "current_price": 171.71,
+   "market_value": 5138.659217,
+   "unrealized_pl": 163.499202,
+   "unrealized_plpc": 0.03286,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6694,10 +6698,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 398.95,
-   "market_value": 5115.902903,
-   "unrealized_pl": 140.742894,
-   "unrealized_plpc": 0.02829,
+   "current_price": 398.49,
+   "market_value": 5110.004131,
+   "unrealized_pl": 134.844122,
+   "unrealized_plpc": 0.0271,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6705,10 +6709,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 66.99,
-   "market_value": 4972.670798,
-   "unrealized_pl": -2.48923,
-   "unrealized_plpc": -0.0005,
+   "current_price": 66.88,
+   "market_value": 4964.505493,
+   "unrealized_pl": -10.654535,
+   "unrealized_plpc": -0.00214,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
