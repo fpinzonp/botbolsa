@@ -1199,6 +1199,10 @@
   {
    "t": "2026-11-27T19:37:22Z",
    "v": 100068.25
+  },
+  {
+   "t": "2026-11-27T19:52:21Z",
+   "v": 100114.71
   }
  ],
  "decisions": [
@@ -4787,15 +4791,6 @@
  ],
  "runs": [
   {
-   "t": "2026-11-25T19:22:24Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
-  {
    "t": "2026-11-25T19:37:17Z",
    "fetched": 0,
    "news": 0,
@@ -6585,10 +6580,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T19:52:21Z",
+   "fetched": 0,
+   "news": 0,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 0
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T19:37:22Z",
+ "updated_at": "2026-11-27T19:52:21Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6601,10 +6605,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100068.25,
+  "equity": 100114.71,
   "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 335715.66
+  "buying_power": 335844.74
  },
  "pending": 0,
  "positions": [
@@ -6624,10 +6628,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.24,
-   "market_value": 5173.233089,
-   "unrealized_pl": 201.683089,
-   "unrealized_plpc": 0.04057,
+   "current_price": 167.26,
+   "market_value": 5173.851748,
+   "unrealized_pl": 202.301748,
+   "unrealized_plpc": 0.04069,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6646,10 +6650,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 51.76,
-   "market_value": 5065.190433,
-   "unrealized_pl": 90.030433,
-   "unrealized_plpc": 0.0181,
+   "current_price": 52.0,
+   "market_value": 5088.676633,
+   "unrealized_pl": 113.516633,
+   "unrealized_plpc": 0.02282,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6668,10 +6672,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 171.99,
-   "market_value": 5147.038604,
-   "unrealized_pl": 171.878589,
-   "unrealized_plpc": 0.03455,
+   "current_price": 171.84,
+   "market_value": 5142.549647,
+   "unrealized_pl": 167.389632,
+   "unrealized_plpc": 0.03365,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6690,10 +6694,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 398.85,
-   "market_value": 5114.620561,
-   "unrealized_pl": 139.460552,
-   "unrealized_plpc": 0.02803,
+   "current_price": 398.95,
+   "market_value": 5115.902903,
+   "unrealized_pl": 140.742894,
+   "unrealized_plpc": 0.02829,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6701,10 +6705,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 66.95,
-   "market_value": 4969.701596,
-   "unrealized_pl": -5.458432,
-   "unrealized_plpc": -0.0011,
+   "current_price": 66.99,
+   "market_value": 4972.670798,
+   "unrealized_pl": -2.48923,
+   "unrealized_plpc": -0.0005,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6712,10 +6716,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.3,
-   "market_value": 5009.055867,
-   "unrealized_pl": 33.895867,
-   "unrealized_plpc": 0.00681,
+   "current_price": 13.36,
+   "market_value": 5031.653111,
+   "unrealized_pl": 56.493111,
+   "unrealized_plpc": 0.01136,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
