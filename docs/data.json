@@ -1047,20 +1047,13 @@
   {
    "t": "2026-11-27T10:22:16Z",
    "v": 99580.99
+  },
+  {
+   "t": "2026-11-27T10:37:15Z",
+   "v": 99577.67
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T13:01:50Z",
-   "news_id": 131300065,
-   "headline": "SMG Swiss Marketplace Group Appoints New Managing Director for Automotive Division",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/smg-announces-a-change-at-the-helm-of-the-automotive-division-maurice-acker-appointed-new-managing-director-1036802809",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SMG"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T13:01:48Z",
    "news_id": 131300060,
@@ -4394,6 +4387,17 @@
     "MC"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T10:31:21Z",
+   "news_id": 131820781,
+   "headline": "Luiz Carlos Trabuco Cappi Appointed Minister of Finance",
+   "url": "https://economia.ig.com.br/2026-11-27/veja-a-repercussao-da-escolha-de-trabuco-para-a-fazenda.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BBD"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4519,15 +4523,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T09:37:25Z",
-   "fetched": 17,
-   "news": 9,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 1256
-  },
   {
    "t": "2026-11-25T09:52:18Z",
    "fetched": 0,
@@ -6318,10 +6313,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T10:37:15Z",
+   "fetched": 1,
+   "news": 1,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 633
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T10:22:16Z",
+ "updated_at": "2026-11-27T10:37:15Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6334,10 +6338,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99580.99,
+  "equity": 99577.67,
   "cash": 84552.88,
   "last_equity": 99492.29055690177,
-  "buying_power": 380290.24
+  "buying_power": 380280.92
  },
  "pending": 2,
  "positions": [
@@ -6357,10 +6361,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.3976,
-   "market_value": 5178.108128,
-   "unrealized_pl": 206.558128,
-   "unrealized_plpc": 0.04155,
+   "current_price": 167.29,
+   "market_value": 5174.779738,
+   "unrealized_pl": 203.229738,
+   "unrealized_plpc": 0.04088,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
