@@ -1163,119 +1163,13 @@
   {
    "t": "2026-11-27T17:22:17Z",
    "v": 100027.33
+  },
+  {
+   "t": "2026-11-27T17:37:19Z",
+   "v": 99942.02
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T21:31:34Z",
-   "news_id": 131627833,
-   "headline": "Manulife Investments Announces 2026 Annual Reinvested Distribution Estimates",
-   "url": "https://www.newswire.ca/fr/news-releases/investissements-manuvie-annonce-les-distributions-reinvesties-estimatives-de-gains-en-capital-pour-les-fonds-negocies-en-bourse-manuvie-et-de-la-serie-fnb-des-fonds-manuvie-875298718.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MFC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T21:31:23Z",
-   "news_id": 131627831,
-   "headline": "Mexican Government Seeks Meeting with US Authorities Regarding SpaceX Launch Debris",
-   "url": "https://newsfilter.io/articles/mexico-seeking-talks-with-u-s-on-spacex-airspace-use-8c4d525d0a1f5a12ad41df0c4fde3252",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SPCX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:01:21Z",
-   "news_id": 131652231,
-   "headline": "GSK Executive Maya Martinez-Davis Acquires American Depositary Shares",
-   "url": "https://www.investegate.co.uk/announcement/rns/gsk--gsk/director-pdmr-shareholding/9896394",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GSK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:01:18Z",
-   "news_id": 131652230,
-   "headline": "National Grid Announces Scrip Dividend Reference Price for 2026/27 Interim Dividend",
-   "url": "https://www.investegate.co.uk/announcement/rns/national-grid--ng./scrip-dividend-for-2026-27-interim-dividend/9896154",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NGG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:33:20Z",
-   "news_id": 131678541,
-   "headline": "RBC Raises Price Target on Fluence Energy",
-   "url": "https://www.marketscreener.com/news/rbc-raises-price-target-on-fluence-energy-to-6-from-4-keeps-sector-perform-speculative-risk-ce7851d8d98af322",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FLNC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:32:53Z",
-   "news_id": 131677693,
-   "headline": "H.C. Wainwright Maintains Buy Rating and Raises Price Target for Fennec Pharmaceuticals",
-   "url": "https://www.moomoo.com/stock/FRX-CA?chain_id=Name1K9-3FXPhg.1l0fcs0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fhans%2Fstock%2FSYAOC-AU%2Fcompany%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FENC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:32:43Z",
-   "news_id": 131677691,
-   "headline": "TD Cowen Adjusts Enovix Price Target",
-   "url": "https://www.moomoo.com/stock/ENVX-US?chain_id=Name1K9-3FXPhg.1lggpcg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FFORM-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ENVX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:32:31Z",
-   "news_id": 131677688,
-   "headline": "WEX Selects Sabre Direct Pay for Strategic Global Partnership",
-   "url": "https://www.moomoo.com/stock/WEX-US?chain_id=Name1K9-3FXPhg.1le7ng0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A59,%22f%22%3A%22www.moomoo.com%2Foptions%2FNVDA261030P245000-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SABR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:32:24Z",
-   "news_id": 131677687,
-   "headline": "Anteris Technologies Rating Upgraded by Bell Potter",
-   "url": "https://www.moomoo.com/hans/news/post/1005828753",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AVR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:32:23Z",
-   "news_id": 131677686,
-   "headline": "Fermi Inc. Insider Stock Sales Reported in SEC Filings",
-   "url": "https://www.moomoo.com/stock/FRMI-US?chain_id=Name1K9-3FXPhg.1lb0ss0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A64,%22f%22%3A%22www.moomoo.com%2Fcommunity%2Fprofile%2Fnewbie-investment-76953056%2Fpost%2Fall%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FRMI"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T22:32:23Z",
    "news_id": 131677685,
@@ -4555,6 +4449,116 @@
     "EBS"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T17:33:03Z",
+   "news_id": 132077639,
+   "headline": "Berenberg Bank Reaffirms Buy Recommendation for Stelrad Group PLC",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/stelrad-group-plc-berenberg-bank-bekraeftigt-seine-kaufempfehlung-ce7851d9df8efe20",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SRAD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:33:03Z",
+   "news_id": 132077638,
+   "headline": "Stelrad Group PLC Board Chair Purchases Shares",
+   "url": "https://www.investegate.co.uk/announcement/rns/stelrad-group--srad/director-pdmr-shareholding/9898195",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SRAD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:31:53Z",
+   "news_id": 132075833,
+   "headline": "Shell-Backed Raízen Explores Sale of Fuel Distribution Unit",
+   "url": "https://www.marketscreener.com/news/shell-backed-ra-zen-mulls-selling-fuel-distribution-unit-ce7851d9de8cfe2c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SHEL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:31:53Z",
+   "news_id": 132075832,
+   "headline": "Shell plc Announces Daily Share Buyback Transactions",
+   "url": "https://www.morningstar.com/news/globe-newswire/1001315799/transaction-in-own-shares",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SHEL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:31:49Z",
+   "news_id": 132075829,
+   "headline": "ECARX Announces US$20 Million Share Repurchase Program",
+   "url": "https://www.prnewswire.com/news-releases/ecarx-announces-us20-million-share-repurchase-program-302951459.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ECX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:31:46Z",
+   "news_id": 132075828,
+   "headline": "ITM Power Acquires Assets from Resato Hydrogen Technology",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/itm-power-uebernimmt-vermoegenswerte-von-resato-hydrogen-technology-fuer-3-mio-eur-ce7851d9dc8af620",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ITM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:31:39Z",
+   "news_id": 132075823,
+   "headline": "Aviva Increases Stake in Trainline PLC",
+   "url": "https://www.investegate.co.uk/announcement/rns/aviva--av./holding-s-in-company/9897973",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TRN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:31:39Z",
+   "news_id": 132075822,
+   "headline": "PayPoint plc Chief Executive Disposes of 150,000 Shares",
+   "url": "https://newsfilter.io/articles/paypoint-plc-director-pdmr-shareholding-af594a6650e55078934749517d98bb80",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PAY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:31:34Z",
+   "news_id": 132075816,
+   "headline": "IP Group plc: Notification of Major Holdings by Bank of America Corporation",
+   "url": "https://www.investegate.co.uk/announcement/rns/ip-group--ipo/holding-s-in-company/9898321",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IPO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T17:31:22Z",
+   "news_id": 132075808,
+   "headline": "Unilever Chief R&D Officer Richard Slater Sells Shares",
+   "url": "https://www.investegate.co.uk/announcement/rns/unilever--ulvr/director-pdmr-shareholding/9898293",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UL"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4750,15 +4754,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T17:07:22Z",
-   "fetched": 50,
-   "news": 13,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 1549
-  },
   {
    "t": "2026-11-25T17:22:19Z",
    "fetched": 0,
@@ -6549,10 +6544,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T17:37:19Z",
+   "fetched": 31,
+   "news": 10,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1276
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T17:22:17Z",
+ "updated_at": "2026-11-27T17:37:19Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6565,10 +6569,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100027.33,
+  "equity": 99942.02,
   "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 335595.34
+  "buying_power": 335354.62
  },
  "pending": 0,
  "positions": [
@@ -6577,10 +6581,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.34,
-   "market_value": 4900.363834,
-   "unrealized_pl": -71.186166,
-   "unrealized_plpc": -0.01432,
+   "current_price": 21.3101,
+   "market_value": 4893.497813,
+   "unrealized_pl": -78.052187,
+   "unrealized_plpc": -0.0157,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6588,10 +6592,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.13,
-   "market_value": 5169.83046,
-   "unrealized_pl": 198.28046,
-   "unrealized_plpc": 0.03988,
+   "current_price": 166.95,
+   "market_value": 5164.262522,
+   "unrealized_pl": 192.712522,
+   "unrealized_plpc": 0.03876,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6599,10 +6603,10 @@
    "crypto": false,
    "qty": 96.179141812,
    "avg_entry_price": 51.97,
-   "current_price": 52.02,
-   "market_value": 5003.238957,
-   "unrealized_pl": 4.808957,
-   "unrealized_plpc": 0.00096,
+   "current_price": 52.03,
+   "market_value": 5004.200748,
+   "unrealized_pl": 5.770748,
+   "unrealized_plpc": 0.00115,
    "opened_at": "2026-11-27T17:07:17Z"
   },
   {
@@ -6610,10 +6614,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 51.29,
-   "market_value": 5019.196625,
-   "unrealized_pl": 44.036625,
-   "unrealized_plpc": 0.00885,
+   "current_price": 50.84,
+   "market_value": 4975.16,
+   "unrealized_pl": 0.0,
+   "unrealized_plpc": 0.0,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6621,10 +6625,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.205,
-   "market_value": 4953.16409,
-   "unrealized_pl": -18.38591,
-   "unrealized_plpc": -0.0037,
+   "current_price": 20.21,
+   "market_value": 4954.389818,
+   "unrealized_pl": -17.160182,
+   "unrealized_plpc": -0.00345,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6632,10 +6636,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 172.16,
-   "market_value": 5152.126089,
-   "unrealized_pl": 176.966074,
-   "unrealized_plpc": 0.03557,
+   "current_price": 171.7,
+   "market_value": 5138.359953,
+   "unrealized_pl": 163.199938,
+   "unrealized_plpc": 0.0328,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6643,10 +6647,10 @@
    "crypto": false,
    "qty": 5.077693573,
    "avg_entry_price": 984.389847,
-   "current_price": 991.815,
-   "market_value": 5036.132651,
-   "unrealized_pl": 37.702652,
-   "unrealized_plpc": 0.00754,
+   "current_price": 990.925,
+   "market_value": 5031.613504,
+   "unrealized_pl": 33.183505,
+   "unrealized_plpc": 0.00664,
    "opened_at": "2026-11-27T16:07:16Z"
   },
   {
@@ -6654,10 +6658,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 399.39,
-   "market_value": 5121.545207,
-   "unrealized_pl": 146.385198,
-   "unrealized_plpc": 0.02942,
+   "current_price": 399.59,
+   "market_value": 5124.109891,
+   "unrealized_pl": 148.949882,
+   "unrealized_plpc": 0.02994,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6665,10 +6669,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 66.89,
-   "market_value": 4965.247793,
-   "unrealized_pl": -9.912235,
-   "unrealized_plpc": -0.00199,
+   "current_price": 67.0,
+   "market_value": 4973.413099,
+   "unrealized_pl": -1.746929,
+   "unrealized_plpc": -0.00035,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6676,10 +6680,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.345,
-   "market_value": 5026.0038,
-   "unrealized_pl": 50.8438,
-   "unrealized_plpc": 0.01022,
+   "current_price": 13.285,
+   "market_value": 5003.406556,
+   "unrealized_pl": 28.246556,
+   "unrealized_plpc": 0.00568,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
