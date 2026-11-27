@@ -1007,216 +1007,13 @@
   {
    "t": "2026-11-27T07:52:17Z",
    "v": 99557.87
+  },
+  {
+   "t": "2026-11-27T08:07:17Z",
+   "v": 99557.87
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T11:31:35Z",
-   "news_id": 131277699,
-   "headline": "Visa Launches New Version of Experimental AI Agent Wallet",
-   "url": "https://glenbrook.com/payments-news/all-payments-news/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "V"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:31:33Z",
-   "news_id": 131277698,
-   "headline": "BlackRock, Inc. Files Major Holdings Notification for Symrise AG",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-symrise-ag-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036802471",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BLK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:31:24Z",
-   "news_id": 131277697,
-   "headline": "Meta and Philippine DICT Sign Memorandum of Understanding",
-   "url": "https://www.pna.gov.ph/article/dict-meta-ink-pact-vs-online-scams-child-exploitation",
-   "source": "fiscal.ai",
-   "symbols": [
-    "META"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:31:24Z",
-   "news_id": 131277696,
-   "headline": "PepsiCo Romania Signs 10-Year Virtual Power Purchase Agreement with Rezolv Energy",
-   "url": "https://procurementmag.com/news/inside-pepsicos-long-term-approach-to-energy-procurement",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PEP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:31:23Z",
-   "news_id": 131277695,
-   "headline": "AWS and Amazon CloudFront Support Global Launch of GTA VI",
-   "url": "https://money.udn.com/money/story/12987/9903872",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMZN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T11:31:23Z",
-   "news_id": 131277694,
-   "headline": "Amazon Responds to FTC Allegations Regarding 'Project Nessie' Pricing Tool",
-   "url": "http://www.milwaukeeindependent.com/featured/u-s-retail-expansion-ai-assisted-pricing-tools-accelerates-consumer-alarm-price-gouging/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMZN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:01:53Z",
-   "news_id": 131284670,
-   "headline": "Afya Limited Shareholders Approve Merger with YDUQS Participações S.A.",
-   "url": "https://www.businesswire.com/newsroom/industry/health",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AFYA"
-   ],
-   "signals": [
-    {
-     "symbol": "AFYA",
-     "action": "buy",
-     "confidence": 0.82,
-     "impact": "medium",
-     "rationale": "La aprobación de la fusión con YDUQS es un catalizador concreto que debería mejorar la perspectiva de crecimiento y sinergias de Afya.",
-     "outcome": "En cola: mercado cerrado"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-26T12:36:05Z",
-   "news_id": 131293218,
-   "headline": "Supermicro Halts Server Shipments to Certain Southeast Asian Markets Following New US Export Controls",
-   "url": "https://www.newsmax.com/world/globaltalk/nvidia-chips-shipments/2026/11/26/id/1277608/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SMCI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:32:35Z",
-   "news_id": 131292133,
-   "headline": "Uber and Rappi Face New Tax Regulations in Mexico",
-   "url": "https://www.avanza.se/nyheter-bevaka-app.html?a=%2Ftelegram%2Favanza%2F1_4f8b873f-d122-432c-a701-89d68e09d1a6",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UBER"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:32:10Z",
-   "news_id": 131292132,
-   "headline": "Harley-Davidson Announces Strategic Expansion in India with Hero MotoCorp",
-   "url": "https://www.prnewswire.com/in/news-releases/harley-davidson-marks-17-years-in-india-commits-to-expanding-brands-presence-and-accelerating-growth-in-partnership-with-hero-motocorp-302951161.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HOG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:32:08Z",
-   "news_id": 131292131,
-   "headline": "Lionsgate's 'The Hunger Games: Sunrise on the Reaping' Sets New Franchise Tuesday Record",
-   "url": "https://www.moomoo.com/news/post/1005883274/hunger-games-sunrise-on-the-reaping-heads-for-us-85",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LION"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:32:05Z",
-   "news_id": 131292128,
-   "headline": "Vita Coco Community Foundation Joins Partnership to Support Philippine Coconut Farmers",
-   "url": "https://www.pna.gov.ph/article/pbbm-10m-coconut-tree-drive-to-boost-production-farmers-income",
-   "source": "fiscal.ai",
-   "symbols": [
-    "COCO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:32:04Z",
-   "news_id": 131292127,
-   "headline": "Amdocs Joins Consortium to Deliver Czech European Digital Identity Wallet",
-   "url": "https://www.prnewswire.com/de/pressemitteilungen/wultra-led-consortium-wins-tender-to-deliver-and-operate-the-czech-european-digital-identity-wallet-302950397.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DOX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:32:04Z",
-   "news_id": 131292126,
-   "headline": "Netflix Announces Limited-Time 'Stranger Things' 10th Anniversary Cafe",
-   "url": "http://www.excite.co.jp/news/article/Kyodo_prw_202611261116/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NFLX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:32:04Z",
-   "news_id": 131292125,
-   "headline": "Netflix Identified as Most Impersonated Brand in Black Friday Phishing Scams",
-   "url": "https://tecnologia.ig.com.br/2026-11-26/golpe-na-black-friday--netflix-lidera-lista-de-sites-suspeitos.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NFLX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:50Z",
-   "news_id": 131291862,
-   "headline": "Director Adriana Cisneros Purchases Over $1 Million in AST SpaceMobile Stock",
-   "url": "https://www.moomoo.com/ja/news/post/1005899280/us-space-stocks-diverge-executive-buying-boosts-ast-spacemobile-to",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ASTS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:50Z",
-   "news_id": 131291861,
-   "headline": "Owens Corning Expands Laminate Shingle Manufacturing Capacity",
-   "url": "https://www.openpr.com/news/4700926/roofing-market-to-reach-usd-216-3-billion-by-2036-with-gaf-owens",
-   "source": "fiscal.ai",
-   "symbols": [
-    "OC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:49Z",
-   "news_id": 131291860,
-   "headline": "Madrigal Pharmaceuticals Executive VP & Chief Commercial Officer Sells Shares",
-   "url": "https://www.moomoo.com/hans/news/post/1005899403/executive-vp-chief-commercial-officer-carole-huntsman-sold-a-bunch",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MDGL"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T12:31:49Z",
    "news_id": 131291859,
@@ -4354,6 +4151,204 @@
     "EYE"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T08:04:15Z",
+   "news_id": 131774489,
+   "headline": "Insplorion sets record date for distribution of shares in Insplorion RTO AB and Altera Invest AB",
+   "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Fintervju%2Fskf-star-pall-nar-vertevo-knoppas-av-2026-11-26",
+   "source": "fiscal.ai",
+   "symbols": [
+    "INSP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:03:49Z",
+   "news_id": 131774227,
+   "headline": "Rentunder Holding AB Announces Termination of Share Transfer Agreement Regarding Edvince AB",
+   "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Ftelegram%2Favanza%2F49_81a426c0-f0cb-475a-a2f0-e15cb2e829dd",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RENT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:03:29Z",
+   "news_id": 131774216,
+   "headline": "Nomination Committee Appointed for the 2027 Annual General Meeting of Svenska Aerogel Holding AB (publ)",
+   "url": "https://www.avanza.se/nyheter.html?a=%2Ftelegram%2Favanza%2F39_730da857-9338-4313-a937-cf1decb4234e",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AERO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:03:10Z",
+   "news_id": 131774197,
+   "headline": "Aeffe Faces Legal Challenge Over Collective Layoffs",
+   "url": "https://www.milanofinanza.it/fashion/aeffe-i-licenziamenti-finiscono-in-tribunale-prima-udienza-il-16-dicembre-202611261201127192",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AEF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:03:00Z",
+   "news_id": 131774187,
+   "headline": "BioInvent Appoints Catharina Johansson as New CFO",
+   "url": "https://www.morningstar.com/news/accesswire/1312241msn/bioinvent-appoints-catharina-johansson-as-new-cfo",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BINV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:02:58Z",
+   "news_id": 131774182,
+   "headline": "Starhedge S.A. Postpones Publication of Q3 2026 Financial Report",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/starhedge-sa-72026-zmiana-terminu-publikacji-raportu-okresowego",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SHG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:02:55Z",
+   "news_id": 131773968,
+   "headline": "DB Energy S.A. Convenes Ordinary General Meeting for December 22, 2026",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/db-energy-sa-82026-zwolanie-zwyczajnego-walnego-zgromadzenia-na-dzien-22-grudnia",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DBE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:02:44Z",
+   "news_id": 131773949,
+   "headline": "Gaming Corps Enters Partnership with DAZN Bet to Expand in Italy",
+   "url": "https://g3newswire.com/gaming-corps-strengthens-italian-market-presence-in-collaboration-with-dazn-bet/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GCOR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:02:29Z",
+   "news_id": 131773919,
+   "headline": "EHI! S.p.A. Completes Statutory Adjustment Phase with No Shareholder Withdrawals",
+   "url": "https://www.milanofinanza.it/news/ehi-nessun-recesso-via-libera-al-nuovo-modello-di-business-della-ex-spac-guidata-da-mauro-girardi-202611261351136034",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EHI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:02:06Z",
+   "news_id": 131773901,
+   "headline": "Voxel S.A. Reports Financial Results for the Quarter Ended September 30, 2026",
+   "url": "https://www.finanzen.at/nachrichten/aktien/voxel-prasentierte-das-zahlenwerk-zum-abgelaufenen-jahresviertel-1036804212",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VOX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:02:05Z",
+   "news_id": 131773898,
+   "headline": "Comsol Networks Expands 5G Capacity Using Adtran FSP 3000 Technology",
+   "url": "https://www.newswiretoday.com/news/187312/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ADV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:02:04Z",
+   "news_id": 131773897,
+   "headline": "CI Games Reports Quarterly Financial Results",
+   "url": "https://www.finanzen.at/nachrichten/aktien/ci-games-mit-zahlen-zum-abgelaufenen-quartal-1036804195",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CIG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:01:51Z",
+   "news_id": 131773874,
+   "headline": "RCS MediaGroup Appoints Stefano Barigelli as New Director of Corriere della Sera",
+   "url": "https://www.milanofinanza.it/news/stefano-barigelli-e-il-nuovo-direttore-del-corriere-della-sera-202611261845319106",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RCS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:01:50Z",
+   "news_id": 131773764,
+   "headline": "Stabilus SE Supervisory Board Extends CEO Contract",
+   "url": "https://www.eqs-news.com/news/ad-hoc/stabilus-se-supervisory-board-extends-contract-with-ceo-dr-michael-buchsner/784fcdba-5a41-4bd5-9f5f-a620c9939087_en",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:01:50Z",
+   "news_id": 131773762,
+   "headline": "AMF Approves Response Document for Gaumont Public Withdrawal Offer",
+   "url": "https://www.globenewswire.com/news-release/2026/11/26/3411008/0/fr/gaumont-mise-%C3%A0-disposition-de-la-note-en-r%C3%A9ponse.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GAM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:01:48Z",
+   "news_id": 131773761,
+   "headline": "Polenergia Subsidiaries Complete Debt Refinancing and Interest Rate Hedging Settlement",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/polenergia-sa-342026-rozliczenie-transakcji-zabezpieczajacych-ryzyko-stopy",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PEP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:01:43Z",
+   "news_id": 131773754,
+   "headline": "InstallatørGruppen A/S Provides Update on Share Buyback Program",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411076/0/en/regulatory-announcement-no-29-share-buyback.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:01:41Z",
+   "news_id": 131773749,
+   "headline": "Ramsay Santé Demerger from Ramsay Health Care Becomes Effective",
+   "url": "https://newsfilter.io/articles/ramsay-generale-de-sante-distribution-scheme-effective-6627181b7426570ab930082f1860630a",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GDS"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4479,15 +4474,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T07:07:14Z",
-   "fetched": 28,
-   "news": 3,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 773
-  },
   {
    "t": "2026-11-25T07:22:19Z",
    "fetched": 0,
@@ -6278,10 +6264,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T08:07:17Z",
+   "fetched": 184,
+   "news": 18,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1988
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T07:52:17Z",
+ "updated_at": "2026-11-27T08:07:17Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
