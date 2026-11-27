@@ -1147,119 +1147,13 @@
   {
    "t": "2026-11-27T16:22:20Z",
    "v": 99934.7
+  },
+  {
+   "t": "2026-11-27T16:37:13Z",
+   "v": 100089.28
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T19:01:43Z",
-   "news_id": 131508891,
-   "headline": "Bank of Montreal Acts as Lender in AgWest CCAA Proceedings",
-   "url": "https://www.prnewswire.com/news-releases/acquisition-opportunity-agwest-entities-302950747.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BMO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:42Z",
-   "news_id": 131508890,
-   "headline": "PepsiCo Announces Rs 868 Crore Investment in Tamil Nadu Food Manufacturing Facility",
-   "url": "https://theprint.in/author/pti/page/3/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PEP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:41Z",
-   "news_id": 131508889,
-   "headline": "Banijay Gaming Completes Acquisition of JOA from Blackstone-Managed Funds",
-   "url": "https://g3newswire.com/banijay-gaming-completes-its-takeover-of-joa-the-second-largest-casino-group-in-france/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:40Z",
-   "news_id": 131508888,
-   "headline": "Lawsuit Filed Against McDonald's Franchise Operators Following Alleged Assault",
-   "url": "https://www.digitaljournal.com/pr/news/24-7-press-release/mcdonald-s-assault-lawsuit-filed-st-1232357552.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MCD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:37Z",
-   "news_id": 131508886,
-   "headline": "Reports of Unsolicited Push Notifications and Live Activities Ads in iOS Apps",
-   "url": "https://infosertecla.com/2026/11/26/reportan-apps-de-iphone-que-mandan-anuncios-por-live-activities/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DASH"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:01:37Z",
-   "news_id": 131508885,
-   "headline": "General Motors Investigates Customer Report of Electric Shock from Charging Cable",
-   "url": "https://newsfilter.io/articles/why-an-ontario-couple-wants-to-return-their-ev-and-switch-back-to-a-gas-powered-863a11400d48531fa3c7ca6552be6ce5",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T20:01:32Z",
-   "news_id": 131556181,
-   "headline": "Rothmans, Benson & Hedges Inc. Reports 2026 Environmental Results for BeBot Initiative",
-   "url": "https://www.newswire.ca/news-releases/unsmoke-canada-backs-innovative-beach-cleaning-robot-delivering-results-in-2026-882264877.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T20:01:30Z",
-   "news_id": 131556180,
-   "headline": "Tesla Deploys Manual Battery Preconditioning Feature",
-   "url": "https://www.frandroid.com/marques/tesla/3341437_tesla-lance-enfin-une-fonction-que-ses-rivaux-proposaient-deja-depuis-des-annees-le-prechauffage-manuel-de-la-batterie",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TSLA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T20:01:30Z",
-   "news_id": 131556179,
-   "headline": "EU Postpones Vote on Tesla Assisted Driving Approval",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/eu-delays-vote-on-teslas-assisted-driving-system-to-december-15-reports-1036803762",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TSLA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T20:01:26Z",
-   "news_id": 131556178,
-   "headline": "The Goldman Sachs Group, Inc. Discloses Major Holding in Hugo Boss AG",
-   "url": "https://www.placera.se/pressmeddelanden/hugo-boss-hugo-boss-ag-release-according-to-article-40-section-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution-20261126",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GS"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T20:32:03Z",
    "news_id": 131580734,
@@ -4521,6 +4415,116 @@
     "JPM"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T16:32:25Z",
+   "news_id": 132025515,
+   "headline": "HSBC, Barclays, and Standard Chartered Retain Status as UK-based Global Systemically Important Banks",
+   "url": "https://www.marketscreener.com/news/hsbc-barclays-stanchart-remain-as-uk-based-global-systemically-important-banks-ce7851d9df81f225",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BCS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:32:09Z",
+   "news_id": 132025512,
+   "headline": "Deutsche Bank Cuts Price Target on Polestar Automotive Holding UK to $5 From $10",
+   "url": "https://www.marketscreener.com/news/deutsche-bank-cuts-price-target-on-polestar-automotive-holding-uk-to-5-from-10-keeps-hold-rating-ce7851d9df88f42d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PSNY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:32:03Z",
+   "news_id": 132025510,
+   "headline": "Deutsche Bank Lowers Price Target on Polestar Automotive Holding UK",
+   "url": "https://www.marketscreener.com/news/deutsche-bank-cuts-price-target-on-polestar-automotive-holding-uk-to-5-from-10-keeps-hold-rating-ce7851d9df88f42d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:32:02Z",
+   "news_id": 132025508,
+   "headline": "Santander UK Group Announces Redemption of 2028 Notes",
+   "url": "https://www.marketscreener.com/news/santander-uk-group-to-redeem-2028-notes-ce7851d9de8df120",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SAN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:31:56Z",
+   "news_id": 132024686,
+   "headline": "Lloyds Banking Group Resumes Online Services Following Outage",
+   "url": "https://www.marketscreener.com/news/lloyds-banking-group-resumes-online-services-following-outage-ce7851d9de89f526",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LYG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:31:53Z",
+   "news_id": 132024684,
+   "headline": "Director's Dealings: vLB GmbH & Co. KG Acquires Shares in EnviTec Biogas AG",
+   "url": "https://www.tradegatebsx.com/finanz-nachrichten-detail.php?id=20261127002450",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ETG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:31:49Z",
+   "news_id": 132024683,
+   "headline": "L'Oréal Paris Launches 'Le Grand Magasin' Activation at Fondaco dei Tedeschi",
+   "url": "https://www.milanofinanza.it/fashion/quick-chat-con-vincenzo-dascanio-e-alessandra-grillo-202611111246567539",
+   "source": "fiscal.ai",
+   "symbols": [
+    "OR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:31:48Z",
+   "news_id": 132024680,
+   "headline": "doValue Seeks New Head for Italy Operations",
+   "url": "https://www.milanofinanza.it/news/dovalue-cerca-un-nuovo-responsabile-per-l-italia-ecco-i-nomi-in-campo-202611271005349614",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DOV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:31:42Z",
+   "news_id": 132024674,
+   "headline": "J.P. Morgan Adjusts EssilorLuxottica Price Target in Luxury Sector Outlook",
+   "url": "https://www.milanofinanza.it/newsmarketdriver/market-driver-lusso-ecco-le-scelte-di-jpm-per-il-2027-202611271148035029",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T16:31:30Z",
+   "news_id": 132024661,
+   "headline": "Electrica Signs EUR 500 Million Bridge Facility with ING and Other Lenders",
+   "url": "https://www.investegate.co.uk/announcement/rns/societatea-energetica-electrica-sa--elsa/eur-500-mn-bridge-to-bond-facility/9897642",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ING"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4706,15 +4710,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T15:37:15Z",
-   "fetched": 19,
-   "news": 11,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 1463
-  },
   {
    "t": "2026-11-25T16:22:20Z",
    "fetched": 17,
@@ -6505,10 +6500,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T16:37:13Z",
+   "fetched": 39,
+   "news": 10,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1329
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T16:22:20Z",
+ "updated_at": "2026-11-27T16:37:13Z",
  "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6521,10 +6525,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99934.7,
+  "equity": 100089.28,
   "cash": 54678.65,
   "last_equity": 99492.29055690177,
-  "buying_power": 341344.45
+  "buying_power": 341771.48
  },
  "pending": 0,
  "positions": [
@@ -6533,10 +6537,10 @@
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.32,
-   "market_value": 4895.771178,
-   "unrealized_pl": -75.778822,
-   "unrealized_plpc": -0.01524,
+   "current_price": 21.28,
+   "market_value": 4886.585866,
+   "unrealized_pl": -84.964134,
+   "unrealized_plpc": -0.01709,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6544,10 +6548,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 166.565,
-   "market_value": 5152.353321,
-   "unrealized_pl": 180.803321,
-   "unrealized_plpc": 0.03637,
+   "current_price": 167.26,
+   "market_value": 5173.851748,
+   "unrealized_pl": 202.301748,
+   "unrealized_plpc": 0.04069,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6555,10 +6559,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 51.49,
-   "market_value": 5038.768458,
-   "unrealized_pl": 63.608458,
-   "unrealized_plpc": 0.01279,
+   "current_price": 52.0396,
+   "market_value": 5092.551856,
+   "unrealized_pl": 117.391856,
+   "unrealized_plpc": 0.0236,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6566,10 +6570,10 @@
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.22,
-   "market_value": 4956.841272,
-   "unrealized_pl": -14.708728,
-   "unrealized_plpc": -0.00296,
+   "current_price": 20.215,
+   "market_value": 4955.615545,
+   "unrealized_pl": -15.934455,
+   "unrealized_plpc": -0.00321,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6577,10 +6581,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 171.46,
-   "market_value": 5131.177621,
-   "unrealized_pl": 156.017606,
-   "unrealized_plpc": 0.03136,
+   "current_price": 173.1,
+   "market_value": 5180.256889,
+   "unrealized_pl": 205.096874,
+   "unrealized_plpc": 0.04122,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6588,10 +6592,10 @@
    "crypto": false,
    "qty": 5.077693573,
    "avg_entry_price": 984.389847,
-   "current_price": 985.65,
-   "market_value": 5004.82867,
-   "unrealized_pl": 6.398671,
-   "unrealized_plpc": 0.00128,
+   "current_price": 987.3,
+   "market_value": 5013.206865,
+   "unrealized_pl": 14.776866,
+   "unrealized_plpc": 0.00296,
    "opened_at": "2026-11-27T16:07:16Z"
   },
   {
@@ -6599,10 +6603,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 398.3736,
-   "market_value": 5108.511485,
-   "unrealized_pl": 133.351476,
-   "unrealized_plpc": 0.0268,
+   "current_price": 398.9652,
+   "market_value": 5116.097819,
+   "unrealized_pl": 140.93781,
+   "unrealized_plpc": 0.02833,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6610,10 +6614,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 67.25,
-   "market_value": 4991.97061,
-   "unrealized_pl": 16.810582,
-   "unrealized_plpc": 0.00338,
+   "current_price": 67.16,
+   "market_value": 4985.289906,
+   "unrealized_pl": 10.129878,
+   "unrealized_plpc": 0.00204,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6621,10 +6625,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.22,
-   "market_value": 4978.926207,
-   "unrealized_pl": 3.766207,
-   "unrealized_plpc": 0.00076,
+   "current_price": 13.295,
+   "market_value": 5007.172763,
+   "unrealized_pl": 32.012763,
+   "unrealized_plpc": 0.00643,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
