@@ -1187,361 +1187,13 @@
   {
    "t": "2026-11-27T18:52:15Z",
    "v": 100053.11
+  },
+  {
+   "t": "2026-11-27T19:07:19Z",
+   "v": 100058.84
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T22:32:17Z",
-   "news_id": 131677682,
-   "headline": "New Era Energy & Digital Announces Helium Series Crystal-Growth Furnaces",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410631/0/en/catching-the-usa-market-by-surprise-a-new-american-path-from-sand-to-solar-cell.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NUAI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:32:11Z",
-   "news_id": 131677680,
-   "headline": "Proxy Advisory Firms ISS and Glass Lewis Recommend Voting 'For' High Liner Foods Acquisition",
-   "url": "https://www.newswire.ca/news-releases/leading-independent-proxy-advisory-firms-iss-and-glass-lewis-recommend-high-liner-foods-shareholders-vote-for-the-proposed-acquisition-by-umios-846748779.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HLF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:32:08Z",
-   "news_id": 131677679,
-   "headline": "Scholastic Corporation Reports Q3 Fiscal 2027 Financial Results",
-   "url": "https://www.barchart.com/story/news/9015790/unpacking-q3-earnings-scholastic-in-the-context-of-other-consumer-discretionary-media-stocks",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SCHL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:32:02Z",
-   "news_id": 131677677,
-   "headline": "York Space Systems Receives Analyst Downgrades from Zacks and Barclays",
-   "url": "https://stocktwits.com/symbol/YSS/news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "YSS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:31:59Z",
-   "news_id": 131676846,
-   "headline": "Angie Colon Appointed as Senior Technical Delivery Manager at United Wholesale Mortgage",
-   "url": "https://www.einpresswire.com/article/959184667/influential-women-angie-colon-leading-enterprise-technology-transformation-with-tenacity-integrity-and-authenticity",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UWMC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:31:59Z",
-   "news_id": 131676845,
-   "headline": "Bernstein Warns of Potential Growth Slowdown for Datadog in 2027",
-   "url": "https://www.moomoo.com/hant/options/MDB261127P160000-US/news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DDOG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:31:50Z",
-   "news_id": 131676843,
-   "headline": "Teekay Extends Vessel Performance Monitoring Partnership",
-   "url": "https://smartmaritimenetwork.com/2026/11/26/teekay-extends-vessel-performance-programme/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:31:48Z",
-   "news_id": 131676842,
-   "headline": "Perella Weinberg Partners Acts as Financial Adviser to Altria Group in Potential Imperial Brands Acquisition",
-   "url": "https://www.investegate.co.uk/announcement/rns/imperial-brands--imb/statement-re-possible-offer/9896033",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PWP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:31:48Z",
-   "news_id": 131676841,
-   "headline": "Visa, NBX, Tieto, and IDT Finance Announce Plans for Visa Flex Card",
-   "url": "https://news.europawire.eu/visa-and-nbx-plan-single-card-payments-from-traditional-currency-and-stablecoin-balances-across-five-european-markets/eu-press-release/2026/11/26/13/48/03/189766/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IDT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:31:43Z",
-   "news_id": 131676840,
-   "headline": "Aprons in Action, Presented by Manulife, Raises $635,000 for Diabetes Canada",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3411034/0/en/aprons-in-action-presented-by-manulife-raises-635-000-for-people-living-with-diabetes-in-canada.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MFC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:31:41Z",
-   "news_id": 131676839,
-   "headline": "Mizuho Lowers Whirlpool Price Target",
-   "url": "https://www.finanznachrichten.de/nachrichten-aktien/whirlpool-corporation.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WHR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:31:39Z",
-   "news_id": 131676838,
-   "headline": "TC Energy Announces Second Indigenous Investment in Coastal GasLink",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3411038/0/en/tc-energy-announces-second-indigenous-investment-in-coastal-gaslink.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TRP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T22:31:36Z",
-   "news_id": 131676837,
-   "headline": "Dr. Robert Langer, Co-Founder of Moderna, Joins PolarityBio's Board of Directors",
-   "url": "https://www.einpresswire.com/article/959207357/dr-robert-langer-co-founder-of-moderna-joins-polaritybio-s-board-of-directors",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MRNA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T23:02:32Z",
-   "news_id": 131703144,
-   "headline": "Federated Hermes, Inc. Opens New $159.6 Million Position in Coupang",
-   "url": "https://www.moomoo.com/stock/CPNG-US?chain_id=Name1K9-3FXPhg.1lfn680&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2F00788-HK%2Fcommunity%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FHI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T23:02:25Z",
-   "news_id": 131703143,
-   "headline": "Wedbush Initiates Coverage of ExlService Holdings, Inc. with Outperform Rating",
-   "url": "https://www.moomoo.com/options/EXLS261120P45000-US/news?a0v5la7bquf89=0845b309d1e65c2a2gosix00m46phuhz&uy3ubftvh0u6o8=b9ec8c3ddfb4afd81a22b577bc89eec9&xnfrr0ncac=&cc4d76fdaf5=",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EXLS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T23:02:12Z",
-   "news_id": 131703142,
-   "headline": "Andrew Puente Promoted to Vice President, Global Sourcing at Dover Corporation",
-   "url": "https://procurementmag.com/news/procurement-executive-appointments-in-november-2026",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DOV"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T23:02:07Z",
-   "news_id": 131703141,
-   "headline": "Andersen CPA Services Professional Corporation Announces Transition to Karbon Client Portal",
-   "url": "https://taxspoc.com/news/a619a7a5-8492-4ace-81c3-63e6d841730e",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ANDG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T23:02:04Z",
-   "news_id": 131703140,
-   "headline": "HSBC Downgrades HP Inc. to Hold, Citing Quality of Earnings Concerns",
-   "url": "https://www.moomoo.com/hant/news/post/1005917479",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HPQ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T23:01:56Z",
-   "news_id": 131702288,
-   "headline": "AbCellera to Present at the Piper Sandler Healthcare Conference on December 1, 2026",
-   "url": "https://www.businesswire.com/newsroom/industry/health/biotechnology",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ABCL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T23:01:49Z",
-   "news_id": 131702287,
-   "headline": "Franklin Templeton Launches Tokenized Euro Money Market Fund",
-   "url": "https://www.milanofinanza.it/news/franklin-templeton-lancia-un-fondo-sul-mercato-monetario-in-euro-tokenizzato-202611261920283384",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BEN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T23:01:38Z",
-   "news_id": 131702286,
-   "headline": "Ford Racing Unveils New GT41 Hypercar for 2027 Le Mans Return",
-   "url": "https://www.cbtnews.com/ford-racing-return-to-le-mans/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "F"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T00:03:00Z",
-   "news_id": 131753664,
-   "headline": "BofA Securities Updates Bank of Montreal Rating and Price Target",
-   "url": "https://www.moomoo.com/stock/BMO-US?chain_id=Name1K9-3FXPhg.1lgg0p0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FCM-CA%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BMO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T00:01:52Z",
-   "news_id": 131753653,
-   "headline": "Reports Indicate McDonald's App Sending Unauthorized Notifications",
-   "url": "https://infosertecla.com/2026/11/26/reportan-apps-de-iphone-que-mandan-anuncios-por-live-activities/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MCD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T00:01:51Z",
-   "news_id": 131753652,
-   "headline": "Families File Lawsuit Against Uber Following Fatal Arizona Collision",
-   "url": "https://www.einpresswire.com/article/958529862/families-sue-uber-following-arizona-crash-that-killed-four-seriously-injured-child",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UBER"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T00:01:38Z",
-   "news_id": 131753650,
-   "headline": "Investigation into Alleged Deliberate Methane Releases at Chevron Facilities",
-   "url": "https://www.finanznachrichten.de/nachrichten-aktien/chevron-corporation.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CVX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T00:01:37Z",
-   "news_id": 131753649,
-   "headline": "Johanna Mendez Appointed Global Procurement Director at Johnson & Johnson",
-   "url": "https://procurementmag.com/news/procurement-executive-appointments-in-november-2026",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JNJ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T01:01:49Z",
-   "news_id": 131754029,
-   "headline": "Jefferies Analyst Thomas Chong Initiates Bullish Rating on Zhihu",
-   "url": "https://www.moomoo.com/ja/news/post/1005906307/jefferies-initiates-zhihu-zhus-with-buy-rating-announces-target-price",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ZH"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T01:01:34Z",
-   "news_id": 131754020,
-   "headline": "Citi Presents 2026 Distinguished Alumni Award",
-   "url": "https://www.manilatimes.net/2026/11/27/tmt-newswire/gsis-chief-wick-veloso-honored-by-citi-hsbc-for-leadership-and-achievements/2478614",
-   "source": "fiscal.ai",
-   "symbols": [
-    "C"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T01:01:30Z",
-   "news_id": 131754016,
-   "headline": "Wall Street Analysts Update Ratings and Price Targets for Dell Technologies",
-   "url": "https://www.moomoo.com/news/post/1005908732/a-quick-look-at-today-s-ratings-for-dell-technologies",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DELL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T01:01:26Z",
-   "news_id": 131754015,
-   "headline": "ExxonMobil Files Disclosure Regarding Threshold Crossing in Esso S.A.F.",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3411020/0/fr/communiqu%C3%A9-relatif-au-d%C3%A9p%C3%B4t-d-un-projet-d-offre-publique-d-achat-simplifi%C3%A9e.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "XOM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T01:01:24Z",
-   "news_id": 131754014,
-   "headline": "MegazoneCloud Launches Amazon Quick Center of Excellence",
-   "url": "https://aithority.com/machine-learning/megazonecloud-launches-its-amazon-quick-center-of-excellence-to-turn-enterprise-data-into-autonomous-action/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMZN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T01:01:20Z",
-   "news_id": 131754013,
-   "headline": "JPMorgan Chase & Co. Discloses Holding in Vistry Group PLC",
-   "url": "https://www.investegate.co.uk/announcement/rns/vistry-group--vty/holding-s-in-company/9896431",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JPM"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T03:02:12Z",
    "news_id": 131758227,
@@ -4579,6 +4231,358 @@
     "EZJ"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T19:03:07Z",
+   "news_id": 132159430,
+   "headline": "Kimberly-Clark Insider Sells Shares Worth Over $5 Million",
+   "url": "https://www.marketscreener.com/news/kimberly-clark-insider-sold-shares-worth-5-240-352-according-to-a-recent-sec-filing-ce7851d9de81f123",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KMB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:53Z",
+   "news_id": 132158485,
+   "headline": "Paycom Software Insider Sold Shares Worth $721,382",
+   "url": "https://www.marketscreener.com/news/paycom-software-insider-sold-shares-worth-721-382-according-to-a-recent-sec-filing-ce7851d9de89f420",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PAYC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:47Z",
+   "news_id": 132158484,
+   "headline": "Truist Securities Adjusts Hims & Hers Health Price Target to $18 From $32",
+   "url": "https://www.marketscreener.com/news/truist-securities-adjusts-hims-hers-health-price-target-to-18-from-32-maintains-hold-rating-ce7851d9d189f721",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HIMS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:45Z",
+   "news_id": 132158483,
+   "headline": "ExlService Holdings Insider Discloses Stock Sale",
+   "url": "https://www.marketscreener.com/news/exlservice-holdings-insider-sold-shares-worth-597-457-according-to-a-recent-sec-filing-ce7851d9d188f423",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EXLS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:41Z",
+   "news_id": 132158482,
+   "headline": "GigaCloud Technology Inc to Participate in Two Investor Conferences in December",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411461/0/en/gigacloud-technology-inc-to-participate-in-two-investor-conferences-in-december.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GCT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:41Z",
+   "news_id": 132158481,
+   "headline": "Verizon Wireless Responds to FCC Interrogatories in Proceeding 26-249",
+   "url": "https://newsfilter.io/articles/answer-to-interrogatory-by-cellco-partnership-d-b-a-verizon-wireless-in-26-249-adcaa6b506b855b3be50f0e529c4b16a",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VZ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:41Z",
+   "news_id": 132158480,
+   "headline": "Verizon in Talks to Acquire Fidium for Approximately $6 Billion",
+   "url": "https://www.marketscreener.com/news/verizon-communications-in-talks-to-buy-fidium-for-6-billion-ce7851d9d189f727",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VZ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:33Z",
+   "news_id": 132158479,
+   "headline": "Adobe Digital Insights Reports US Online Spending Exceeded $7 Billion on Thanksgiving Day",
+   "url": "https://www.marketscreener.com/news/us-consumers-online-spending-exceeded-7-billion-on-thanksgiving-day-adobe-digital-insights-says-ce7851d9de8fff21",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ADBE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:29Z",
+   "news_id": 132158478,
+   "headline": "Lumen Technologies Reports Operational Efficiency Gains Through Adobe Partnership",
+   "url": "https://partners.wsj.com/adobe/the-ai-advantage/scaling-creative-work-without-losing-brand-voice/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LUMN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:25Z",
+   "news_id": 132158477,
+   "headline": "MDA Space Completes Acquisition of Blue Canyon Technologies",
+   "url": "https://www.prnewswire.com/news-releases/mda-space-completes-acquisition-of-blue-canyon-technologies-302951817.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MDA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:21Z",
+   "news_id": 132158476,
+   "headline": "James Hardie Industries Insider Executes Significant Share Sale",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/insider-von-james-hardie-industries-verkaufte-aktien-im-wert-von-2-766-389-usd-wie-aus-einer-aktuel-ce7851d9de89f52c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JHX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:19Z",
+   "news_id": 132158475,
+   "headline": "Survey Indicates Majority of Canadians Prefer Telus to Remain Independent",
+   "url": "https://www.moomoo.com/hans/news/post/1006011355/most-canadians-prefer-telus-to-remain-independent-on-high-prices",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BCE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:18Z",
+   "news_id": 132158474,
+   "headline": "Rothschild & Co Redburn Adjusts International Flavors & Fragrances Price Target",
+   "url": "https://www.marketscreener.com/news/rothschild-co-redburn-adjusts-international-flavors-fragrances-pt-to-84-from-76-ce7851d9de8cf224",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IFF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:17Z",
+   "news_id": 132158473,
+   "headline": "Norwegian Cruise Line Appoints CampaignLab as PR Agency of Record in Australia and New Zealand",
+   "url": "https://theprpost.com/date/27-11-2026",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NCLH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:13Z",
+   "news_id": 132158472,
+   "headline": "Cybersecurity Breach Reported on US Air Force Cloud One Platform",
+   "url": "https://www.milanofinanza.it/news/hacker-nel-cloud-dell-aeronautica-usa-a-rischio-i-dati-militari-202611271757283777",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LDOS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:04Z",
+   "news_id": 132158470,
+   "headline": "Invesco Ltd. Files Form 8.3 Public Dealing Disclosures",
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70248019-invesco-ltd-invesco-ltd-form-8-3-prologis-inc-public-dealing-disclosure-008.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IVZ"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:03Z",
+   "news_id": 132158469,
+   "headline": "Meta Platforms in Talks with JERA for Tokyo-Area Data Centers",
+   "url": "https://www.marketscreener.com/news/anthropic-meta-others-tech-giants-in-talks-with-jera-to-build-tokyo-area-data-centers-ce7851d9de8df422",
+   "source": "fiscal.ai",
+   "symbols": [
+    "META"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:02Z",
+   "news_id": 132158468,
+   "headline": "CRTC Orders TELUS to Remove 'Junk Fees'",
+   "url": "https://newsfilter.io/articles/crtc-says-bell-telus-and-rogers-violated-its-ban-on-junk-fees-07172af2da1b5349b36c6330364f0ad4",
+   "source": "fiscal.ai",
+   "symbols": [
+    "T"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:02:02Z",
+   "news_id": 132158467,
+   "headline": "Survey Indicates Public Preference for TELUS Independence",
+   "url": "https://www.moomoo.com/hans/news/post/1006011355/most-canadians-prefer-telus-to-remain-independent-on-high-prices",
+   "source": "fiscal.ai",
+   "symbols": [
+    "T"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:54Z",
+   "news_id": 132158466,
+   "headline": "Capital One Canada Releases Survey on AI Adoption in the Workplace",
+   "url": "https://www.hrreporter.com/focus-areas/automation-ai/ai-adoption-outpaces-worker-support-in-canada-report/395216",
+   "source": "fiscal.ai",
+   "symbols": [
+    "COF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:52Z",
+   "news_id": 132158463,
+   "headline": "Verisk Maplecroft Expert Comments on Regulatory Pressures in Southeast Asia",
+   "url": "https://world.storm.mg/articles/1184970",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VRSK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:52Z",
+   "news_id": 132157540,
+   "headline": "Salesforce Holiday Sales Forecast",
+   "url": "https://newsfilter.io/articles/inflation-has-shoppers-hunting-for-value-that-bodes-well-for-black-friday-6f76218415ef561a9512842a4d06e577",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CRM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:50Z",
+   "news_id": 132157539,
+   "headline": "Lockton and Chubb Announce Partnership for Classic and Specialist Car Insurance",
+   "url": "https://www.finanznachrichten.de/nachrichten-aktien/chubb-limited.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:48Z",
+   "news_id": 132157538,
+   "headline": "BMO Receives 17 Awards for AI-Driven Innovation in Banking and Insurance",
+   "url": "https://www.moomoo.com/ja/news/post/1006014366/bmo-earns-industry-recognition-for-ai-powered-innovation-across-banking",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BMO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:46Z",
+   "news_id": 132157537,
+   "headline": "Rocket Lab COO Frank Klein Executes Stock Sale",
+   "url": "https://www.moomoo.com/news/post/1006025903/have-rocket-lab-insiders-been-selling-stock",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RKLB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:45Z",
+   "news_id": 132157536,
+   "headline": "CBRE India Facilitates Joint Venture for Hotel101 Development in Hyderabad",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411151/0/en/today-hotel101-global-enters-the-most-populous-country-in-the-world-india.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CBRE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:43Z",
+   "news_id": 132157535,
+   "headline": "Baker Hughes Reports Weekly US Oil Rig Count",
+   "url": "https://www.barchart.com/story/news/9034631/crude-prices-erase-early-gains-as-iraq-pushes-opec-for-higher-output",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BKR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:41Z",
+   "news_id": 132157534,
+   "headline": "L3Harris to Host Investor Site Visit and Webcast",
+   "url": "https://newsfilter.io/articles/l3harris-to-host-investor-site-visit-and-webcast-25fd7cd8aae358a6ba5bd0c346cca331",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LHX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:39Z",
+   "news_id": 132157533,
+   "headline": "Visa and Rally Announce Strategic Collaboration to Launch Visa Fleet 2.0 in Europe and the UK",
+   "url": "https://news.europawire.eu/visa-fleet-2-0-collaboration-with-rally-brings-ai-powered-expense-management-to-european-businesses/2026/11/27/17/59/03/190077/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "V"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:39Z",
+   "news_id": 132157532,
+   "headline": "Loblaw Criticizes New Government Policy on Canned-Vegetable Tariffs",
+   "url": "https://newsfilter.io/articles/loblaw-companies-statement-on-the-federal-governments-safeguard-measure-on-6a38f1b0ffd858c792a115c433f2953c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "L"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:33Z",
+   "news_id": 132157531,
+   "headline": "Unconfirmed Firmware Discovery Suggests Potential European Robotaxi Geofencing",
+   "url": "https://www.basenor.com/blogs/news/tesla-robotaxi-geofences-found-in-firmware-for-9-european-cities",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TSLA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T19:01:32Z",
+   "news_id": 132157530,
+   "headline": "JPMorgan Chase Discloses 6.34% Stake in Sibanye-Stillwater",
+   "url": "https://irw-press.com/en/notification-of-an-acquisition-of-beneficial-interest-in-securities-by-jpmorgan-chase-co-4/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JPM"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4774,15 +4778,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T18:37:21Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-25T18:52:28Z",
    "fetched": 0,
@@ -6573,10 +6568,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T19:07:19Z",
+   "fetched": 35,
+   "news": 32,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 3611
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T18:52:15Z",
+ "updated_at": "2026-11-27T19:07:19Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6589,10 +6593,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100053.11,
+  "equity": 100058.84,
   "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 335683.54
+  "buying_power": 335691.88
  },
  "pending": 0,
  "positions": [
@@ -6612,10 +6616,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.1838,
-   "market_value": 5171.494655,
-   "unrealized_pl": 199.944655,
-   "unrealized_plpc": 0.04022,
+   "current_price": 167.19,
+   "market_value": 5171.686439,
+   "unrealized_pl": 200.136439,
+   "unrealized_plpc": 0.04026,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6634,10 +6638,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 52.0467,
-   "market_value": 5093.246656,
-   "unrealized_pl": 118.086656,
-   "unrealized_plpc": 0.02374,
+   "current_price": 51.92,
+   "market_value": 5080.847899,
+   "unrealized_pl": 105.687899,
+   "unrealized_plpc": 0.02124,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6656,10 +6660,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 172.2221,
-   "market_value": 5153.984518,
-   "unrealized_pl": 178.824503,
-   "unrealized_plpc": 0.03594,
+   "current_price": 171.9937,
+   "market_value": 5147.149332,
+   "unrealized_pl": 171.989317,
+   "unrealized_plpc": 0.03457,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6678,10 +6682,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 397.85,
-   "market_value": 5101.797143,
-   "unrealized_pl": 126.637134,
-   "unrealized_plpc": 0.02545,
+   "current_price": 398.6,
+   "market_value": 5111.414707,
+   "unrealized_pl": 136.254698,
+   "unrealized_plpc": 0.02739,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6689,10 +6693,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 66.7394,
-   "market_value": 4954.068748,
-   "unrealized_pl": -21.09128,
-   "unrealized_plpc": -0.00424,
+   "current_price": 66.84,
+   "market_value": 4961.536291,
+   "unrealized_pl": -13.623737,
+   "unrealized_plpc": -0.00274,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6700,10 +6704,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.2796,
-   "market_value": 5001.372804,
-   "unrealized_pl": 26.212804,
-   "unrealized_plpc": 0.00527,
+   "current_price": 13.3,
+   "market_value": 5009.055867,
+   "unrealized_pl": 33.895867,
+   "unrealized_plpc": 0.00681,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
