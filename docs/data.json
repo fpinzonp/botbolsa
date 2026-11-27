@@ -1079,317 +1079,13 @@
   {
    "t": "2026-11-27T12:22:18Z",
    "v": 99574.88
+  },
+  {
+   "t": "2026-11-27T12:37:27Z",
+   "v": 99569.0
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T14:03:08Z",
-   "news_id": 131321931,
-   "headline": "Meridian Holdings Terminates At-the-Market Equity Offering Program",
-   "url": "https://www.newmediawire.com/news/meridian-holdings-ends-at-the-market-equity-program-removing-16-9-million-of-potential-share-sales-7091568",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MRDN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:06Z",
-   "news_id": 131321929,
-   "headline": "flyExclusive Launches Contrails Software for Operators Following Volato Asset Acquisition",
-   "url": "https://avi-go.com/news/articles/6a1f26467ed048cad91acd1a6b6db6dd",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FLYX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:06Z",
-   "news_id": 131321925,
-   "headline": "Replenish Nutrients Announces Date for Third Quarter Fiscal 2026 Financial Results and Earnings Call",
-   "url": "https://www.newswire.ca/fr/news-releases/replenish-nutrients-announces-date-for-third-quarter-fiscal-2026-financial-results-and-earnings-call-847384003.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ERTH"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:04Z",
-   "news_id": 131321924,
-   "headline": "Trading Resumes in Mayfair Gold Corp. Following Temporary Halt",
-   "url": "https://www.newswire.ca/fr/news-releases/canadian-investment-regulatory-organization-trade-resumption-mfg-803763796.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MFG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:03:03Z",
-   "news_id": 131321922,
-   "headline": "Pure Cycle Corporation Suspends Share Buybacks",
-   "url": "https://www.moomoo.com/sectors/Utilities---Regulated-Water-BK2458?chain_id=Name1K9-3FXPhg.1lfh9hq&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A33,%22f%22%3A%22www.moomoo.com%2Fhans%2Fnews%2Fflash%2F20450098%2Fmicrosoft-introduces-github-copilot-coding-agent-event%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PCYO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:54Z",
-   "news_id": 131321918,
-   "headline": "Alamos Gold Invests C$25.896 Million in Trident Resources Corp.",
-   "url": "https://stockhouse.com/news/newswire/2026/11/25/stocktalk-gold-report-a-quartet-catalysts-for-shareholder-value",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ROCK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:54Z",
-   "news_id": 131321917,
-   "headline": "Ingles Markets Reports Fiscal Q4 2026 Earnings Results",
-   "url": "https://www.marketscreener.com/news/ingles-markets-shares-drop-after-fiscal-q4-earnings-fall-ce7851d8da8ff027",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IMKTA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:54Z",
-   "news_id": 131321469,
-   "headline": "Galantas Gold Reports Third Quarter 2026 Results",
-   "url": "https://www.newsfilecorp.com/release/326008/Galantas-Gold-Reports-Third-Quarter-2026-Results",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GAL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:53Z",
-   "news_id": 131321467,
-   "headline": "Silver X Mining Reports Third Quarter 2026 Financial and Operating Results",
-   "url": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/silver-x-reports-third-quarter-2026-results-and-provides-nueva-recuperada-expansi-1292019",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AGX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:49Z",
-   "news_id": 131321463,
-   "headline": "Analysts Update Ratings and Price Targets for Array Technologies",
-   "url": "https://www.moomoo.com/stock/ARRY-US?chain_id=Name1K9-3FXPhg.1lg1no0&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2F5310-BMS%2Fcompany%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ARRY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:43Z",
-   "news_id": 131321457,
-   "headline": "Hooker Furnishings to Host Fiscal 2027 Third Quarter Earnings Call",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410574/8255/en/hooker-furnishings-to-host-third-quarter-earnings-call-december-10th.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HOFT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:43Z",
-   "news_id": 131321456,
-   "headline": "Anteris Technologies Commences Trading on XETRA",
-   "url": "https://www.finanznachrichten.de/nachrichten-medien/xetra-newsboard.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AVR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:42Z",
-   "news_id": 131321454,
-   "headline": "TTEC Wins Gold and Two Silver Awards at 2026 European Contact Centre and Customer Service Awards",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410596/0/en/ttec-takes-home-gold-and-two-silver-awards-at-europe-s-leading-customer-service-awards.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TTEC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:40Z",
-   "news_id": 131321452,
-   "headline": "Securities Class Action Lawsuit Filed Against Montauk Renewables, Inc.",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410471/10782/en/gainey-mckenna-egleston-announces-a-class-action-lawsuit-has-been-filed-against-montauk-renewables-inc-mntk.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MNTK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:37Z",
-   "news_id": 131321449,
-   "headline": "Omdia Forecasts Growth in Active Privacy View (APV) OLED Display Shipments",
-   "url": "https://www.fidelity.com/news/article/technology/202611260503BIZWIRE_USPR_____20261126_BW762642",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TTGT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:37Z",
-   "news_id": 131321448,
-   "headline": "Entrada Therapeutics CEO to Participate in Fireside Chat at 9th Annual Evercore Healthcare Conference",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410591/0/en/entrada-therapeutics-to-present-at-the-evercore-healthcare-conference.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TRDA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:36Z",
-   "news_id": 131321447,
-   "headline": "Forge Nano Holdings Insider Purchases Shares Worth $250,647",
-   "url": "https://www.moomoo.com/hant/news/post/1005809890",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NANO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:33Z",
-   "news_id": 131321446,
-   "headline": "Canopy Growth Subsidiary Storz & Bickel Receives Flower Forward Award",
-   "url": "https://newsfilter.io/articles/canopy-growths-storz-and-bickel-honoured-for-whole-flower-vaporization-0f321884f9cd5132977023a974d59ccc",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WEED"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:33Z",
-   "news_id": 131321445,
-   "headline": "DZ Bank Adjusts Sanofi Fair Value Estimate",
-   "url": "https://www.finanzen.ch/analyse/sanofi-halten-1123439",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SNY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:33Z",
-   "news_id": 131321444,
-   "headline": "Northland Securities Maintains Buy Rating on Babcock & Wilcox Enterprises",
-   "url": "https://www.moomoo.com/stock/BW-US?chain_id=Name1K9-3FXPhg.1lgefi0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FHON-CA%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BW"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:32Z",
-   "news_id": 131321443,
-   "headline": "10% Shareholder of Gold.com, Inc. Acquires $5.75 Million in Common Stock",
-   "url": "https://www.moomoo.com/stock/GOLD-US?chain_id=Name1K9-3FXPhg.1lgf85g&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FWPM-CA%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GOLD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:30Z",
-   "news_id": 131321441,
-   "headline": "Gemini Space Station, Inc. Files Registration Statement for $50 Million Premium Yield Notes Offering",
-   "url": "https://newsfilter.io/articles/gemini-files-registration-statement-for-gemini-premium-yield-notes-77e7b0d34e9b583bac5dd13c632762d6",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GEMI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:29Z",
-   "news_id": 131321440,
-   "headline": "UBS Adjusts Price Target for PennantPark Floating Rate Capital",
-   "url": "https://www.marketscreener.com/news/ubs-trims-price-target-on-pennantpark-floating-rate-capital-to-8-from-8-50-maintains-buy-rating-ce7851d8d88ef420",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PFLT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:26Z",
-   "news_id": 131321437,
-   "headline": "Rogers Sugar Inc. Declares Quarterly Dividend",
-   "url": "https://www.barchart.com/press-releases/9017614/rogers-sugar-inc-declares-dividend-to-shareholders",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RSI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:26Z",
-   "news_id": 131321436,
-   "headline": "Upwork Announces Executive Leadership Changes",
-   "url": "https://www.streetinsider.com/news.php?id=27398953&classic=1",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UPWK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:26Z",
-   "news_id": 131321435,
-   "headline": "Rogers Sugar Inc. Reports Fiscal 2026 Fourth Quarter and Full-Year Results",
-   "url": "https://newsfilter.io/articles/rogers-sugar-reports-profitability-growth-in-2026-driven-by-strong-execution-in-a5f32eeaf81d580fa7bf6c784140303b",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RSI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:25Z",
-   "news_id": 131321434,
-   "headline": "Scripps News Publishes Investigative Report on Political Contributions by ICE Contractors",
-   "url": "https://amsterdamnews.com/news/2026/11/26/the-business-of-deportation-both-parties-take-the-money/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SSP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T14:02:24Z",
-   "news_id": 131321433,
-   "headline": "Cooper-Standard Automotive Expands Recruitment of Filipino Workers for European Operations",
-   "url": "https://www.pna.gov.ph/article/czech-automotive-firm-commends-ofws-seeks-more-filipino-workers",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CPS"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T14:32:25Z",
    "news_id": 131336864,
@@ -4453,6 +4149,314 @@
     "SBLK"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T12:33:30Z",
+   "news_id": 131867065,
+   "headline": "Ero Copper Suspends Tucumã Mine Operations Following Environmental Notice",
+   "url": "https://www.marketscreener.com/news/ero-copper-suspends-northern-brazil-mine-operations-pays-fine-after-flooding-ce7851d9dc8ef022",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ERO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:33:19Z",
+   "news_id": 131867064,
+   "headline": "Adaptive Biotechnologies Insider Sells Shares Worth Approximately $19.9 Million",
+   "url": "https://www.moomoo.com/hans/news/post/1005984486",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ADPT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:33:04Z",
+   "news_id": 131867063,
+   "headline": "Bernstein Adjusts Price Target on CF Industries",
+   "url": "https://www.marketscreener.com/news/bernstein-adjusts-price-target-on-cf-industries-to-163-from-162-ce7851d9dc8ff427",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:57Z",
+   "news_id": 131866637,
+   "headline": "Truist Adjusts Price Target on Medtronic to $101",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/medtronic-plc-truist-securities-gibt-neutrale-einschaetzung-ce7851d9dc80f721",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MDT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:54Z",
+   "news_id": 131866636,
+   "headline": "HSBC Adjusts Price Target on Marvell Technology to $200 From $450",
+   "url": "https://www.marketscreener.com/news/hsbc-adjusts-price-target-on-marvell-technology-to-200-from-450-ce7851d9dc8ff425",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MRVL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:48Z",
+   "news_id": 131866635,
+   "headline": "Huntington Adjusts Price Target on Sabra Health Care REIT",
+   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-sabra-health-care-reit-to-23-50-from-23-maintains-outperform-r-ce7851d9dd80f221",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HBAN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:48Z",
+   "news_id": 131866634,
+   "headline": "Huntington Adjusts Price Target on LTC Properties",
+   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-ltc-properties-to-50-from-49-50-maintains-outperform-rating-ce7851d9dd8ef022",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HBAN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:48Z",
+   "news_id": 131866633,
+   "headline": "Huntington Adjusts Price Target on Chiron Real Estate",
+   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-chiron-real-estate-to-31-from-34-maintains-market-perform-rati-ce7851d9dd80f121",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HBAN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:48Z",
+   "news_id": 131866632,
+   "headline": "Huntington Adjusts Price Target on LTC Properties to $50",
+   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-ltc-properties-to-50-from-49-50-maintains-outperform-rating-ce7851d9dd8ef022",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LTC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:47Z",
+   "news_id": 131866631,
+   "headline": "Life360 Insider Executes Significant Stock Sale",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/life360-insider-verkaufte-laut-juengster-sec-meldung-aktien-im-wert-von-7-266-009-usd-ce7851d9da80f427",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LIF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:46Z",
+   "news_id": 131866630,
+   "headline": "Citigroup Adjusts Price Target on Dollar Tree to $155 From $125",
+   "url": "https://www.marketscreener.com/news/citigroup-adjusts-price-target-on-dollar-tree-to-155-from-125-ce7851d9dc8df724",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DLTR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:45Z",
+   "news_id": 131866629,
+   "headline": "Berenberg Downgrades AST SpaceMobile to Hold",
+   "url": "https://www.marketscreener.com/news/berenberg-downgrades-ast-spacemobile-to-hold-from-buy-adjusts-pt-to-30-from-92-ce7851d9dc8af720",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ASTS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:44Z",
+   "news_id": 131866628,
+   "headline": "Huntington Adjusts Price Target on Sabra Health Care REIT to $23.50 From $23, Maintains Outperform Rating",
+   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-sabra-health-care-reit-to-23-50-from-23-maintains-outperform-r-ce7851d9dd80f221",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SBRA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:44Z",
+   "news_id": 131866627,
+   "headline": "Morningstar Insider Sells Shares Worth $5.16 Million",
+   "url": "https://www.marketscreener.com/news/morningstar-insider-sold-shares-worth-5-157-166-according-to-a-recent-sec-filing-ce7851d9da80f521",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MORN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:40Z",
+   "news_id": 131866626,
+   "headline": "Rocket Lab Completes 101st Electron Rocket Launch",
+   "url": "https://www.marketscreener.com/news/rocket-lab-completes-101st-electron-rocket-launch-deploying-satellite-to-low-earth-orbit-ce7851d9df89f624",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RKLB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:35Z",
+   "news_id": 131866625,
+   "headline": "JPMorgan Adjusts Price Target on Mid-America Apartment Communities to $137 From $145",
+   "url": "https://www.marketscreener.com/news/jpmorgan-adjusts-price-target-on-mid-america-apartment-communities-to-137-from-145-ce7851d9dc8af223",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MAA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:32Z",
+   "news_id": 131866624,
+   "headline": "Senior Managing Principal Jonathan Doyle Sells Piper Sandler Shares",
+   "url": "https://www.moomoo.com/ja/news/post/1006000771/this-insider-has-just-sold-shares-in-piper-sandler-companies",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PIPR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:29Z",
+   "news_id": 131866623,
+   "headline": "Jefferies Adjusts Price Target on Archer-Daniels-Midland to $76 From $89",
+   "url": "https://www.marketscreener.com/news/jefferies-adjusts-price-target-on-archer-daniels-midland-to-76-from-89-ce7851d9dc8af020",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ADM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:19Z",
+   "news_id": 131866622,
+   "headline": "BMO Adjusts NRG Energy Price Target Following Asset Sale",
+   "url": "https://www.finanznachrichten.de/nachrichten-aktien/nrg-energy-inc.htm",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NRG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:17Z",
+   "news_id": 131866621,
+   "headline": "Market Analysis Highlights Bitmine Immersion Technologies' Ethereum Treasury Strategy",
+   "url": "https://www.24-7pressrelease.com/press-release/540837/ethereums-treasury-companies-are-copying-a-playbook-that-hasnt-been-fully-tested",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BMNR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:32:12Z",
+   "news_id": 131866619,
+   "headline": "Ausgold Shareholders Approve OceanaGold Acquisition Scheme",
+   "url": "https://newsfilter.io/articles/oceanagold-announces-ausgold-shareholder-approval-b7e20062c6b753909eb592d82dc6554c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "OGC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:31:58Z",
+   "news_id": 131866212,
+   "headline": "LILYGO Updates T-Beam 1W Development Board with Semtech LR2021 LoRa Radio",
+   "url": "https://lxer.com/module/newswire/view/369629/index.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SMTC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:31:48Z",
+   "news_id": 131866211,
+   "headline": "Best Buy Observes Consumer Shift Toward Value and Premium Upgrades",
+   "url": "https://newsfilter.io/articles/inflation-has-shoppers-hunting-for-value-that-bodes-well-for-black-friday-6f76218415ef561a9512842a4d06e577",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BBY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:31:45Z",
+   "news_id": 131866210,
+   "headline": "Omnicom Selected as Agency Partner for The Coca-Cola Company in North America",
+   "url": "https://newsfilter.io/ticker/KO",
+   "source": "fiscal.ai",
+   "symbols": [
+    "OMC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:31:41Z",
+   "news_id": 131866209,
+   "headline": "Bleakley Financial Group LLC Acquires Shares of The Hartford Insurance Group, Inc.",
+   "url": "https://insurancenewsnet.com/oarticle/16776-shares-of-the-hartford-insurance-group-inc-hig-bought-by-bleakley-financial-group-llc",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HIG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:31:35Z",
+   "news_id": 131866207,
+   "headline": "S&P Global Ratings Upgrades Sri Lanka's Sovereign Credit Rating",
+   "url": "https://www.newswire.lk/2026/11/27/sp-upgrades-sri-lankas-credit-rating-to-b-outlook-stable/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SPGI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:31:34Z",
+   "news_id": 131866206,
+   "headline": "Morgan Stanley Discloses Major Holding in tk accelis Group AG & Co. KGaA",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-tk-accelis-group-ag-&-co-kgaa-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036805282",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T12:31:32Z",
+   "news_id": 131866205,
+   "headline": "Alphabet and Other Tech Providers Impacted by US Air Force Cloud One Security Breach",
+   "url": "https://news.futunn.com/post/1005853439/market-chatter-hackers-breach-us-air-force-cloud-platform-powered",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GOOG"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4578,15 +4582,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T11:37:16Z",
-   "fetched": 35,
-   "news": 35,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 3730
-  },
   {
    "t": "2026-11-25T11:52:18Z",
    "fetched": 0,
@@ -6377,10 +6372,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T12:37:27Z",
+   "fetched": 31,
+   "news": 28,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 2628
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T12:22:18Z",
+ "updated_at": "2026-11-27T12:37:27Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6393,10 +6397,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99574.88,
+  "equity": 99569.0,
   "cash": 84552.88,
   "last_equity": 99492.29055690177,
-  "buying_power": 380273.12
+  "buying_power": 380256.67
  },
  "pending": 4,
  "positions": [
@@ -6416,10 +6420,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.2,
-   "market_value": 5171.995769,
-   "unrealized_pl": 200.445769,
-   "unrealized_plpc": 0.04032,
+   "current_price": 167.01,
+   "market_value": 5166.118501,
+   "unrealized_pl": 194.568501,
+   "unrealized_plpc": 0.03914,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
