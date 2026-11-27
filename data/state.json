@@ -1,15 +1,6 @@
 {
- "news_cursor": "2026-11-27T10:31:21Z",
+ "news_cursor": "2026-11-27T11:01:55Z",
  "seen_ids": [
-  130458532,
-  130458531,
-  130458530,
-  130458529,
-  130458528,
-  130458527,
-  130458526,
-  130458525,
-  130458524,
   130458523,
   130458522,
   130458521,
@@ -2000,7 +1991,16 @@
   131810065,
   131810064,
   131810063,
-  131820781
+  131820781,
+  131831530,
+  131831529,
+  131831528,
+  131831527,
+  131831526,
+  131831525,
+  131831524,
+  131831523,
+  131831522
  ],
  "opened_at": {
   "BA": "2026-11-25T14:37:19Z",
@@ -2008,38 +2008,6 @@
   "AAT": "2026-11-25T14:37:19Z"
  },
  "pending": [
-  {
-   "news_id": 131508901,
-   "symbol": "MDB",
-   "action": "buy",
-   "confidence": 0.86,
-   "impact": "medium",
-   "rationale": "RBC Capital Markets designa a MongoDB como proveedor preferido para IA generativa, un respaldo institucional que puede impulsar la demanda de sus servicios a corto plazo.",
-   "asset": {
-    "id": "036f74ce-5de5-4718-bc41-1f89caba4388",
-    "class": "us_equity",
-    "exchange": "NASDAQ",
-    "symbol": "MDB",
-    "name": "MongoDB, Inc. Class A Common Stock",
-    "status": "active",
-    "tradable": true,
-    "marginable": true,
-    "maintenance_margin_requirement": 30,
-    "margin_requirement_long": "30",
-    "margin_requirement_short": "30",
-    "shortable": true,
-    "easy_to_borrow": true,
-    "borrow_status": "easy_to_borrow",
-    "fractionable": true,
-    "attributes": [
-     "fractional_eh_enabled",
-     "has_options",
-     "overnight_tradable"
-    ]
-   },
-   "t": "2026-11-26T19:07:15Z",
-   "ref_price": 313.61
-  },
   {
    "news_id": 131810427,
    "symbol": "UMC",

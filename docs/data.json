@@ -1055,53 +1055,13 @@
   {
    "t": "2026-11-27T10:52:17Z",
    "v": 99577.67
+  },
+  {
+   "t": "2026-11-27T11:07:15Z",
+   "v": 99577.67
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T13:01:48Z",
-   "news_id": 131300060,
-   "headline": "Goldman Sachs Prime Broking Insights on Hedge Fund Positioning",
-   "url": "https://www.morningstar.com/news/marketwatch/20261126104/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:46Z",
-   "news_id": 131300058,
-   "headline": "Higgsfield AI Partners with Nebius on NVIDIA Blackwell Infrastructure",
-   "url": "https://stockanalysis.com/private/higgsfield-ai/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NBIS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:45Z",
-   "news_id": 131300054,
-   "headline": "Ahold Delhaize Subsidiary AB Vassilopoulos Pilots New Discount Model",
-   "url": "https://www.euro2day.gr/amp/news/enterprises/article/2382049/metopo-me-lidl-anoigei-h-av-vasilopoylos-mpainei-s.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T13:01:44Z",
-   "news_id": 131300050,
-   "headline": "Goldman Sachs Raises Price Target for Sartorius Stedim Biotech",
-   "url": "https://www.finanzen.ch/analyse/sartorius-stedim-biotech-buy-1123442",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DIM"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T13:01:43Z",
    "news_id": 131300046,
@@ -4402,6 +4362,50 @@
     "BBD"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T11:01:44Z",
+   "news_id": 131831529,
+   "headline": "HSBC to Consolidate Support Functions Across India in Cost-Cutting Push",
+   "url": "https://www.marketscreener.com/news/hsbc-to-consolidate-support-functions-across-india-in-cost-cutting-push-ce7851d9dd8dfe2c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HSBC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:01:34Z",
+   "news_id": 131831526,
+   "headline": "Sony's Aibo Robotic Dog Offers Companionship",
+   "url": "https://www.barchart.com/investing-ideas/robotics",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SONY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:01:26Z",
+   "news_id": 131831524,
+   "headline": "Market Commentary on Australian LNG Export Dynamics",
+   "url": "https://www.milanofinanza.it/mfnewswires/australia-impone-a-esportatori-gnl-di-riservare-parte-forniture-a-mercato-interno-202611271052024601",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SHEL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T11:01:25Z",
+   "news_id": 131831523,
+   "headline": "SK Hynix Reports Near-Sold-Out Production Capacity for 2029",
+   "url": "https://www.moomoo.com/news/post/1005986341/where-is-the-memory-market-headed-analysts-debate-whether-dram",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SKHY"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4527,15 +4531,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T10:07:13Z",
-   "fetched": 9,
-   "news": 5,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 947
-  },
   {
    "t": "2026-11-25T10:22:15Z",
    "fetched": 0,
@@ -6326,10 +6321,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T11:07:15Z",
+   "fetched": 9,
+   "news": 4,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 816
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T10:52:17Z",
+ "updated_at": "2026-11-27T11:07:15Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6347,7 +6351,7 @@
   "last_equity": 99492.29055690177,
   "buying_power": 380280.92
  },
- "pending": 2,
+ "pending": 1,
  "positions": [
   {
    "symbol": "AAT",
