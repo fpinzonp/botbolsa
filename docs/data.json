@@ -1015,64 +1015,13 @@
   {
    "t": "2026-11-27T08:22:17Z",
    "v": 99557.87
+  },
+  {
+   "t": "2026-11-27T08:37:15Z",
+   "v": 99557.87
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T12:31:49Z",
-   "news_id": 131291859,
-   "headline": "Pershing Square Holdings, Ltd. Announces Share Buyback Transactions",
-   "url": "https://www.investegate.co.uk/announcement/bzw/pershing-square-holdings-ltd--psh/transaction-in-own-shares/9894488",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PSH"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:47Z",
-   "news_id": 131291858,
-   "headline": "United Airlines to Launch Nonstop Service to Ljubljana in 2027",
-   "url": "https://markets.businessinsider.com/news/stocks/what-s-new-in-slovenia-in-2027-new-us-flights-hotel-openings-cultural-highlights-and-wellbeing-experiences-1036802230",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UAL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:47Z",
-   "news_id": 131291857,
-   "headline": "CoStar Group Releases Market Data on Noho Office Leasing and Canadian Retail Forecast",
-   "url": "https://www.businesswire.com/newsroom/industry/construction-property/commercial-real-estate",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CSGP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:45Z",
-   "news_id": 131291856,
-   "headline": "Hexaware Receives Guidewire 2026 Consulting Partner Outstanding Market Growth Award—EMEA",
-   "url": "https://www.prnewswire.com/news-releases/hexaware-receives-guidewire-2026-consulting-partner-outstanding-market-growth-awardemea-302951227.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GWRE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T12:31:44Z",
-   "news_id": 131291854,
-   "headline": "Ford Announces Expansion of SUV Portfolio with Hybrid Territory",
-   "url": "https://carros.ig.com.br/colunas/bene-gomes/2026-11-26/ford-amplia-oferta-de-suvs-com-territory-hibrido-flex-em-2027.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "F"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T12:31:44Z",
    "news_id": 131291853,
@@ -4353,6 +4302,61 @@
     "GDS"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T08:32:01Z",
+   "news_id": 131781784,
+   "headline": "SAP Confirms No Customer Data Breach Following Security Incident",
+   "url": "https://www.marketscreener.com/news/germany-s-sap-finds-no-signs-of-customer-data-breach-following-security-incident-ce7851d9da81fe2c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SAP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:31:59Z",
+   "news_id": 131781516,
+   "headline": "Deutsche Telekom and Rheinmetall Reportedly Explore Joint Surveillance Platform Offering",
+   "url": "https://www.finanzen.at/nachrichten/aktien/rheinmetall-aktie-zieht-weiter-an-vor-mittelfristausblick-auch-renk-hensoldt-&-tkms-im-plus-1036804680",
+   "source": "fiscal.ai",
+   "symbols": [
+    "DTE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:31:56Z",
+   "news_id": 131781515,
+   "headline": "Stellantis in Advanced Negotiations with Struggling Supplier",
+   "url": "https://www.milanofinanza.it/news/stellantis-vuole-ricomprare-una-parte-di-marelli-sul-tavolo-tre-fabbriche-italiane-202611270908224741",
+   "source": "fiscal.ai",
+   "symbols": [
+    "STLA"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:31:43Z",
+   "news_id": 131781514,
+   "headline": "Transamerica Life Bermuda Expands Operations in Dubai International Financial Centre",
+   "url": "https://money.udn.com/money/story/12987/9906055",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AEG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T08:31:21Z",
+   "news_id": 131781510,
+   "headline": "Toyota, Honda, Nissan, and Mazda Collaborate on Vehicle Component Standardization",
+   "url": "https://www.newswire.lk/category/news/page/2/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TM"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4478,15 +4482,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T07:37:19Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-25T07:52:15Z",
    "fetched": 0,
@@ -6277,10 +6272,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T08:37:15Z",
+   "fetched": 10,
+   "news": 5,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 893
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T08:22:17Z",
+ "updated_at": "2026-11-27T08:37:15Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
