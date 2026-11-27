@@ -1235,42 +1235,13 @@
   {
    "t": "2026-11-27T21:52:14Z",
    "v": 100116.2
+  },
+  {
+   "t": "2026-11-27T22:07:14Z",
+   "v": 100131.93
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T08:02:44Z",
-   "news_id": 131773949,
-   "headline": "Gaming Corps Enters Partnership with DAZN Bet to Expand in Italy",
-   "url": "https://g3newswire.com/gaming-corps-strengthens-italian-market-presence-in-collaboration-with-dazn-bet/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GCOR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:02:29Z",
-   "news_id": 131773919,
-   "headline": "EHI! S.p.A. Completes Statutory Adjustment Phase with No Shareholder Withdrawals",
-   "url": "https://www.milanofinanza.it/news/ehi-nessun-recesso-via-libera-al-nuovo-modello-di-business-della-ex-spac-guidata-da-mauro-girardi-202611261351136034",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EHI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T08:02:06Z",
-   "news_id": 131773901,
-   "headline": "Voxel S.A. Reports Financial Results for the Quarter Ended September 30, 2026",
-   "url": "https://www.finanzen.at/nachrichten/aktien/voxel-prasentierte-das-zahlenwerk-zum-abgelaufenen-jahresviertel-1036804212",
-   "source": "fiscal.ai",
-   "symbols": [
-    "VOX"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T08:02:05Z",
    "news_id": 131773898,
@@ -4618,6 +4589,39 @@
     "AAPL"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T22:01:51Z",
+   "news_id": 132328949,
+   "headline": "Lloyds Banking Group Announces Share Buyback Transactions",
+   "url": "https://www.investegate.co.uk/announcement/rns/lloyds-banking-group--lloy/transaction-in-own-shares/9898350",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LYG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:01:51Z",
+   "news_id": 132328948,
+   "headline": "Lloyds Banking Group Agrees £265 Million Financing Package with Together Housing Group",
+   "url": "https://news.europawire.eu/lloyds-banking-group-provides-265-million-in-financing-to-advance-affordable-housing-and-regeneration-in-northern-england/2026/11/27/17/51/03/190066/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LYG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T22:01:41Z",
+   "news_id": 132328947,
+   "headline": "BP Capital Markets p.l.c. Announces Redemption of GBP 400 Million Perpetual Subordinated Notes",
+   "url": "https://www.investegate.co.uk/announcement/rns/bp-capital-markets-plc--89ff/notice-of-redemption-to-noteholders/9898299",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BP"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4813,15 +4817,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T21:37:17Z",
-   "fetched": 16,
-   "news": 15,
-   "signals": 2,
-   "orders": 0,
-   "errors": [],
-   "tokens": 1938
-  },
   {
    "t": "2026-11-25T21:52:14Z",
    "fetched": 0,
@@ -6612,10 +6607,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T22:07:14Z",
+   "fetched": 3,
+   "news": 3,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 814
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T21:52:14Z",
+ "updated_at": "2026-11-27T22:07:14Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6628,10 +6632,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100116.2,
+  "equity": 100131.93,
   "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 335850.94
+  "buying_power": 335893.26
  },
  "pending": 0,
  "positions": [
@@ -6651,10 +6655,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.39,
-   "market_value": 5177.873037,
-   "unrealized_pl": 206.323037,
-   "unrealized_plpc": 0.0415,
+   "current_price": 167.41,
+   "market_value": 5178.491697,
+   "unrealized_pl": 206.941697,
+   "unrealized_plpc": 0.04163,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6695,10 +6699,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 172.1,
-   "market_value": 5150.330506,
-   "unrealized_pl": 175.170491,
-   "unrealized_plpc": 0.03521,
+   "current_price": 172.27,
+   "market_value": 5155.417991,
+   "unrealized_pl": 180.257976,
+   "unrealized_plpc": 0.03623,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6717,10 +6721,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 398.75,
-   "market_value": 5113.338219,
-   "unrealized_pl": 138.17821,
-   "unrealized_plpc": 0.02777,
+   "current_price": 398.92,
+   "market_value": 5115.518201,
+   "unrealized_pl": 140.358192,
+   "unrealized_plpc": 0.02821,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6728,10 +6732,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 66.8976,
-   "market_value": 4965.811942,
-   "unrealized_pl": -9.348086,
-   "unrealized_plpc": -0.00188,
+   "current_price": 66.8004,
+   "market_value": 4958.596781,
+   "unrealized_pl": -16.563247,
+   "unrealized_plpc": -0.00333,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6739,10 +6743,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.31,
-   "market_value": 5012.822074,
-   "unrealized_pl": 37.662074,
-   "unrealized_plpc": 0.00757,
+   "current_price": 13.35,
+   "market_value": 5027.886904,
+   "unrealized_pl": 52.726904,
+   "unrealized_plpc": 0.0106,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
