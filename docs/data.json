@@ -1115,405 +1115,13 @@
   {
    "t": "2026-11-27T14:22:14Z",
    "v": 99582.92
+  },
+  {
+   "t": "2026-11-27T14:37:21Z",
+   "v": 99472.76
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-26T17:31:46Z",
-   "news_id": 131442987,
-   "headline": "Saba Capital Management Increases Stake in Grainger plc to 11.00%",
-   "url": "https://www.investegate.co.uk/announcement/rns/grainger--gri/holding-s-in-company/9896451",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GRI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:31:44Z",
-   "news_id": 131442983,
-   "headline": "Trainline Partners with HTS to Add Accommodation Booking",
-   "url": "https://travelprnews.com/travel-press-releases-tagged-with/trainline-expands-trip-planning-with-in-app-stays-and-a-black-friday-launch-offer/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TRN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:31:43Z",
-   "news_id": 131442982,
-   "headline": "Rathbones Group Plc Discloses 2.12% Interest in Gresham House Energy Storage Fund PLC",
-   "url": "https://newsfilter.io/articles/form-8-3-gresham-house-energy-storage-fund-plc-34407b5ea5c4503fa1ad650e8f8cefdf",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GRID"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:31:43Z",
-   "news_id": 131442980,
-   "headline": "Alvotech to Appeal U.S. Preliminary Injunction Regarding AVT05",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3410693/0/en/alvotech-to-appeal-us-preliminary-injunction-decision-relating-to-avt05.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ALVO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:31:42Z",
-   "news_id": 131442976,
-   "headline": "Keystone Law Group plc Announces Director Disclosure",
-   "url": "https://www.investegate.co.uk/announcement/rns/keystone-law-group--keys/director-declaration/9895879",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KEYS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:31:41Z",
-   "news_id": 131442973,
-   "headline": "Volution Group plc Subsidiary Identified as Offeror in Regulatory Disclosure",
-   "url": "https://www.lse.co.uk/rns/disclosure-table-ku4i6jfmbkr7lxl.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "FAN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T17:31:40Z",
-   "news_id": 131442972,
-   "headline": "Dr. Martens Launches New 1460 Shoulder Bag",
-   "url": "https://www.prnewswire.co.uk/news-releases/the-boot-becomes-the-bag-dr-martens-introduces-the-new-1460-shoulder-bag-302950753.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DOCS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T18:02:56Z",
-   "news_id": 131465396,
-   "headline": "Analyst Rating Updates for Vodafone Group PLC",
-   "url": "https://www.marketscreener.com/news/alphavalue-baader-europe-upgrades-vodafone-to-add-ce7851d8d08ffe2d",
-   "source": "fiscal.ai",
-   "symbols": [
-    "VOD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T18:01:51Z",
-   "news_id": 131464659,
-   "headline": "SAP Considers Workforce Reduction of at Least 10,000 Employees",
-   "url": "https://www.marketscreener.com/news/sap-said-to-trim-at-least-10-000-jobs-amid-ai-push-ce7851d9d98ef522",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SAP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T18:01:50Z",
-   "news_id": 131464658,
-   "headline": "easyJet to Launch Newcastle–Southampton Route in February 2027",
-   "url": "https://travelprnews.com/article/easyjet-to-restore-newcastle-southampton-air-link-with-february-2027-flights/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EZJ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T18:01:35Z",
-   "news_id": 131464656,
-   "headline": "DPC Dash Scales Supply Chain Network to Drive Store Expansion",
-   "url": "https://www.prnewswire.com/news-releases/dpc-dash--dominos-pizza-china-scales-supply-chain-network-to-drive-disciplined-store-expansion-and-nationwide-ip-collaborations-302951147.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DPC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T18:01:35Z",
-   "news_id": 131464655,
-   "headline": "Wellington Management Group LLP Files Holding Notification for Admiral Group plc",
-   "url": "https://www.globenewswire.com/news-release/2026/11/26/3411004/0/en/holding-s-in-company.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ADM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T18:01:27Z",
-   "news_id": 131464652,
-   "headline": "Roche Canada Launches 'Time for More' Initiative",
-   "url": "https://www.newswire.ca/news-releases/roche-canada-s-time-for-more-shows-what-s-made-possible-when-innovative-medicines-reach-the-people-who-need-them-819340128.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ROP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:04:04Z",
-   "news_id": 131511261,
-   "headline": "UK Competition Regulator Consults on Brink's Undertakings Regarding NCR Atleos Acquisition",
-   "url": "https://www.marketscreener.com/news/uk-competition-regulator-consults-on-brink-s-undertakings-over-proposed-purchase-of-ncr-atleos-ce7851d9d98bf622",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NATL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:03:36Z",
-   "news_id": 131510473,
-   "headline": "UK Competition Regulator Consults on Brink's Undertakings Over Proposed Purchase of NCR Atleos",
-   "url": "https://www.marketscreener.com/news/uk-competition-regulator-consults-on-brink-s-undertakings-over-proposed-purchase-of-ncr-atleos-ce7851d9d98bf622",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BCO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:03:20Z",
-   "news_id": 131510472,
-   "headline": "Asana, Inc. Scheduled Earnings Release",
-   "url": "https://tickzen.app/stock-analysis/earnings-calendar",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ASAN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:48Z",
-   "news_id": 131509686,
-   "headline": "Cushman & Wakefield Releases Report on Life Sciences Real Estate Demand in China",
-   "url": "https://www.media-outreach.com/news/hong-kong/2026/11/26/504436/life-sciences-from-lab-to-landscape-how-the-evolution-of-life-sciences-is-transforming-real-estate-demand-on-the-chinese-mainland/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CWK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:43Z",
-   "news_id": 131509685,
-   "headline": "Franklin Templeton to Add Hyperliquid (HYPE) to Crypto ETF",
-   "url": "https://www.moomoo.com/sectors/Crypto-Treasury-BK23920?chain_id=Name1K9-3FXPhg.1lfv94i&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A33,%22f%22%3A%22www.moomoo.com%2Fhans%2Fnews%2Fflash%2F20450098%2Fmicrosoft-introduces-github-copilot-coding-agent-event%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BEN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:42Z",
-   "news_id": 131509684,
-   "headline": "Skeena Gold & Silver Reports Eskay Creek Project Over 80% Complete",
-   "url": "https://www.finanznachrichten.de/nachrichten-medien/rohstoff-tv.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SKE"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:27Z",
-   "news_id": 131509682,
-   "headline": "Life Time Shares Expert Holiday Wellness Tips",
-   "url": "https://www.avanza.se/nyheter-bevaka-app.html?a=%2Ftelegram%2Favanza%2F1_4f8b873f-d122-432c-a701-89d68e09d1a6",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LTH"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:26Z",
-   "news_id": 131509681,
-   "headline": "Dolby Sustainability Leader Discusses Corporate Carbon Credit Strategy",
-   "url": "https://sustainabilitymag.com/news/cip-carbon-credits-at-the-core-of-climate-strategy",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DLB"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:25Z",
-   "news_id": 131509680,
-   "headline": "GoDaddy Launches Airo AI Builder for Beauty Professionals",
-   "url": "https://www.streetinsider.com/Press+Releases//Press+Releases?before_id=27404676",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GDDY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:24Z",
-   "news_id": 131509679,
-   "headline": "Wall Street Analysts Update Ratings and Price Targets for Abercrombie & Fitch",
-   "url": "https://www.moomoo.com/hans/news/post/1005908729/a-quick-look-at-today-s-ratings-for-abercrombie-fitch",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ANF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:23Z",
-   "news_id": 131509678,
-   "headline": "Plexus Corp. Deploys Dematic AutoStore System at Romania Facility",
-   "url": "https://supplychaindigital.com/news/how-plexus-deploys-autostore-robotics-to-plexus-faci",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PLXS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:22Z",
-   "news_id": 131509676,
-   "headline": "TD Bank Reports Stalling Housing Affordability Recovery in Canada",
-   "url": "https://www.marketscreener.com/news/canada-s-housing-affordability-recovery-stalls-as-borrowing-costs-increase-td-says-ce7851d9d988fe2c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:19Z",
-   "news_id": 131509675,
-   "headline": "Pomerantz LLP Investigates ImmunityBio, Inc. for Potential Securities Fraud",
-   "url": "https://www.prnewswire.com/news-releases/investor-alert-pomerantz-law-firm-investigates-claims-302949003.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IBRX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:16Z",
-   "news_id": 131509674,
-   "headline": "CNESST Releases Findings on Fatal Workplace Accident at Canadian Malartic Mine",
-   "url": "https://www.newswire.ca/fr/news-releases/accidents-mortels-impliquant-des-convoyeurs-la-cnesst-rappelle-l-importance-du-cadenassage-843161387.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AEM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:16Z",
-   "news_id": 131509673,
-   "headline": "Modexus Solutions Outlines Strategic Growth Targets at 2026 Investor Day",
-   "url": "https://stocktwits.com/symbol/MOD/news",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MOD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:14Z",
-   "news_id": 131509672,
-   "headline": "Potential Impact of Proposed US Duty on Embraer Aircraft",
-   "url": "https://www.manilatimes.net/2026/11/27/business/foreign-business/us-airlines-face-higher-costs-from-embraer-duty/2478729/amp",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AAL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:13Z",
-   "news_id": 131509670,
-   "headline": "Jefferies Financial Group Discloses 5% Stake in Gamma Communications",
-   "url": "https://www.investegate.co.uk/announcement/rns/gamma-communications--gama/holding-s-in-company/9896417",
-   "source": "fiscal.ai",
-   "symbols": [
-    "JEF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:13Z",
-   "news_id": 131509669,
-   "headline": "Garmin Hosts 2026 Wearable Technology Exhibition",
-   "url": "http://broadcastmagz.com/pr-newswire-english/?rkey=20261126AE06189&filter=18821",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GRMN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:11Z",
-   "news_id": 131509668,
-   "headline": "Gartner Releases 2026 Magic Quadrant for Email Security",
-   "url": "https://techedgeai.com/abnormal-ai-named-a-leader-in-gartners-2026-email-security-report/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:07Z",
-   "news_id": 131509667,
-   "headline": "Scotiabank Releases Analysis on Saskatchewan's Budget Dependency on Oil Prices",
-   "url": "https://www.marketscreener.com/news/saskatchewan-s-path-to-budget-balance-remains-dependent-on-oil-prices-scotiabank-says-ce7851d8d08bf626",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BNS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:06Z",
-   "news_id": 131509666,
-   "headline": "Invesco Comments on Maritime Shipping Costs and Oil Market Outlook",
-   "url": "https://www.abcbourse.com/marches/petrole-le-baril-monte-alors-que-les-attaques-se-multiplient-sur-les-infrastru_706734",
-   "source": "fiscal.ai",
-   "symbols": [
-    "IVZ"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:01Z",
-   "news_id": 131509663,
-   "headline": "TC Energy Threatens to Cancel Gas Pipeline Expansion Due to Proposed Alberta Legislation",
-   "url": "https://edmontonjournal.com/category/business/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TRP"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-26T19:02:01Z",
-   "news_id": 131509662,
-   "headline": "Truist Financial Analyst Reiterates Buy Rating on Packaging Corporation of America",
-   "url": "https://www.barchart.com/story/news/9016687/are-wall-street-analysts-bullish-on-packaging-corporation-of-america-stock",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TFC"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-26T19:01:59Z",
    "news_id": 131509661,
@@ -2954,7 +2562,7 @@
      "confidence": 0.78,
      "impact": "medium",
      "rationale": "La adquisición de instalaciones de producción por 17 mil millones NT$ refuerza la capacidad de UMC y su posición competitiva, lo que puede impulsar el precio a corto plazo.",
-     "outcome": "En cola: mercado cerrado"
+     "outcome": "Compra $4,975 · enviada"
     }
    ]
   },
@@ -3181,7 +2789,7 @@
      "confidence": 0.8,
      "impact": "high",
      "rationale": "La adquisición anunciada de Emag en Alemania representa una expansión estratégica en fabricación europea, lo que suele impulsar el precio de TSLA en el corto plazo.",
-     "outcome": "En cola: mercado cerrado"
+     "outcome": "Compra $4,975 · enviada"
     }
    ]
   },
@@ -3212,7 +2820,7 @@
      "confidence": 0.75,
      "impact": "medium",
      "rationale": "El contrato con el Ministerio de Defensa polaco abre una nueva fuente de ingresos gubernamentales y refuerza la posición de Palantir en defensa, impulsando su acción.",
-     "outcome": "En cola: mercado cerrado"
+     "outcome": "Compra $4,975 · enviada"
     }
    ]
   },
@@ -3232,7 +2840,7 @@
      "confidence": 0.8,
      "impact": "high",
      "rationale": "Uber controla el 87% de Delivery Hero, una adquisición que podría generar sinergias y crecimiento de ingresos, catalizando una fuerte reacción positiva.",
-     "outcome": "En cola: mercado cerrado"
+     "outcome": "Compra $4,975 · enviada"
     }
    ]
   },
@@ -4489,6 +4097,411 @@
     "PDD"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-27T14:34:14Z",
+   "news_id": 131933310,
+   "headline": "GE Vernova Hitachi Nuclear Energy Co-Hosts Briefing for UK Small Modular Reactor Program",
+   "url": "https://electricityinfo.org/category/topics/new-reactor-types/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GEV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:33:38Z",
+   "news_id": 131932535,
+   "headline": "Truist Securities Adjusts Brixmor Property Price Target to $33 From $31, Maintains Buy Rating",
+   "url": "https://www.marketscreener.com/news/truist-securities-adjusts-brixmor-property-price-target-to-33-from-31-maintains-buy-rating-ce7851d9df8ffe23",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BRX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:33:03Z",
+   "news_id": 131932534,
+   "headline": "Columbia Financial Chief Financial Officer Thomas Splaine Jr. Intends to Resign",
+   "url": "https://www.marketscreener.com/news/columbia-financial-chief-financial-officer-thomas-splaine-jr-intends-to-resign-ce7851d9df8df42c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CLBK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:33:02Z",
+   "news_id": 131932533,
+   "headline": "B. Riley Downgrades Zscaler to Neutral",
+   "url": "https://www.marketscreener.com/news/b-riley-downgrades-zscaler-to-neutral-from-buy-cuts-price-target-to-245-from-260-ce7851d9df8ff626",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ZS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:59Z",
+   "news_id": 131931761,
+   "headline": "Stifel Maintains Buy Rating on Rush Street Interactive, Adjusts Price Target",
+   "url": "https://www.moomoo.com/stock/RSI-US?chain_id=Name1K9-3FXPhg.1l02700&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A59%2C%22f%22%3A%22www.moomoo.com%2Foptions%2FBUD260417C70000-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RSI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:30Z",
+   "news_id": 131931760,
+   "headline": "Truist Adjusts Price Target on Kite Realty Group Trust to $26",
+   "url": "https://www.marketscreener.com/news/truist-adjusts-price-target-on-kite-realty-group-trust-to-26-from-27-maintains-hold-rating-ce7851d9df8ef725",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KRG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:22Z",
+   "news_id": 131931759,
+   "headline": "Argus Research Downgrades HubSpot to Hold From Buy",
+   "url": "https://www.marketscreener.com/news/argus-research-downgrades-hubspot-to-hold-from-buy-ce7851d9df8af525",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HUBS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:22Z",
+   "news_id": 131931758,
+   "headline": "Truist Adjusts Price Target on InvenTrust Properties to $33 From $32",
+   "url": "https://www.marketscreener.com/news/truist-adjusts-price-target-on-inventrust-properties-to-33-from-32-maintains-hold-rating-ce7851d9df8ef227",
+   "source": "fiscal.ai",
+   "symbols": [
+    "IVT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:20Z",
+   "news_id": 131931757,
+   "headline": "Truist Securities Adjusts Acadia Realty Price Target to $23 From $22, Maintains Buy Rating",
+   "url": "https://www.marketscreener.com/news/truist-securities-adjusts-acadia-realty-price-target-to-23-from-22-maintains-buy-rating-ce7851d9df8ffe21",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AKR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:16Z",
+   "news_id": 131931756,
+   "headline": "Truist Adjusts Price Target on Regency Centers to $81 From $84",
+   "url": "https://www.marketscreener.com/news/truist-adjusts-price-target-on-regency-centers-to-81-from-84-maintains-buy-rating-ce7851d9df8ffe2d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "REG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:16Z",
+   "news_id": 131931755,
+   "headline": "Truist Raises Price Target on Omega Healthcare Investors to $48",
+   "url": "https://www.marketscreener.com/news/truist-raises-price-target-on-omega-healthcare-investors-to-48-from-47-keeps-hold-rating-ce7851d9df8af62d",
+   "source": "fiscal.ai",
+   "symbols": [
+    "OHI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:15Z",
+   "news_id": 131931754,
+   "headline": "BlackRock Contending for Singapore Public Pension Fund Mandate",
+   "url": "https://www.marketscreener.com/news/jpmorgan-blackrock-contending-to-manage-portion-of-singapore-s-543-62-billion-public-pension-fund-ce7851d9df8df324",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BLK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:15Z",
+   "news_id": 131931753,
+   "headline": "WisdomTree Multi Asset Issuer PLC Adjourns Meeting of Affected Securities Holders",
+   "url": "https://newsfilter.io/articles/wisdomtree-silver-3x-daily-leveraged-securities-isin-xs3306516876-13d573a84242557ab3e3036d0bd671bf",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:12Z",
+   "news_id": 131931752,
+   "headline": "RBC Raises Price Target on Ovintiv to $92",
+   "url": "https://www.marketscreener.com/news/ovintiv-price-target-raised-to-92-at-rbc-ce7851d9df8bf627",
+   "source": "fiscal.ai",
+   "symbols": [
+    "OVV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:05Z",
+   "news_id": 131931751,
+   "headline": "Truist Adjusts Price Target on Kimco Realty to $26",
+   "url": "https://www.marketscreener.com/news/truist-adjusts-price-target-on-kimco-realty-to-26-from-24-maintains-hold-rating-ce7851d9df8ef621",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KIM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:02Z",
+   "news_id": 131931750,
+   "headline": "Legend Biotech to Host Investor Event During the 68th American Society of Hematology Annual Meeting and Exposition",
+   "url": "https://www.morningstar.com/news/globe-newswire/9884936/legend-biotech-to-host-investor-event-during-the-68th-american-society-of-hematology-annual-meeting-and-exposition",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LEGN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:00Z",
+   "news_id": 131931749,
+   "headline": "Millicom Announces Voluntary Redemption of SEK 2.25 Billion Sustainability Notes",
+   "url": "https://www.morningstar.com/news/globe-newswire/1001315816/millicom-tigo-announces-voluntary-redemption-in-full-of-its-sek-225-billion-sustainability-notes-due-2027",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TIGO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:00Z",
+   "news_id": 131931748,
+   "headline": "CRTC Issues Decision Regarding TELUS Wireless Device Unlocking Rules",
+   "url": "https://www.newswire.ca/news-releases/crtc-takes-action-to-eliminate-extra-cellphone-fees-876909701.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "T"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:32:00Z",
+   "news_id": 131931747,
+   "headline": "UBS Adjusts Kroger Price Target to $72 From $66, Maintains Neutral Rating",
+   "url": "https://www.marketscreener.com/news/ubs-adjusts-kroger-price-target-to-72-from-66-maintains-neutral-rating-ce7851d9df8ef225",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:52Z",
+   "news_id": 131930990,
+   "headline": "Recent Insider Trading Activity at Galaxy Digital Inc.",
+   "url": "https://www.moomoo.com/hant/news/post/1006008238/galaxy-digital-insiders-placed-bullish-bets-worth-us-1-52m",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GLXY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:49Z",
+   "news_id": 131930989,
+   "headline": "Fluor Canada Hosts Tipi Transfer Ceremony",
+   "url": "https://energynow.ca/2026/11/a-meaningful-milestone-fluor-canada-tipi-transfer-ceremony/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "FLR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:49Z",
+   "news_id": 131930988,
+   "headline": "Franklin Templeton Mutual Fund Suspends SIP/STP Investments in Overseas Schemes",
+   "url": "https://www.valueresearchonline.com/stories/230350/temporary-suspension-in-existing-sip-stp-investments-in-overseas-schemes-of-franklin-templeton-mutual-fund/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BEN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:48Z",
+   "news_id": 131930987,
+   "headline": "Hut 8 Receives Approval for Second Phase of Beacon Point Data Center",
+   "url": "https://www.cantechletter.com/2026/11/is-hut8-nasdaqhut-a-buy-right-now/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HUT"
+   ],
+   "signals": [
+    {
+     "symbol": "HUT",
+     "action": "buy",
+     "confidence": 0.75,
+     "impact": "medium",
+     "rationale": "Aprobación para la segunda fase del centro de datos incrementa la capacidad de minería y puede impulsar el precio en el corto plazo.",
+     "outcome": "Compra $4,975 · enviada"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-27T14:31:48Z",
+   "news_id": 131930986,
+   "headline": "Gap Inc. Deploys AI Software Engineering Agent 'Devin' to Enhance E-commerce Operations",
+   "url": "https://www.retailtechinnovationhub.com/home/2026/11/27/retail-technology-innovation-of-the-week-peak-shopping-season-focused-gap-inc-plugs-into-cognitions-devin-ai-agent",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GAP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:46Z",
+   "news_id": 131930985,
+   "headline": "Meta Cited in South African High Court Ruling Regarding Pseudonymous Content",
+   "url": "https://www.einnews.com/pr_news/959345946/government-welcomes-high-court-ruling-against-pseudonymous-facebook-account",
+   "source": "fiscal.ai",
+   "symbols": [
+    "META"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:46Z",
+   "news_id": 131930984,
+   "headline": "Meta Launches Instagram for TV in India",
+   "url": "https://www.marketscreener.com/news/meta-platforms-brings-instagram-for-tv-to-india-ce7851d9df8df327",
+   "source": "fiscal.ai",
+   "symbols": [
+    "META"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:45Z",
+   "news_id": 131930983,
+   "headline": "Warner Music Group Settles Copyright Lawsuit with Suno",
+   "url": "https://stockanalysis.com/private/suno/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WMG"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:44Z",
+   "news_id": 131930982,
+   "headline": "JPMorgan and BlackRock Contending to Manage Portion of Singapore's Public Pension Fund",
+   "url": "https://www.marketscreener.com/news/jpmorgan-blackrock-contending-to-manage-portion-of-singapore-s-543-62-billion-public-pension-fund-ce7851d9df8df324",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JPM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:44Z",
+   "news_id": 131930981,
+   "headline": "Snap Integrates Linktree for Profile Links",
+   "url": "https://stockanalysis.com/private/linktree/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SNAP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:42Z",
+   "news_id": 131930980,
+   "headline": "CAE Announces Successful Completion of Consent Solicitation for Senior Unsecured Notes",
+   "url": "https://www.prnewswire.com/news-releases/cae-announces-successful-completion-of-consent-solicitation-targeting-its-5-541-series-1-senior-unsecured-notes-302951739.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CAE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:42Z",
+   "news_id": 131930979,
+   "headline": "Southwest Airlines Announces Limited-Time Black Friday Companion Pass Promotion",
+   "url": "https://www.prnewswire.com/news-releases/fly-one-roundtrip-with-southwest-airlines-over-the-holidays-and-earn-a-promotional-companion-pass-302951330.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LUV"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:38Z",
+   "news_id": 131930978,
+   "headline": "Cybercrime Investigation into AI-Powered Fraud Targeting RBC",
+   "url": "https://www.varindia.com/news/ai-powered-synthetic-identity-fraud-targets-canadian-banks",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:36Z",
+   "news_id": 131930977,
+   "headline": "UnitedHealthcare to Close Medicare Advantage Plans in Idaho",
+   "url": "https://insurancenewsnet.com/oarticle/health-insurers-are-dropping-idaho-medicare-advantage-plans-that-cover-tens-of-thousands-2",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UNH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:31Z",
+   "news_id": 131930976,
+   "headline": "KeyBank Offers Tips to Help Consumers Spot and Avoid Holiday Shopping Scams",
+   "url": "https://www.prnewswire.com/news-releases/keybank-offers-tips-to-help-consumers-spot-and-avoid-holiday-shopping-scams-302948700.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KEY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:28Z",
+   "news_id": 131930975,
+   "headline": "Sanofi Completes $41 Billion Acquisition of Insmed",
+   "url": "https://www.moomoo.com/community/feed/today-s-pre-market-movers-and-top-ratings-spcx-ant-117688587386885",
+   "source": "fiscal.ai",
+   "symbols": [
+    "INSM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-27T14:31:22Z",
+   "news_id": 131930974,
+   "headline": "Target Announces Cyber Monday Sale and New AI-Powered Shopping Tools",
+   "url": "https://www.morningstar.com/news/pr-newswire/20261127cg06548/targets-cyber-monday-sale-helps-families-save-big-on-thousands-of-must-have-gifts",
+   "source": "fiscal.ai",
+   "symbols": [
+    "TGT"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4611,18 +4624,59 @@
    "news_id": null,
    "crypto": false,
    "status": "enviada"
+  },
+  {
+   "t": "2026-11-27T14:37:21Z",
+   "symbol": "TSLA",
+   "side": "buy",
+   "reason": "Noticia positiva",
+   "notional": 4975.17,
+   "news_id": 131842559,
+   "crypto": false,
+   "status": "enviada"
+  },
+  {
+   "t": "2026-11-27T14:37:21Z",
+   "symbol": "UBER",
+   "side": "buy",
+   "reason": "Noticia positiva",
+   "notional": 4975.17,
+   "news_id": 131842556,
+   "crypto": false,
+   "status": "enviada"
+  },
+  {
+   "t": "2026-11-27T14:37:21Z",
+   "symbol": "UMC",
+   "side": "buy",
+   "reason": "Noticia positiva",
+   "notional": 4975.17,
+   "news_id": 131810427,
+   "crypto": false,
+   "status": "enviada"
+  },
+  {
+   "t": "2026-11-27T14:37:21Z",
+   "symbol": "PLTR",
+   "side": "buy",
+   "reason": "Noticia positiva",
+   "notional": 4975.17,
+   "news_id": 131842557,
+   "crypto": false,
+   "status": "enviada"
+  },
+  {
+   "t": "2026-11-27T14:37:21Z",
+   "symbol": "HUT",
+   "side": "buy",
+   "reason": "Noticia positiva",
+   "notional": 4975.17,
+   "news_id": 131930987,
+   "crypto": false,
+   "status": "enviada"
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T13:37:18Z",
-   "fetched": 1,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-25T13:52:21Z",
    "fetched": 0,
@@ -6413,11 +6467,20 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-27T14:37:21Z",
+   "fetched": 36,
+   "news": 36,
+   "signals": 1,
+   "orders": 5,
+   "errors": [],
+   "tokens": 3910
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T14:22:14Z",
- "market_open": false,
+ "updated_at": "2026-11-27T14:37:21Z",
+ "market_open": true,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
  "rules": {
@@ -6429,22 +6492,22 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 99582.92,
-  "cash": 84552.88,
+  "equity": 99472.76,
+  "cash": 59677.08,
   "last_equity": 99492.29055690177,
-  "buying_power": 380295.64
+  "buying_power": 346155.38
  },
- "pending": 4,
+ "pending": 0,
  "positions": [
   {
    "symbol": "AAT",
    "crypto": false,
    "qty": 229.632794457,
    "avg_entry_price": 21.65,
-   "current_price": 21.33,
-   "market_value": 4898.067506,
-   "unrealized_pl": -73.482494,
-   "unrealized_plpc": -0.01478,
+   "current_price": 21.275,
+   "market_value": 4885.437702,
+   "unrealized_pl": -86.112298,
+   "unrealized_plpc": -0.01732,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6452,22 +6515,77 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.46,
-   "market_value": 5180.038346,
-   "unrealized_pl": 208.488346,
-   "unrealized_plpc": 0.04194,
+   "current_price": 165.105,
+   "market_value": 5107.191157,
+   "unrealized_pl": 135.641157,
+   "unrealized_plpc": 0.02728,
    "opened_at": "2026-11-25T14:37:19Z"
+  },
+  {
+   "symbol": "HUT",
+   "crypto": false,
+   "qty": 97.859166011,
+   "avg_entry_price": 50.84,
+   "current_price": 50.683,
+   "market_value": 4959.796111,
+   "unrealized_pl": -15.363889,
+   "unrealized_plpc": -0.00309,
+   "opened_at": "2026-11-27T14:37:21Z"
   },
   {
    "symbol": "MG",
    "crypto": false,
    "qty": 245.14546351,
    "avg_entry_price": 20.28,
-   "current_price": 20.2,
-   "market_value": 4951.938363,
-   "unrealized_pl": -19.611637,
-   "unrealized_plpc": -0.00394,
+   "current_price": 20.21,
+   "market_value": 4954.389818,
+   "unrealized_pl": -17.160182,
+   "unrealized_plpc": -0.00345,
    "opened_at": "2026-11-25T14:37:19Z"
+  },
+  {
+   "symbol": "PLTR",
+   "crypto": false,
+   "qty": 29.926382953,
+   "avg_entry_price": 166.24662,
+   "current_price": 166.02,
+   "market_value": 4968.378098,
+   "unrealized_pl": -6.781917,
+   "unrealized_plpc": -0.00136,
+   "opened_at": "2026-11-27T14:37:21Z"
+  },
+  {
+   "symbol": "TSLA",
+   "crypto": false,
+   "qty": 12.823418732,
+   "avg_entry_price": 387.974542,
+   "current_price": 388.0439,
+   "market_value": 4976.049416,
+   "unrealized_pl": 0.889407,
+   "unrealized_plpc": 0.00018,
+   "opened_at": "2026-11-27T14:37:21Z"
+  },
+  {
+   "symbol": "UBER",
+   "crypto": false,
+   "qty": 74.230046247,
+   "avg_entry_price": 67.023534,
+   "current_price": 66.995,
+   "market_value": 4973.041948,
+   "unrealized_pl": -2.11808,
+   "unrealized_plpc": -0.00043,
+   "opened_at": "2026-11-27T14:37:21Z"
+  },
+  {
+   "symbol": "UMC",
+   "crypto": false,
+   "qty": 376.620741862,
+   "avg_entry_price": 13.21,
+   "current_price": 13.2,
+   "market_value": 4971.393793,
+   "unrealized_pl": -3.766207,
+   "unrealized_plpc": -0.00076,
+   "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
 }
