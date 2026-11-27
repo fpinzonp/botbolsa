@@ -2009,38 +2009,6 @@
  },
  "pending": [
   {
-   "news_id": 131284670,
-   "symbol": "AFYA",
-   "action": "buy",
-   "confidence": 0.82,
-   "impact": "medium",
-   "rationale": "La aprobación de la fusión con YDUQS es un catalizador concreto que debería mejorar la perspectiva de crecimiento y sinergias de Afya.",
-   "asset": {
-    "id": "ad100351-19bb-4ce4-bcaa-46b7d5cf2cb4",
-    "class": "us_equity",
-    "exchange": "NASDAQ",
-    "symbol": "AFYA",
-    "name": "Afya Limited Class A Common Shares",
-    "status": "active",
-    "tradable": true,
-    "marginable": true,
-    "maintenance_margin_requirement": 30,
-    "margin_requirement_long": "30",
-    "margin_requirement_short": "30",
-    "shortable": false,
-    "easy_to_borrow": false,
-    "borrow_status": "hard_to_borrow",
-    "fractionable": true,
-    "attributes": [
-     "fractional_eh_enabled",
-     "has_options",
-     "overnight_tradable"
-    ]
-   },
-   "t": "2026-11-26T12:07:23Z",
-   "ref_price": 10.16
-  },
-  {
    "news_id": 131300070,
    "symbol": "NOC",
    "action": "buy",
