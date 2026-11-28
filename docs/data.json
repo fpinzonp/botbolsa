@@ -1519,20 +1519,13 @@
   {
    "t": "2026-11-28T14:52:19Z",
    "v": 100173.59
+  },
+  {
+   "t": "2026-11-28T15:07:20Z",
+   "v": 100173.59
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T14:04:01Z",
-   "news_id": 131910948,
-   "headline": "Scilex Holding Company Receives Nasdaq Non-Compliance Notice Regarding Delayed Q3 2026 Form 10-Q",
-   "url": "https://www.globenewswire.com/news-release/2026/11/25/3410613/0/en/scilex-holding-company-announces-receipt-of-notice-from-nasdaq.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SCLX"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T14:03:55Z",
    "news_id": 131910281,
@@ -4866,6 +4859,17 @@
     "BEPC"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-28T15:01:24Z",
+   "news_id": 132542907,
+   "headline": "Citigroup Downgrades Volaris to Sell",
+   "url": "https://www.quantisnow.com/insight/volaris-aviation-downgraded-by-citigroup-with-a-new-price-target-6808111",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VLRS"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5061,15 +5065,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-26T14:37:15Z",
-   "fetched": 40,
-   "news": 34,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 3552
-  },
   {
    "t": "2026-11-26T14:52:18Z",
    "fetched": 0,
@@ -6860,10 +6855,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-28T15:07:20Z",
+   "fetched": 1,
+   "news": 1,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 640
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-28T14:52:19Z",
+ "updated_at": "2026-11-28T15:07:20Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
