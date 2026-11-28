@@ -1287,179 +1287,13 @@
   {
    "t": "2026-11-28T00:52:26Z",
    "v": 100131.93
+  },
+  {
+   "t": "2026-11-28T01:07:18Z",
+   "v": 100131.93
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T11:32:02Z",
-   "news_id": 131842949,
-   "headline": "Daiwa Adjusts Price Target on The TJX Companies, Inc.",
-   "url": "https://www.marketscreener.com/news/daiwa-adjusts-price-target-on-tjx-companies-to-152-from-155-ce7851d9dc8af123",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TJX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:58Z",
-   "news_id": 131842948,
-   "headline": "Stryker Insider Sold Shares Worth $1,999,140",
-   "url": "https://www.marketscreener.com/news/stryker-insider-sold-shares-worth-1-999-140-according-to-a-recent-sec-filing-ce7851d9da80f224",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SYK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:57Z",
-   "news_id": 131842560,
-   "headline": "Daiwa Adjusts Price Target on Medtronic to $115 From $108",
-   "url": "https://www.marketscreener.com/news/daiwa-adjusts-price-target-on-medtronic-to-115-from-108-ce7851d9dc8af125",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MDT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:55Z",
-   "news_id": 131842559,
-   "headline": "Tesla Files Plans to Acquire German Company Emag",
-   "url": "https://www.moomoo.com/stock/TSLA-US/news?chain_id=Name1K9-3FXPhg.1l60200&global_content=%7B%22promote_id%22%3A13764,%22sub_promote_id%22%3A57,%22f%22%3A%22www.moomoo.com%2Fstock%2FUROY-US%22%7D",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TSLA"
-   ],
-   "signals": [
-    {
-     "symbol": "TSLA",
-     "action": "buy",
-     "confidence": 0.8,
-     "impact": "high",
-     "rationale": "La adquisición anunciada de Emag en Alemania representa una expansión estratégica en fabricación europea, lo que suele impulsar el precio de TSLA en el corto plazo.",
-     "outcome": "Compra $4,975 · enviada"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-27T11:31:55Z",
-   "news_id": 131842558,
-   "headline": "Jefferies Adjusts Price Target on Bristol-Myers Squibb to $77 From $76",
-   "url": "https://www.marketscreener.com/news/jefferies-adjusts-price-target-on-bristol-myers-squibb-to-77-from-76-ce7851d9dc8af02d",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BMY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:52Z",
-   "news_id": 131842557,
-   "headline": "Palantir Technologies Reportedly to Supply Maven Smart System to Poland's Defence Ministry",
-   "url": "https://www.marketscreener.com/news/palantir-technologies-to-reportedly-supply-maven-smart-system-to-poland-s-defence-ministry-ce7851d9dc8df726",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PLTR"
-   ],
-   "signals": [
-    {
-     "symbol": "PLTR",
-     "action": "buy",
-     "confidence": 0.75,
-     "impact": "medium",
-     "rationale": "El contrato con el Ministerio de Defensa polaco abre una nueva fuente de ingresos gubernamentales y refuerza la posición de Palantir en defensa, impulsando su acción.",
-     "outcome": "Compra $4,975 · enviada"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-27T11:31:50Z",
-   "news_id": 131842556,
-   "headline": "Uber Secures Approximately 87% of Delivery Hero Shares",
-   "url": "https://www.moomoo.com/news/post/1005986680/press-release-uber-secures-approximately-87-of-delivery-hero-shares",
-   "source": "fiscal.ai",
-   "symbols": [
-    "UBER"
-   ],
-   "signals": [
-    {
-     "symbol": "UBER",
-     "action": "buy",
-     "confidence": 0.8,
-     "impact": "high",
-     "rationale": "Uber controla el 87% de Delivery Hero, una adquisición que podría generar sinergias y crecimiento de ingresos, catalizando una fuerte reacción positiva.",
-     "outcome": "Compra $4,975 · enviada"
-    }
-   ]
-  },
-  {
-   "t": "2026-11-27T11:31:47Z",
-   "news_id": 131842555,
-   "headline": "Target Implements New Pricing Strategy for Holiday Season",
-   "url": "https://newsfilter.io/articles/inflation-has-shoppers-hunting-for-value-that-bodes-well-for-black-friday-6f76218415ef561a9512842a4d06e577",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TGT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:44Z",
-   "news_id": 131842554,
-   "headline": "Disney Issues Cease-and-Desist to ByteDance Over AI Copyright Concerns",
-   "url": "https://stockanalysis.com/private/bytedance/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DIS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:43Z",
-   "news_id": 131842553,
-   "headline": "Equinix Collaborates with Honeywell on AI Data Center Infrastructure",
-   "url": "https://technologymagazine.com/news/cognitive-ai-buildings-infrastructure-tech-by-honeywell",
-   "source": "fiscal.ai",
-   "symbols": [
-    "EQIX"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:41Z",
-   "news_id": 131842552,
-   "headline": "Lowe's Reports November Sales Performance",
-   "url": "https://newsfilter.io/articles/inflation-has-shoppers-hunting-for-value-that-bodes-well-for-black-friday-6f76218415ef561a9512842a4d06e577",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LOW"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:39Z",
-   "news_id": 131842551,
-   "headline": "BlackRock Increases Voting Rights Stake in J Sainsbury PLC",
-   "url": "https://www.investegate.co.uk/announcement/rns/sainsbury-j---sbry/holding-s-in-company/9897626",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BLK"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:39Z",
-   "news_id": 131842550,
-   "headline": "BlackRock Files Major Holdings Notification for Adtran Holdings, Inc.",
-   "url": "https://www.finanzen.at/nachrichten/aktien/eqs-pvr-adtran-holdings-inc-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036805081",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BLK"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T11:31:37Z",
    "news_id": 131842549,
@@ -4652,6 +4486,158 @@
     "BLK"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-28T01:02:01Z",
+   "news_id": 132448980,
+   "headline": "Citigroup Adjusts Price Target on Kingsoft Cloud to $11",
+   "url": "https://www.marketscreener.com/news/citigroup-adjusts-price-target-on-kingsoft-cloud-to-11-from-18-maintains-buy-rating-ce7851d9dc81f52c",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:59Z",
+   "news_id": 132448950,
+   "headline": "Jiayin Group Inc. to Release Third Quarter 2026 Unaudited Financial Results on December 4, 2026",
+   "url": "https://investingnews.com/jiayin-group-inc-to-release-third-quarter-2026-unaudited-financial-results-on-friday-december-4-2026/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JFIN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:52Z",
+   "news_id": 132448948,
+   "headline": "WeRide Insider Purchases Shares Worth $593,912",
+   "url": "https://www.marketscreener.com/news/weride-insider-bought-shares-worth-593-912-according-to-a-recent-sec-filing-ce7851d9df81f025",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WRD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:46Z",
+   "news_id": 132448943,
+   "headline": "Tether Increases Stake in Bitdeer Technologies Group with $10 Million Share Purchase",
+   "url": "https://www.barchart.com/press-releases/9034358/tether-buys-10-million-worth-of-bitdeer-stock",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BTDR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:46Z",
+   "news_id": 132448942,
+   "headline": "Lufax Announces Extraordinary General Meeting for December 2026",
+   "url": "https://www.prnewswire.com/news-releases/lufax-announces-extraordinary-general-meeting-on-december-22-2026-302951572.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LU"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:45Z",
+   "news_id": 132448941,
+   "headline": "Netflix Announces New Spanish Comedy Series 'O Aristocrata Decadente'",
+   "url": "https://gente.ig.com.br/colunas/franklin-valverde/2026-11-27/oaristocratadecadente.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NFLX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:44Z",
+   "news_id": 132448940,
+   "headline": "Shopify Enhances Chargeback Management Tools for Merchants",
+   "url": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-gives-merchants-proof-to-fight-agentic-order-chargebacks/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SHOP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:41Z",
+   "news_id": 132448936,
+   "headline": "Pony AI Inc. Issues Shares to Settle Restricted Share Units",
+   "url": "https://www.moomoo.com/news/post/1005995105/pony-ai-w-02026-issued-a-total-of-20100-class",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PONY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:33Z",
+   "news_id": 132448934,
+   "headline": "Carahsoft Technology Corp. Awarded $413.8 Million Contract for Salesforce Products and Services",
+   "url": "https://newsfilter.io/articles/contracts-for-nov-27-2026-e40502c07d095a3586568e40f6288637",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CRM"
+   ],
+   "signals": [
+    {
+     "symbol": "CRM",
+     "action": "buy",
+     "confidence": 0.78,
+     "impact": "medium",
+     "rationale": "Contrato indefinido de $413.8M con el Departamento de Guerra es un catalizador concreto que debería impulsar los ingresos de Salesforce en el corto plazo.",
+     "outcome": "En cola: mercado cerrado"
+    }
+   ]
+  },
+  {
+   "t": "2026-11-28T01:01:29Z",
+   "news_id": 132448933,
+   "headline": "X Financial Reports Third Quarter 2026 Unaudited Financial Results",
+   "url": "https://www.prnewswire.com/news-releases/x-financial-reports-third-quarter-2026-unaudited-financial-results-302951437.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "XYF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:26Z",
+   "news_id": 132448932,
+   "headline": "Anthropic's Expansion in Enterprise AI Challenges Microsoft's Market Position",
+   "url": "https://www.varindia.com/news/microsoft-copilot-holds-ground-against-claude",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MSFT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:25Z",
+   "news_id": 132448931,
+   "headline": "Reports Suggest Apple Exploring Ceramic Components for 2027 iPhone",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/apple-may-consider-ceramic-design-for-20th-anniversary-iphone-1036806444",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AAPL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T01:01:18Z",
+   "news_id": 132448930,
+   "headline": "Amazon Blocks AI Shopping Agents from Its Platform",
+   "url": "https://newsfilter.io/articles/ai-shopping-agents-are-having-a-moment-but-amazon-and-a-growing-number-of-sites-797242a1e1cc57d9b4086f1febb2da9b",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AMZN"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4847,15 +4833,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-26T00:37:18Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-26T00:52:23Z",
    "fetched": 0,
@@ -6646,10 +6623,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-28T01:07:18Z",
+   "fetched": 24,
+   "news": 13,
+   "signals": 1,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1714
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-28T00:52:26Z",
+ "updated_at": "2026-11-28T01:07:18Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6667,7 +6653,7 @@
   "last_equity": 99492.29055690177,
   "buying_power": 335893.26
  },
- "pending": 0,
+ "pending": 1,
  "positions": [
   {
    "symbol": "AAT",
