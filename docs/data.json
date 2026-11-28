@@ -1319,119 +1319,13 @@
   {
    "t": "2026-11-28T02:52:16Z",
    "v": 100131.93
+  },
+  {
+   "t": "2026-11-28T03:07:20Z",
+   "v": 100173.6
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T11:31:37Z",
-   "news_id": 131842549,
-   "headline": "Goldman Sachs Warns of $100 Billion in Upcoming Systematic Selling",
-   "url": "https://www.morningstar.com/news/marketwatch/20261127105/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:36Z",
-   "news_id": 131842548,
-   "headline": "Citigroup Launches Reviews of Data Center Clients Following New U.S. Export Rules",
-   "url": "https://world.storm.mg/articles/1184970",
-   "source": "fiscal.ai",
-   "symbols": [
-    "C"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:33Z",
-   "news_id": 131842547,
-   "headline": "Cloudflare Reports Significant Internet Traffic Surges During Grand Theft Auto 6 Launch",
-   "url": "https://www.moomoo.com/hans/news/post/1005461031/gta-6-breaks-entertainment-launch-record-with-us-3-8",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NET"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:31Z",
-   "news_id": 131842546,
-   "headline": "Thermo Fisher Scientific Discusses Cooperation with Uzbekistan's Medical and Pharmaceutical Agency",
-   "url": "https://www.uzdaily.uz/en/uzbekistan-discusses-cooperation-with-thermo-fisher-scientific/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "TMO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:30Z",
-   "news_id": 131842545,
-   "headline": "Salesforce Releases Global Consumer Research on AI Adoption and Data Privacy",
-   "url": "https://www.euro2day.gr/news/world/article/2382230/salesforce-to-ai-kai-h-hrhsh-se-agores-758-dis-th.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CRM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:30Z",
-   "news_id": 131842544,
-   "headline": "Moody's Upgrades Vietnam's Sovereign Credit Rating to Ba1",
-   "url": "https://www.morningstar.com/news/dow-jones/202611272026/moodys-upgrades-vietnams-sovereign-rating-to-ba1",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MCO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:29Z",
-   "news_id": 131842543,
-   "headline": "The Coca-Cola Company Completes Sale of Controlling Interest in Coca-Cola Beverages Africa",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/coca-cola-company-gfi-complete-sale-of-75percent-controlling-interest-in-ccba-1036804771",
-   "source": "fiscal.ai",
-   "symbols": [
-    "KO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:28Z",
-   "news_id": 131842542,
-   "headline": "ScitiX Launches Model Inference Services on AWS Marketplace",
-   "url": "https://www.prnewswire.com/apac/news-releases/scitix-model-inference-now-available-in-aws-marketplace-302951612.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "AMZN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:31:22Z",
-   "news_id": 131842541,
-   "headline": "Micron Reports High Bandwidth Memory (HBM) Capacity Largely Booked for Upcoming Year",
-   "url": "https://www.moomoo.com/news/post/1005986341/where-is-the-memory-market-headed-analysts-debate-whether-dram",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MU"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:01:41Z",
-   "news_id": 131854293,
-   "headline": "Star Bulk to Join FTSE 25 Index",
-   "url": "https://www.euro2day.gr/news/economy/124/list.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SBLK"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T12:33:30Z",
    "news_id": 131867065,
@@ -4666,6 +4560,116 @@
     "AMZN"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-28T03:02:06Z",
+   "news_id": 132452840,
+   "headline": "Barrick Mining Corporation Updates Mine Management Authority",
+   "url": "https://www.mining.com/press-release?id=6b0a028c189cb2e29edfb790",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ABX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T03:02:03Z",
+   "news_id": 132452839,
+   "headline": "Director Robb E. Turner Purchases Shares of The Williams Companies, Inc.",
+   "url": "https://www.energystockchannel.com/video/202611/friday-11-27-insider-buying-report-team-wmb-team-wmb-20261127insiderTEAMW/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "WMB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T03:01:53Z",
+   "news_id": 132452798,
+   "headline": "Analyst Initiates Coverage on W.W. Grainger with Bearish Rating",
+   "url": "https://ajaib.co.id/saham-amerika/aset/A/news?page=37",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GWW"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T03:01:40Z",
+   "news_id": 132452797,
+   "headline": "Motorola Solutions Officer Files Form 144 for Stock Sale",
+   "url": "https://www.moomoo.com/news/flash/1006031626/form-144-motorola-solutions-msius-officer-proposes-to-sell-13",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MSI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T03:01:38Z",
+   "news_id": 132452796,
+   "headline": "Bernstein Research Maintains 'Outperform' Rating on UPS",
+   "url": "https://www.finanzen.ch/analyse/united-parcel-service-outperform-1123512",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UPS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T03:01:32Z",
+   "news_id": 132452795,
+   "headline": "RBC Global Asset Management Announces Fee Reductions and Fund Renaming",
+   "url": "https://www.newswire.ca/news-releases/rbc-global-asset-management-inc-announces-changes-to-certain-rbc-funds-and-ph-amp-n-funds-816879895.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T03:01:32Z",
+   "news_id": 132452794,
+   "headline": "Chevron Implements 'Plateau' Production Strategy in US Shale Basins",
+   "url": "https://energynow.ca/2026/08/us-oil-growth-faces-headwinds-as-shale-producers-cut-spending/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CVX"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T03:01:31Z",
+   "news_id": 132452793,
+   "headline": "Brookfield Renewable Partners Amends Corporate Simplification Plan and Declares Quarterly Distribution",
+   "url": "https://www.globenewswire.com/news-release/2026/11/27/3411493/0/en/brookfield-renewable-provides-update-on-simplification-and-declares-quarterly-distribution.html",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T03:01:29Z",
+   "news_id": 132452792,
+   "headline": "Amazon and Globalstar File Opposition to License Transfer Challenge",
+   "url": "https://newsfilter.io/articles/response-by-globalstar-inc-amazon-com-inc-in-26-134-3f9b2ef147cb51e1b09733d1c163af88",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AMZN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T03:01:27Z",
+   "news_id": 132452791,
+   "headline": "Executive VP Teresa Roseborough Sells $1 Million in Home Depot Stock",
+   "url": "https://www.moomoo.com/news/post/1006022594/have-home-depot-insiders-been-selling-stock",
+   "source": "fiscal.ai",
+   "symbols": [
+    "HD"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4861,15 +4865,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-26T02:37:18Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-26T02:52:17Z",
    "fetched": 0,
@@ -6660,10 +6655,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-28T03:07:20Z",
+   "fetched": 11,
+   "news": 10,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1308
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-28T02:52:16Z",
+ "updated_at": "2026-11-28T03:07:20Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6676,10 +6680,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100131.93,
+  "equity": 100173.6,
   "cash": 49680.22,
   "last_equity": 99492.29055690177,
-  "buying_power": 335893.26
+  "buying_power": 335998.84
  },
  "pending": 1,
  "positions": [
@@ -6699,10 +6703,10 @@
    "crypto": false,
    "qty": 30.932989049,
    "avg_entry_price": 160.72,
-   "current_price": 167.41,
-   "market_value": 5178.491697,
-   "unrealized_pl": 206.941697,
-   "unrealized_plpc": 0.04163,
+   "current_price": 167.24,
+   "market_value": 5173.233089,
+   "unrealized_pl": 201.683089,
+   "unrealized_plpc": 0.04057,
    "opened_at": "2026-11-25T14:37:19Z"
   },
   {
@@ -6721,10 +6725,10 @@
    "crypto": false,
    "qty": 97.859166011,
    "avg_entry_price": 50.84,
-   "current_price": 52.21,
-   "market_value": 5109.227057,
-   "unrealized_pl": 134.067057,
-   "unrealized_plpc": 0.02695,
+   "current_price": 52.46,
+   "market_value": 5133.691849,
+   "unrealized_pl": 158.531849,
+   "unrealized_plpc": 0.03186,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6743,10 +6747,10 @@
    "crypto": false,
    "qty": 29.926382953,
    "avg_entry_price": 166.24662,
-   "current_price": 172.27,
-   "market_value": 5155.417991,
-   "unrealized_pl": 180.257976,
-   "unrealized_plpc": 0.03623,
+   "current_price": 172.17,
+   "market_value": 5152.425353,
+   "unrealized_pl": 177.265338,
+   "unrealized_plpc": 0.03563,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6754,10 +6758,10 @@
    "crypto": false,
    "qty": 5.077693573,
    "avg_entry_price": 984.389847,
-   "current_price": 994.04,
-   "market_value": 5047.430519,
-   "unrealized_pl": 49.00052,
-   "unrealized_plpc": 0.0098,
+   "current_price": 992.14,
+   "market_value": 5037.782902,
+   "unrealized_pl": 39.352903,
+   "unrealized_plpc": 0.00787,
    "opened_at": "2026-11-27T16:07:16Z"
   },
   {
@@ -6765,10 +6769,10 @@
    "crypto": false,
    "qty": 12.823418732,
    "avg_entry_price": 387.974542,
-   "current_price": 398.92,
-   "market_value": 5115.518201,
-   "unrealized_pl": 140.358192,
-   "unrealized_plpc": 0.02821,
+   "current_price": 400.0,
+   "market_value": 5129.367493,
+   "unrealized_pl": 154.207484,
+   "unrealized_plpc": 0.031,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6776,10 +6780,10 @@
    "crypto": false,
    "qty": 74.230046247,
    "avg_entry_price": 67.023534,
-   "current_price": 66.8004,
-   "market_value": 4958.596781,
-   "unrealized_pl": -16.563247,
-   "unrealized_plpc": -0.00333,
+   "current_price": 66.63,
+   "market_value": 4945.947981,
+   "unrealized_pl": -29.212047,
+   "unrealized_plpc": -0.00587,
    "opened_at": "2026-11-27T14:37:21Z"
   },
   {
@@ -6787,10 +6791,10 @@
    "crypto": false,
    "qty": 376.620741862,
    "avg_entry_price": 13.21,
-   "current_price": 13.35,
-   "market_value": 5027.886904,
-   "unrealized_pl": 52.726904,
-   "unrealized_plpc": 0.0106,
+   "current_price": 13.44,
+   "market_value": 5061.782771,
+   "unrealized_pl": 86.622771,
+   "unrealized_plpc": 0.01741,
    "opened_at": "2026-11-27T14:37:21Z"
   }
  ]
