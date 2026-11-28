@@ -1419,75 +1419,13 @@
   {
    "t": "2026-11-28T08:52:14Z",
    "v": 100173.59
+  },
+  {
+   "t": "2026-11-28T09:07:27Z",
+   "v": 100173.59
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T12:32:35Z",
-   "news_id": 131866625,
-   "headline": "JPMorgan Adjusts Price Target on Mid-America Apartment Communities to $137 From $145",
-   "url": "https://www.marketscreener.com/news/jpmorgan-adjusts-price-target-on-mid-america-apartment-communities-to-137-from-145-ce7851d9dc8af223",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MAA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:32Z",
-   "news_id": 131866624,
-   "headline": "Senior Managing Principal Jonathan Doyle Sells Piper Sandler Shares",
-   "url": "https://www.moomoo.com/ja/news/post/1006000771/this-insider-has-just-sold-shares-in-piper-sandler-companies",
-   "source": "fiscal.ai",
-   "symbols": [
-    "PIPR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:29Z",
-   "news_id": 131866623,
-   "headline": "Jefferies Adjusts Price Target on Archer-Daniels-Midland to $76 From $89",
-   "url": "https://www.marketscreener.com/news/jefferies-adjusts-price-target-on-archer-daniels-midland-to-76-from-89-ce7851d9dc8af020",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ADM"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:19Z",
-   "news_id": 131866622,
-   "headline": "BMO Adjusts NRG Energy Price Target Following Asset Sale",
-   "url": "https://www.finanznachrichten.de/nachrichten-aktien/nrg-energy-inc.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "NRG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:17Z",
-   "news_id": 131866621,
-   "headline": "Market Analysis Highlights Bitmine Immersion Technologies' Ethereum Treasury Strategy",
-   "url": "https://www.24-7pressrelease.com/press-release/540837/ethereums-treasury-companies-are-copying-a-playbook-that-hasnt-been-fully-tested",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BMNR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:12Z",
-   "news_id": 131866619,
-   "headline": "Ausgold Shareholders Approve OceanaGold Acquisition Scheme",
-   "url": "https://newsfilter.io/articles/oceanagold-announces-ausgold-shareholder-approval-b7e20062c6b753909eb592d82dc6554c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "OGC"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T12:31:58Z",
    "news_id": 131866212,
@@ -4766,6 +4704,72 @@
     "PEP"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-28T09:02:29Z",
+   "news_id": 132475208,
+   "headline": "Blackbird plc Appoints New Chief Financial Officer",
+   "url": "https://de.marketscreener.com/boerse-nachrichten/blackbird-aus-grossbritannien-ernennt-neuen-finanzvorstand-ce7851d9dd8ef124",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BIRD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T09:01:58Z",
+   "news_id": 132475042,
+   "headline": "Berenberg Maintains Buy Rating on Stelrad Group",
+   "url": "https://www.marketscreener.com/news/berenberg-keeps-stelrad-group-at-buy-reduces-pt-ce7851d9df8ff221",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SRAD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T09:01:50Z",
+   "news_id": 132475039,
+   "headline": "Odyssean Investment Trust PLC Increases Stake in Xaar PLC",
+   "url": "https://www.investegate.co.uk/announcement/rns/xaar--xar/holding-s-in-company/9898079",
+   "source": "fiscal.ai",
+   "symbols": [
+    "XAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T09:01:39Z",
+   "news_id": 132475031,
+   "headline": "Paysafe Partners with The5ers to Streamline Payments for Traders",
+   "url": "https://globalfintechseries.com/banking/digital-payments/paysafe-partners-with-the5ers-to-expand-presence-in-prop-trading-space/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PSFE"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T09:01:33Z",
+   "news_id": 132475030,
+   "headline": "Goodweather Holdings Limited Discloses 6.33% Stake in Henry Boot PLC",
+   "url": "https://www.investegate.co.uk/announcement/rns/henry-boot--boot/holding-s-in-company/9898059",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BOOT"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T09:01:28Z",
+   "news_id": 132475028,
+   "headline": "Kier Group plc Share Buyback Update",
+   "url": "https://www.investegate.co.uk/announcement/rns/kier-group--kie/transaction-in-own-shares/9898352",
+   "source": "fiscal.ai",
+   "symbols": [
+    "KIE"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4961,15 +4965,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-26T08:37:22Z",
-   "fetched": 8,
-   "news": 2,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 760
-  },
   {
    "t": "2026-11-26T08:52:16Z",
    "fetched": 0,
@@ -6760,10 +6755,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-28T09:07:27Z",
+   "fetched": 23,
+   "news": 6,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1007
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-28T08:52:14Z",
+ "updated_at": "2026-11-28T09:07:27Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
