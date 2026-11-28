@@ -1483,86 +1483,13 @@
   {
    "t": "2026-11-28T12:52:18Z",
    "v": 100173.59
+  },
+  {
+   "t": "2026-11-28T13:07:17Z",
+   "v": 100173.59
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T12:31:48Z",
-   "news_id": 131866211,
-   "headline": "Best Buy Observes Consumer Shift Toward Value and Premium Upgrades",
-   "url": "https://newsfilter.io/articles/inflation-has-shoppers-hunting-for-value-that-bodes-well-for-black-friday-6f76218415ef561a9512842a4d06e577",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BBY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:31:45Z",
-   "news_id": 131866210,
-   "headline": "Omnicom Selected as Agency Partner for The Coca-Cola Company in North America",
-   "url": "https://newsfilter.io/ticker/KO",
-   "source": "fiscal.ai",
-   "symbols": [
-    "OMC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:31:41Z",
-   "news_id": 131866209,
-   "headline": "Bleakley Financial Group LLC Acquires Shares of The Hartford Insurance Group, Inc.",
-   "url": "https://insurancenewsnet.com/oarticle/16776-shares-of-the-hartford-insurance-group-inc-hig-bought-by-bleakley-financial-group-llc",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HIG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:31:35Z",
-   "news_id": 131866207,
-   "headline": "S&P Global Ratings Upgrades Sri Lanka's Sovereign Credit Rating",
-   "url": "https://www.newswire.lk/2026/11/27/sp-upgrades-sri-lankas-credit-rating-to-b-outlook-stable/",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SPGI"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:31:34Z",
-   "news_id": 131866206,
-   "headline": "Morgan Stanley Discloses Major Holding in tk accelis Group AG & Co. KGaA",
-   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-tk-accelis-group-ag-&-co-kgaa-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036805282",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:31:32Z",
-   "news_id": 131866205,
-   "headline": "Alphabet and Other Tech Providers Impacted by US Air Force Cloud One Security Breach",
-   "url": "https://news.futunn.com/post/1005853439/market-chatter-hackers-breach-us-air-force-cloud-platform-powered",
-   "source": "fiscal.ai",
-   "symbols": [
-    "GOOG"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T13:03:06Z",
-   "news_id": 131880086,
-   "headline": "Deutsche Bank Analysts Assess New ECB Board Appointments",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70243705-deutsche-bank-ezb-spitze-etwas-taubenhafter-aber-fit-015.htm",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DB"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T13:03:06Z",
    "news_id": 131880085,
@@ -4830,6 +4757,83 @@
     "AGRO"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-28T13:03:40Z",
+   "news_id": 132515550,
+   "headline": "Bitdeer Reports Weekly Bitcoin Production",
+   "url": "https://www.moomoo.com/stock/BTC-CC?chain_id=Name1K9-3FXPhg.1lgkuvg&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A107%2C%22f%22%3A%22www.moomoo.com%2Fetfs%2FIBIT-US%2Fcommunity%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BTDR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T13:02:36Z",
+   "news_id": 132515367,
+   "headline": "Bilibili Reports Third Quarter 2026 Financial Results",
+   "url": "https://www.moomoo.com/stock/00241-HK?chain_id=Name1K9-3FXPhg.1lgld1g&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2F00241-HK%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BILI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T13:02:33Z",
+   "news_id": 132515366,
+   "headline": "Citi Maintains Hold Rating on Li Auto and Adjusts Price Target",
+   "url": "https://www.moomoo.com/stock/02015-HK?chain_id=Name1K9-3FXPhg.1lgl2g0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2F03377-HK%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "LI"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T13:02:26Z",
+   "news_id": 132515365,
+   "headline": "JD.com Director Louis T. Hsieh Reduces Holdings",
+   "url": "https://www.moomoo.com/stock/09618-HK?chain_id=Name1K9-3FXPhg.1lgl9h0&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FJD-US%2Fcommunity%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "JD"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T13:02:03Z",
+   "news_id": 132515362,
+   "headline": "GDS Holdings Reports Third-Quarter Financial Results",
+   "url": "https://www.moomoo.com/stock/09698-HK?chain_id=Name1K9-3FXPhg.1lgl60g&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2F09698-HK%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GDS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T13:01:47Z",
+   "news_id": 132515357,
+   "headline": "NIO Founder Li Bin Responds to 'Fast-Track Car' Criticism",
+   "url": "https://www.moomoo.com/hant/news/post/1006059643",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NIO"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T13:01:45Z",
+   "news_id": 132515186,
+   "headline": "redBus Integrates Booking Services into Grab App in Malaysia",
+   "url": "https://www.myeverydaytech.com/redbus-grab-partner-app-program-launched-malaysia/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GRAB"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5025,15 +5029,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-26T12:37:16Z",
-   "fetched": 33,
-   "news": 28,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 3258
-  },
   {
    "t": "2026-11-26T12:52:15Z",
    "fetched": 0,
@@ -6824,10 +6819,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-28T13:07:17Z",
+   "fetched": 14,
+   "news": 7,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1064
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-28T12:52:18Z",
+ "updated_at": "2026-11-28T13:07:17Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
