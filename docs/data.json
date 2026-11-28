@@ -1271,97 +1271,13 @@
   {
    "t": "2026-11-27T23:52:13Z",
    "v": 100131.93
+  },
+  {
+   "t": "2026-11-28T00:07:14Z",
+   "v": 100131.93
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T10:01:19Z",
-   "news_id": 131810063,
-   "headline": "LVMH Announces Interim Dividend of €5.50 Per Share for 2026",
-   "url": "https://newsfilter.io/articles/lvmh-2026-interim-dividend-267367f933da5db7b5c7527d0c028753",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T10:31:21Z",
-   "news_id": 131820781,
-   "headline": "Luiz Carlos Trabuco Cappi Appointed Minister of Finance",
-   "url": "https://economia.ig.com.br/2026-11-27/veja-a-repercussao-da-escolha-de-trabuco-para-a-fazenda.html",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BBD"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:01:44Z",
-   "news_id": 131831529,
-   "headline": "HSBC to Consolidate Support Functions Across India in Cost-Cutting Push",
-   "url": "https://www.marketscreener.com/news/hsbc-to-consolidate-support-functions-across-india-in-cost-cutting-push-ce7851d9dd8dfe2c",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HSBC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:01:34Z",
-   "news_id": 131831526,
-   "headline": "Sony's Aibo Robotic Dog Offers Companionship",
-   "url": "https://www.barchart.com/investing-ideas/robotics",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SONY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:01:26Z",
-   "news_id": 131831524,
-   "headline": "Market Commentary on Australian LNG Export Dynamics",
-   "url": "https://www.milanofinanza.it/mfnewswires/australia-impone-a-esportatori-gnl-di-riservare-parte-forniture-a-mercato-interno-202611271052024601",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SHEL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:01:25Z",
-   "news_id": 131831523,
-   "headline": "SK Hynix Reports Near-Sold-Out Production Capacity for 2029",
-   "url": "https://www.moomoo.com/news/post/1005986341/where-is-the-memory-market-headed-analysts-debate-whether-dram",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SKHY"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:32:24Z",
-   "news_id": 131842951,
-   "headline": "Daiwa Adjusts Price Target on Walmart to $140 From $113",
-   "url": "https://www.marketscreener.com/news/daiwa-adjusts-price-target-on-walmart-to-140-from-113-ce7851d9dc8af520",
-   "source": "fiscal.ai",
-   "symbols": [
-    "WMT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T11:32:15Z",
-   "news_id": 131842950,
-   "headline": "Jefferies Adjusts Price Target on Moderna to $215 From $200",
-   "url": "https://www.marketscreener.com/news/jefferies-adjusts-price-target-on-moderna-to-215-from-200-ce7851d9dc8af025",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MRNA"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T11:32:02Z",
    "news_id": 131842949,
@@ -4636,6 +4552,94 @@
     "EXC"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-28T00:01:53Z",
+   "news_id": 132448449,
+   "headline": "Trading Halt Imposed on Ribbon Acquisition Corp. Units",
+   "url": "https://newsfilter.io/ticker/RIBBU",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RIBB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T00:01:50Z",
+   "news_id": 132448448,
+   "headline": "Cloudflare Announces Strategic Shift to AI Infrastructure and 'System 1' Architecture",
+   "url": "https://newsfilter.io/interviews/why-cloudflare-became-a-neolab-michelle-chen-cloudflare-dd7a9bc411ea5a4daef224a1b50990e9",
+   "source": "fiscal.ai",
+   "symbols": [
+    "NET"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T00:01:48Z",
+   "news_id": 132448447,
+   "headline": "Qatar Tourism and Uber Sign Five-Year Mobility Agreement",
+   "url": "https://travelprnews.com/article/qatar-tourism-and-uber-explore-a-new-approach-to-getting-around-doha-and-beyond/amp/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "UBER"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T00:01:42Z",
+   "news_id": 132448446,
+   "headline": "J.P. Morgan Maintains Buy Rating on Salesforce",
+   "url": "https://www.moomoo.com/news/post/1006014871/jp-morgan-maintains-salesforce-crmus-with-buy-rating-announces-target",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CRM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T00:01:37Z",
+   "news_id": 132448445,
+   "headline": "The Goldman Sachs Group, Inc. Files Major Holdings Notification for Evotec SE",
+   "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-pvr-evotec-se-release-according-to-article-40-section-1-of-the-wphg-[the-german-securities-trading-act]-with-the-objective-of-europe-wide-distribution-1036805435",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T00:01:37Z",
+   "news_id": 132448444,
+   "headline": "BlackRock, Inc. Discloses Reduction in GB Group Voting Rights",
+   "url": "https://www.investegate.co.uk/announcement/rns/gb-group--gbg/holding-s-in-company/9898101",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BLK"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T00:01:37Z",
+   "news_id": 132448443,
+   "headline": "Grupo Aeroportuario del Pacífico Completes IPO of FIBRA GAP",
+   "url": "https://quantisnow.com/insight/grupo-aeroportuario-del-pacifico-announces-the-results-of-the-initial-6808654",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PAC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T00:01:37Z",
+   "news_id": 132448442,
+   "headline": "BlackRock, Inc. Files Major Holdings Notification for adidas AG",
+   "url": "https://www.eqs-news.com/news/voting-rights/blackrock-inc-wilmington-delaware-united-states-of-america-usa/e38349c6-9fcf-4f0e-a8fe-f69482f7533e_en",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BLK"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4831,15 +4835,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-25T23:37:17Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-25T23:52:14Z",
    "fetched": 0,
@@ -6630,10 +6625,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-28T00:07:14Z",
+   "fetched": 8,
+   "news": 8,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1187
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-27T23:52:13Z",
+ "updated_at": "2026-11-28T00:07:14Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
