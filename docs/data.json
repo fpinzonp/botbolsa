@@ -1583,20 +1583,13 @@
   {
    "t": "2026-11-28T18:52:15Z",
    "v": 100173.59
+  },
+  {
+   "t": "2026-11-28T19:07:17Z",
+   "v": 100173.59
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T14:03:55Z",
-   "news_id": 131910281,
-   "headline": "Benton Resources Acquires Strategic Land for Dominion Project",
-   "url": "https://www.newsfilecorp.com/release/326112/Benton-Acquires-Additional-Strategic-Land-Within-Its-Dominion-GoldBase-Metal-Project-Newfoundland",
-   "source": "fiscal.ai",
-   "symbols": [
-    "BEX"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T14:03:53Z",
    "news_id": 131910274,
@@ -4930,6 +4923,17 @@
     "VLRS"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-28T19:01:59Z",
+   "news_id": 132610629,
+   "headline": "Barclays Maintains Buy Rating on Enlight Renewable Energy, Adjusts Price Target",
+   "url": "https://www.moomoo.com/stock/ENLT-US?chain_id=Name1K9-3FXPhg.1lgl60g&global_content=%7B%22promote_id%22%3A13764%2C%22sub_promote_id%22%3A57%2C%22f%22%3A%22www.moomoo.com%2Fstock%2FENLT-US%22%7D",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ENLT"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -5125,15 +5129,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-26T18:37:23Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-26T18:52:19Z",
    "fetched": 0,
@@ -6924,10 +6919,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-28T19:07:17Z",
+   "fetched": 1,
+   "news": 1,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 630
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-28T18:52:15Z",
+ "updated_at": "2026-11-28T19:07:17Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
