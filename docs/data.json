@@ -1403,141 +1403,13 @@
   {
    "t": "2026-11-28T07:52:14Z",
    "v": 100173.6
+  },
+  {
+   "t": "2026-11-28T08:07:15Z",
+   "v": 100173.6
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T12:32:57Z",
-   "news_id": 131866637,
-   "headline": "Truist Adjusts Price Target on Medtronic to $101",
-   "url": "https://de.marketscreener.com/boerse-nachrichten/medtronic-plc-truist-securities-gibt-neutrale-einschaetzung-ce7851d9dc80f721",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MDT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:54Z",
-   "news_id": 131866636,
-   "headline": "HSBC Adjusts Price Target on Marvell Technology to $200 From $450",
-   "url": "https://www.marketscreener.com/news/hsbc-adjusts-price-target-on-marvell-technology-to-200-from-450-ce7851d9dc8ff425",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MRVL"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:48Z",
-   "news_id": 131866635,
-   "headline": "Huntington Adjusts Price Target on Sabra Health Care REIT",
-   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-sabra-health-care-reit-to-23-50-from-23-maintains-outperform-r-ce7851d9dd80f221",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HBAN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:48Z",
-   "news_id": 131866634,
-   "headline": "Huntington Adjusts Price Target on LTC Properties",
-   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-ltc-properties-to-50-from-49-50-maintains-outperform-rating-ce7851d9dd8ef022",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HBAN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:48Z",
-   "news_id": 131866633,
-   "headline": "Huntington Adjusts Price Target on Chiron Real Estate",
-   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-chiron-real-estate-to-31-from-34-maintains-market-perform-rati-ce7851d9dd80f121",
-   "source": "fiscal.ai",
-   "symbols": [
-    "HBAN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:48Z",
-   "news_id": 131866632,
-   "headline": "Huntington Adjusts Price Target on LTC Properties to $50",
-   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-ltc-properties-to-50-from-49-50-maintains-outperform-rating-ce7851d9dd8ef022",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LTC"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:47Z",
-   "news_id": 131866631,
-   "headline": "Life360 Insider Executes Significant Stock Sale",
-   "url": "https://de.marketscreener.com/boerse-nachrichten/life360-insider-verkaufte-laut-juengster-sec-meldung-aktien-im-wert-von-7-266-009-usd-ce7851d9da80f427",
-   "source": "fiscal.ai",
-   "symbols": [
-    "LIF"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:46Z",
-   "news_id": 131866630,
-   "headline": "Citigroup Adjusts Price Target on Dollar Tree to $155 From $125",
-   "url": "https://www.marketscreener.com/news/citigroup-adjusts-price-target-on-dollar-tree-to-155-from-125-ce7851d9dc8df724",
-   "source": "fiscal.ai",
-   "symbols": [
-    "DLTR"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:45Z",
-   "news_id": 131866629,
-   "headline": "Berenberg Downgrades AST SpaceMobile to Hold",
-   "url": "https://www.marketscreener.com/news/berenberg-downgrades-ast-spacemobile-to-hold-from-buy-adjusts-pt-to-30-from-92-ce7851d9dc8af720",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ASTS"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:44Z",
-   "news_id": 131866628,
-   "headline": "Huntington Adjusts Price Target on Sabra Health Care REIT to $23.50 From $23, Maintains Outperform Rating",
-   "url": "https://www.marketscreener.com/news/huntington-adjusts-price-target-on-sabra-health-care-reit-to-23-50-from-23-maintains-outperform-r-ce7851d9dd80f221",
-   "source": "fiscal.ai",
-   "symbols": [
-    "SBRA"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:44Z",
-   "news_id": 131866627,
-   "headline": "Morningstar Insider Sells Shares Worth $5.16 Million",
-   "url": "https://www.marketscreener.com/news/morningstar-insider-sold-shares-worth-5-157-166-according-to-a-recent-sec-filing-ce7851d9da80f521",
-   "source": "fiscal.ai",
-   "symbols": [
-    "MORN"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:32:40Z",
-   "news_id": 131866626,
-   "headline": "Rocket Lab Completes 101st Electron Rocket Launch",
-   "url": "https://www.marketscreener.com/news/rocket-lab-completes-101st-electron-rocket-launch-deploying-satellite-to-low-earth-orbit-ce7851d9df89f624",
-   "source": "fiscal.ai",
-   "symbols": [
-    "RKLB"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T12:32:35Z",
    "news_id": 131866625,
@@ -4750,6 +4622,138 @@
     "ETOR"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-28T08:03:34Z",
+   "news_id": 132466728,
+   "headline": "Communiqué from the Extraordinary General Meeting of Byhmgard AB",
+   "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Ftelegram%2Favanza%2F16_60877e00-da84-4c66-88bc-76fb8ae03ebc",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BESS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:03:34Z",
+   "news_id": 132466727,
+   "headline": "Byhmgard AB Publishes Q3 2026 Interim Report",
+   "url": "https://www.inderes.dk/en/releases/byhmgard-ab-report-for-the-third-quarter-of-2026",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BESS"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:03:11Z",
+   "news_id": 132466718,
+   "headline": "Analyst Group Publishes Equity Analysis on EMB Mission Bound",
+   "url": "https://www.avanza.se/nyheter.html?a=%2Fnyheter%2Fgruvaktierna-lyfter-pa-stockholmsborsen-2026-11-27",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EMB"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:02:46Z",
+   "news_id": 132466584,
+   "headline": "Zakłady Magnezytowe ROPCZYCE S.A. Reports Lifting of Security in Legal Proceedings",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/zm-ropczyce-sa-122026-powziecie-informacji-o-uchyleniu-zabezpieczenia-powodztwa",
+   "source": "fiscal.ai",
+   "symbols": [
+    "RPC"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:02:41Z",
+   "news_id": 132466576,
+   "headline": "Aktiespararna Recommends Holding Cheffelo Stock",
+   "url": "https://borsvarlden.com/artiklar/aktiespararna-avvaktar-med-cheffelo-trots-lag-vardering",
+   "source": "fiscal.ai",
+   "symbols": [
+    "CHEF"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:02:29Z",
+   "news_id": 132466565,
+   "headline": "GAM Secures €40 Million EIB Loan for Spanish Industrial Investment Program",
+   "url": "https://news.europawire.eu/eib-backs-gams-spanish-industrial-transformation-with-e40-million-investeu-supported-loan/eu-press-release/2026/11/27/09/55/05/189995/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "GAM"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:02:27Z",
+   "news_id": 132466564,
+   "headline": "Echo Investment S.A. Holds Extraordinary General Meeting of Shareholders",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/echo-investment-sa-382026-wykaz-akcjonariuszy-posiadajacych-co-najmniej-5-liczby",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ECH"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:02:24Z",
+   "news_id": 132466557,
+   "headline": "Barco Reports on Advancements in Industrial Digital Twin Technology",
+   "url": "https://theprimary.com/ai-tech/2026-11-27/cognitive-digital-twins-diagnostics",
+   "source": "fiscal.ai",
+   "symbols": [
+    "BAR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:02:23Z",
+   "news_id": 132466553,
+   "headline": "Air New Zealand Tightens Cabin Baggage Enforcement",
+   "url": "https://travelprnews.com/article/air-new-zealand-tightens-cabin-baggage-checks-as-october-punctuality-improves/amp/",
+   "source": "fiscal.ai",
+   "symbols": [
+    "AIR"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:02:22Z",
+   "news_id": 132466550,
+   "headline": "French Competition Authority Clears Séché Environnement's Acquisition of Flamme Group",
+   "url": "https://www.fidelity.com/news/article/mergers-and-acquisitions/202611271259BIZWIRE_USPR_____20261127_BW015140",
+   "source": "fiscal.ai",
+   "symbols": [
+    "SCHP"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:02:18Z",
+   "news_id": 132466547,
+   "headline": "Valneva USA Inc. Awarded $75.4 Million Contract for Japanese Encephalitis Vaccine Production",
+   "url": "https://newsfilter.io/articles/contracts-for-nov-27-2026-e40502c07d095a3586568e40f6288637",
+   "source": "fiscal.ai",
+   "symbols": [
+    "VALN"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T08:02:08Z",
+   "news_id": 132466539,
+   "headline": "Adam Mariusz Purwin Resigns as President of Polenergia S.A.",
+   "url": "https://pap-mediaroom.pl/biznes-i-finanse/polenergia-sa-352026-rezygnacja-prezesa-zarzadu",
+   "source": "fiscal.ai",
+   "symbols": [
+    "PEP"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4945,15 +4949,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-26T07:37:15Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-26T07:52:14Z",
    "fetched": 0,
@@ -6744,10 +6739,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-28T08:07:15Z",
+   "fetched": 88,
+   "news": 12,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 1593
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-28T07:52:14Z",
+ "updated_at": "2026-11-28T08:07:15Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
