@@ -1387,42 +1387,13 @@
   {
    "t": "2026-11-28T06:52:14Z",
    "v": 100173.6
+  },
+  {
+   "t": "2026-11-28T07:07:14Z",
+   "v": 100173.6
   }
  ],
  "decisions": [
-  {
-   "t": "2026-11-27T12:33:30Z",
-   "news_id": 131867065,
-   "headline": "Ero Copper Suspends Tucumã Mine Operations Following Environmental Notice",
-   "url": "https://www.marketscreener.com/news/ero-copper-suspends-northern-brazil-mine-operations-pays-fine-after-flooding-ce7851d9dc8ef022",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ERO"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:33:19Z",
-   "news_id": 131867064,
-   "headline": "Adaptive Biotechnologies Insider Sells Shares Worth Approximately $19.9 Million",
-   "url": "https://www.moomoo.com/hans/news/post/1005984486",
-   "source": "fiscal.ai",
-   "symbols": [
-    "ADPT"
-   ],
-   "signals": []
-  },
-  {
-   "t": "2026-11-27T12:33:04Z",
-   "news_id": 131867063,
-   "headline": "Bernstein Adjusts Price Target on CF Industries",
-   "url": "https://www.marketscreener.com/news/bernstein-adjusts-price-target-on-cf-industries-to-163-from-162-ce7851d9dc8ff427",
-   "source": "fiscal.ai",
-   "symbols": [
-    "CF"
-   ],
-   "signals": []
-  },
   {
    "t": "2026-11-27T12:32:57Z",
    "news_id": 131866637,
@@ -4734,6 +4705,39 @@
     "HD"
    ],
    "signals": []
+  },
+  {
+   "t": "2026-11-28T07:02:51Z",
+   "news_id": 132463238,
+   "headline": "Exel Composites Plc: Notification of Major Shareholding by Lazard Freres Gestion SAS",
+   "url": "https://www.avanza.se/hall-koll/nyheter.html?a=%2Fnyheter%2Fhushallen-haller-hardare-i-planboken-kan-bromsa-aterhamtningen-2026-11-27",
+   "source": "fiscal.ai",
+   "symbols": [
+    "EXEL"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T07:01:46Z",
+   "news_id": 132463183,
+   "headline": "Mobileye Acquires Mentee Robotics for $637 Million",
+   "url": "https://www.moomoo.com/hans/news/post/1006050768",
+   "source": "fiscal.ai",
+   "symbols": [
+    "MBLY"
+   ],
+   "signals": []
+  },
+  {
+   "t": "2026-11-28T07:01:41Z",
+   "news_id": 132463182,
+   "headline": "Goldman Sachs Maintains eToro Group Hold Rating, Lowers Price Target to $22",
+   "url": "https://www.moomoo.com/hans/news/post/1005623092/goldman-sachs-maintains-etoro-group-etorus-with-hold-rating-cuts",
+   "source": "fiscal.ai",
+   "symbols": [
+    "ETOR"
+   ],
+   "signals": []
   }
  ],
  "trades": [
@@ -4929,15 +4933,6 @@
   }
  ],
  "runs": [
-  {
-   "t": "2026-11-26T06:37:17Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
   {
    "t": "2026-11-26T06:52:18Z",
    "fetched": 0,
@@ -6728,10 +6723,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 0
+  },
+  {
+   "t": "2026-11-28T07:07:14Z",
+   "fetched": 11,
+   "news": 3,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 794
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-28T06:52:14Z",
+ "updated_at": "2026-11-28T07:07:14Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
