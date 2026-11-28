@@ -1407,6 +1407,10 @@
   {
    "t": "2026-11-28T08:07:15Z",
    "v": 100173.6
+  },
+  {
+   "t": "2026-11-28T08:22:13Z",
+   "v": 100173.59
   }
  ],
  "decisions": [
@@ -4950,15 +4954,6 @@
  ],
  "runs": [
   {
-   "t": "2026-11-26T07:52:14Z",
-   "fetched": 0,
-   "news": 0,
-   "signals": 0,
-   "orders": 0,
-   "errors": [],
-   "tokens": 0
-  },
-  {
    "t": "2026-11-26T08:07:15Z",
    "fetched": 80,
    "news": 19,
@@ -6748,10 +6743,19 @@
    "orders": 0,
    "errors": [],
    "tokens": 1593
+  },
+  {
+   "t": "2026-11-28T08:22:13Z",
+   "fetched": 0,
+   "news": 0,
+   "signals": 0,
+   "orders": 0,
+   "errors": [],
+   "tokens": 0
   }
  ],
  "starting_equity": 99751.8,
- "updated_at": "2026-11-28T08:07:15Z",
+ "updated_at": "2026-11-28T08:22:13Z",
  "market_open": false,
  "dry_run": false,
  "model": "groq · openai/gpt-oss-120b",
@@ -6764,10 +6768,10 @@
   "max_hold_days": 5.0
  },
  "account": {
-  "equity": 100173.6,
-  "cash": 49680.22,
-  "last_equity": 99492.29055690177,
-  "buying_power": 335998.84
+  "equity": 100173.59,
+  "cash": 49680.21,
+  "last_equity": 100173.58505819232,
+  "buying_power": 335998.8
  },
  "pending": 1,
  "positions": [
@@ -6852,10 +6856,10 @@
    "symbol": "TSLA",
    "crypto": false,
    "qty": 12.823418732,
-   "avg_entry_price": 387.974542,
+   "avg_entry_price": 387.974541,
    "current_price": 400.0,
    "market_value": 5129.367493,
-   "unrealized_pl": 154.207484,
+   "unrealized_pl": 154.207496,
    "unrealized_plpc": 0.031,
    "opened_at": "2026-11-27T14:37:21Z"
   },
